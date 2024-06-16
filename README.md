@@ -28,32 +28,3 @@
 ## Директория original
 
 В этой директории хранится копия оригинальных файлов игры, но с некоторыми изменениями.
-
-# EN
-
-## How to compile to the original .json game files?
-
-Use the tools from the https://github.com/savannstm/fh-termina-json-writer repository.
-
-## translation Directory
-
-This directory contains translation files with .txt extension. If you want to edit the translation - you need to edit exactly them, and then compile them using CLI binary, or compile with the GUI.
-
-### maps Directory
-
-This directory contains in-game text from Maps.json files.
-Files without \_trans prefix contain original game translation (it's better to not to mess with them), and files WITH that prefix contain translated text, which you can freely edit.
-
-### other Directory
-
-This directory contains in-game text NOT from Maps.json files.
-Files without \_trans prefix contain original game translation (it's better to not to mess with them), and files WITH that prefix contain translated text, which you can freely edit.
-
-### plugins Directory
-
-This directory contains in-game text from plugins.js file.
-Files without \_trans prefix contain original game translation (it's better to not to mess with them), and files WITH that prefix contain translated text, which you can freely edit.
-
-## original Directory
-
-This directory contains a copy of original game files, but with some changes.
