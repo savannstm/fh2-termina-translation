@@ -2,7 +2,7 @@
 
 # Как скомпилировать в оригинальные .json файлы игры?
 
-Воспользуйтесь инструментами из репозитория https://github.com/savannstm/fh-termina-json-writer.
+Воспользуйтесь инструментами из репозитория https://github.com/savannstm/rpg-maker-translation-tools.
 
 # Строение репозитория
 
