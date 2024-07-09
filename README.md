@@ -2,7 +2,7 @@
 
 # Как скомпилировать в оригинальные .json файлы игры?
 
-Воспользуйтесь инструментами из репозитория https://github.com/savannstm/rpg-maker-translation-tools.
+Воспользуйтесь CLI-инструментом из репозитория https://github.com/savannstm/rvpacker-json-txt, либо графическим интерфейсом из репозитория https://github.com/savannstm/rpgm-translation-gui.
 
 # Строение репозитория
 
