@@ -1952,7 +1952,6 @@ choice_text 2 "I got you a \c[2]Lighter\c[0]!"
 choice_text 3 "I got you a \c[2]Rust-coloured pearl\c[0]!"
 choice_text 3 "I got you a \c[2]Lighter\c[0]!"
 choice_text 4 "I got you a \c[2]Lighter\c[0]!"
-\>\i[76]\}ARINA\{\<\#"Hee hee, you notice the sarcasm in my voice?"
 \>\i[76]\}ARINA\{\<\#"Yep, yep. Thanks for the present!"
 \>\i[76]\}ARINA\{\<\#"Hmmmm..."
 \>\i[76]\}ARINA\{\<\#"Sure. Let's go."
@@ -2216,7 +2215,6 @@ Your affinity with the God of Fear and Hunger has increased.
 \>\i[76]\}ARINA\{\<\#"Oh it's little something I carved out of boredom. Leaving my mark\#on the train. Just a normal monday in the life of a vandal."
 \>\i[76]\}ARINA\{\<\#"Actually it's the perfection circle. It's used to worship certain\#older gods. It might come handy, if you know what to do with it..."
 \>\i[76]\}ARINA\{\<\#"Here, you can loan this and read more about it."
-\>\i[76]\}ARINA\{\<\#"Feeling like slitting my wrists right about now. I'm not exactly\#a fan of the Prehevilian melancholy."
 Your wheelchair is here.
 You get \c[2]Foldable wheelchair\c[0]!
 You seem to be stuck here for now...
@@ -2500,7 +2498,6 @@ You read his mind...\#\c[1]"I'm not sure if I'll live up to what these people ex
 Levi is down...
 You get a \c[2]Rifle .303 Mk I\c[0], 5 \c[2].303 Ammo\c[0] and an \c[2]Army jumpsuit\c[0].
 You took \c[2]Levi's head\c[0] as a trophy!
-Use \c[2]Devour\c[0]
 \>\i[67]\}AAN\{\<\#"This train feels like one of the very few safe havens in this \#entire city..."
 \>\i[67]\}AAN\{\<\#"I wonder how long it'll stay that way. Until something defiles it."
 \>\i[78]\}LIVIA\{\<\#"This train started to feel like a home already..."
@@ -4201,7 +4198,6 @@ Vials and bottles that seem to contain detergent and washing\#agent. They are no
 Books about varying subjects.
 A pile of books. They seem to be in bad shape. Could this\#possibly be a "throw-away pile"?
 The walls are covered with paintings. Backdrops, portraits \#and abstact pictures. Melancholy seems to be the only thing\#they have in common.
-\>\i[76]\}ARINA\{\<\#"It has always had its fair share of creeps and religious zealots,\#but this is a new high. Or new low, however you want to put it."
 17th century poetry is left here open. The language has changed\#a great deal since then and you don't bother seeing the effort\#right now.
 The reinforced door is locked tightly.
 \>\i[76]\}ARINA\{\<\#"Hey..."
@@ -5605,7 +5601,6 @@ The menu of the 'Restaurant Bílý Vůl' is laid on the wall.
 Today's special is pork chops in murky brown sauce, served\#with asparagus.
 The prices seem a bit steep...
 GabText You hear distant laughing. It sounds cold and devoid of life...
-Use \c[2]Heart flower\c[0]
 \>\i[67]\}AAN\{\<\#"The creature has a sturdy shell-like exoskeleton that seems to\#protect it from most kinds of attacks. Only piercing and otherwordly\#powers seem to penetrate the surface effectively."
 \>\i[67]\}AAN\{\<\#"The skin, or the surface layer feels like hardened leather that \#has burned to crisp. The skin gets thicker towards the head of\#the creature and which is especially well protected."
 \>\i[67]\}AAN\{\<\#"If this creature was once a human, I suspect it is at the end\#of its metamorphosis by now..."
@@ -6032,7 +6027,6 @@ You read her mind...\#\c[1]"How do I deal with this thing!?"\c[0]
 \>\i[74]\}ARIN\{\<\#"I suppose. Fine."
 \>\i[76]\}ARINA\{\<\#"Great. We got a decent party here!"
 You read her mind...\#\c[1]"That thing... It looked pretty human to me. Apart from the\#cannon-scope part of course..."\c[0]
-You devoured the remains.
 GabText The shot hits you like a hammer!
 The creature doesn't have a distinct head for the seed to grow...
 No reaction from the creature. The scope surface is hard. Your kicks\#end up hurting you more than it would hurt the thing.
@@ -6112,7 +6106,6 @@ Daan's body...
 Medicinal diagnosis
 There's nothing left.
 The meat grinder fell apart in the fight. You pick up the scrap\#pieces. You get \c[2]Saw blade\c[0] and a broken \c[2]Bench grinder\c[0].
-Medical diagnosis
 \i[325] Temple District, Church of Alll-mer\#\i[323] St. Domek's Orphanage\#\i[337] Residential Area 
 You pick up a \c[2]Golden chanterelle\c[0].
 The door is locked with a reinforced lock...
@@ -6231,7 +6224,6 @@ The body itself is weak against slashing attacks, fire and \#otherwordly powers.
 \>\i[76]\}OONSCORCHED\{\<\#"The time will come... When one of us has to die."
 \>\i[76]\}OONSCORCHED\{\<\#"There is no escaping it. I've seen many try and resist..."
 \>\i[76]\}OONSCORCHED\{\<\#"Most of those suffered a fate worse than mine."
-\>\i[67]\}AAN\{\<\#"The body itself is weak against slashing attacks, fire and \#otherwordly powers."
 Someone has nailed severed heads on the wall. Something about\#their placement suggests that they're here as a warning.
 \>\i[84]\}ERMIN\{\<\#\}"Master... There is a great treasure. We have secured it for you."\{
 \>\i[84]\}ERMIN\{\<\#\}"The crow is watching over it. Ask her."\{
@@ -7545,7 +7537,6 @@ There is a small garage here.
 \>\i[75]\}EVI\{\<\#"Not sure why we'd go there... but there it is in any case..."
 GabText The fecal hound is smacked down!
 It's not a pleasant odor. You wonder when these containers were\#last emptied?
-The man has severe burns and malformations around his body,\#especially on his face. Looks like his eyes are practically\#blinded by these.
 You could unlock the gate from this side.
 Unlock it
 The gate is locked from the other side.
@@ -7636,7 +7627,6 @@ You pick up \c[2]Olivia's head\c[0]...
 This almost seems like Olivia's lower torso...
 A severed arm...
 You pick up an \c[2]Arm\c[0]...
-This person has started to cocoon into something. There are severe\#scorchings around his body and the growth has become thick\#shell-like crust in some parts.
 'Nothing will be the same after... The Awakening' - That's what\#the poster promises at least.
 It must be a poster for a fairly new movie, or strictly local Prehevilian \#movie, because you haven't heard of it before.
 \i[337] Temple District, Church of Alll-mer\#\i[337] Shopping District, Residential Area \#\i[324] Business District
@@ -7888,7 +7878,6 @@ The hulking thing is dead now.
 \>\i[144]\}OCKETCAT\{\<\#"The tower you were heading towards... It's to the east of here.\#It's quite a hike from here, but if you continue eastward, you'll\#get to the church eventually."
 \>\i[144]\}OCKETCAT\{\<\#"Just beyond the church's hidden passage you'll find the tower."
 GabText Something big is advancing towards you...
-The head of the creature really is that of a bird... Or a seagull to\#be more precise. At first you thought it was just a mask.
 A math book on display. A couple of exams are highlighted.
 "The stone slabs excavated from the archeological site in Northern\#Rondon. The slabs depict 'The Nine Chromatic Blights' mentioned in\#'The Book of Homer'. The carvings date back approximately 20,000 B.C."
 A thick layer of fog prevents you from seeing anything in the horizon.\#You try your best to navigate forward regardless...
@@ -8005,7 +7994,6 @@ There is a wooden chest here buried under the leaves...
 \>\i[78]\}LIVIA\{\<\#"Because I have a condition you see."
 \>\i[78]\}LIVIA\{\<\#"I'm a botanist."
 \>\i[78]\}LIVIA\{\<\#"I have a condition."
-\>\i[67]\}AAN\{\<\#"Don't know what else to say..."
 The frog makes faint sounds...
 \>\i[81]\}HUD THE FROG\{\<\#\}"I'm Shud."\{
 \>\i[81]\}HUD THE FROG\{\<\#\}"You're supposed to be our new master?"\{
@@ -8338,7 +8326,6 @@ Karin looks dead. She has foam coming from her mouth...
 O'saa looks dead. He has foam coming from his mouth...
 He's dead.
 He's dead, with a flower growing on his head...
-You've laid down the seed for the flower.
 He's dead and headless.
 Levi looks dead. He has foam coming from his mouth...
 GabText You hear some people talk outside the club...
@@ -9178,7 +9165,6 @@ He's dead. He has a gaping slash wound across his chest that looks\#relatively f
 The door is stuck.
 An interesting looking statue. It reads:\#"For fertility and prosperity."
 Marcoh's body...
-A pile of flesh remains here with a \c[2]Heart flower\c[0] blooming on \#top of it.
 GabText The mastermind is shot down!
 GabText You shoot the arm of the mastermind!
 GabText The mastermind is hurt!
@@ -9418,7 +9404,6 @@ You hear voices echoing from the beheaded wizard...\#\c[7]"Let's not waste time 
 \>\i[144]\}OCKETCAT\{\<\#"Oh, friend. It has come to this?"
 \>\i[144]\}OCKETCAT\{\<\#"Remember to pace yourself out there~!"
 Pocketcat is down...
-\>\i[67]\}AAN\{\<\#"Don't know what else to say..."
 The doors are stuck but there is no keyhole or any other visible\#lock mechanism...
 There is text detailing the origin of the eastern armor...
 "A traditional body armor that was typically worn by the warrior\#class of Yansa Aryuaban. The cuirass consists individual leather\#and/or iron scales that are connected to each other with leather\#or silk lace depending on the era."
@@ -9651,7 +9636,6 @@ This room is too open. It doesn't feel safe to rest here.
 \>\i[74]\}ARIN\{\<\#"Again, we wouldn't have this shitshow if everyone from in the\#armies just went home and stopped listening to their superiors."
 \>\i[74]\}ARIN\{\<\#"What are the old men at the top gonna do!? Fight the wars \#themselves?"
 \>\i[74]\}ARIN\{\<\#*Pft* "I wish, would have few lunatics less in this world."
-\N[22] tilts his head sideways as you try to communicate\#with him...
 There are only random school related documents here.
 A timetable for the upcoming semester. Nothing too out of ordinary.\#Maybe just one or two religious lessons too many...
 An empty trash bin.
@@ -9908,7 +9892,6 @@ A pile of rotting bodies...
 Someone has dropped their bag here...
 There's nothing valuable in the bag anymore.
 You pick up a bottle of \c[2]Vodka\c[0] and 5 \c[2]Blue vials\c[0].
-The sword - if you can even call it that - on its back is a \#curious thing. It looks almost organic... Like it's alive?
 \>\i[74]\}ARIN\{\<\#"I don't know what we're expecting to find down here..."
 \>\i[76]\}ARINA\{\<\#"I never knew these caverns existed. Prehevil manages to surprise \#me all these years later."
 \>\i[64]\}BELLA\{\<\#"What is this smell? Like rotten eggs?"
@@ -9963,7 +9946,6 @@ You read his mind...\#\c[1]"My mind is sharp like a razor. My fists are ready."\
 You read his mind...\#\c[1]"Marcoh, my friend... Your death won't be in vain."\c[0]
 A giant hulking beast is sitting here... It looks to be dead.
 The hole is filled with dirty substance. You have no idea what it\#is.
-.\|.\|.\|\#The soul is too corrupted and frail to be summoned back to\#the body. The necromancy failed.
 A dirty ashtray.
 The drawers only have everyday items for hotel residents. Nothing\#catches your attention.
 The staircase has collapsed...
@@ -10784,7 +10766,6 @@ The armor on the valkyrie prevents you from biting through.
 The armor on the valkyrie prevents you from penetrating the skin.
 You took the \c[2]Valkyrie's head\c[0] as a trophy!
 Something about the tower in front of you feels wrong. Your primal\#instincts tell you to run away.
-\>\i[67]\}AAN\{\<\#"The creature has a sturdy shell-like exoskeleton that seems to\#protect it from most kinds of attacks. Only piercing and otherwordly\#powers seem to penetrate the surface effectively."
 \>\i[78]\}LIVIA\{\<\#*Gasp*
 \>\i[78]\}LIVIA\{\<\#"W-what... This is horrible!"
 \>\i[78]\}LIVIA\{\<\#"Why...?"
