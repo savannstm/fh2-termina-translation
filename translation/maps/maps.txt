@@ -251,9 +251,9 @@ Tanaka is down...
 You get 20 \c[2]Shillings\c[0], a \c[2]Lucky coin\c[0], a \c[2]Gentleman's hat\c[0] and\#\c[2]Broken eyeglasses\c[0].
 You took \c[2]Tanaka's head\c[0] as a trophy!
 You pick up \c[2]Lavender\c[0].
-\>\i[81]\}ALARYMAN\{\<\#"Good afternoon..." 
+\>\i[81]\}ALARYMAN\{\<\#"Good afternoon..."
 \>\i[81]\}ALARYMAN\{\<\#"It's Kida Tanaka. Good to make your acquaintance."
-\>\i[82]\}ANAKA\{\<\#"A nice weather for a short hike, no?" 
+\>\i[82]\}ANAKA\{\<\#"A nice weather for a short hike, no?"
 \>\i[82]\}ANAKA\{\<\#"It's really troublesome. What has come of our train trip. Especially\#when you have a big meeting scheduled at the city..."
 "Do you know which direction to go?"
 "Want to travel together?"
@@ -262,8 +262,8 @@ You pick up \c[2]Lavender\c[0].
 \>\i[82]\}ANAKA\{\<\#"...I'm afraid I will have to refuse your company."
 \>\i[82]\}ANAKA\{\<\#"I really need to hurry and I think I'll do best alone."
 \>\i[82]\}ANAKA\{\<\#"If you'd excuse me. I really need to hurry now."
-\>\i[81]\}ALARYMAN\{\<\#"Good afternoon." 
-\>\i[82]\}ANAKA\{\<\#"A nice weather isn't it" 
+\>\i[81]\}ALARYMAN\{\<\#"Good afternoon."
+\>\i[82]\}ANAKA\{\<\#"A nice weather isn't it"
 \>\i[82]\}ANAKA\{\<\#"It's really troublesome. What has come of our train trip. I'm not\#entirely certain on what to do..."
 \>\i[82]\}ANAKA\{\<\#"I have some urgent business at the city... Should I go on foot or\#wait for the train to continue?"
 "Go on foot."
@@ -512,7 +512,7 @@ You interrupt a discussion...
 \>\i[70]\}IRL WITH PIGTAILS\{\<\#"What's your name anyway?"
 \>\i[70]\}IRL WITH PIGTAILS\{\<\#"..."
 \>\i[70]\}IRL WITH PIGTAILS\{\<\#"Or just stay as a mystery person, that's completely fine too."
-\>\i[70]\}IRL WITH THE GLASSES\{\<\#"Maybe we could introduce ourselves?" 
+\>\i[70]\}IRL WITH THE GLASSES\{\<\#"Maybe we could introduce ourselves?"
 \>\i[70]\}IRL WITH THE GLASSES\{\<\#"Oh! You don't have to of course! Don't worry about it."
 \>\i[70]\}IRL WITH THE GLASSES\{\<\#"I didn't mean to be too nosy."
 \>\i[70]\}IRL WITH PIGTAILS\{\<\#"My name is Marina."
@@ -767,7 +767,7 @@ This of course is all made up. You're just too embarrassed to admit\#that you do
 \>\i[76]\}AN WITH CHECKERED PANTS\{\<\#"Sounds like a poor conspiracy theory to me."
 \>\i[76]\}AN WITH CHECKERED PANTS\{\<\#"As a journalist, I hope you do a bit more research before writing\#those thoughts down."
 "I know what Bremen is capable of. I know what I talk about."
-"How about sharing your theory instead of criticising mine?" 
+"How about sharing your theory instead of criticising mine?"
 "Is that supposed to be an insult?"
 \>\i[76]\}AN WITH CHECKERED PANTS\{\<\#"Sure thing. It takes one to know one, if I'm not mistaking your\#dialect."
 "Don't ever compare me to a Bremen pig!"
@@ -841,7 +841,7 @@ You hear voices echoing from the beheaded wizard...\#\c[7]"Enough of this nonsen
 \>\i[76]\}AN WITH CHECKERED PANTS\{\<\#"I've seen my fair share of hallucinogens as a doctor and I can\#tell from the first hand experience that there are no known chemicals\#that create visions that vivid."
 \>\i[74]\}ARIN\{\<\#"I have a job to do. Which way is it to the city?"
 \>\i[70]\}IRL WITH GLASSES\{\<\#"Before you go..."
-\>\i[70]\}IRL WITH GLASSES\{\<\#"Should we go over the dream discussion with the new girl \#too?" 
+\>\i[70]\}IRL WITH GLASSES\{\<\#"Should we go over the dream discussion with the new girl \#too?"
 "What now?"
 "Sorry I need to be going now."
 \>\i[76]\}AN WITH CHECKERED PANTS\{\<\#*Shrugs* "Do whatever you see best."
@@ -2161,7 +2161,7 @@ You read his mind...\#\c[1]"There's got to be something I can do..."\c[0]
 \>\i[76]\}ARCOH\{\<\#"Nevermind."
 \>\i[76]\}ARCOH\{\<\#"This place is just messing with my head."
 \>\i[76]\}ARCOH\{\<\#"It's nothing."
-\>\i[81]\}ALARYMAN\{\<\#"Good evening." 
+\>\i[81]\}ALARYMAN\{\<\#"Good evening."
 \>\i[82]\}ANAKA\{\<\#"We didn't get to talk before, but I'm one of the passangers of\#the train as well."
 \>\i[82]\}ANAKA\{\<\#"Good evening."
 \>\i[82]\}ANAKA\{\<\#"We are still waiting for anyone to come for the train..."
@@ -2826,7 +2826,7 @@ You don't see anything besides darkness inside...
 \>\i[65]\}EGGAR\{\<\#"Once a shitho', always a shitho'."
 \>\i[65]\}EGGAR\{\<\#"The ol' mayor O' the old town got one."
 \>\i[65]\}EGGAR\{\<\#"He meddled with them army boys."
-\>\i[65]\}EGGAR\{\<\#"Altho, I heard the mayor kicked the bucket... A new one\#got there just now. Not that we got em' elections..." 
+\>\i[65]\}EGGAR\{\<\#"Altho, I heard the mayor kicked the bucket... A new one\#got there just now. Not that we got em' elections..."
 \>\i[65]\}EGGAR\{\<\#"The other key is with the men O' Kaiser. They got some \#some business at the forest."
 \>\i[65]\}EGGAR\{\<\#"Shady business. *cough*"
 \>\i[65]\}EGGAR\{\<\#"Ay, they most certainly did."
@@ -3080,7 +3080,7 @@ Try to find honest work
 Try to become a pickpocket
 A butler of a local aristocrat took you under his wing as an \#apprentice. You started working for the Baron Eihner Von Dutch.
 You learned good manners, grew to appreciate fine arts and other \#perks that high class living brought along.
-Over time you got better acquainted with the daughter of the \#house. Her name was Elise. She would be endlessly amused by your \#childhood stories and all the madness your past cult life brought\#with it. 
+Over time you got better acquainted with the daughter of the \#house. Her name was Elise. She would be endlessly amused by your \#childhood stories and all the madness your past cult life brought\#with it.
 The baron himself learned of you upbringing as well and was \#fascinated by Sylvian and her healing properties.
 The baron used to work as a doctor and he had very different concepts \#for healing and mending wounds.
 He taught you about the modern medical practices in exchange for\#your knowledge on the older god Sylvian. To be honest, his thirst \#for otherwordly knowledge felt a little bit obsessive even.
@@ -3259,7 +3259,7 @@ You learned \c[2]Killing intent\c[0]!
 Riccardo was wary of you. He seemed to sense your killing intent \#from miles away and that's why he avoided seeing you alone to the \#best of his abilities.
 He was too cocky to consider you a serious threat though.\#As if he had you under his thumb. That proved out to be a grave \#mistake. For him.
 You were to meet Riccardo and a dozen of his henchmen at a local\#club to discuss another one of your many tasks. You had been\#waiting for an opportunity to see him alone, but that opportunity\#never presented itself. 'Fair enough' you thought.
-The moment you got to a punching distance, Riccardo had a split-\#second realization of what was happening before you knocked him \#off his feet. 
+The moment you got to a punching distance, Riccardo had a split-\#second realization of what was happening before you knocked him \#off his feet.
 The little rat tried to slither away but you grabbed him by his \#throat and kept slamming him on the floor until he stopped moving.
 In your rage you lifted him up and threw him over the railing. \#He fell from the second floor to the center of the club's dance \#floor.
 You saw him fall head first to the ground. You had succeeded in what\#you set out to do. Getting out of the club was secondary.
@@ -3338,8 +3338,8 @@ You learned \c[2]La Danse Macabre\c[0], the traditional dance of the\#yellow mag
 You learned \c[2]Hurting\c[0].
 Your path of learning and self-growth knew no end. Your travels\#brought you to a small bordertown in Eastern Sanctuaries. There you\#met a curious person. Hadil Azif, a self-proclaimed wizard from the\#far east.
 Despite his pretentious appearance, his family name 'Azif' was \#well known and even somewhat feared in certain occult circles which\#gave his claims at least some credibility.
-He was gathering a group of adventurers to accompany him on a \#perilious quest. He had inherited a map from his late grandfather \#that was supposed to lead him to the infamous dungeons of fear and \#hunger itself. 
-The place used to be a noteworthy location of pilgrimage for many \#aspiring mages and priests in the distant past. The yellow mages\#you had spent time with previously told ominous tales about the\#dungeons as well. 
+He was gathering a group of adventurers to accompany him on a \#perilious quest. He had inherited a map from his late grandfather \#that was supposed to lead him to the infamous dungeons of fear and \#hunger itself.
+The place used to be a noteworthy location of pilgrimage for many \#aspiring mages and priests in the distant past. The yellow mages\#you had spent time with previously told ominous tales about the\#dungeons as well.
 Initially you dismissed Azif's talks only to be haunted by the most \#brutal nightmares on the following night. Something was calling for\#you. You had to witness the place yourself.
 You joined the motley crew of adventurers Azif had managed to put\#together and travelled through war-torn Europa. Most of the crew \#quit half-way to Rondon because of how difficult it was to cross \#borders during those chaotic times.
 The closer to the destination you got, more feverish your dreams\#became. The remaining members of your ragtag fellowship were\#visibly sick from stress and otherwordly pressure that had befallen\#on you the moment you set out on your quest.
@@ -3585,7 +3585,7 @@ A cold draft could be felt coming from the depths below...
 You headed down.
 Most of the bodies had been decaying and decomposing for hundreds\#of years. Some bodies looked fresher than the others, while some\#were reduced to bare skeletons.
 The ludicrous amount of corpses did raise questions about the\#purpose of this chamber, but there was no one around to answer\#those questions anymore so you just took everything at face \#value.
-A giant underground ravine opened up before you. Even your torch\#couldn't properly light up the area. There were iron grid \#platforms suspended above a seemingly bottomless chasm. 
+A giant underground ravine opened up before you. Even your torch\#couldn't properly light up the area. There were iron grid \#platforms suspended above a seemingly bottomless chasm.
 The platforms were mounted on cavern walls and linked together \#with a shaky looking bridge. The side you were on had a few \#individual prison cells in a row. What awaited on the other side\#of the bridge was shrouded in darkness.
 Return to the upper floor chamber
 Check the prison cells
@@ -3856,7 +3856,7 @@ You learned \c[2]Undergrowth awareness\c[0]!
 While occupying yourself with the world of botanism, your sister\#would often quietly join your reading sessions burying herself \#into her own books.
 Despite your differences, these reading sessions really created a\#strong bond between the two of you.
 During your highschool years a disaster struck. You suffered \#multiple small strokes in a short period of time and was left \#bedridden. Naturally you were terrified by what could have been \#causing this.
-Your parents first turned to religious healers for aid, but\#nothing seemed to work. Your sister tried to persuade them to seek\#out modern doctors, but your parents were slow to react to her\#pleads. 
+Your parents first turned to religious healers for aid, but\#nothing seemed to work. Your sister tried to persuade them to seek\#out modern doctors, but your parents were slow to react to her\#pleads.
 After getting no results your parents finally gave in, but it was\#too late at that point. The diagnosis was that you had an abnormality \#of the spinal cord that affected the blood flow and its supply.
 You underwent a long operation in hopes of fixing the issue, but\#unfortunately things didn't go well and you were bound for\#wheelchair for the unseeable future. If something had been done\#sooner, maybe things could've been different...
 What followed was an intense period during which you tried many \#different medical treatments, all for nothing. There was no\#escaping the wheelchair. Your legs did have some minor function,\#but they were left far too weak to carry your weight properly.
@@ -3881,7 +3881,7 @@ Either way, you didn't think too much about it. It wasn't all bad\#anyway as you
 Your student life continued smoothly, you were constantly ranked \#top of your class and the nature seemed to lift its veil of secrets \#the further you got in your studies.
 Your sister did even better at school. Apparently she was practically\#a genius in her field. She took part in a special student exchange\#program between the Bremen Empire and the Eastern Union.
 She would get to see the world, while you were stuck on your \#laurels. Nothing new there you pondered.
-In any case, the time had come for you to choose where you would \#specialize in your botanical studies. 
+In any case, the time had come for you to choose where you would \#specialize in your botanical studies.
 Specialize in folkloristic side of botanism
 Specialize in toxicology
 You get the \c[2]Skin bible - Vinushka\c[0]!
@@ -5924,7 +5924,7 @@ You read his mind...\#\c[1]"Caligura, huh? There are some pretty bad rumours abo
 \>\i[74]\}ARIN\{\<\#"Sure. It never is."
 \>\i[74]\}ARIN\{\<\#"What exactly does this look like then?"
 "I didn't kill him if that's what you think."
-"Uh... He was... like this..." 
+"Uh... He was... like this..."
 "I don't appreciate your interrogations."
 \>\i[74]\}ARIN\{\<\#"Hey you're the one talking anything about killing!"
 \>\i[74]\}ARIN\{\<\#"I'm supposed to be convinced by that?"
@@ -6106,7 +6106,7 @@ Daan's body...
 Medicinal diagnosis
 There's nothing left.
 The meat grinder fell apart in the fight. You pick up the scrap\#pieces. You get \c[2]Saw blade\c[0] and a broken \c[2]Bench grinder\c[0].
-\i[325] Temple District, Church of Alll-mer\#\i[323] St. Domek's Orphanage\#\i[337] Residential Area 
+\i[325] Temple District, Church of Alll-mer\#\i[323] St. Domek's Orphanage\#\i[337] Residential Area
 You pick up a \c[2]Golden chanterelle\c[0].
 The door is locked with a reinforced lock...
 You could use the \c[2]Sewer keys\c[0] here?
@@ -6745,7 +6745,7 @@ GabText The boarded walls only emphasize the claustrophobia.
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"It's not a coincidence that we both ended up in Prehevil!"
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"You had to see me walk away, before you could understand what\#you'd miss!"
 \>\i[76]\}ARINA\{\<\#"I came to Prehevil because of my parents. I got a letter from\#my father..."
-\>\i[76]\}ARINA\{\<\#"..." 
+\>\i[76]\}ARINA\{\<\#"..."
 \>\i[76]\}ARINA\{\<\#"Of course, you knew that somehow, right?"
 \>\i[76]\}ARINA\{\<\#"You killed my father."
 \>\i[76]\}ARINA\{\<\#"I've never seen you in my life, but somehow you seem to know me."
@@ -7647,7 +7647,7 @@ Ignore her
 "It's a deal."
 "No thanks."
 \>\i[69]\}ORTUNE TELLER\{\<\#"Now let's see..."
-\>\i[69]\}ORTUNE TELLER\{\<\#*Cough* *Cough* 
+\>\i[69]\}ORTUNE TELLER\{\<\#*Cough* *Cough*
 \>\i[69]\}ORTUNE TELLER\{\<\#".\..\..\..\..\..\.."
 \>\i[69]\}ORTUNE TELLER\{\<\#"Hope ye got yer shilling's worth."
 \>\i[69]\}ORTUNE TELLER\{\<\#"It works both ways. No fortune for the poor and penniless."
@@ -7741,7 +7741,7 @@ You read his mind...\#\c[1]"The journal... Not good."\c[0]
 \>\i[74]\}ARIN\{\<\#"How do you explain this shit!?"
 You read his mind...\#\c[1]"That's a good question... How do I explain this?"\c[0]
 \>\i[74]\}ARIN\{\<\#"My patience is running out."
-\>\i[74]\}ARIN\{\<\#"It's the last day of this god-forsaken event. I don't have time for \#this!" 
+\>\i[74]\}ARIN\{\<\#"It's the last day of this god-forsaken event. I don't have time for \#this!"
 \>\i[74]\}ARIN\{\<\#"Start talking! You know what is going on here. Talk!"
 You read his mind...\#\c[1]"I suppose these people deserve an explanation..."\c[0]
 You read his mind...\#\c[1]"But first, I need to disarm this lass."\c[0]
@@ -7750,8 +7750,8 @@ You read his mind...\#\c[1]"But first, I need to disarm this lass."\c[0]
 \>\i[74]\}ARIN\{\<\#"Like hell I will!"
 Karin is looking really tense and focused on August.
 "Karin, lower the gun..."
-\>\i[74]\}ARIN\{\<\#"Just trust me on this one--"\.\.\\#
-\>\i[74]\}ARIN\{\<\#"Whose side are you o--"\.\.\\#
+\>\i[74]\}ARIN\{\<\#"Just trust me on this one--"\.\.\^
+\>\i[74]\}ARIN\{\<\#"Whose side are you o--"\.\.\^
 \>\i[64]\}UGUST\{\<\#"I am sorry for this child..."
 \>\i[64]\}UGUST\{\<\#"But like you said, it is the third and final day. We all are running\#out of time."
 \>\i[64]\}UGUST\{\<\#"You over there."
@@ -7788,7 +7788,7 @@ You read her mind...\#\c[1]"What's with the silence? That's worse than being mad
 \>\i[74]\}ARIN\{\<\#"You see that man?\. I've been looking out for him since we got here."
 \>\i[74]\}ARIN\{\<\#"There is something very suspicious about that bastard. I'm convinced \#that he knows more than he leads you to believe!"
 GabText You hear gunshots coming from north.
-\i[325] Temple District, Church of Alll-mer\#\i[326] Business District\#\i[322] St. Domek's Orphanage\#\i[324] Residential Area 
+\i[325] Temple District, Church of Alll-mer\#\i[326] Business District\#\i[322] St. Domek's Orphanage\#\i[324] Residential Area
 The wooden chest has been tightly chained up.
 GabText The air lingers slowly in this part of the city...
 \>\i[67]\}AAN\{\<\#"This guy is in a top human form clearly. Under his garbs is a\#muscular body full of scars. Some of the scars look like old\#burns and some look like old rash of some kind."
@@ -8151,7 +8151,7 @@ You read his mind...\#\c[1]"I... I don't have anything to offer to them..."\c[0]
 \>\i[75]\}EVI\{\<\#"I've been doing something else all my life..."
 \>\i[75]\}EVI\{\<\#"I've already chosen my tracks. It's too late to start anew..."
 "It's never too late."
-"Yes... The virtuosos usually start very young." 
+"Yes... The virtuosos usually start very young."
 "How old are you even?"
 \>\i[75]\}EVI\{\<\#"Don't know about that. My skills don't really compliment something\#as delicate as playing piano..."
 \>\i[75]\}EVI\{\<\#"Right. The only thing I started very young..."
@@ -8211,7 +8211,7 @@ Abella looks dead. She has foam coming from her mouth...
 \>\i[67]\}AAN\{\<\#"You guys seem to have it under control. Besides I can't just leave \#this bar without supervision, now can I?"
 \>\i[67]\}AAN\{\<\#"Here you go!"
 \>\i[67]\}AAN\{\<\#"Here you go! A glass of milk!"
-A glass of Old Vinland whiskey. Even before sipping from the finely decorated\#glass, the aroma of the old wooden barrels that 
+A glass of Old Vinland whiskey. Even before sipping from the finely decorated\#glass, the aroma of the old wooden barrels that
 An old-fashioned.
 A dry martini.
 A cosmopolitan.
@@ -8262,8 +8262,8 @@ You drink the milk. It's...\. well, it's just milk. \#It doesn't exactly inspire
 Levi wandered off to the back of the club.
 O'saa wandered off and took a seat in the club.
 "How are things here?"
-\>\i[78]\}LIVIA\{\<\#"The club is nice... I'm not too used to clubs and city life in\#general but I've always wanted to experience a place like this." 
-\>\i[78]\}LIVIA\{\<\#"If only it was full of people and full of hussle..." 
+\>\i[78]\}LIVIA\{\<\#"The club is nice... I'm not too used to clubs and city life in\#general but I've always wanted to experience a place like this."
+\>\i[78]\}LIVIA\{\<\#"If only it was full of people and full of hussle..."
 \>\i[78]\}LIVIA\{\<\#"I guess I'll only have to imagine it for now..."
 "When we get out of here, I'll take you to a club."
 "Clubs are overrated anyways."
@@ -8934,7 +8934,7 @@ You read her mind...\#\c[1]"I can't believe... Am I really feeling sorry for tha
 "...Yes..."
 \>\i[76]\}ARINA\{\<\#"??"
 \>\i[76]\}ARINA\{\<\#"You're a man of mysteries alright..."
-The smell of mold and traces of the flowery perfume the nuns used... 
+The smell of mold and traces of the flowery perfume the nuns used...
 It's enough to get your stomach churning.
 You never questioned it before, but how come some of the nuns used\#that perfume in the first place?
 You don't know whether you should feel angry or sad remembering your\#father...
@@ -9069,7 +9069,7 @@ Levi is observing the sewer waters very keenly.
 \>\i[78]\}'SAA\{\<\#"I have nothing to say about this place. Absolutely nothing."
 \>\i[78]\}'SAA\{\<\#"Let's just move on. Now."
 \>\i[76]\}ARCOH\{\<\#"Oh? I think I just saw a mouse... or a rat?"
-\>\i[76]\}ARCOH\{\<\#"That's cute--"\.\.\.\. \\#
+\>\i[76]\}ARCOH\{\<\#"That's cute--"\.\.\.\. \^
 \>\i[76]\}ARCOH\{\<\#"Erm - That's, that's... quite something."
 He is long gone... There are multiple pecking wound across his\#body.
 He is long gone... Someone or something has decapitated him.
@@ -9667,7 +9667,7 @@ He has been hanged...
 \>\i[78]\}LIVIA\{\<\#"God I hope not..."
 \>\i[67]\}AAN\{\<\#"I was relieved to get some fresh air... But..."
 \>\i[67]\}AAN\{\<\#"The gallows kind of ruin the moment of respite..."
-Marcoh is lost in his thoughts while looking intensely at the\#gallows. 
+Marcoh is lost in his thoughts while looking intensely at the\#gallows.
 You read his mind...\#\c[1]"Something always comes to remind me of what I've done. There's \#no escaping it, is there?"\c[0]
 \>\i[67]\}AAN\{\<\#"Don't look too intesely, just so you don't get any ideas."
 \>\i[76]\}ARCOH\{\<\#"Huh, what?"
@@ -9828,15 +9828,15 @@ You recognize the voice. It's Tanaka, tha salaryman from the \#train.
 \>\i[82]\}ANAKA\{\<\#"Wait for a minute. I'll figure out something!"
 You hear someone else approach the well.
 \>\i[82]\}ANAKA\{\<\#"Oh!"
-\>\i[82]\}ANAKA\{\<\#"You startled me mister... I really need some help, you see there\#is someon--"\.\.\.\\#
+\>\i[82]\}ANAKA\{\<\#"You startled me mister... I really need some help, you see there\#is someon--"\.\.\.\^
 \>\i[82]\}ANAKA\{\<\#"Was it just my imagination...?"
-\>\i[82]\}ANAKA\{\<\#"You startled me mister... I thought I heard someth--"\.\.\.\\#
+\>\i[82]\}ANAKA\{\<\#"You startled me mister... I thought I heard someth--"\.\.\.\^
 \>\i[81]\}ALARYMAN\{\<\#"Oh my... Let's see..."
 \>\i[81]\}ALARYMAN\{\<\#"Wait for a minute. I'll figure out something!"
 \>\i[81]\}ALARYMAN\{\<\#"Oh!"
-\>\i[81]\}ALARYMAN\{\<\#"You startled me mister... I really need some help, you see there\#is someon--"\.\.\.\\#
+\>\i[81]\}ALARYMAN\{\<\#"You startled me mister... I really need some help, you see there\#is someon--"\.\.\.\^
 \>\i[81]\}ALARYMAN\{\<\#"Was it just my imagination...?"
-\>\i[81]\}ALARYMAN\{\<\#"You startled me mister... I thought I heard someth--"\.\.\.\\#
+\>\i[81]\}ALARYMAN\{\<\#"You startled me mister... I thought I heard someth--"\.\.\.\^
 \>\i[74]\}ARIN\{\<\#"What's the idea now? Why the hell did we jump down here!?"
 Marcoh has quiet determination in his voice. For some reason you\#believe what he's saying.
 GabText It's cold down here...
@@ -10027,7 +10027,7 @@ Attack it
 "What's a 'ratkin'?"
 \>\i[80]\}ATKIN\{\<\#"Y-you are looking at one smartass."
 \>\i[80]\}ATKIN\{\<\#"Y-you human folk aren't so smart after all."
-\>\i[80]\}ATKIN\{\<\#"T-this is our domain. You got the surface, why do you need the\#underground too?" 
+\>\i[80]\}ATKIN\{\<\#"T-this is our domain. You got the surface, why do you need the\#underground too?"
 \>\i[80]\}ATKIN\{\<\#"Y-you h-humans destroy everything you touch."
 \>\i[80]\}ATKIN\{\<\#"The scum of earth."
 No reaction, but the torso of the rat hag sinks deeper to the rags\#with each kick.
@@ -10270,7 +10270,7 @@ GabText A smell that is a mix of dirt, blood and feces fills the air.
 \>\i[76]\}OONSCORCHED\{\<\#"You end up killing each other anyway."
 \>\i[76]\}OONSCORCHED\{\<\#"I'm one of the lucky ones, I still got my rugged-good looks."
 \>\i[76]\}OONSCORCHED\{\<\#"Some of my friends got real twisted and nasty."
-\>\i[76]\}OONSCORCHED\{\<\#"Don't be stupid. You've seen the dream too." 
+\>\i[76]\}OONSCORCHED\{\<\#"Don't be stupid. You've seen the dream too."
 \>\i[76]\}OONSCORCHED\{\<\#"It's the moon."
 \>\i[76]\}OONSCORCHED\{\<\#"The moonlight changes you man."
 \>\i[74]\}ARIN\{\<\#"Is someone living down here...?"
@@ -10792,7 +10792,7 @@ Marina looks devastated.
 \>\i[75]\}EVI\{\<\#"The temple site... This used to be where parades and speeches took\#place..."
 \>\i[75]\}EVI\{\<\#"Obviously it didn't use to be like this..."
 Osaa's body...
-\i[337] Church of Alll-mer\#\i[326] Shopping District, Business District, \#\i[326] St. Domek's Orphanage, Residential Area 
+\i[337] Church of Alll-mer\#\i[326] Shopping District, Business District, \#\i[326] St. Domek's Orphanage, Residential Area
 GabText A cold wind sweeps the barren island...
 Step on board and return to the mainland
 GabText Something seems to be approaching...
@@ -10900,7 +10900,7 @@ Marina is just quietly looking at the burnt house and the corpses \#near it.
 \>\i[76]\}ARCOH\{\<\#"Lets remember these days later in our lives when we feel something\#troubling us. We made it through. Everything will be a cakewalk in\#comparison."
 Random scribblings fill the notebook...
 "We might not reach the paradise today, not in ten years, maybe\#not even in our lifetime..."
-"But know that we are laying down the foundation. The roots that\#will grow and bring the mankind to the promised land..." 
+"But know that we are laying down the foundation. The roots that\#will grow and bring the mankind to the promised land..."
 "Take great pride in knowing this."
 There are random dates on a spreadsheet. It doesn't look important\#to you at this very moment.
 There are just random documents inside. Nothing catches your\#interest.
@@ -10924,7 +10924,7 @@ O'saa pulled the arrow from his shoulder.
 \>\i[78]\}'SAA\{\<\#"There. Like I said, it's nothing."
 \>\i[74]\}ARIN\{\<\#"Do you smell it? It's the smell of a scoop!"
 \>\i[74]\}ARIN\{\<\#"Now let's find out just what that rotten Bremen army was doing \#here!"
-\>\i[64]\}BELLA\{\<\#"These bunkers got me both absolutely terrified and super curious." 
+\>\i[64]\}BELLA\{\<\#"These bunkers got me both absolutely terrified and super curious."
 \>\i[64]\}BELLA\{\<\#"I think the curious side wins."
 \>\i[64]\}BELLA\{\<\#"It's not like curiosity ever killed a cat, ay?"
 \>\i[78]\}LIVIA\{\<\#"M-maybe it's best if I just stay up here? I mean it's probably \#for the better that I don't go down, right?"
@@ -11596,7 +11596,7 @@ You hear voices echoing from the beheaded wizard...\#\c[7]"You will obviously ha
 \>\i[64]\}UGUST\{\<\#"That kind of strength is not easy to come by. So he did anything \#and everything it took to get that kind of power."
 \>\i[64]\}UGUST\{\<\#"Without the grand 'ends' he visioned, he only came to be known from \#his 'means'."
 "Doesn't sound like a learning type."
-\#Darkness surrounds you from all directions.\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\.\\#
+\#Darkness surrounds you from all directions.\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\.\^
 The masked army officer gives you a flirtatious smile and seductively\#waves you to follow her...
 GabText Something big is advancing from the darkness...
 Electric panels. You don't really know what they are here for...
@@ -11636,7 +11636,7 @@ GabText You hear a gunshot...
 \>\i[67]\}AAN\{\<\#"I should've packed a proper jacket with me."
 \>\i[78]\}LIVIA\{\<\#"Imagine if you couldn't feel any pain associated with drowning, \.and\#your suffocation reflexes wouldn't kick in...\. It would be so peaceful\#to just sink to the bottom of this lake..."
 \>\i[78]\}LIVIA\{\<\#"Watch up to the surface and see the waves play with the dimming \#daylight..."
-\>\i[78]\}LIVIA\{\<\#"Uh,\. nevermind. That sounded worse than how I intended." 
+\>\i[78]\}LIVIA\{\<\#"Uh,\. nevermind. That sounded worse than how I intended."
 \>\i[78]\}LIVIA\{\<\#"I hope I'm not too much trouble with this wheelchair and everything? \#You'd say if I became a burden, right?"
 \>\i[75]\}EVI\{\<\#"I haven't been to this shore since I was baptised in the water..."
 \>\i[75]\}EVI\{\<\#"Not that I'd remember that, but yeah..."
@@ -11959,7 +11959,7 @@ There is no power to use the elevator, but there are ropes \#hanging in the shaf
 \>\i[67]\}AAN\{\<\#"What is this thing doing in the caverns in the first place?"
 The shelf has various different diagrams and schematics piled on\#top of each other. None of them seem interesting to you at this \#very moment.
 There are random documents laid down on the table.
-\>\i[82]\}ANAKA\{\<\#"Good afternoon..." 
+\>\i[82]\}ANAKA\{\<\#"Good afternoon..."
 \>\i[82]\}ANAKA\{\<\#"It's Kida Tanaka. Good to make your acquaintance."
 \>\i[82]\}ANAKA\{\<\#"THEN I SWALLOW YOU WHOLE!"
 There's nothing interesting left here anymore.
