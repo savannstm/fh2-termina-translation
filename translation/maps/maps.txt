@@ -6745,7 +6745,6 @@ GabText The boarded walls only emphasize the claustrophobia.
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"It's not a coincidence that we both ended up in Prehevil!"
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"You had to see me walk away, before you could understand what\#you'd miss!"
 \>\i[76]\}ARINA\{\<\#"I came to Prehevil because of my parents. I got a letter from\#my father..."
-\>\i[76]\}ARINA\{\<\#"..."
 \>\i[76]\}ARINA\{\<\#"Of course, you knew that somehow, right?"
 \>\i[76]\}ARINA\{\<\#"You killed my father."
 \>\i[76]\}ARINA\{\<\#"I've never seen you in my life, but somehow you seem to know me."

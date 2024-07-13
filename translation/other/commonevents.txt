@@ -699,7 +699,7 @@ GabText \N[1] lost his another arm too!
 GabText \N[1] lost his left leg! It's bleeding heavily!
 GabText \N[1] lost his another leg too!
 \N[1] cannot hold \c[2]Longinus\c[0] with just one arm!
-The cold pistol grip feels familiar in your hands. You didn't\#think you'd be grasping to one so soon after leaving the frontlines. 
+The cold pistol grip feels familiar in your hands. You didn't\#think you'd be grasping to one so soon after leaving the frontlines.
 You check the functionality of the rifle without even thinking\#about it. Your old habits are kicking in. The rifle creates\#a familiar feeling of safety.
 You check the functionality of the trenchgun without even \#thinking about it. Your old habits are kicking in. The gun\#creates a familiar feeling of safety.
 GabText \N[1] is tied up!
@@ -1403,7 +1403,7 @@ You hear voices echoing from the beheaded wizard...\#\c[7]"Although I wouldn't u
 \>\i[144]\}ER'KELE\{\<\#"They are not there to help you, to harm you or to be worshipped by\#you. They just exist in the greater scheme of things."
 \>\i[144]\}ER'KELE\{\<\#"Just as a sailor harnesses the power of wind, one can harness the\#power of these forces to our own benefit."
 "So you mean to say there are no such things as gods?"
-\>\i[144]\}ER'KELE\{\<\#"I am a servant of the moon god as I cannot control him and 
+\>\i[144]\}ER'KELE\{\<\#"I am a servant of the moon god as I cannot control him and
 \>\i[144]\}ER'KELE\{\<\#"I never said that."
 \>\i[144]\}ER'KELE\{\<\#"There are plenty of deities that could fall under that category."
 \>\i[144]\}ER'KELE\{\<\#"Even you've probably heard of some."
@@ -1529,7 +1529,7 @@ You got the \c[2]Skin bible - Chapter of God of Fear and Hunger\c[0]!
 "Over the past week or so, since the full moon, people all over\#Prehevil and its neighbouring settlements see this face in their\#dreams, every night."
 "If you are one of them, or if you have any information that can\#help us identify this person, please contact us."
 The flyer tells to contact 'us', but there's no contact information\#to be found from the flyer.
-"Furniture moving without a reason, flickering lights, a television \#set turning on, all on its own. These are usually the first signs \#of a shadow presence or a spirit trying to contact you from the \#otherside." 
+"Furniture moving without a reason, flickering lights, a television \#set turning on, all on its own. These are usually the first signs \#of a shadow presence or a spirit trying to contact you from the \#otherside."
 "There is no need to be scared about this. Spirits vary and there\#are as many types as there are personality types among the living.\#Some are kind, some are hostile."
 "You can confirm a spirit presence using the talking board. \#Asking a simple opening question like 'Is anyone out there?' or \#'Can you hear me?' opens up a connection between you two."
 "If a spirit wants to communicate with you, you will get a\#very clear physical confirmation of this with the planchette \#(the heart-shaped indicator) moving on its own."

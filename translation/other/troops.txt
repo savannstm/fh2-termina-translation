@@ -776,7 +776,7 @@ GabText A striking stench follows the hound as it approaches you...
 GabText You are starting to feel severe nausea because of the foul stench.
 The creature has no heads or mouths to speak to. It doesn't seem \#to react to speech in any way.
 The heads of the sew job are confronting you.
-\>\i[71]\}EAD OF THE SEW JOB\{\<\#"You ugly! What'd ya want!?" 
+\>\i[71]\}EAD OF THE SEW JOB\{\<\#"You ugly! What'd ya want!?"
 choice_text 2 \}[PERSUADE]\{ "I apologize. Can we make amends?"
 choice_text 3 \}[INTIMIDATE]\{ "More faces for me to step over."
 "What are you?"
