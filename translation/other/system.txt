@@ -56,13 +56,6 @@ BGS Volume
 Command Remember
 %1 counterattacked!
 %1 was defeated.
-%1 took %2 damage!
-%1 was drained of %2 %3!
-%1 gained %2 %3!
-%1 lost %2 %3!
-%1 took no damage!
-Miss! %1 took no damage!
-%1 recovered %2 %3!
 However, it was unable to escape!
 %1 tries to escape...
 %1 evaded the attack!
@@ -81,3 +74,4 @@ SE Volume
 %1 was surprised!
 %1 uses %2!
 %1 was victorious!
+Fear & Hunger 2: TERMINA
