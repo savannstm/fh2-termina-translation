@@ -1,6 +1,4 @@
 /output
 /img
-/backups
-/replacement-log.json
-/matches*
 /*.zip
+/.rpgm-translation-gui
