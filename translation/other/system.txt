@@ -8,7 +8,6 @@ Empty
 Skills
 Level
 Lv
-Body
 Mind
 Hunger
 Fight
@@ -20,13 +19,12 @@ Equip
 Formation
 Save
 Options
-Weapon
 Armor
 Books
 Optimize
 Clear
 New Game
- Continue
+Continue
 To Title
 Cancel
 Buy

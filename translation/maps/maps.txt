@@ -8,7 +8,8 @@ The body has nothing of value. Seems like he's been scavenged\#thoroughly alread
 You don't have enough sanity to perform this rite.
 The ghoul manages to stand up. Now name your new possession.
 \N[16] seems blissfully ignorant about the pain and suffering\#it has gone through.
-\#Caution! This game contains scenes of extreme \#violence  and gore. The game also covers themes of \#sexual violence, drug usage and child abuse.
+Shamelessly it scratches its groin area.
+Caution! This game contains scenes of extreme \#violence  and gore. The game also covers themes of \#sexual violence, drug usage and child abuse.
 Continue
 Quit
 Thank you for showing interest anyway!
@@ -159,7 +160,6 @@ You finish your dinner. It was surprisingly tasty.
 "Served its purpose."
 "Didn't entirely hate it."
 "Why did you make me taste that!?"
-"..."
 \>\i[68]\}ENRYK\{\<\#"Good, good."
 Henryk looks seemingly happy with a stupid grin and all.
 \>\i[68]\}ENRYK\{\<\#"I guess I couldn've tweaked the spice mix a bit... Glad you found\#it passable though."
@@ -1416,6 +1416,12 @@ The hay has been left at the mercies of the weather for way\#too long. It's all 
 These are your legs.
 Pick them up
 You got pick up 2 \c[2]Legs\c[0].
+Zoophobia
+Phasmophobia
+Rhabdophobia
+Teratophobia
+Erotophobia
+Panophobia
 A terrible stench oozes from the fridge.
 The bed looks to be in a bad shape and very uncomfortable...
 Faint footsteps disturb your sleep...
@@ -2531,7 +2537,7 @@ Black Kalev is chewing on a turft of weed. He seems completely \#oblivious of yo
 The girl is cautiously looking at you behind her bangs.
 \>\i[81]\}AMARIE\{\<\#"..."
 Samarie is cautiously looking at you behind her bangs.
-\>\i[65]\}LACK-HAIRED GIRL\{\<\#"Um. \n[3]..."
+\>\i[65]\}LACK-HAIRED GIRL\{\<\#"Um. \N[3]..."
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"Um. Excuse me..."
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"Hi."
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"I... I need to explain some things..."
@@ -2547,14 +2553,14 @@ Samarie is cautiously looking at you behind her bangs.
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"You probably think I'm crazy..."
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"B-but I really didn't mean this to happen..."
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"But I really didn't mean this to happen..."
-\>\i[65]\}LACK-HAIRED GIRL\{\<\#"\n[3]... You have to believe... That's all I hope..."
+\>\i[65]\}LACK-HAIRED GIRL\{\<\#"\N[3]... You have to believe... That's all I hope..."
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"Please..."
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"Just don't think I'm a monster... That's all."
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"I hope you don't think I'm a monster... That's all."
 You read her mind...\#\c[1]"..."\c[0]
 You read her mind...\#\c[1]"He thinks I'm a monster. I knew it!"\c[0]
 You read her mind...\#\c[1]"She thinks I'm a monster. I knew it!"\c[0]
-\>\i[81]\}AMARIE\{\<\#"Um. \n[3]..."
+\>\i[81]\}AMARIE\{\<\#"Um. \N[3]..."
 \>\i[81]\}AMARIE\{\<\#"Umm... Excuse me..."
 \>\i[81]\}AMARIE\{\<\#"Hi."
 \>\i[81]\}AMARIE\{\<\#"I... I need to explain some things..."
@@ -2568,12 +2574,12 @@ You read her mind...\#\c[1]"She thinks I'm a monster. I knew it!"\c[0]
 \>\i[81]\}AMARIE\{\<\#"I couldn't... I just couldn't..."
 \>\i[81]\}AMARIE\{\<\#"You probably think I'm crazy..."
 \>\i[81]\}AMARIE\{\<\#"B-but I really didn't mean this to happen..."
-\>\i[81]\}AMARIE\{\<\#"\n[3]... You have to believe... That's all I hope..."
+\>\i[81]\}AMARIE\{\<\#"\N[3]... You have to believe... That's all I hope..."
 \>\i[81]\}AMARIE\{\<\#"Please..."
 \>\i[81]\}AMARIE\{\<\#"Just don't think I'm a monster... That's all."
 \>\i[81]\}AMARIE\{\<\#"I hope you don't think I'm a monster... That's all."
-\>\i[81]\}AMARIE\{\<\#"\n[3]... I hope you're doing well."
-\>\i[65]\}LACK-HAIRED GIRL\{\<\#"\n[3]... You really don't remember me...?"
+\>\i[81]\}AMARIE\{\<\#"\N[3]... I hope you're doing well."
+\>\i[65]\}LACK-HAIRED GIRL\{\<\#"\N[3]... You really don't remember me...?"
 \>\i[81]\}AMARIE\{\<\#"Samarie... That is my name."
 \>\i[81]\}AMARIE\{\<\#"You really don't remember me...?"
 \>\i[81]\}AMARIE\{\<\#"I'm from Vatican, just like you."
@@ -2598,11 +2604,11 @@ Supposedly a select group of children who were considered naturally \#gifted at 
 \>\i[81]\}AMARIE\{\<\#"It exists. The ninth floor of Fiend Petr's Basilica."
 \>\i[81]\}AMARIE\{\<\#"I-I wouldn't say that... You make it sound wrong somehow..."
 \>\i[81]\}AMARIE\{\<\#"Ka..."
-\>\i[81]\}AMARIE\{\<\#"But \n[3]...\. You wanted this... right? I've seen your thoughts... \#About your father..."
+\>\i[81]\}AMARIE\{\<\#"But \N[3]...\. You wanted this... right? I've seen your thoughts... \#About your father..."
 \>\i[81]\}AMARIE\{\<\#"I did it for you.\. I don't mind if something happens to me. My\#body is deteriorating fast because of what they did to me. I don't\#have long to live."
 \>\i[81]\}AMARIE\{\<\#"This is the only thing I could do for you. It is my gift for you."
 \>\i[81]\}AMARIE\{\<\#"I want my remaining life to have meaning. You are my meaning."
-\>\i[81]\}AMARIE\{\<\#"I don't care how it sounds.\. I love you \n[3]."
+\>\i[81]\}AMARIE\{\<\#"I don't care how it sounds.\. I love you \N[3]."
 "Don't throw around such strong words."
 "You don't even know me..."
 "You're creeping me out..."
@@ -2612,8 +2618,8 @@ Supposedly a select group of children who were considered naturally \#gifted at 
 \>\i[81]\}AMARIE\{\<\#"But I do!"
 \>\i[81]\}AMARIE\{\<\#"I feel like I've known you always! We share a bond!"
 \>\i[81]\}AMARIE\{\<\#"Don't be... I don't want you to be scared of me..."
-\>\i[81]\}AMARIE\{\<\#"\n[3]... You don't need to fear me...\. Please..."
-\>\i[81]\}AMARIE\{\<\#"B-but \n[3]!"
+\>\i[81]\}AMARIE\{\<\#"\N[3]... You don't need to fear me...\. Please..."
+\>\i[81]\}AMARIE\{\<\#"B-but \N[3]!"
 \>\i[81]\}AMARIE\{\<\#"Ok."
 \>\i[81]\}AMARIE\{\<\#"Love you."
 \>\i[81]\}AMARIE\{\<\#"Samarie."
@@ -2634,17 +2640,10 @@ The black-haired girl nods.
 \>\i[81]\}AMARIE\{\<\#"Your mind doesn't deteriorate here. Did you notice that?"
 \>\i[81]\}AMARIE\{\<\#"It might be smart to stay at the train for a while."
 \>\i[81]\}AMARIE\{\<\#"...."
-"....."
-"......"
-"......."
 \>\i[81]\}AMARIE\{\<\#"......"
-"........"
 \>\i[81]\}AMARIE\{\<\#".\..\..\..\..\..\..\..\..\..\.."
 \>\i[81]\}AMARIE\{\<\#"......."
-"........."
-".........."
 \>\i[81]\}AMARIE\{\<\#"........"
-"..........."
 \>\i[81]\}AMARIE\{\<\#*Pffft*
 \>\i[81]\}AMARIE\{\<\#"You didn't ask me anything."
 \>\i[81]\}AMARIE\{\<\#"That's why."
@@ -2653,7 +2652,7 @@ The black-haired girl nods.
 \>\i[81]\}AMARIE\{\<\#"The town was torched by the moon. I wanted none of that, so instead\#I drew a sigil of Alll-mer, created a blood portal and got there\#fast. Simple."
 \>\i[81]\}AMARIE\{\<\#"No."
 \>\i[81]\}AMARIE\{\<\#"Ka!?"
-You read her mind...\#\c[1]"\n[3]... You know me now..."\c[0]
+You read her mind...\#\c[1]"\N[3]... You know me now..."\c[0]
 You read her mind...\#\c[1]"You know my name now... Maybe this wasn't such a bad thing\#after all."\c[0]
 You read her mind...\#\c[1]"Is he reading my mind?"\c[0]
 You read her mind...\#\c[1]"Yes you are! Stay out!"\c[0]
@@ -2671,7 +2670,7 @@ You read her mind...\#\c[1]"Is she reading my mind?"\c[0]
 \>\i[81]\}AMARIE\{\<\#"Since she is gone... I have no reason anymore."
 \>\i[81]\}AMARIE\{\<\#"If I were to die the same day as her... There's something poetic\#about it."
 \>\i[81]\}AMARIE\{\<\#"It will be alright."
-\>\i[81]\}AMARIE\{\<\#"You must know it too \n[3]!"
+\>\i[81]\}AMARIE\{\<\#"You must know it too \N[3]!"
 \>\i[81]\}AMARIE\{\<\#"But don't worry. We will die together."
 \>\i[81]\}AMARIE\{\<\#"Obviously. How thick can you be?"
 \>\i[81]\}AMARIE\{\<\#"I think you only have one option."
@@ -2973,13 +2972,7 @@ GabText Your head hurts! You feel like you're losing your mind!
 A wall of suitcases... Something feels off...
 All these suitcases... Something feels off...
 \>\i[85]\}OMAN WITH A SCARF\{\<\#"..."
-Zoophobia
 Nosophobia
-Phasmophobia
-Rhabdophobia
-Teratophobia
-Erotophobia
-Panophobia
 Skip The Character History?
 The soothing sound of the railtracks... You are not used to such\#peaceful and tranquil atmosphere.
 You can't help but let your mind wander. You reminisce what has\#lead you to this point in life...
@@ -4323,7 +4316,6 @@ choice_text 1 "Do you mean this \c[2]Cameo\c[0]?"
 \>\i[81]\}PIRIT\{\<\#"THE CAMEO ..."
 \>\i[81]\}PIRIT\{\<\#"I NEED ... IT."
 \>\i[81]\}PIRIT\{\<\#"THE CAMEO."
-A cast-iron coffin. It's sealed shut.
 The books have been neglected entirely. They are in too bad\#condition.
 A lone Alll-mer crucifix hangs on the wall.
 It's misty outside... It seem to get even thicker than before.
@@ -5807,6 +5799,7 @@ Looks like she suffered a terrible fate...
 \>\i[76]\}ARINA\{\<\#"Hoooi! Wait up!"
 \>\i[76]\}ARINA\{\<\#"I changed my mind!"
 \>\i[76]\}ARINA\{\<\#"Let's check out the church together!"
+A cast-iron coffin. It's sealed shut.
 GabText The city feels eerily quiet. Only lifeless husks wander its streets.
 An empty barrel left here to barricade the street.
 GabText The rifleman is shot down!
@@ -6628,7 +6621,7 @@ The girl is crying and hysterical.
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"W-what are you talking about!?"
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"Of course I know you!"
 \>\i[81]\}AMARIE\{\<\#"It's me, Samarie!"
-\>\i[81]\}AMARIE\{\<\#"\n[3]! You know I did it for you right!?"
+\>\i[81]\}AMARIE\{\<\#"\N[3]! You know I did it for you right!?"
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"\N[3]... \N[3]...!"
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"You must know... I did it all because of you... For us..."
 \>\i[76]\}ARINA\{\<\#"No one's accusing you of anything... Just try to stay calm..."
@@ -6979,6 +6972,7 @@ Only the chains remain.
 \>\i[76]\}AN IN BLACK\{\<\#"Cast away, so that true absolution could be reached. Cast away\#deep, all the way down to the sulfuric pits."
 \>\i[76]\}AN IN BLACK\{\<\#"But which one was it that got cast away? The conscious or the\#sub-conscious of the ascended one?"
 \>\i[76]\}AN IN BLACK\{\<\#"If you continue carving idols, big enough to rival the old world \#order - You won't know which side of you prevails."
+\>\i[76]\}AN IN BLACK\{\<\#"It could just as well be you who gets squashed as your shadow runs\#loose."
 Use the \c[2]Lighter\c[0] to light the bonfire?
 Use a \c[2]Match\c[0] to light the bonfire?
 There is a bonfire piled up here...
@@ -7047,10 +7041,8 @@ He is dead now...
 \>\i[67]\}AAN\{\<\#"Take care out there. Things don't seem especially safe."
 \>\i[67]\}AAN\{\<\#"Oh... Okay. Later then."
 \>\i[67]\}AAN\{\<\#"So... I'll be going now."
-\i[325] Prehevil, Old Town\#\i[326] Maiden Woods
 This is a big crate. You can really open it without better\#tools...
 A bloody bowl. The blood is all dried up.
-A bloody bowl.
 There is someone's diary on the floor.
 "I feel the rope tightening around my neck with each passing day.\#The city has always been narrow-minded and bigoted. If you didn't \#follow the doctrine to a t, you'd be persecuted to no end."
 "The priests don't encourage this behiour with words, but they don't\#have to. The centuries of inbreeding and inward looking has created \#an atmosphere where there is no room for deviation, let alone \#criticism."
@@ -7850,7 +7842,6 @@ The soldier is only protected against fire and slashing attacks, but\#that has m
 You took the \c[2]Soldier head\c[0] as a trophy!
 .\|.\|.\|\#You don't have enough mind to perform necromancy.
 Shamelessly he scratches his groin area.
-Shamelessly it scratches its groin area.
 \>\i[64]\}BELLA\{\<\#"This side of Prehevil is completely demolished. I'm guessing this\#happened when the Bremen army took this city from the Eastern Union."
 \>\i[64]\}BELLA\{\<\#"Are we going to the forest or to the city?"
 \>\i[64]\}BELLA\{\<\#"Honestly I'd prefer forest..."
@@ -7877,8 +7868,6 @@ The hulking thing is dead now.
 \>\i[144]\}OCKETCAT\{\<\#"The tower you were heading towards... It's to the east of here.\#It's quite a hike from here, but if you continue eastward, you'll\#get to the church eventually."
 \>\i[144]\}OCKETCAT\{\<\#"Just beyond the church's hidden passage you'll find the tower."
 GabText Something big is advancing towards you...
-A math book on display. A couple of exams are highlighted.
-"The stone slabs excavated from the archeological site in Northern\#Rondon. The slabs depict 'The Nine Chromatic Blights' mentioned in\#'The Book of Homer'. The carvings date back approximately 20,000 B.C."
 A thick layer of fog prevents you from seeing anything in the horizon.\#You try your best to navigate forward regardless...
 An ominous little island makes itself known by peeking behind the\#veil of fog...
 You decide to navigate towards it.
@@ -9004,6 +8993,7 @@ A nasty smell eminated from the sink.
 Just a regular toilet.
 The bookshelf has nothing interesting to you.
 The shelf has nothing interesting to you.
+A math book on display. A couple of exams are highlighted.
 An old rusty barrel. Reeks as bad as everything else in this cesspool.
 An old rusty barrel. Reeks as bad as everything else in this\#cesspool.
 You hear faint sounds coming from a hole in the dirt...
@@ -9239,7 +9229,7 @@ Levi is looking at his surroundings in awe.
 \>\i[78]\}'SAA\{\<\#"You should know that the trickery of the moon god is a rare thing \#to witness."
 \>\i[78]\}'SAA\{\<\#"We are given a front row seat to his inner workings."
 \>\i[76]\}ARCOH\{\<\#"I don't understand what is happening... But this trickery... It\#doesn't feel malicious."
-You could use \c[2]\n[37]\c[0] here.
+You could use \c[2]\N[37]\c[0] here.
 GabText Screams of torment echo from the heights above.
 \>\i[78]\}LIVIA\{\<\#"Can we just leave? I need fresh air..."
 \>\i[78]\}LIVIA\{\<\#"The city was a mistake... Everything was so much more peaceful in\#the woods..."
@@ -9529,6 +9519,7 @@ You find the \c[2]The truth under the moonlight\c[0]!
 You get 3 \c[2]Catnips\c[0].
 The stone slabs have dragonic faces carved on them.
 An old armor. It's in a rough condition. If you were to wear it,\#it would probably fall apart.
+"The stone slabs excavated from the archeological site in Northern\#Rondon. The slabs depict 'The Nine Chromatic Blights' mentioned in\#'The Book of Homer'. The carvings date back approximately 20,000 B.C."
 \>\i[74]\}ARIN\{\<\#"What... is... wrong with these people...?"
 \>\i[74]\}ARIN\{\<\#"Why can't anything be normal in this hellhole?"
 \>\i[76]\}ARINA\{\<\#"Their screams... It really gets under your skin, right?"
@@ -9714,7 +9705,6 @@ You read his mind...\#\c[1]"Something always comes to remind me of what I've don
 \>\i[67]\}R. KEFER\{\<\#"We're done here. Thank you very much (for nothing)."
 There is a mysterious lamp on the table.
 Rub it
-\..\..\..\..\..\..
 You rubbed the lamp real good. It's polished now.
 Sounds like there is something inside the lamp...
 Try to shake the lamp
@@ -9796,7 +9786,6 @@ Yell for help
 Investigate the walls
 Knock on the walls
 You try to yell for help as loud as possible.
-\..\..\..\..\..\..\..\..\..\..
 Try again
 Nothing... No one hears you scream.
 You can't seem to get a good grip from the wall.
@@ -10329,6 +10318,7 @@ Someone has throw up in the toilet.
 A filthy sink.
 The shelves have random utility and cleaning products.
 GabText The fallen cherub is smacked down!
+A bloody bowl.
 An overwhelming aura fills the air as you sit down to the confessional.
 The claustrophobic little box creates an atmosphere of condemnation\#and spite.
 "Forgive me father, for I have sinned..."
@@ -10897,6 +10887,7 @@ Marina is just quietly looking at the burnt house and the corpses \#near it.
 \>\i[67]\}AAN\{\<\#"This has happened pretty recently..."
 \>\i[76]\}ARCOH\{\<\#"May these poor bastards rest in peace..."
 \>\i[76]\}ARCOH\{\<\#"Lets remember these days later in our lives when we feel something\#troubling us. We made it through. Everything will be a cakewalk in\#comparison."
+\i[325] Prehevil, Old Town\#\i[326] Maiden Woods
 Random scribblings fill the notebook...
 "We might not reach the paradise today, not in ten years, maybe\#not even in our lifetime..."
 "But know that we are laying down the foundation. The roots that\#will grow and bring the mankind to the promised land..."
@@ -11595,7 +11586,7 @@ You hear voices echoing from the beheaded wizard...\#\c[7]"You will obviously ha
 \>\i[64]\}UGUST\{\<\#"That kind of strength is not easy to come by. So he did anything \#and everything it took to get that kind of power."
 \>\i[64]\}UGUST\{\<\#"Without the grand 'ends' he visioned, he only came to be known from \#his 'means'."
 "Doesn't sound like a learning type."
-\#Darkness surrounds you from all directions.\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\.\^
+Darkness surrounds you from all directions.\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\.\^
 The masked army officer gives you a flirtatious smile and seductively\#waves you to follow her...
 GabText Something big is advancing from the darkness...
 Electric panels. You don't really know what they are here for...
@@ -11648,7 +11639,6 @@ GabText It feels like you're floating in nothingness...
 GabText Empathy and hope fill you from inside out...
 GabText You've gone through enough. Now you can rest...
 GabText Just close your eyes and let the warm waves wash you away...
-\>\i[76]\}AN IN BLACK\{\<\#"It could just as well be you who gets squashed as your shadow runs\#loose."
 \>\i[67]\}AAN\{\<\#"One second we were at the burned building and now we're here."
 \>\i[67]\}AAN\{\<\#"We are not in the normal world anymore I presume..."
 GabText A cold wind blows in the dark empty before you.
@@ -11914,14 +11904,15 @@ You started digging. Like you had always done. Sooner or later you\#would get to
 \i[344]\}LONGINUS\{ is now available in the hexen!
 \i[345]\}RED ARC\{ is now available in the hexen!
 \i[345]\}MOTH SWARM\{ is now available in the hexen!
-Thank you for playing \n[1]!
-Thank you for playing \n[3]!
-Thank you for playing \n[4]!
-Thank you for playing \n[5]!
-Thank you for playing \n[6]!
-Thank you for playing \n[15]!
-Thank you for playing \n[13]!
-Thank you for playing \n[14]!
+Thank you for playing \N[1]!
+Thank you for playing \N[3]!
+Thank you for playing \N[4]!
+Thank you for playing \N[5]!
+Thank you for playing \N[6]!
+Thank you for playing \N[15]!
+Thank you for playing \N[13]!
+Thank you for playing \N[14]!
+Thank you for playing!
 The bookshelf is scorched. Nothing remains here.
 Nothing interesting here.
 The table is scorched...
@@ -12054,4 +12045,3 @@ You find the \c[2]Skin bible - Vinushka (unedited)\c[0]!
 \>\i[76]\}ARCOH\{\<\#"I always associate tents with Vatican slums instead of camping\#in the wild."
 \>\i[76]\}ARCOH\{\<\#"Funny."
 Take the \c[2]Joy mask\c[0]?
-Thank you for playing!
