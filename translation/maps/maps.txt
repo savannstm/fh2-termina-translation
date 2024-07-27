@@ -2537,7 +2537,7 @@ Black Kalev is chewing on a turft of weed. He seems completely \#oblivious of yo
 The girl is cautiously looking at you behind her bangs.
 \>\i[81]\}AMARIE\{\<\#"..."
 Samarie is cautiously looking at you behind her bangs.
-\>\i[65]\}LACK-HAIRED GIRL\{\<\#"Um. \N[3]..."
+\>\i[65]\}LACK-HAIRED GIRL\{\<\#"Um. \n[3]..."
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"Um. Excuse me..."
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"Hi."
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"I... I need to explain some things..."
@@ -2553,14 +2553,14 @@ Samarie is cautiously looking at you behind her bangs.
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"You probably think I'm crazy..."
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"B-but I really didn't mean this to happen..."
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"But I really didn't mean this to happen..."
-\>\i[65]\}LACK-HAIRED GIRL\{\<\#"\N[3]... You have to believe... That's all I hope..."
+\>\i[65]\}LACK-HAIRED GIRL\{\<\#"\n[3]... You have to believe... That's all I hope..."
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"Please..."
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"Just don't think I'm a monster... That's all."
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"I hope you don't think I'm a monster... That's all."
 You read her mind...\#\c[1]"..."\c[0]
 You read her mind...\#\c[1]"He thinks I'm a monster. I knew it!"\c[0]
 You read her mind...\#\c[1]"She thinks I'm a monster. I knew it!"\c[0]
-\>\i[81]\}AMARIE\{\<\#"Um. \N[3]..."
+\>\i[81]\}AMARIE\{\<\#"Um. \n[3]..."
 \>\i[81]\}AMARIE\{\<\#"Umm... Excuse me..."
 \>\i[81]\}AMARIE\{\<\#"Hi."
 \>\i[81]\}AMARIE\{\<\#"I... I need to explain some things..."
@@ -2574,12 +2574,12 @@ You read her mind...\#\c[1]"She thinks I'm a monster. I knew it!"\c[0]
 \>\i[81]\}AMARIE\{\<\#"I couldn't... I just couldn't..."
 \>\i[81]\}AMARIE\{\<\#"You probably think I'm crazy..."
 \>\i[81]\}AMARIE\{\<\#"B-but I really didn't mean this to happen..."
-\>\i[81]\}AMARIE\{\<\#"\N[3]... You have to believe... That's all I hope..."
+\>\i[81]\}AMARIE\{\<\#"\n[3]... You have to believe... That's all I hope..."
 \>\i[81]\}AMARIE\{\<\#"Please..."
 \>\i[81]\}AMARIE\{\<\#"Just don't think I'm a monster... That's all."
 \>\i[81]\}AMARIE\{\<\#"I hope you don't think I'm a monster... That's all."
-\>\i[81]\}AMARIE\{\<\#"\N[3]... I hope you're doing well."
-\>\i[65]\}LACK-HAIRED GIRL\{\<\#"\N[3]... You really don't remember me...?"
+\>\i[81]\}AMARIE\{\<\#"\n[3]... I hope you're doing well."
+\>\i[65]\}LACK-HAIRED GIRL\{\<\#"\n[3]... You really don't remember me...?"
 \>\i[81]\}AMARIE\{\<\#"Samarie... That is my name."
 \>\i[81]\}AMARIE\{\<\#"You really don't remember me...?"
 \>\i[81]\}AMARIE\{\<\#"I'm from Vatican, just like you."
@@ -2604,11 +2604,11 @@ Supposedly a select group of children who were considered naturally \#gifted at 
 \>\i[81]\}AMARIE\{\<\#"It exists. The ninth floor of Fiend Petr's Basilica."
 \>\i[81]\}AMARIE\{\<\#"I-I wouldn't say that... You make it sound wrong somehow..."
 \>\i[81]\}AMARIE\{\<\#"Ka..."
-\>\i[81]\}AMARIE\{\<\#"But \N[3]...\. You wanted this... right? I've seen your thoughts... \#About your father..."
+\>\i[81]\}AMARIE\{\<\#"But \n[3]...\. You wanted this... right? I've seen your thoughts... \#About your father..."
 \>\i[81]\}AMARIE\{\<\#"I did it for you.\. I don't mind if something happens to me. My\#body is deteriorating fast because of what they did to me. I don't\#have long to live."
 \>\i[81]\}AMARIE\{\<\#"This is the only thing I could do for you. It is my gift for you."
 \>\i[81]\}AMARIE\{\<\#"I want my remaining life to have meaning. You are my meaning."
-\>\i[81]\}AMARIE\{\<\#"I don't care how it sounds.\. I love you \N[3]."
+\>\i[81]\}AMARIE\{\<\#"I don't care how it sounds.\. I love you \n[3]."
 "Don't throw around such strong words."
 "You don't even know me..."
 "You're creeping me out..."
@@ -2618,8 +2618,8 @@ Supposedly a select group of children who were considered naturally \#gifted at 
 \>\i[81]\}AMARIE\{\<\#"But I do!"
 \>\i[81]\}AMARIE\{\<\#"I feel like I've known you always! We share a bond!"
 \>\i[81]\}AMARIE\{\<\#"Don't be... I don't want you to be scared of me..."
-\>\i[81]\}AMARIE\{\<\#"\N[3]... You don't need to fear me...\. Please..."
-\>\i[81]\}AMARIE\{\<\#"B-but \N[3]!"
+\>\i[81]\}AMARIE\{\<\#"\n[3]... You don't need to fear me...\. Please..."
+\>\i[81]\}AMARIE\{\<\#"B-but \n[3]!"
 \>\i[81]\}AMARIE\{\<\#"Ok."
 \>\i[81]\}AMARIE\{\<\#"Love you."
 \>\i[81]\}AMARIE\{\<\#"Samarie."
@@ -2652,7 +2652,7 @@ The black-haired girl nods.
 \>\i[81]\}AMARIE\{\<\#"The town was torched by the moon. I wanted none of that, so instead\#I drew a sigil of Alll-mer, created a blood portal and got there\#fast. Simple."
 \>\i[81]\}AMARIE\{\<\#"No."
 \>\i[81]\}AMARIE\{\<\#"Ka!?"
-You read her mind...\#\c[1]"\N[3]... You know me now..."\c[0]
+You read her mind...\#\c[1]"\n[3]... You know me now..."\c[0]
 You read her mind...\#\c[1]"You know my name now... Maybe this wasn't such a bad thing\#after all."\c[0]
 You read her mind...\#\c[1]"Is he reading my mind?"\c[0]
 You read her mind...\#\c[1]"Yes you are! Stay out!"\c[0]
@@ -2670,7 +2670,7 @@ You read her mind...\#\c[1]"Is she reading my mind?"\c[0]
 \>\i[81]\}AMARIE\{\<\#"Since she is gone... I have no reason anymore."
 \>\i[81]\}AMARIE\{\<\#"If I were to die the same day as her... There's something poetic\#about it."
 \>\i[81]\}AMARIE\{\<\#"It will be alright."
-\>\i[81]\}AMARIE\{\<\#"You must know it too \N[3]!"
+\>\i[81]\}AMARIE\{\<\#"You must know it too \n[3]!"
 \>\i[81]\}AMARIE\{\<\#"But don't worry. We will die together."
 \>\i[81]\}AMARIE\{\<\#"Obviously. How thick can you be?"
 \>\i[81]\}AMARIE\{\<\#"I think you only have one option."
@@ -6621,7 +6621,7 @@ The girl is crying and hysterical.
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"W-what are you talking about!?"
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"Of course I know you!"
 \>\i[81]\}AMARIE\{\<\#"It's me, Samarie!"
-\>\i[81]\}AMARIE\{\<\#"\N[3]! You know I did it for you right!?"
+\>\i[81]\}AMARIE\{\<\#"\n[3]! You know I did it for you right!?"
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"\N[3]... \N[3]...!"
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"You must know... I did it all because of you... For us..."
 \>\i[76]\}ARINA\{\<\#"No one's accusing you of anything... Just try to stay calm..."
