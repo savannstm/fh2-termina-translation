@@ -33,13 +33,11 @@ Grinded wheat. On its own it's not much of use, but can be\#used in bakery.
 Woodsman's letter
 A single piece of paper with crude writing on it. It seems\#to have been written in a hurry.
 Dirty toilet paper
-This paper can be used to tie up small wounds and stop bleeding.\#It does look absolutely rancid though. It definitely isn't the
+This paper can be used to tie up small wounds and stop bleeding.\#It does look absolutely rancid though. It definitely isn't the\#most hygienic way to patch up yourself...
 Small key
 A rusty worn-out key.
 Rotten meat
 Disgusting piece of meat. Its use is questionable...
-New poems of love and torment
-A perfect collection of love letters written by the storied\#hero Ronn Chambara.
 Mahavre
 A book about the ancient city Mahavre.
 Soldier's diary 1
@@ -282,7 +280,7 @@ An article that talks against the Kaiser's army and Bremen.
 Kaiser's rise to power
 An article that talks against the Kaiser's rise to power.
 Master key
-Master key found from the landlord's office in the apartment\#building on the residential neighbourhood. A special key designed
+Master key found from the landlord's office in the apartment\#building on the residential neighbourhood. A special key designed\#to open all the apartments in the building when necessary.
 Fellatio Effigy
 A small effigy of man hunched over on a throne. It's carved\#from an unknown material.
 Hunger Effigy
@@ -290,9 +288,9 @@ A small effigy of an deity with its gaping mouth open. It's carved\#from an unkn
 Martyr Effigy
 A small effigy resembling crucified Alll-mer with a snake curled\#over him. It's carved from an unknown material.
 Heart flower stigma
-The stigma of a blooming heart flower. Has restorative properties\#when ingested. Heart and brain flowers are said to be nature's
+The stigma of a blooming heart flower. Has restorative properties\#when ingested. Heart and brain flowers are said to be nature's\#way of mimicing and growing a full artificial human being.
 Brain flower stigma
-The stigma of a blooming brain flower. Has a sanity recovering\#effect when ingested. It is said that the pollen of a brain flower
+The stigma of a blooming brain flower. Has a sanity recovering\#effect when ingested. It is said that the pollen of a brain flower\#has the opposite effect and often takes hold of its new host.
 Fecal hound head
 The severed head of a fecal hound. The smell this beast emits\#even in death is rancid.
 Neighbour head
@@ -316,7 +314,7 @@ The severed head of Marcoh.
 Olivia's head
 The severed head of Olivia.
 Poison hemlock
-A large and poisonous plant that emits unpleasant smell. When\#digested it is very hazardous, but on touch it only causes mild
+A large and poisonous plant that emits unpleasant smell. When\#digested it is very hazardous, but on touch it only causes mild\#poisoning.
 Nettle
 Also known as stinging nettle. The leaves and the stem have\#many hollow stinging hairs that cause mild irritation.
 Tanaka's head
@@ -330,7 +328,7 @@ The severed head of Judgement.
 Head of the Mechanical dance
 The severed head of the Mechanical dance.
 Wild dagga
-Also known as lion's tail. A rare plant to see growing in wild in\#Europa. Someone must have planted it here. When smoked, the plant
+Also known as lion's tail. A rare plant to see growing in wild in\#Europa. Someone must have planted it here. When smoked, the plant\#has a calming and numbing effect. Great for relieving fear. 
 Daan's head
 The severed head of Daan.
 Caligura's head
@@ -379,8 +377,7 @@ The severed head of an elite trooper.
 Flame trooper head
 The severed head of a flame trooper.
 Skin bible - Vinushka (unedited)
-A strong occult book written in the medieval times by Enki\#Ankarian. The chapter explains the older god Vinushka. This
-particular version hasn't been tampered and edited by the Vatican.
+A strong occult book written in the medieval times by Enki\#Ankarian. The chapter explains the older god Vinushka. This\#particular version hasn't been tampered and edited by the Vatican.
 Skin bible - God of Fear and Hunger
 A strong occult book written in the medieval times by Enki\#Ankarian. The chapter explains the god of fear and hunger.
 Skin bible - Vinushka
@@ -390,8 +387,7 @@ A strong occult book written in the medieval times by Enki\#Ankarian. The chapte
 Prehevil document
 The truth under the moonlight
 NLU Reconnaissance Report #1
-A brief report about a partisan organization called NLU - Nameless\#Liberty Underground. Distributed to all mid-level Bremen officers
-assigned to Bohemia.
+A brief report about a partisan organization called NLU - Nameless\#Liberty Underground. Distributed to all mid-level Bremen officers\#assigned to Bohemia.
 NLU Reconnaissance Report #2
 A brief report about NLU member Haas Reila Audrey. Distributed to\#all mid-level Bremen officers assigned to Bohemia.
 Telelectroscope and Logic
@@ -409,18 +405,18 @@ The severed head of the Heartless one.
 Condensed blue
 A condensed ball of blue herbs. Recovers great amount of\#health when digested.
 Condensed green
-A condensed ball of green herbs. Offer protection against infections,\#poisoning and other mild status ailments in advance. The effect
+A condensed ball of green herbs. Offer protection against infections,\#poisoning and other mild status ailments in advance. The effect\#doesn't last long though.
 Condensed lavender
 A condensed ball of lavender. Recovers great amount of sanity\#when digested.
 Bench grinder
-A grinding machine used to drive abrasive wheels. Commonly used\#to hand grind various tools and perform other rough grinding.
+A grinding machine used to drive abrasive wheels. Commonly used\#to hand grind various tools and perform other rough grinding.\#It's very heavy and you wonder if it's worth carrying around.
 Condensed nettle
-Also known as stinging nettle. The leaves and the stem have\#many hollow stinging hairs that cause mild pain if touched.
+Also known as stinging nettle. The leaves and the stem have\#many hollow stinging hairs that cause mild pain if touched.\#The hairs won't cause any real damage, but they do irritate quite a bit.
 Condensed hemlock
-A condensed ball of poison hemlock. Even just a small amount\#of any part of the plant can cause respiratory paralysis and
+A condensed ball of poison hemlock. Even just a small amount\#of any part of the plant can cause respiratory paralysis and\#and death.
 The Logic document
 Portrait of a young man
-An old portrait photograph of a young man. It looks like the photo\#was taken in the late-1800s. The person's face has been scratched
+An old portrait photograph of a young man. It looks like the photo\#was taken in the late-1800s. The person's face has been scratched\#over and is beyond recognition.
 Rancid head
 The severed head of the Rancid sergal.
 Heart-shaped lock
@@ -440,10 +436,9 @@ Instructions on how to operate a talking board to communicate\#with spirits and 
 God manifesto
 A short manifesto on godhood. Written by renowned occultist\#Donnovan Hugo.
 The Tale of the Pocketcat Ch. 1
-The first chapter of an old fairytale used to scare children from\#wandering off on their own. This particular copy seems faithful to the
-original, unlike the modern watered down versions of the story.
+The first chapter of an old fairytale used to scare children from\#wandering off on their own. This particular copy seems faithful to the\#original, unlike the modern watered down versions of the story.
 The Tale of the Pocketcat Ch. 2
-The second chapter of an old fairytale used to scare children from\#wandering off on their own. This particular copy seems faithful to the
+The second chapter of an old fairytale used to scare children from\#wandering off on their own. This particular copy seems faithful to the\#original, unlike the modern watered down versions of the story.
 Death mask head
 The severed head of a death mask.
 Meat grinder head
@@ -451,8 +446,7 @@ The severed head of the meat grinder.
 Centaur head
 The severed head of the centaur.
 Film reel
-A regular 8mm film reel. The label has writing: "Slow Exposure/\#Subject 17". Someone has written the following on top of the label:
-"What does fast exposure look like?"
+A regular 8mm film reel. The label has writing: "Slow Exposure/\#Subject 17". Someone has written the following on top of the label:\#"What does fast exposure look like?"
 Dark blue root
 Roots of a blue herb. The smell of the herb is even sweeter in\#its roots compared to the upper parts.
 A mixture of deep blue roots and red herbs that is especially\#potent.
