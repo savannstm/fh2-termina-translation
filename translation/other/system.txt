@@ -1,3 +1,17 @@
+General Armor
+Magic Armor
+Light Armor
+Heavy Armor
+Small Shield
+Large Shield
+Sigil
+Wheelchair
+Blunt
+Slashing
+Piercing
+Fire
+Leech
+Otherwordly
 Weapon
 Shield
 Head
@@ -6,6 +20,9 @@ Accessory
 Wheels
 Empty
 Skills
+Flower magic
+Skill
+Special
 Level
 Lv
 Mind
@@ -72,4 +89,21 @@ SE Volume
 %1 was surprised!
 %1 uses %2!
 %1 was victorious!
+Dagger
+Sword
+Bayonet
+Whip
+Big sword
+Long-range gun
+Close-range gun
+Other
+Thrusting sword
+Thrusting Spear
+Blood Sword
+Blood Spear
+Slashing Spear
+Red virtue
+Black steel
+Lantern Flail
+Meat mallet
 Fear & Hunger 2: TERMINA

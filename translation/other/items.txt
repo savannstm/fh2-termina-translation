@@ -10,7 +10,6 @@ Recipes of the 15th Century vol.1
 The first volume of the cook book series. Contains recipes\#for the meat and vegetable pies.
 The Four Ages of History
 A brief history book about the different ages of modern\#chronology.
-Flashlight
 Matches
 Use to light a fire. Light brings warmth and safety and keeps\#fear in check.
 Cloth fragment
@@ -19,8 +18,6 @@ Glass vial
 A small vial. Typically used with alchemy.
 Murky vial
 A vial full of murky liquid. Highly flammable.
-Black vial
-A vial full of mysterious black liquid.
 Oil
 A vial full of oil that is somewhat flammable.
 Alchemillia vol.2
@@ -36,7 +33,7 @@ Grinded wheat. On its own it's not much of use, but can be\#used in bakery.
 Woodsman's letter
 A single piece of paper with crude writing on it. It seems\#to have been written in a hurry.
 Dirty toilet paper
-This paper can be used to tie up small wounds and stop bleeding.\#It does look absolutely rancid though. It definitely isn't the\#most hygienic way to patch up yourself...
+This paper can be used to tie up small wounds and stop bleeding.\#It does look absolutely rancid though. It definitely isn't the
 Small key
 A rusty worn-out key.
 Rotten meat
@@ -45,11 +42,8 @@ New poems of love and torment
 A perfect collection of love letters written by the storied\#hero Ronn Chambara.
 Mahavre
 A book about the ancient city Mahavre.
-This book tells the tale of the legendary fellowship\#that would be known in this day as the new gods.
 Soldier's diary 1
-A diary of a Bremen soldier that arrived to this area \#recently.
-Stick
-A cut tree branch. It might be useful in some\#situations.
+A diary of a Bremen soldier that arrived to this area\#recently.
 Blue vial
 A vial full of blue liquid.
 Vodka
@@ -58,9 +52,6 @@ Moldy bread
 A dried up bread with some mold already growing on it.\#Gives momentary ease against hunger.
 Yellow vial
 A vial full of yellow colored mucus. The smell is very salty,\#but it might just be edible...
-Blood vial
-A vial full of blood.
-Notes written by a torturer.
 Cheese
 An old dried up cheese. It has a pretty bad smell to it.
 Beer
@@ -77,24 +68,16 @@ Orders from Vatican
 A letter directed to father Domek of Prehevil.
 White vial
 A vial full of white colored liquid. Works as an antidote\#for poisoning.
-Purple vial
-A vial full of purple colored liquid. Slowly working, but\#potent poison.
-Red vial
-A vial full of red colored liquid. Highly corrosive. Can be\#used to melt certain objects.
-Devil's Grass
-Creates a relaxing and fear reducing effects when smoked.\#The only negative effect is slight loss of accuracy.
 Heroin
 Highly addictive pain medication. The high creates an\#euphoric effect, but the withdrawal symptoms are severe.
 Pep pills
 A strong stimulant with performance-enhancing effects. The\#high raises your awareness, the withdrawal tires you out.
 Lucky coin
 Lucky coin to be used in dire situations. Hold [SHIFT]\#while choosing head or tails to boost your chances.
-Green vial
-A vial full of green colored liquid. Just the smell makes\#your muscles contract and heightens your senses.
 Bacon & eggs
 A great way to start new day - if not a little bit\#heavy on your stomach.
 Goulash
-A local delicacy. A stew of meat and vegetables seasoned \#with paprika.
+A local delicacy. A stew of meat and vegetables seasoned\#with paprika.
 Tomato
 The color of the tomato is a little pale, suggesting\#it hasn't seen much sun.
 Paprika
@@ -106,7 +89,7 @@ A Dry piece of salami. Made from horse meat.
 Blueberries
 Rather fresh pile of blue berries. They are very\#healthy!
 Blueberry pie
-Old fashioned pie made of blueberries. Tasty and \#healthy in same package!
+Old fashioned pie made of blueberries. Tasty and\#healthy in same package!
 Nitroglycerin powder
 White powder of nitroglycerin. Mixed with right\#elements, you can get something out of this...
 Opium powder
@@ -125,15 +108,6 @@ A shell that is loaded with multiple lead shots. These shells\#are used with Tre
 Round-nosed, copper-nickel full-metal-jacketed bullet with\#a lead core. Ammo meant for rifles. Shoot with [SHIFT].
 Explosive vial
 A vial full of explosive liquids. Can be used to clear\#cave-ins or other rocks and rubble.
-The Tale of the Pocketcat Ch. 1
-The first chapter of an old fairytale used to scare children from\#wandering off on their own. This particular copy seems faithful to the\#original, unlike the modern watered down versions of the story.
-Stone
-A small rock.
-Water vial
-A vial full of water. The water looks and smells drinkable.
-Quill
-A feather of a falcon. Perfectly suited for use as a quill.
-An empty scroll waiting for someone to write in it.
 Alchemillia vol.3
 A book for experienced level alchemy. Contains recipes for\#the light blue vial and the brown vial.
 Brown vial
@@ -174,7 +148,6 @@ Brain flower seed
 Small seeds that are soft and squishy.
 Soul stone shard
 A shard of a larger gemstone. You can feel magnetic pulse\#from the shard... Maybe if you had more of these...?
-A surprisingly heavy gemstone. The insides radiate\#faint blue light that slowly swirl around.
 White key
 A white key.
 Red herb
@@ -192,8 +165,6 @@ Arm
 An arm that's still relatively fresh.
 Leg
 A leg that's still relatively fresh.
-Skeletal leg
-A skeletal leg that's been cut off.
 Goat hoof
 A hoof of a goat. It's still relatively fresh.
 Purifying talisman
@@ -208,15 +179,13 @@ Saw blade
 A saw blade that is used in table saws. The blade has been\#gathering a little bit rust.
 Ornament lantern
 A simple lantern with ornament decorations. Can be used to\#throw at the enemies for a small fire attack.
-The Tale of the Pocketcat Ch. 2
-The second chapter of an old fairytale used to scare children from\#wandering off on their own. This particular copy seems faithful to the\#original, unlike the modern watered down versions of the story.
 Fallen cherub head
 The severed head of a fallen cherub. The head feels hollow and its\#skin feels crispy.
 Throwing dart
 Small darts designed for throwing. They are also dipped\#in poison.
 Coded letter #1
-Coded letter #2
 A letter with a coded message...
+Coded letter #2
 Lion brass key
 A brass key with a crude insignia of the 2-tailed lion that\#is the old symbol of Prehevil.
 Gasoline canister
@@ -229,8 +198,6 @@ Shilling
 The common currency used in Prehevil. It's value is less\#than that of its counter-parts in Europa.
 Eagle brass key
 A brass key with a crude insignia of the Bremen national\#animal black eagle.
-Silver shilling
-A currency used in Prehevil by the higher class residents. They\#say that there are certain things only silver can buy.
 Chalk
 A short piece of chalk. You can draw things with this.
 Occult Grimoires
@@ -298,12 +265,6 @@ Pressure plate
 A piece of scrap metal. This particular piece has been used\#as a pressure plate of sorts.
 Gun powder
 Looks like the standard gun powder that is used with bullets\#and shells.
-Weapon schematics
-Schematics for custom weaponry.
-Trap schematics
-Schematics for custom traps.
-Explosive schematics
-Schematics for explosives
 Liver
 The liver has a function in detoxication, the removal of\#toxic substances from a living organism.
 Kidney
@@ -321,7 +282,7 @@ An article that talks against the Kaiser's army and Bremen.
 Kaiser's rise to power
 An article that talks against the Kaiser's rise to power.
 Master key
-Master key found from the landlord's office in the apartment\#building on the residential neighbourhood. A special key designed\#to open all the apartments in the building when necessary.
+Master key found from the landlord's office in the apartment\#building on the residential neighbourhood. A special key designed
 Fellatio Effigy
 A small effigy of man hunched over on a throne. It's carved\#from an unknown material.
 Hunger Effigy
@@ -329,9 +290,9 @@ A small effigy of an deity with its gaping mouth open. It's carved\#from an unkn
 Martyr Effigy
 A small effigy resembling crucified Alll-mer with a snake curled\#over him. It's carved from an unknown material.
 Heart flower stigma
-The stigma of a blooming heart flower. Has restorative properties\#when ingested. Heart and brain flowers are said to be nature's\#way of mimicing and growing a full artificial human being.
+The stigma of a blooming heart flower. Has restorative properties\#when ingested. Heart and brain flowers are said to be nature's
 Brain flower stigma
-The stigma of a blooming brain flower. Has a sanity recovering\#effect when ingested. It is said that the pollen of a brain flower\#has the opposite effect and often takes hold of its new host.
+The stigma of a blooming brain flower. Has a sanity recovering\#effect when ingested. It is said that the pollen of a brain flower
 Fecal hound head
 The severed head of a fecal hound. The smell this beast emits\#even in death is rancid.
 Neighbour head
@@ -339,7 +300,7 @@ The severed head of a neighbour. A rancid smell is eminating\#from its mouth.
 Diary of a madman
 A diary of a person living in the apartment building in the\#backstreets of central Prehevil.
 Headmaster's key
-A special key that belonged to the headmaster of the Prehevil \#orphanage. After his execution, the key is yours to keep.
+A special key that belonged to the headmaster of the Prehevil\#orphanage. After his execution, the key is yours to keep.
 Ratkin head
 The severed head of a ratkin. The head seems to share characteristics\#of both human and rat.
 Rat hag head
@@ -355,7 +316,7 @@ The severed head of Marcoh.
 Olivia's head
 The severed head of Olivia.
 Poison hemlock
-A large and poisonous plant that emits unpleasant smell. When\#digested it is very hazardous, but on touch it only causes mild\#poisoning.
+A large and poisonous plant that emits unpleasant smell. When\#digested it is very hazardous, but on touch it only causes mild
 Nettle
 Also known as stinging nettle. The leaves and the stem have\#many hollow stinging hairs that cause mild irritation.
 Tanaka's head
@@ -369,7 +330,7 @@ The severed head of Judgement.
 Head of the Mechanical dance
 The severed head of the Mechanical dance.
 Wild dagga
-Also known as lion's tail. A rare plant to see growing in wild in\#Europa. Someone must have planted it here. When smoked, the plant\#has a calming and numbing effect. Great for relieving fear.
+Also known as lion's tail. A rare plant to see growing in wild in\#Europa. Someone must have planted it here. When smoked, the plant
 Daan's head
 The severed head of Daan.
 Caligura's head
@@ -418,7 +379,8 @@ The severed head of an elite trooper.
 Flame trooper head
 The severed head of a flame trooper.
 Skin bible - Vinushka (unedited)
-A strong occult book written in the medieval times by Enki\#Ankarian. The chapter explains the older god Vinushka. This\#particular version hasn't been tampered and edited by the Vatican.
+A strong occult book written in the medieval times by Enki\#Ankarian. The chapter explains the older god Vinushka. This
+particular version hasn't been tampered and edited by the Vatican.
 Skin bible - God of Fear and Hunger
 A strong occult book written in the medieval times by Enki\#Ankarian. The chapter explains the god of fear and hunger.
 Skin bible - Vinushka
@@ -428,9 +390,10 @@ A strong occult book written in the medieval times by Enki\#Ankarian. The chapte
 Prehevil document
 The truth under the moonlight
 NLU Reconnaissance Report #1
-A brief report about a partisan organization called NLU - Nameless \#Liberty Underground. Distributed to all mid-level Bremen officers\#assigned to Bohemia.
+A brief report about a partisan organization called NLU - Nameless\#Liberty Underground. Distributed to all mid-level Bremen officers
+assigned to Bohemia.
 NLU Reconnaissance Report #2
-A brief report about NLU member Haas Reila Audrey. Distributed to \#all mid-level Bremen officers assigned to Bohemia.
+A brief report about NLU member Haas Reila Audrey. Distributed to\#all mid-level Bremen officers assigned to Bohemia.
 Telelectroscope and Logic
 A document giving you broad overview on Telelectroscope and Logic.
 Brain diagram document
@@ -443,25 +406,21 @@ Kaiser's head
 The severed head of the Kaiser.
 Head of the Heartless one
 The severed head of the Heartless one.
-Botanism schematics
-Schematics for botanism
-Toxicology schematics
-Schematics for toxicology
 Condensed blue
 A condensed ball of blue herbs. Recovers great amount of\#health when digested.
 Condensed green
-A condensed ball of green herbs. Offer protection against infections,\#poisoning and other mild status ailments in advance. The effect\#doesn't last long though.
+A condensed ball of green herbs. Offer protection against infections,\#poisoning and other mild status ailments in advance. The effect
 Condensed lavender
 A condensed ball of lavender. Recovers great amount of sanity\#when digested.
 Bench grinder
-A grinding machine used to drive abrasive wheels. Commonly used\#to hand grind various tools and perform other rough grinding.\#It's very heavy and you wonder if it's worth carrying around.
+A grinding machine used to drive abrasive wheels. Commonly used\#to hand grind various tools and perform other rough grinding.
 Condensed nettle
-Also known as stinging nettle. The leaves and the stem have\#many hollow stinging hairs that cause mild pain if touched.\#The hairs won't cause any real damage, but they do irritate quite a bit.
+Also known as stinging nettle. The leaves and the stem have\#many hollow stinging hairs that cause mild pain if touched.
 Condensed hemlock
-A condensed ball of poison hemlock. Even just a small amount\#of any part of the plant can cause respiratory paralysis and\#and death.
+A condensed ball of poison hemlock. Even just a small amount\#of any part of the plant can cause respiratory paralysis and
 The Logic document
 Portrait of a young man
-An old portrait photograph of a young man. It looks like the photo\#was taken in the late-1800s. The person's face has been scratched\#over and is beyond recognition.
+An old portrait photograph of a young man. It looks like the photo\#was taken in the late-1800s. The person's face has been scratched
 Rancid head
 The severed head of the Rancid sergal.
 Heart-shaped lock
@@ -480,6 +439,11 @@ Taking board instructions
 Instructions on how to operate a talking board to communicate\#with spirits and others alike.
 God manifesto
 A short manifesto on godhood. Written by renowned occultist\#Donnovan Hugo.
+The Tale of the Pocketcat Ch. 1
+The first chapter of an old fairytale used to scare children from\#wandering off on their own. This particular copy seems faithful to the
+original, unlike the modern watered down versions of the story.
+The Tale of the Pocketcat Ch. 2
+The second chapter of an old fairytale used to scare children from\#wandering off on their own. This particular copy seems faithful to the
 Death mask head
 The severed head of a death mask.
 Meat grinder head
@@ -487,10 +451,11 @@ The severed head of the meat grinder.
 Centaur head
 The severed head of the centaur.
 Film reel
-A regular 8mm film reel. The label has writing: "Slow Exposure/ \#Subject 17". Someone has written the following on top of the label:\#"What does fast exposure look like?"
+A regular 8mm film reel. The label has writing: "Slow Exposure/\#Subject 17". Someone has written the following on top of the label:
+"What does fast exposure look like?"
 Dark blue root
 Roots of a blue herb. The smell of the herb is even sweeter in\#its roots compared to the upper parts.
-A mixture of deep blue roots and red herbs that is especially \#potent.
-A mixture of deep blue roots and blue herbs that is especially \#potent.
+A mixture of deep blue roots and red herbs that is especially\#potent.
+A mixture of deep blue roots and blue herbs that is especially\#potent.
 Gull brother head
 The severed head of a gull brother.

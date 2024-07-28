@@ -2,7 +2,6 @@ Ex-Soldier
 Mercenary\#<Equip Slot>\#Weapon\#Head\#Body\#Accessory\#Accessory\#Accessory\#</Equip Slot>
 Ghoul
 <Equip Slot>\#Head\#Body\#Accessory\#Accessory\#Accessory\#</Equip Slot>
-Mercenary
 Priest
 Occultist
 <Equip Slot>\#Weapon\#Head\#Body\#Accessory\#Accessory\#Accessory\#</Equip Slot>
@@ -10,7 +9,6 @@ Doctor
 Doctor\#<Equip Slot>\#Weapon\#Head\#Body\#Accessory\#Accessory\#Accessory\#</Equip Slot>
 Mechanic
 Mechanic\#<Equip Slot>\#Weapon\#Head\#Body\#Accessory\#Accessory\#Accessory\#</Equip Slot>
-Captain
 Black Kalev
 <Equip Slot>\#Accessory\#</Equip Slot>
 Blood golem
