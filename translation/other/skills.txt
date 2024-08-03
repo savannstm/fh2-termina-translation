@@ -165,6 +165,7 @@ Gunslinger
 Advanced use of pistols. Precise shots can occasionally\#dismember opponents. Used on field.
 Executioner
 Advanced use of trenchguns. You are able to execute a stunned\#enemy by shooting it again on the field.
+Marksmanship
 Advanced use of rifles. You are able to one-shot enemies\#with the rifle every now and then. Used on field.
 Giant fork
 Giant knife
@@ -266,6 +267,7 @@ Greater meditation
 Reach a greater state of awareness. Meditate while guarding to gain\#even more Rev points on that turn.
 Spice forge
 Spice forges were widely used by magick practitioners of the\#Middle East back in the day. Spices make it possible to customize\#the properties of your otherwordly skills.
+Blood sacrifice
 Sacrifice your own blood for Gro-goroth, the god of destruction.\#A blood sacrifice will enhance your affinity with the said god.\#Sacrifices like these were everyday occurences back in the day.
 Masturbation
 An act of self-love enhances your affinity with Sylvian when\#performed on a ritual circle. This act is widely popular among\#the priests of Vatican when mixed with blood sacrifice.
@@ -310,7 +312,7 @@ An ability to open any simple lock with your trusty lockpick.
 Persuade
 Persuade your opponents with greater intellect and wit. The effects\#vary between enemy to enemy depending on their persona. Used with\#Talk skill.
 Diplomacy
-Start the fight by talking to the opponent without wasting a\#turn. Maybe you can find a diplomatic resolution before any
+Start the fight by talking to the opponent without wasting a\#turn. Maybe you can find a diplomatic resolution before any\#violence takes place?
 Reverse-healing
 remove own organs to cause serious damage
 Precision stance
@@ -319,7 +321,9 @@ Diagnosis
 Study fallen enemies and their anatomy to gain knowledge of\#them. Diagnosis also reveals what strategies might work the\#best when facing similar foes in the future.
 Rugged handsome looks
 The skill doesn't necessarily translate to everyone. Beauty is in\#the eye of beholder after all.
+Devour
 A barbaric trait of devouring the carcass of your opponents\#to ease hunger.
+Bloodlust
 Hype yourself into a state of aggression and trance. An old\#traditional Oldegårdian folk skill.
 Provoke the enemy into attacking you only, leaving others\#alone.
 Sisu
