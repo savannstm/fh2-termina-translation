@@ -124,8 +124,6 @@ GabText \N[4] feels a little less hungry.
 GabText \N[5] feels a little less hungry.
 GabText \N[6] feels a little less hungry.
 GabText \N[7] feels a little less hungry.
-GabText \N[9] feels a little less hungry.
-GabText \N[11] feels a little less hungry.
 GabText \N[16] feels a little less hungry.
 GabText \N[17] feels a little less hungry.
 GabText \N[18] feels a little less hungry.
@@ -141,8 +139,6 @@ GabText \N[4] feels less hungry.
 GabText \N[5] feels less hungry.
 GabText \N[6] feels less hungry.
 GabText \N[7] feels less hungry.
-GabText \N[9] feels less hungry.
-GabText \N[11] feels less hungry.
 GabText \N[16] feels less hungry.
 GabText \N[17] feels less hungry.
 GabText \N[18] feels less hungry.
@@ -158,8 +154,6 @@ GabText \N[4] feels a lot less hungry.
 GabText \N[5] feels a lot less hungry.
 GabText \N[6] feels a lot less hungry.
 GabText \N[7] feels a lot less hungry.
-GabText \N[9] feels a lot less hungry.
-GabText \N[11] feels a lot less hungry.
 GabText \N[16] feels a lot less hungry.
 GabText \N[17] feels a lot less hungry.
 GabText \N[18] feels a lot less hungry.
@@ -256,8 +250,6 @@ GabText \N[4] feels tranquil and good...
 GabText \N[5] feels tranquil and good...
 GabText \N[6] feels tranquil and good...
 GabText \N[7] feels tranquil and good...
-GabText \N[9] feels tranquil and good...
-GabText \N[11] feels tranquil and good...
 GabText \N[13] feels tranquil and good...
 GabText \N[14] feels tranquil and good...
 GabText \N[15] feels tranquil and good...
@@ -274,8 +266,6 @@ GabText Tobacco calms \N[4] a little.
 GabText Tobacco calms \N[5] a little.
 GabText Tobacco calms \N[6] a little.
 GabText Tobacco calms \N[7] a little.
-GabText Tobacco calms \N[9] a little.
-GabText Tobacco calms \N[11] a little.
 GabText Tobacco calms \N[13] a little.
 GabText Tobacco calms \N[14] a little.
 GabText Tobacco calms \N[15] a little.
@@ -397,7 +387,6 @@ You find a \c[2]Ballistic shield\c[0]!
 "Their age would last until the end of the 16th century.\#The western world was in a dark age at the time and out of\#nowhere appeared a new idol of worship, the god of Fear\#& Hunger."
 "People forgot the teachings of the old in times of diseases\#and death and turned on to this new saviour."
 "The appearance of the God of Fear & Hunger started the fourth\#age in which mankind had to learn to adapt and evolve. As\#times have progressed, we are still living according to this\#ideology."
-\N[9] cannot hold \c[2]Iron spear\c[0] with just one arm!
 You pick up the unused \c[2]Gasoline canister\c[0].
 "The Experienced Level of Alchemy - Alchemillia vol.3"
 "Recipes for intermediate alchemy:\#Blue + Pep pills = Super senses\#Blue + Blue = Greater healing"
@@ -480,34 +469,6 @@ GabText Hunger is driving \N[7] mad.
 GabText Hunger is crippling \N[7].
 GabText \N[7] is blind from hunger.
 GabText \N[7] feels dizzy...
-GabText \N[8] is starting to feel hungry...
-GabText \N[8] is weak from hunger.
-GabText \N[8] is ill from hunger.
-GabText Hunger is driving \N[8] mad.
-GabText Hunger is crippling \N[8].
-GabText \N[8] is blind from hunger.
-GabText \N[8] feels dizzy...
-GabText \N[9] is starting to feel hungry...
-GabText \N[9] is weak from hunger.
-GabText \N[9] is ill from hunger.
-GabText Hunger is driving \N[9] mad.
-GabText Hunger is crippling \N[9].
-GabText \N[9] is blind from hunger.
-GabText \N[9] feels dizzy...
-GabText \N[11] is starting to feel hungry...
-GabText \N[11] is weak from hunger.
-GabText \N[11] is ill from hunger.
-GabText Hunger is driving \N[11] mad.
-GabText Hunger is crippling \N[11].
-GabText \N[11] is blind from hunger.
-GabText \N[11] feels dizzy...
-GabText \N[12] is crying as if it's hungry...
-GabText \N[12] is weak from hunger.
-GabText \N[12] is ill from hunger.
-GabText Hunger is driving \N[12] mad.
-GabText Hunger has made \N[12] limb.
-GabText \N[12] is crying like crazy because of the hunger.
-GabText \N[12] doesn't move anymore...
 GabText \N[16] is starting to feel hungry...
 GabText \N[16] is weak from hunger.
 GabText \N[16] is ill from hunger.
@@ -612,11 +573,6 @@ Unfortunately \N[18] has no arms left to saw.
 Unfortunately there is no one to saw off \N[18]'s arm\#and he cannot do it himself.
 Unfortunately \N[18] has no legs left to saw.
 Unfortunately there is no one to saw off \N[18]'s legs\#and he cannot do it himself.
-What do you want to saw off from \N[11]?
-Unfortunately \N[11] has no arms left to saw.
-Unfortunately there is no one to saw off \N[11]'s arm\#and he cannot do it himself.
-Unfortunately \N[11] has no legs left to saw.
-Unfortunately there is no one to saw off \N[11]'s legs\#and he cannot do it himself.
 What do you want to saw off from \N[4]?
 Unfortunately \N[4] has no arms left to saw.
 Unfortunately there is no one to saw off \N[4]'s other\#arm and he cannot do it himself.
@@ -627,11 +583,6 @@ Unfortunately \N[6] has no arms left to saw.
 Unfortunately there is no one to saw off \N[6]'s other\#arm and he cannot do it himself.
 Unfortunately \N[6] has no legs left to saw.
 Unfortunately there is no one to saw off \N[6]'s legs\#and he cannot do it himself.
-What do you want to saw off from \N[9]?
-Unfortunately \N[9] has no arms left to saw.
-Unfortunately there is no one to saw off \N[9]'s other\#arm and he cannot do it himself.
-Unfortunately \N[9] has no legs left to saw.
-Unfortunately there is no one to saw off \N[9]'s legs\#and he cannot do it himself.
 What do you want to saw off from \N[15]?
 Unfortunately \N[15] has no arms left to saw.
 Unfortunately there is no one to saw off \N[15]'s other\#arm and she cannot do it herself.

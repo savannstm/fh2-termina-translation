@@ -33,7 +33,7 @@ Explosion
 Poison tongue
 Suicide
 There are worse fates than death. Sometimes it's\#good to go on your own terms...
-Low sweep
+Leg sweep
 Run
 There is no shame in running away from battles. Live to see\#another day.
 Critical slash
@@ -394,10 +394,12 @@ Meat mallet
 Vomit
 Glass shards
 Glass ceiling
+Whip
 Rage smash
 The giant takes a step forward...
 The muscles on the arm are contracting...
 Mechanical dance shrieks out of pain
+Blade dance
 The giant is engulfed by rage!
 Hanky-panky
 Claws
@@ -417,6 +419,7 @@ Guard+
 Perfect guard
 While guarding your damage is reduced even further and you\#can evade the most drastic physical trauma.
 Red arc
+Red arc X2
 Overheat
 Lunar meteorite
 Summon a small piece of the moon. Requires 1 Rev Point.
@@ -546,8 +549,11 @@ Requires 2 Rev Points.
 Left slam
 Right slam
 Mauler
+Peck
 The gull brother is cackling and laughing...
 Psycho stab
 The villager lunges at you!
 Meat tenderizer
 The half-cocooned lunges at you!
+Bite
+Pummel

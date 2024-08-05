@@ -124,8 +124,6 @@ GabText \N[4] чувствует себя немного менее голодн
 GabText \N[5] чувствует себя немного менее голодной.
 GabText \N[6] чувствует себя немного менее голодным.
 GabText \N[7] чувствует себя немного менее голодным.
-GabText \N[9] чувствует себя немного менее голодным.
-GabText \N[11] чувствует себя немного менее голодной.
 GabText \N[16] чувствует себя немного менее голодным.
 GabText \N[17] чувствует себя немного менее голодным.
 GabText \N[18] чувствует себя немного менее голодным.
@@ -141,8 +139,6 @@ GabText \N[4] чувствует себя менее голодным.
 GabText \N[5] чувствует себя менее голодной.
 GabText \N[6] чувствует себя менее голодным.
 GabText \N[7] чувствует себя менее голодным.
-GabText \N[9] чувствует себя менее голодным.
-GabText \N[11] чувствует себя менее голодной.
 GabText \N[16] чувствует себя менее голодным.
 GabText \N[17] чувствует себя менее голодным.
 GabText \N[18] чувствует себя менее голодным.
@@ -158,8 +154,6 @@ GabText \N[4] чувствует себя намного менее голодн
 GabText \N[5] чувствует себя намного менее голодной.
 GabText \N[6] чувствует себя намного менее голодным.
 GabText \N[7] чувствует себя намного менее голодным.
-GabText \N[9] чувствует себя намного менее голодным.
-GabText \N[11] чувствует себя намного менее голодной.
 GabText \N[16] чувствует себя намного менее голодным.
 GabText \N[17] чувствует себя намного менее голодным.
 GabText \N[18] чувствует себя намного менее голодным.
@@ -256,8 +250,6 @@ GabText \N[4] чувствует себя спокойно и хорошо...
 GabText \N[5] чувствует себя спокойно и хорошо...
 GabText \N[6] чувствует себя спокойно и хорошо...
 GabText \N[7] чувствует себя спокойно и хорошо...
-GabText \N[9] чувствует себя спокойно и хорошо...
-GabText \N[11] чувствует себя спокойно и хорошо...
 GabText \N[13] чувствует себя спокойно и хорошо...
 GabText \N[14] чувствует себя спокойно и хорошо...
 GabText \N[15] чувствует себя спокойно и хорошо...
@@ -274,8 +266,6 @@ GabText Табак немного успокаивает \N[4].
 GabText Табак немного успокаивает \N[5].
 GabText Табак немного успокаивает \N[6].
 GabText Табак немного успокаивает \N[7].
-GabText Табак немного успокаивает \N[9].
-GabText Табак немного успокаивает \N[11].
 GabText Табак немного успокаивает \N[13].
 GabText Табак немного успокаивает \N[14].
 GabText Табак немного успокаивает \N[15].
@@ -373,7 +363,7 @@ GabText Табак немного успокаивает \N[29].
 «Даже учитывая, что Уиллема хорошо скрывали листья -\#кот медленно повернул свои глаза в его сторону.»
 «В ужасе, Уиллем побежал к своему дому так быстро, как только мог!»
 «Два светящихся желтых кошачьих глаза преследовали его всю\#дорогу до ворот его дома.»
-«Его мать ждала его на пороге дома.\#„Ты не мог просто не пойти в лес, да?“ - сказала\#его мать.»
+«Его мать ждала его на пороге дома.\#„Ты не мог просто не пойти в лес, да?“ - сказала она.»
 «„Ты видел то, чего не должен был видеть, верно!?“ - спросила\#его мать. „Откуда я это знаю?“»
 «Мать Уиллема зашла внутрь, чтобы взять маленькое письмо в\#красивой обертке.»
 «„Я нашла это у входной двери прямо перед тем, как ты пришел.\#Оно было адресовано юному мистеру Уиллему.“»
@@ -385,7 +375,7 @@ GabText Табак немного успокаивает \N[29].
 «Кто меня очернить твоим попыткам поверит -\#Тому в наследство труп вороны доверю.»
 «Говорят, что слеза высыхает однажды -\#И я хочу видеть день Гро-горота рыданий.»
 «Это время запомнят, как жестокий век.»
-«Эту страницу запомнят как четвертый завет.»
+«Эту страницу запомнят, как четвертый завет.»
 «Ты не умрешь.»
 «Четыре Эпохи Современной Истории»\#«Современная эпоха и современная хронология начинаются\#с рождения господа нашего вознесенного - Алл-мера.»
 «Существует множество поддельных религиозных текстов об\#Алл-мере, однако есть достаточно свидетельств, которые\#доказывают, что в свое время Алл-мер действительно\#существовал как реальный человек.»
@@ -397,11 +387,10 @@ GabText Табак немного успокаивает \N[29].
 «Их эпоха продлилась до конца 16-того века. В то время,\#западный мир переживал темные времена, и из ниоткуда\#появился новый объект поклонения, Бог Страха и Голода.»
 «Люди отбросили древние учения во времена болезней и смерти, и\#обратились к новому спасителю.»
 «Появление Бога Страха и Голода положило начало четвертой эпохе,\#в которой человечество должно было адаптироваться и развиваться.\#С течением времени, мы все еще живем в соответствии с этой\#идеологией.»
-\N[9] не может держать \c[2]Железное копье\c[0] одной рукой!
 Вы берете неиспользованную \c[2]Канистру с бензином\c[0].
 «Продвинутый уровень алхимии - Алхемилия, том 3»
 «Рецепты продвинутой алхимии:\#Синий + Бодрящие таблетки = Обостренные чувства\#Синий + Синий = Мощное исцеление»
-Разговоры с самим собой или внутренними голосами не спасут ваше\#здравомыслие.
+Разговоры с самим собой или внутренними голосами не спасут\#ваше здравомыслие.
 \>\}МАРИНА\{\<\#«Разве ты не ненавидишь это место?»
 «Что здесь происходит?»
 «Может, нам стоит отдохнуть?»
@@ -480,34 +469,6 @@ GabText Голод сводит \N[7] с ума.
 GabText Голод калечит \N[7].
 GabText \N[7] ослеп от голода.
 GabText \N[7] чувствует головокружение...
-GabText \N[8] начинает чувствовать голод...
-GabText \N[8] слаб от голода.
-GabText \N[8] болен от голода.
-GabText Голод сводит \N[8] с ума.
-GabText Голод калечит \N[8].
-GabText \N[8] ослеп от голода.
-GabText \N[8] чувствует головокружение...
-GabText \N[9] начинает чувствовать голод...
-GabText \N[9] слаб от голода.
-GabText \N[9] болен от голода.
-GabText Голод сводит \N[9] с ума.
-GabText Голод калечит \N[9].
-GabText \N[9] ослеп от голода.
-GabText \N[9] чувствует головокружение...
-GabText \N[11] начинает чувствовать голод...
-GabText \N[11] слаб от голода.
-GabText \N[11] болен от голода.
-GabText Голод сводит \N[11] с ума.
-GabText Голод калечит \N[11].
-GabText \N[11] ослеп от голода.
-GabText \N[11] чувствует головокружение...
-GabText \N[12] плачет, как будто он голоден...
-GabText \N[12] слаб от голода.
-GabText \N[12] болен от голода.
-GabText Голод сводит \N[12] с ума.
-GabText Голод калечит \N[12].
-GabText \N[12] плачет как сумасшедший из-за голода.
-GabText \N[12] больше не двигается...
 GabText \N[16] начинает чувствовать голод...
 GabText \N[16] слаб от голода.
 GabText \N[16] болен от голода.
@@ -531,7 +492,7 @@ GabText \N[18] ослеп от голода.
 GabText \N[18] чувствует головокружение...
 «Книга страхов и фобий.»
 «Нозофобия - боязнь болезней и заражения\#Фазмофобия - боязнь призраков и призрачных фигур\#Рабдофобия - боязнь магии и потусторонних сил.»
-«Эротофобия - боязнь секса и гениталий\#Зоофобия - боязнь животных и чудовищ\#Тератофобия - боязнь монстров и пороков развития.»
+«Эротофобия - боязнь секса и гениталий\#Зоофобия - боязнь животных и зверей\#Тератофобия - боязнь монстров и уродств.»
 GabText \N[1] находится на грани своего рассудка...
 GabText У \N[1] сформировалась панофобия. Страх всего на свете.
 GabText \N[3] находится на грани своего рассудка...
@@ -561,7 +522,7 @@ GabText Зелье жжет, когда вы его пьете.
 «Симптомы - последствия:\#\i[16] - Легкое отравление\#\i[113] - Отравление\#\i[112] - Токсическое/тяжелое отравление»
 «Симптомы - последствия:\#\i[152] - Инфицированная рана на руке\#\i[136] - Инфицированная рана на ноге\#\i[118] - Слепота или другая травма глаз»
 «Симптомы - последствия:\#\i[129] - Тяжелая психическая травма\#\i[165] - Тяжелая физическая травма\#\i[158] - Тошнота/Недомогание»
-«Симптомы - последствия:\#\i[102] - Сотрясение\#\i[125] - Симптомы отмены\#\i[126] - Абстинентный синдром»
+«Симптомы - последствия:\#\i[102] - Сотрясение\#\i[125] - Абстинентный синдром\#\i[126] - Тяжёлый обстинентный синдром»
 «Симптомы - последствия:\#\i[17] - Раздражение\#\i[137] - Горение\#\i[119] - Временный паралич»
 «Симптомы - последствия:\#\i[147]-\i[151] - Различные стадии голода\#\i[131]-\i[135] - Различные стадии страха»
 «Книга ни в коем случае не покрывает все возможные болезни, и затем\#рекомендуется для использования лишь в качестве справочной\#информации.»
@@ -612,11 +573,6 @@ GabText Зелье жжет, когда вы его пьете.
 К сожалению, некому отпилить руку \N[18], и он не может\#сделать это сам.
 К сожалению, у \N[18] не осталось ног, которые можно было\#бы отпилить.
 К сожалению, некому отпилить ноги \N[18], и он не может\#сделать это сам.
-Что вы хотите отпилить у \N[11]?
-К сожалению, у \N[11] не осталось рук, чтобы пилить.
-К сожалению, некому отпилить руку \N[11], и он не может\#сделать это сам.
-К сожалению, у \N[11] не осталось ног, которые можно было\#бы отпилить.
-К сожалению, некому отпилить ноги \N[11], и он не может\#сделать это сам.
 Что вы хотите отпилить у \N[4]?
 К сожалению, у \N[4] не осталось рук, которые можно было\#бы отпилить.
 К сожалению, некому отпилить вторую руку \N[4], и он не может\#сделать это сам.
@@ -627,11 +583,6 @@ GabText Зелье жжет, когда вы его пьете.
 К сожалению, некому отпилить вторую руку \N[6], и он не может\#сделать это сам.
 К сожалению, у \N[6] не осталось ног, которые можно было\#бы отпилить.
 К сожалению, некому отпилить ноги \N[6], и он не может\#сделать это сам.
-Что вы хотите отпилить у \N[9]?
-К сожалению, у \N[9] не осталось рук, чтобы пилить.
-К сожалению, некому отпилить вторую руку \N[9], и он не может\#сделать это сам.
-К сожалению, у \N[9] не осталось ног, которые можно было\#бы отпилить.
-К сожалению, некому отпилить ноги \N[9], и он не может\#сделать это сам.
 Что вы хотите отпилить у \N[15]?
 К сожалению, у \N[15] не осталось рук, которые можно было\#бы отпилить.
 К сожалению, некому отпилить вторую руку \N[15], и она не может\#сделать это сама.
@@ -711,7 +662,7 @@ GabText \N[1] потерял частичку своей души.
 GabText \N[1] чувствует себя более опустошенным.
 GabText \N[3] потеряла левую руку! Она сильно кровоточит!
 GabText \N[3] потеряла и вторую руку!
-\N[3] потеряла обе ноги и руки и теперь беспомощна.
+\N[3] потеряла обе ноги и руки и теперь\#беспомощна.
 GabText \N[3] потеряла левую ногу! Она сильно кровоточит!
 GabText \N[3] потеряла и вторую ногу!
 \N[3] не может держать \c[2]Лонгин\c[0] одной рукой!
@@ -720,7 +671,7 @@ GabText \N[3] обезглавлена!
 GabText Голова \N[3] взорвалась от давления!
 GabText \N[6] потерял левую руку! Она сильно кровоточит!
 GabText \N[6] потерял и вторую руку!
-\N[6] потерял обе ноги и руки и теперь беспомощен.
+\N[6] потерял обе ноги и руки и теперь\#беспомощен.
 GabText \N[6] потерял левую ногу! Она сильно кровоточит!
 GabText \N[6] потерял и вторую ногу!
 \N[6] не может держать оружие без рук!
@@ -736,9 +687,9 @@ GabText \N[6] связан!
 GabText \N[6] обезглавлен!
 GabText Голова \N[6] взорвалась от давления!
 GabText \N[7] потерял копыто! Лапа сильно кровоточит!
-GabText \N[7] потерял еще одно копыто! Ему трудно стоять на ногах...
+GabText \N[7] потерял еще одно копыто! Ему трудно стоять\#на ногах...
 GabText \N[7] потерял уже третье копыто!
-\N[7] потерял все 3 из своих 4 копыт. Он не сможет жить\#дальше.
+\N[7] потерял все 3 из своих 4 копыт. Он не сможет\#жить дальше.
 GabText \N[7] связан!
 GabText \N[7] обезглавлен!
 GabText Голова \N[7] взорвалась от давления!
@@ -748,31 +699,31 @@ GabText \N[10] потерял левую ногу!
 GabText \N[10] потерял и вторую ногу!
 GabText \N[16] потерял левую руку! Она сильно кровоточит!
 GabText \N[16] потерял и вторую руку!
-\N[16] потерял обе ноги и руки и\#теперь беспомощен.
+\N[16] потерял обе ноги и руки и теперь\#беспомощен.
 GabText \N[16] потерял левую ногу! Она сильно кровоточит!
 GabText \N[16] потерял и вторую ногу!
-\N[16] потерял обе ноги и руки и теперь беспомощен.
+\N[16] потерял обе ноги и руки и теперь\#беспомощен.
 GabText \N[16] связан!
 GabText \N[16] обезглавлен!
 GabText Голова \N[16] взорвалась от давления!
 GabText \N[17] потерял левую руку! Она сильно кровоточит!
 GabText \N[17] потерял и вторую руку!
-\N[17] потерял обе ноги и руки и\#теперь беспомощен.
+\N[17] потерял обе ноги и руки и теперь\#беспомощен.
 GabText \N[17] потерял левую ногу! Она сильно кровоточит!
 GabText \N[17] потерял и вторую ногу!
-\N[17] потерял обе ноги и руки и теперь беспомощен.
+\N[17] потерял обе ноги и руки и теперь\#беспомощен.
 GabText \N[17] связан!
 GabText \N[17] обезглавлен!
 GabText Голова \N[17] взорвалась от давления!
 GabText \N[18] потерял левую руку!
 GabText \N[18] потерял и вторую руку!
-\N[18] потерял обе ноги и руки и теперь беспомощен.
+\N[18] потерял обе ноги и руки и теперь\#беспомощен.
 GabText \N[18] потерял левую ногу!
 GabText \N[18] потерял и вторую ногу!
 GabText \N[18] связан!
 GabText \N[22] потерял левую руку!
 GabText \N[22] потерял и вторую руку!
-\N[22] потерял обе ноги и руки и теперь беспомощен.
+\N[22] потерял обе ноги и руки и теперь\#беспомощен.
 GabText \N[22] потерял левую ногу!
 GabText \N[22] потерял и вторую ногу!
 GabText \N[22] обезглавлен!
@@ -780,7 +731,7 @@ GabText \N[22] связан!
 GabText Голова \N[22] взорвалась от давления!
 GabText \N[28] потерял левую руку!
 GabText \N[28] потерял и вторую руку!
-\N[28] потерял обе ноги и руки и теперь беспомощен.
+\N[28] потерял обе ноги и руки и теперь\#беспомощен.
 GabText \N[28] потерял левую ногу!
 GabText \N[28] потерял и вторую ногу!
 GabText \N[28] обезглавлен!
@@ -788,7 +739,7 @@ GabText \N[28] связан!
 GabText Голова \N[28] взорвалась от давления!
 GabText \N[29] потерял левую руку!
 GabText \N[29] потерял и вторую руку!
-\N[29] потерял обе ноги и руки и теперь беспомощен.
+\N[29] потерял обе ноги и руки и теперь\#беспомощен.
 GabText \N[29] потерял левую ногу!
 GabText \N[29] потерял и вторую ногу!
 GabText \N[29] обезглавлен!
@@ -796,7 +747,7 @@ GabText \N[29] связан!
 GabText Голова \N[29] взорвалась от давления!
 GabText \N[4] потерял левую руку! Она сильно кровоточит!
 GabText \N[4] потерял и вторую руку!
-\N[4] потерял обе ноги и руки и теперь беспомощен.
+\N[4] потерял обе ноги и руки и теперь\#беспомощен.
 GabText \N[4] потерял левую ногу! Она сильно кровоточит!
 GabText \N[4] потерял и вторую ногу тоже!
 \N[4] не может держать \c[2]Лонгин\c[0] одной рукой!
@@ -817,7 +768,7 @@ GabText \N[5] обезглавлена!
 GabText Голова \N[5] взорвалась от давления!
 GabText \N[13] потерял левую руку! Она сильно кровоточит!
 GabText \N[13] потерял и вторую руку!
-\N[13] потерял обе ноги и руки и теперь беспомощен.
+\N[13] потерял обе ноги и руки и теперь\#беспомощен.
 GabText \N[13] потерял левую ногу! Она сильно кровоточит!
 GabText \N[13] потерял и вторую ногу!
 \N[13] не может держать оружие без рук!
@@ -855,9 +806,9 @@ GabText \N[15] сбита со своего инвалидного кресла!
 \N[15] не может держать \c[2]Дробовик\c[0] одной рукой!
 \N[15] не может держать \c[2]Грабли жнеца\c[0] одной рукой!
 Вы ахаете, когда берете винтовку в руки. Она тяжелая и прочная.\#Мы медленно проводите указательным пальцем по длинному стволу...
-От одного лишь осознания, что вы держите винтовку, ваше тело\#трепещет. Вы ими раньше не пользовались, но она удивительно\#хорошо лежит в руках. Как будто так и должно быть.
+От одного лишь осознания, что вы держите винтовку, ваше тело\#трепещет. Вы не пользовались ими раньше, но она удивительно\#хорошо лежит в руках. Как будто так и должно быть.
 Вы ахаете, когда берете дробовик в руки. Он тяжелый и прочный.\#Мы медленно проводите указательным пальцем по толстому стволу...
-От одного лишь осознания, что вы держите дробовик, ваше тело\#трепещет. Вы ими раньше не пользовались, но он удивительно\#хорошо лежит в руках. Как будто так и должно быть.
+От одного лишь осознания, что вы держите дробовик, ваше тело\#трепещет. Вы не пользовались ими раньше, но он удивительно\#хорошо лежит в руках. Как будто так и должно быть.
 GabText \N[15] связана!
 GabText \N[15] обезглавлена!
 GabText Голова \N[15] взорвалась от давления!
@@ -893,7 +844,7 @@ GabText Голова \N[14] взорвалась от давления!
 Вы нашли \c[2]Сырое мясо\c[0]!
 Вы нашли 3\c[2]Синих травы\c[0] и 2 \c[2]Маленьких семя\c[0]!
 Вы нашли \c[2]Монокль\c[0]!
-Вы нашли 2 пакетика с \c[2]Опиумом\c[0]!
+Вы нашли 2 мешочка с \c[2]Опиумом\c[0]!
 Вы нашли \c[2]Волшебный камень\c[0]!
 У \N[1] нет рук для использования шприца.
 У \N[3] нет рук для использования шприца.
@@ -971,7 +922,7 @@ GabText Голова \N[14] взорвалась от давления!
 К сожалению, на теле \N[3] уже есть символ.
 Какой символ вы хотели бы выгравировать на \N[5]?
 К сожалению, на теле \N[5] уже есть символ.
-Какой символ вы хотели бы выгравировать на \N[4]е?
+Какой символ вы хотели бы выгравировать на \N[4]?
 К сожалению, на теле \N[4] уже есть символ.
 Какой символ вы хотели бы выгравировать на \N[7]?
 К сожалению, на теле \N[7] уже есть символ.
@@ -1035,7 +986,7 @@ GabText Голова \N[14] взорвалась от давления!
 \>\}АБЕЛЛА\{\<\#«Давай просто двигаться дальше.»
 Несмотря на ваши глубокие сны, вы не чувствуете себя ни капельки\#отдохнувшими.
 Вы обыскиваете урну в поисках чего-нибудь полезного...
-«Последний рубеж - Винландская колония - Глава 1.»
+«Последний рубеж - Винландская колония - Глава 1»
 «Легенды гласят о том, что в 1009 году группа исследователей из\#Ольдегарда впервые вступила в контакт с континентом Винланд.»
 «Это первое письменное свидетельство о континенте. Следующий\#подтвержденный случай относится к 1310 году, когда небольшой\#флот из Абиссонии отважился отправиться в темные воды запада.»
 «Однако потребовалось еще 200 лет, прежде чем был проложен\#устоявшийся торговый путь, снова благодаря мореплавателям\#Ольдегарда в 1577 году.»
@@ -1335,8 +1286,8 @@ GabText \N[29] чувствует головокружение...
 «Третья жертва - его куклы будут свидетелями его кровопускания.»
 Предложить \c[2]Голову Дровосека\c[0]?
 Вы кладете подношение в центр круга...
-Воздух холодеет и становится гуще. Становится тяжело дышать.
-Предложить \c[2]Голову Деревенщины\c[0]?
+Воздух холодеет и становится гуще. Становится тяжело даже\#дышать.
+Предложить \c[2]Голову жителя\c[0]?
 Предложить \c[2]Голову Мерзости\c[0]?
 Предложить \c[2]Голову священника\c[0]?
 Предложить \c[2]Голову Ронтила\c[0]?
@@ -1364,8 +1315,8 @@ GabText \N[29] чувствует головокружение...
 Предложить \c[2]Голову Покеткэта\c[0]?
 Предложить \c[2]Голову Карин\c[0]?
 Предложить \c[2]Голову Леви\c[0]?
-Предложить \c[2]Голову кокона\c[0]?
-Предложить \c[2]Голову Солдата\c[0]?
+Предложить \c[2]Голову полуобращённого\c[0]?
+Предложить \c[2]Голову солдата\c[0]?
 Предложить \c[2]Голову Марины\c[0]?
 Предложить \c[2]Голову инквизитора\c[0]?
 Предложить \c[2]Голову О’саа\c[0]?
@@ -1601,7 +1552,7 @@ GabText В группе не хватает места для кровавого
 Вы поглотили \c[2]Заботливую душу\c[0].
 \>\}О'САА\{\<\#«Что ж, и это был твой план?\. Хорошо, давай принесем\#тебя в жертву.»
 Вы поглотили \c[2]Просветленную душу\c[0].
-\>\}МАРКО\{\<\#«Что за фокусы ты пытаешься провернуть?»
+\>\}МАРКО\{\<\#«Что за фокусы?»
 Вы поглотили \c[2]Изуродованную душу\c[0].
 \>\}КАРИН\{\<\#«Т-ты вообще понимаешь, что делаешь? Убери от меня свои руки!»
 Вы поглотили \c[2]Бесконечную душу\c[0].
@@ -1617,7 +1568,7 @@ GabText В группе не хватает места для кровавого
 При вашем нынешнем состоянии здоровья порезы могут быть\#рискованными...
 Сделать это
 Неважно
-Ваши члены вашей группы куда-то исчезли... Вас оставили в\#одиночестве, пока вы спали.
+Члены вашей группы куда-то исчезли... Вас оставили в\#одиночестве, пока вы спали.
 О'саа куда-то исчез, пока вы спали...
 Карин куда-то исчезла, пока вы спали...
 Леви куда-то исчез, пока вы спали...
@@ -1661,13 +1612,13 @@ GabText Вы наступили на ржавый гвоздь.
 \>\}ГАДАЛКА\{\<\#«Рукотворный конфликт скрывает поток сознания...»
 \>\}ГАДАЛКА\{\<\#«Каменная крепость, возвышающаяся в глубокой зелени...»
 \>\}ГАДАЛКА\{\<\#«Следуй по течению... Сокровище, спрятанное за\#водопадом...»
-ТИТРЫ\#ИГРА\#\c[2]Miro Haverinen\c[0]\#ДОПОЛНИТЕЛЬНАЯ МУЗЫКА\#Следующие треки были сделаны:\#\c[2]Chilly Makes Music\c[0]\#'Unknowable'\#'Wayward Souls'\#'Lost Haven / Shillings'\#'Denied The Light'\#ЗВУКОВЫЕ ЭФФЕКТЫ\#"bell.aif" от \c[2]o0pAt0o\c[0] с Freesound.org\#"Hells Bell Hit1.wav" от \c[2]tosha73\c[0] с Freesound.org\#"Dramatic Organ, B.wav" от \c[2]InspectorJ (www.jshaw.co.uk)\c[0]\#"Dramatic Organ, A.wav" от \c[2]InspectorJ (www.jshaw.co.uk)\c[0]\#"Organ.wav" by \c[2]tome002\c[0]\#"13 second Organ phrase" от \c[2]nartes\c[0]\#"Creepy Organ Loop1.wav" by \c[2]Aeonemi\c[0]\#"Creepy Organ Sound.wav" by \c[2]Aeonemi\c[0]\#"Creepy Organ Loop3.wav" by \c[2]Aeonemi\c[0]\#"Church organ music" от \c[2]FK_Prod\c[0] of Freesound.org\#"Pipe Organ Intro.wav" by \c[2]BaDoink\c[0] of Freesound.org\#"Green Diamond Organ Loop" by \c[2]szegvari\c[0] of Freesound.org\#"92 old times organ.wav" by \c[2]Thirsk\c[0] of Freesound.org\#"SFX_ATTACK_SWORD_001" by \c[2]Joel Azzopardi\c[0]\#"Shield Bash Impact" by \c[2]Hybrid_V\c[0]\#"Anvil" от \c[2]MrAuralization\c[0]\#"Japanese Cicadas" by \c[2]MrAuralization\c[0]\#Additional Sound effects provided by\#\c[2]Cosmic Embers www.youtube.com/cosmicembers\c[0]\#The voice of "Rat hag" - \c[2]magnuswaker\c[0]\#The voice of "Needles", "Stitches" and "Neighbour" - \c[2]Louis Morel\c[0]\#The voice of "Pocketcat" - \c[2]Edwin the Djinn aka Alex\c[0]\#Omnichord tracks - \c[2]Mika\c[0]\#ИСПРАВЛЕНИЕ БАГОВ И ДОПОЛНИТЕЛЬНОЕ ПРОГРАММИРОВАНИЕ\#\c[2]Toby Yasha\c[0]\#ДОПОЛНИТЕЛЬНЫЕ ДИЗАЙНЫ МОНСТРОВ\#"Rancid Sergal" is only a fan depiction of the fictional\#Sergal species originally created by \c[2]Mick Ono\c[0] and \c[2]Kiki-UMA\c[0].\#Thank you for the permission to use them in the game!\#"Ронтил" основан на дизайне от \c[2]Chester\c[0]\#"Бессердечная" основана на дизайне от \c[2]Ketsueki Heartless Angel\c[0]\#"Sylvian trooper and Platoon" were based on\#a design by \c[2]Vlad "Vladstori" Tsvetkov\c[0]\#"Раткин" основан на идее от \c[2]Артур\c[0]\#Additional "New God" designs by\#\c[2]Charo, Chester, Madlene, Louis Morel\c[0]\#ТЕСТИРОВАНИЕ/ОТДАЧА/МОЗГОЛОМКА/ПОМОЩЬ С БАЛАНСОМ\#Игра выглядела бы совсем по другому без этих людей.\#\c[2]Chilly Makes Music\c[0]\#\c[2]Edwin the Djinn aka Alex\c[0]\#\c[2]LunarCatUSA\c[0]\#\c[2]Priscilla Poodle\c[0]\#\c[2]Gloomy Cat\c[0]\#\c[2]Pouty Potioneer Dove\c[0]\#\c[2]Louis Morel\c[0]\#\c[2]Rune Demolder\c[0]\#\c[2]Ketsueki Heartless Angel\c[0]\#\c[2]Sydney\c[0]\#\c[2]Decent\c[0]\#\c[2]咸鱼鱼糕\c[0]\#Also taking part in testing, Rotten Cabbage Team:\#\c[2]Akropo aka Andrew Selin\c[0]\#\c[2]Morgæn Rei aka Ruslan Ibraimov\c[0]\#\c[2]Liong-Sah aka Leonid Sakhanovski\c[0]\#\c[2]Incredibilis Darklord aka Ivan Petrov\c[0]\#\c[2]BreadLi aka Mikhail Klyputhenko\c[0]\#\c[2]Gooudini aka Alexandr Minchenko\c[0]\#PLUGINS USED:\#Ultra Mode 7 licensed under BSD License 2.0\#Copyright (c) \c[2]Boris "Blizzard" Mikić\c[0]\#YSP_VideoPlayer by \c[2]Dr.Yami\c[0]\#DisableMapRegen by \c[2]John Clifford (Trihan)\c[0]\#HIME_ChangeBattleback by \c[2]Hime\c[0]\#HIME_EndPhaseTriggers \c[2]HimeWorks (http://himeworks.com)\c[0]\#HIME_FormulaEffects\#HIME_FollowerEventTouch\#HIME_StateChangeAnimations\#HIME_StateDamageModifiers\#HIME_GuestFollowers\#HIME_PreTitleEvents\#HIME_DisabledChoiceConditions\#HIME_LargeChoices\#HIME_ConditionalChoiceText\#MrTS_MinimumDamage by \c[2]Mr. Trivel\c[0]\#MrTS_SimpleSaveLoadMenu\#Olivia_HorrorEffects by \c[2]Fallen Angel Olivia\c[0]\#Olivia_OctoBattle\#Olivia_MetaControls\#Olivia_AntiPlayerStress\#DhoomMessageSE by \c[2]DrDhoom - drd-workshop.blogspot.com\c[0]\#Galv_ImageCache by \c[2]Galv - galvs-scripts.com\c[0]\#Galv_EventSpawner\#Galv_ExAgiTurn\#Galv_ScreenZoom\#Galv_BustMenu\#Galv_VisibilityRange\#Galv_LayerGraphics\#FilterController by \c[2]Tsukimi\c[0]\#TitleCommandPosition by \c[2]Yoji Ojima\c[0]\#SRCrazy_LanguagePrimers by \c[2]S_Rank_Crazy\c[0]\#YEP_FootstepSounds by \c[2]Yanfly Engine Plugins + Chickie\c[0]\#YEP_X_ItemDiscrd by \c[2]Yanfly Engine Plugins + Sylvester\c[0]\#YEP_X_ItemCategories\#YEP_BattleEngineCore by \c[2]Yanfly Engine Plugins\c[0]\#YEP_ElementCore\#YEP_Taunt\#YEP_BaseParamControl\#YEP_SaveEventLocations\#YEP_BuffsStatesCore\#YEP_X_VisualStateFX\#YEP_MessageCore\#YEP_X_CriticalControl\#YEP_DamageCore\#YEP_GabWindow\#YEP_EventChasePlayer\#YEP_StopMapMovement\#YEP_OptionsCore\#YEP_ButtonCommonEvents\#YEP_KeyboardConfig\#YEP_MainMenuManager\#YEP_StatusMenuCore\#YEP_ItemCore\#YEP_X_ItemPictureImg\#YEP_EquipCore\#YEP_WeaponUnleash\#YEP_ItemSynthesis\#YEP_AutoPassiveStates\#YEP_X_CounterControl\#YEP_ElementReflect\#YEP_LifeSteal\#YEP_Z_StateProtection\#YEP_DashToggle\#YEP_TouchInputDisabler\#WeaponSkill by \c[2]Sasuke KANNAZUKI\c[0]\#TY_RemoveLuck_YEP_EquipCore by \c[2]Toby Yasha\c[0]\#TY_AboutUrl\#Izy_RemoveOption by \c[2]Izyees Fariz\c[0]\#TerraxLighting by \c[2]Terrax\c[0]\#TDDP_FluidTimestep by \c[2]Tor Damian Design / Galenmereth\c[0]\#TDDP_ManageDashing\#DK_Name_Input by \c[2]DK (Denis Kuznetsov)\c[0]\#SRD_NameInputUpgrade by \c[2]SumRndDde\c[0]\#SRD_MenuBackgrounds\#ARP_CommandIcons by \c[2]Atreyo Ray\c[0]\#PrettySleekGauges by \c[2]Vlue Au'Vier, Rocketmancer and mjshi\c[0]\#commandequip by \c[2]Jeneeus Guruman\c[0]\#malcommandequip_edits by \c[2]Maliki79 (original by Jeneeus Guruman)\c[0]\#VE_BasicModule by \c[2]Victor Sant\c[0]\#VE_DiagonalMovement\#VE_FogAndOverlay\#physical_attack_animation by \c[2]Coelocanth\c[0]\#ADDITIONAL PLUGIN HELP\#\c[2]Kaa/Sunless\c[0]\#\c[2]Ketsueki Heartless Angel\c[0]\#CHINESE TRANSLATION\#\c[2]咸鱼鱼糕\c[0]\#\c[2]FrostyMoon\c[0]\#\c[2]Soos\c[0]\#\c[2]Zealousness\c[0]\#\c[2]苏黯\c[0]\#\c[2]Marshall\c[0]\#The game was made with RPG MAKER MV that\#is developed by KADOKAWA and Yoji Ojima.\#RPG Maker is published by Degica.
+ТИТРЫ\#ИГРА\#\c[2]Miro Haverinen\c[0]\#ДОПОЛНИТЕЛЬНАЯ МУЗЫКА\#Следующие треки были сделаны\#\c[2]Chilly Makes Music\c[0]:\#'Unknowable'\#'Wayward Souls'\#'Lost Haven / Shillings'\#'Denied The Light'\#ЗВУКОВЫЕ ЭФФЕКТЫ\#"bell.aif" от \c[2]o0pAt0o\c[0] с Freesound.org\#"Hells Bell Hit1.wav" от \c[2]tosha73\c[0] с Freesound.org\#"Dramatic Organ, B.wav" от \c[2]InspectorJ (www.jshaw.co.uk)\c[0]\#"Dramatic Organ, A.wav" от \c[2]InspectorJ (www.jshaw.co.uk)\c[0]\#"Organ.wav" от \c[2]tome002\c[0]\#"13 second Organ phrase" от \c[2]nartes\c[0]\#"Creepy Organ Loop1.wav" от \c[2]Aeonemi\c[0]\#"Creepy Organ Sound.wav" от \c[2]Aeonemi\c[0]\#"Creepy Organ Loop3.wav" от \c[2]Aeonemi\c[0]\#"Church organ music" от \c[2]FK_Prod\c[0] of Freesound.org\#"Pipe Organ Intro.wav" от \c[2]BaDoink\c[0] of Freesound.org\#"Green Diamond Organ Loop" от \c[2]szegvari\c[0] с Freesound.org\#"92 old times organ.wav" от \c[2]Thirsk\c[0] с Freesound.org\#"SFX_ATTACK_SWORD_001" от \c[2]Joel Azzopardi\c[0]\#"Shield Bash Impact" от \c[2]Hybrid_V\c[0]\#"Anvil" от \c[2]MrAuralization\c[0]\#"Japanese Cicadas" от \c[2]MrAuralization\c[0]\#Дополнительные звуковые эффекты были предоставлены\#\c[2]Cosmic Embers www.youtube.com/cosmicembers\c[0]\#Голос "Крысиной карги" - \c[2]magnuswaker\c[0]\#Голос "Нидлза", "Ститчес" и "Соседа" - \c[2]Louis Morel\c[0]\#Голос "Покеткэта" - \c[2]Edwin the Djinn aka Alex\c[0]\#Треки на Омниструне - \c[2]Mika\c[0]\#ИСПРАВЛЕНИЕ БАГОВ И ДОПОЛНИТЕЛЬНОЕ ПРОГРАММИРОВАНИЕ\#\c[2]Toby Yasha\c[0]\#ДОПОЛНИТЕЛЬНЫЕ ДИЗАЙНЫ МОНСТРОВ\#"Сергал Прокаженный" - лишь фанатская интерпретация\#вымышленного вида Сергалов, созданного \c[2]Mick Ono\c[0] и\#\c[2]Kiki-UMA\c[0].\#Спасибо за разрешение использовать их в игре!\#"Ронтил" основан на дизайне от \c[2]Chester\c[0]\#"Бессердечная" основана на дизайне от \c[2]Ketsueki Heartless Angel\c[0]\#"Наездница Сильвиан и Взвод" основаны на\#дизайне от \c[2]Vlad "Vladstori" Tsvetkov\c[0]\#"Раткин" основан на идее от \c[2]Артур\c[0]\#Дополнительные дизайны "Новых Богов" от\#\c[2]Charo, Chester, Madlene, Louis Morel\c[0]\#ТЕСТИРОВАНИЕ/ОТДАЧА/МОЗГОВЫНОС/ПОМОЩЬ\#С БАЛАНСОМ\#Игра выглядела бы совсем по другому без этих людей.\#\c[2]Chilly Makes Music\c[0]\#\c[2]Edwin the Djinn aka Alex\c[0]\#\c[2]LunarCatUSA\c[0]\#\c[2]Priscilla Poodle\c[0]\#\c[2]Gloomy Cat\c[0]\#\c[2]Pouty Potioneer Dove\c[0]\#\c[2]Louis Morel\c[0]\#\c[2]Rune Demolder\c[0]\#\c[2]Ketsueki Heartless Angel\c[0]\#\c[2]Sydney\c[0]\#\c[2]Decent\c[0]\#\c[2]咸鱼鱼糕\c[0]\#Также приняли участие в тестировании, команда\#Rotten Cabbage:\#\c[2]Akropo aka Andrew Selin\c[0]\#\c[2]Morgæn Rei aka Ruslan Ibraimov\c[0]\#\c[2]Liong-Sah aka Leonid Sakhanovski\c[0]\#\c[2]Incredibilis Darklord aka Ivan Petrov\c[0]\#\c[2]BreadLi aka Mikhail Klyputhenko\c[0]\#\c[2]Gooudini aka Alexandr Minchenko\c[0]\#ИСПОЛЬЗОВАННЫЕ ПЛАГИНЫ:\#Ultra Mode 7 licensed under BSD License 2.0\#Copyright (c) \c[2]Boris "Blizzard" Mikić\c[0]\#YSP_VideoPlayer от \c[2]Dr.Yami\c[0]\#DisableMapRegen от \c[2]John Clifford (Trihan)\c[0]\#HIME_ChangeBattleback от \c[2]Hime\c[0]\#HIME_EndPhaseTriggers \c[2]HimeWorks (http://himeworks.com)\c[0]\#HIME_FormulaEffects\#HIME_FollowerEventTouch\#HIME_StateChangeAnimations\#HIME_StateDamageModifiers\#HIME_GuestFollowers\#HIME_PreTitleEvents\#HIME_DisabledChoiceConditions\#HIME_LargeChoices\#HIME_ConditionalChoiceText\#MrTS_MinimumDamage от \c[2]Mr. Trivel\c[0]\#MrTS_SimpleSaveLoadMenu\#Olivia_HorrorEffects от \c[2]Fallen Angel Olivia\c[0]\#Olivia_OctoBattle\#Olivia_MetaControls\#Olivia_AntiPlayerStress\#DhoomMessageSE от \c[2]DrDhoom - drd-workshop.blogspot.com\c[0]\#Galv_ImageCache от \c[2]Galv - galvs-scripts.com\c[0]\#Galv_EventSpawner\#Galv_ExAgiTurn\#Galv_ScreenZoom\#Galv_BustMenu\#Galv_VisibilityRange\#Galv_LayerGraphics\#FilterController от \c[2]Tsukimi\c[0]\#TitleCommandPosition от \c[2]Yoji Ojima\c[0]\#SRCrazy_LanguagePrimers от \c[2]S_Rank_Crazy\c[0]\#YEP_FootstepSounds от \c[2]Yanfly Engine Plugins + Chickie\c[0]\#YEP_X_ItemDiscrd от \c[2]Yanfly Engine Plugins + Sylvester\c[0]\#YEP_X_ItemCategories\#YEP_BattleEngineCore от \c[2]Yanfly Engine Plugins\c[0]\#YEP_ElementCore\#YEP_Taunt\#YEP_BaseParamControl\#YEP_SaveEventLocations\#YEP_BuffsStatesCore\#YEP_X_VisualStateFX\#YEP_MessageCore\#YEP_X_CriticalControl\#YEP_DamageCore\#YEP_GabWindow\#YEP_EventChasePlayer\#YEP_StopMapMovement\#YEP_OptionsCore\#YEP_ButtonCommonEvents\#YEP_KeyboardConfig\#YEP_MainMenuManager\#YEP_StatusMenuCore\#YEP_ItemCore\#YEP_X_ItemPictureImg\#YEP_EquipCore\#YEP_WeaponUnleash\#YEP_ItemSynthesis\#YEP_AutoPassiveStates\#YEP_X_CounterControl\#YEP_ElementReflect\#YEP_LifeSteal\#YEP_Z_StateProtection\#YEP_DashToggle\#YEP_TouchInputDisabler\#WeaponSkill от \c[2]Sasuke KANNAZUKI\c[0]\#TY_RemoveLuck_YEP_EquipCore от \c[2]Toby Yasha\c[0]\#TY_AboutUrl\#Izy_RemoveOption от \c[2]Izyees Fariz\c[0]\#TerraxLighting от  \c[2]Terrax\c[0]\#TDDP_FluidTimestep от \c[2]Tor Damian Design / Galenmereth\c[0]\#TDDP_ManageDashing\#DK_Name_Input от \c[2]DK (Denis Kuznetsov)\c[0]\#SRD_NameInputUpgrade от \c[2]SumRndDde\c[0]\#SRD_MenuBackgrounds\#ARP_CommandIcons от \c[2]Atreyo Ray\c[0]\#PrettySleekGauges от \c[2]Vlue Au'Vier, Rocketmancer and mjshi\c[0]\#commandequip от \c[2]Jeneeus Guruman\c[0]\#malcommandequip_edits от \c[2]Maliki79 (оригинал от Jeneeus Guruman)\c[0]\#VE_BasicModule от \c[2]Victor Sant\c[0]\#VE_DiagonalMovement\#VE_FogAndOverlay\#physical_attack_animation от \c[2]Coelocanth\c[0]\#ДОПОЛНИТЕЛЬНАЯ ПОМОЩЬ С ПЛАГИНАМИ\#\c[2]Kaa/Sunless\c[0]\#\c[2]Ketsueki Heartless Angel\c[0]\#КИТАЙСКИЙ ПЕРЕВОД\#\c[2]咸鱼鱼糕\c[0]\#\c[2]FrostyMoon\c[0]\#\c[2]Soos\c[0]\#\c[2]Zealousness\c[0]\#\c[2]苏黯\c[0]\#\c[2]Marshall\c[0]\#РУССКИЙ ПЕРЕВОД\#\c[2]Деймос aka de1mosZ\c[0]\#ПРИ ПОДДЕРЖКЕ БУСТЕРОВ\#\c[2]гепатит2009макс\c[0] поддержал подпиской\#на год.\#\c[2]Дуфи\c[0] поддержал платежом на 500 рублей\#и подпиской.\#\c[2]TENEBRIS\c[0] поддержал платежом на 300 рублей.\#\c[2]Pepe_shop\c[0] поддержал подпиской.\#Игра была разработана с использованием RPG\#MAKER MV, разработанным KADOKAWA и Йодзи\#Одзимой. RPG Maker издаётся компанией Degica.
 \>\}ДААН\{\<\#«Его лицо...»
 \>\}ДААН\{\<\#«Оно измазано косметикой и кровью... А выражение застыло\#в ублюдочной ухмылке, даже несмотря на то, что он пережил\#мучительную смерть...»
 \>\}ДААН\{\<\#«...»
+\>\}ДААН\{\<\#«Этого не может быть...»
 «Что такое?»
 «Ты узнаешь его?»
-\>\}ДААН\{\<\#«Этого не может быть...»
 \>\}ДААН\{\<\#«Мой разум просто играет со мной.\. Грязные уловки...»
 \>\}ДААН\{\<\#«Этот парень явно находится в расцвете сил. Под его одеждой\#скрывается мускулистое тело, все в шрамах.»
 \>\}ДААН\{\<\#«Ужас. Его мышцы все еще напряжены, даже после смерти.»
