@@ -1,17 +1,3 @@
-General Armor
-Magic Armor
-Light Armor
-Heavy Armor
-Small Shield
-Large Shield
-Sigil
-Wheelchair
-Blunt
-Slashing
-Piercing
-Fire
-Leech
-Otherwordly
 Weapon
 Shield
 Head
@@ -20,9 +6,6 @@ Accessory
 Wheels
 Empty
 Skills
-Flower magic
-Skill
-Special
 Level
 Lv
 Mind
@@ -55,55 +38,14 @@ Agility
 Luck
 Accuracy
 Evasion
-There was no effect on %1!
-%1 took %2 damage!
-%1 was drained of %2 %3!
-%1 gained %2 %3!
-%1 lost %2 %3!
-%1 took no damage!
-Miss! %1 took no damage!
-%1 recovered %2 %3!
-Always Dash
 BGM Volume
 BGS Volume
-%1's %2 went up!
-%1's %2 returned to normal!
 Command Remember
-%1 counterattacked!
-%1 was defeated.
 However, it was unable to escape!
-%1 tries to escape...
-%1 evaded the attack!
 Load which file?
-%1 nullified the magic!
 ME Volume
-%1 %2 received!
-%1\G found!
-%1 found!
-%1 learned!
 %1's party
 Possession
-%1 got the upper hand!
 Save to which file?
 SE Volume
-%1 was surprised!
-%1 uses %2!
-%1 was victorious!
-Dagger
-Sword
-Bayonet
-Whip
-Big sword
-Long-range gun
-Close-range gun
-Other
-Thrusting sword
-Thrusting Spear
-Blood Sword
-Blood Spear
-Slashing Spear
-Red virtue
-Black steel
-Lantern Flail
-Meat mallet
 Fear & Hunger 2: TERMINA
