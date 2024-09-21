@@ -12,7 +12,8 @@ The woodsman seems to be waiting for your initiative...
 \>\i[85]\}OODSMAN\{\<\#"You had your chance... You had your chance you fool!" (M)
 \>\i[85]\}OODSMAN\{\<\#"You had your chance... You had your chance you fool!" (F)
 \>\i[85]\}OODSMAN\{\<\#"Leave - now! Don't you understand!?"
-"I told you, I'd leave if I could!"
+"I told you, I'd leave if I could!" (M)
+"I told you, I'd leave if I could!" (F)
 "Understand what?"
 "..."
 \>\i[85]\}OODSMAN\{\<\#"Filthy outsider! You'll leave in a body bag then!" (M)
