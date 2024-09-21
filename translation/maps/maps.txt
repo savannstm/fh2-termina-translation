@@ -5892,9 +5892,9 @@ Interrupt the man in the suit
 \>\i[76]\}AN IN A FINE SUIT\{\<\#"Lick them clean."
 \>\i[76]\}AN IN A FINE SUIT\{\<\#"Lick them."
 \>\i[76]\}AN IN A FINE SUIT\{\<\#"Now look what you did. There's blood mixed with the dust."
-\>\i[76]\}AN IN A FINE SUIT\{\<\#"What? You were there just watching this entire time?"
-\>\i[76]\}AN IN A FINE SUIT\{\<\#"What kind of sicko are you?" (M)
-\>\i[76]\}AN IN A FINE SUIT\{\<\#"What kind of sicko are you?" (F)
+\>\i[76]\}AN IN A FINE SUIT\{\<\#"What? You were there just watching this entire time?" (M)
+\>\i[76]\}AN IN A FINE SUIT\{\<\#"What? You were there just watching this entire time?" (F)
+\>\i[76]\}AN IN A FINE SUIT\{\<\#"What kind of sicko are you?"
 GabText You hear some ruckus from ahead.
 \>\i[74]\}ARIN\{\<\#"How horrible..."
 "Did you know the boy?"
