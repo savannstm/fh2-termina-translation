@@ -423,8 +423,7 @@ You took \c[2]Olivia's head\c[0] as a trophy!
 "I find it eerie."
 \>\i[64]\}UGUST\{\<\#"Do no fret. I'm sure if you stay at the train it'll be alright."
 \>\i[64]\}UGUST\{\<\#"A nice weather to enjoy the outdoors."
-\>\i[64]\}UGUST\{\<\#"Just don't go wandering too far my friend, okay?" (M)
-\>\i[64]\}UGUST\{\<\#"Just don't go wandering too far my friend, okay?" (F)
+\>\i[64]\}UGUST\{\<\#"Just don't go wandering too far my friend, okay?"
 \>\i[64]\}UGUST\{\<\#"Ah... Nothing much."
 \>\i[64]\}UGUST\{\<\#"A twist of fate perhaps?"
 \>\i[64]\}UGUST\{\<\#"I'm just passing through."
@@ -1908,8 +1907,7 @@ The salaryman seems to be completely lost in his thoughts...
 \>\i[74]\}ARIN\{\<\#"Every one of us has seen hallucinations and lucid dreams. From the\#looks of things, the locals also suffered from similar problems..."
 \>\i[74]\}ARIN\{\<\#"I don't know yet. I need to investigate more."
 \>\i[74]\}ARIN\{\<\#"Yeah. Fine."
-\>\i[74]\}ARIN\{\<\#"Not this time buddy. I prefer to work alone." (M)
-\>\i[74]\}ARIN\{\<\#"Not this time buddy. I prefer to work alone." (F)
+\>\i[74]\}ARIN\{\<\#"Not this time buddy. I prefer to work alone."
 \>\i[74]\}ARIN\{\<\#"What the hell are you doing!?"
 You read her mind...\#\c[1]"I think I can take a small break. I've been at it 24/7 for\#a while now."\c[0]
 You read her mind...\#\c[1]"I should really learn to relax one of these days..."\c[0]
@@ -3925,16 +3923,14 @@ Sit down
 \>\i[76]\}AYOR\{\<\#"What... you shrimp!?"
 \>\i[76]\}AYOR\{\<\#"WHAT'S THE MATTER SHRIMP!? You don't feel honoured\#in my presence...?"
 \>\i[76]\}AYOR\{\<\#"Is my invitation not good enough for your fancy ass?"
-\>\i[76]\}AYOR\{\<\#"Newcomer... Isn't it peaceful here?" (M)
-\>\i[76]\}AYOR\{\<\#"Newcomer... Isn't it peaceful here?" (F)
+\>\i[76]\}AYOR\{\<\#"Newcomer... Isn't it peaceful here?"
 \>\i[76]\}AYOR\{\<\#"I am glad to see you're not a complete looney yet, unlike\#those others... You saw those people didn't you?"
 \>\i[76]\}AYOR\{\<\#"One can only wonder what happened to the folks around these\#parts..."
 \>\i[76]\}AYOR\{\<\#"They've drifted far from humanity. Only thing they seem\#interested in is scavenging the scraps around the old town."
 \>\i[76]\}AYOR\{\<\#"How am I to have in-depth discussions with them? I want to\#talk about poetry, music... and culinary arts..."
 "What happened here?"
 "You don't seem so normal yourself either..."
-\>\i[76]\}AYOR\{\<\#"We are in the same boat here, my friend... I don't have the\#answers." (M)
-\>\i[76]\}AYOR\{\<\#"We are in the same boat here, my friend... I don't have the\#answers." (F)
+\>\i[76]\}AYOR\{\<\#"We are in the same boat here, my friend... I don't have the\#answers."
 \>\i[76]\}AYOR\{\<\#"I heard the Bremen military meddled with something..."
 \>\i[76]\}AYOR\{\<\#"Some say the moonlight scorched this earth into something\#unrecognizable..."
 \>\i[76]\}AYOR\{\<\#"And the town folk say... it's always been this way..."
@@ -3948,8 +3944,7 @@ Sit down
 \>\i[76]\}AYOR\{\<\#"You seen yourself? You'd be fine, if it wasn't for that\#disgusting pierced piehole of yours."
 \>\i[76]\}AYOR\{\<\#"What exactly are you suggesting!?"
 \>\i[76]\}AYOR\{\<\#"You come to my dinner table just to insult me!?"
-\>\i[76]\}AYOR\{\<\#"Newcomer... You haven't touched the food yet..." (M)
-\>\i[76]\}AYOR\{\<\#"Newcomer... You haven't touched the food yet..." (F)
+\>\i[76]\}AYOR\{\<\#"Newcomer... You haven't touched the food yet..."
 \>\i[76]\}AYOR\{\<\#"These are rare delicacies you can only find in Prehevil..."
 \>\i[76]\}AYOR\{\<\#"I've travelled from afar just to experience them..."
 \>\i[76]\}AYOR\{\<\#"Pick these for example... Don't they look absolutely\#delicious..."
@@ -4013,8 +4008,7 @@ The atmosphere on the table became very cold suddenly.
 "I support the Bremen army."
 "I fight against the Bremen army."
 \>\i[76]\}AYOR\{\<\#"You truly are a newcomer..."
-\>\i[76]\}AYOR\{\<\#"I'm afraid you are not the kind I was hoping for..." (M)
-\>\i[76]\}AYOR\{\<\#"I'm afraid you are not the kind I was hoping for..." (F)
+\>\i[76]\}AYOR\{\<\#"I'm afraid you are not the kind I was hoping for..."
 \>\i[76]\}AYOR\{\<\#"Ha ha... Yes..."
 \>\i[76]\}AYOR\{\<\#"You have my support..."
 \>\i[76]\}AYOR\{\<\#"Here... the key is yours..."
@@ -4073,8 +4067,7 @@ There is a ladder to downstairs here...
 \>\i[73]\}EEVES\{\<\#"I hope you had the most pleasant meal."
 There is a towering waiter greeting here.
 Looks like there's someone's seat here...
-\>\i[76]\}AYOR\{\<\#"Newcomer..." (M)
-\>\i[76]\}AYOR\{\<\#"Newcomer..." (F)
+\>\i[76]\}AYOR\{\<\#"Newcomer..."
 \>\i[76]\}AYOR\{\<\#"So you've decided to play by their rules!"
 \>\i[76]\}AYOR\{\<\#"This is how you repay my kindness!?"
 The hallways seems to be blocked here...
@@ -4258,8 +4251,7 @@ Henryk is just sniffing the air.
 \>\i[71]\}ENRYK\{\<\#"You saw all the food at the dinner table? This used to be the mayor's\#manor. He must've stashed all the food somewhere."
 \>\i[71]\}ENRYK\{\<\#"Help me find the food storage and we'll be out of here!"
 You read his mind...\#\c[1]"I'm sure it's somewhere here..."\c[0]
-"I found the food storage!" (M)
-"I found the food storage!" (F)
+"I found the food storage!"
 "How did you get here? It's dangerous outside."
 "Are you feeling alright now?"
 \>\i[71]\}ENRYK\{\<\#"You did? Lead the way!"
@@ -5864,8 +5856,7 @@ Interrupt Caligura
 Do nothing
 \>\i[66]\}ALIGURA\{\<\#"You?!"
 \>\i[66]\}ALIGURA\{\<\#"Watch it where you stick your nose at or you might end up\#regretting it!"
-"I didn't mean to kill him..." (M)
-"I didn't mean to kill him..." (F)
+"I didn't mean to kill him..."
 "You're next."
 \>\i[66]\}ALIGURA\{\<\#"My shoes... They're the finest Vatican leather, but now they are\#awfully dusty because of this dead end town..."
 \>\i[66]\}ALIGURA\{\<\#"Lick them clean."
@@ -5877,8 +5868,7 @@ The boy spat on the shoes.
 \>\i[75]\}EVI\{\<\#"...Does that do the trick?"
 \>\i[65]\}OY IN ARMY OVERALLS\{\<\#"...Does that do the trick?"
 \>\i[66]\}ALIGURA\{\<\#"Now look what you did. There's blood mixed with the dust."
-\>\i[66]\}ALIGURA\{\<\#"What? You were there just watching this entire time?" (M)
-\>\i[66]\}ALIGURA\{\<\#"What? You were there just watching this entire time?" (F)
+\>\i[66]\}ALIGURA\{\<\#"What? You were there just watching this entire time?"
 \>\i[66]\}ALIGURA\{\<\#"What kind of sicko are you?"
 \>\i[76]\}AN IN A FINE SUIT\{\<\#"You are a real mess boy, you know that right?"
 \>\i[76]\}AN IN A FINE SUIT\{\<\#"I'm just doing the world a favour by getting rid of you."
@@ -5892,8 +5882,7 @@ Interrupt the man in the suit
 \>\i[76]\}AN IN A FINE SUIT\{\<\#"Lick them clean."
 \>\i[76]\}AN IN A FINE SUIT\{\<\#"Lick them."
 \>\i[76]\}AN IN A FINE SUIT\{\<\#"Now look what you did. There's blood mixed with the dust."
-\>\i[76]\}AN IN A FINE SUIT\{\<\#"What? You were there just watching this entire time?" (M)
-\>\i[76]\}AN IN A FINE SUIT\{\<\#"What? You were there just watching this entire time?" (F)
+\>\i[76]\}AN IN A FINE SUIT\{\<\#"What? You were there just watching this entire time?"
 \>\i[76]\}AN IN A FINE SUIT\{\<\#"What kind of sicko are you?"
 GabText You hear some ruckus from ahead.
 \>\i[74]\}ARIN\{\<\#"How horrible..."
@@ -6067,8 +6056,7 @@ You read his mind...\#\c[1]"I think I got this area covered... These photos shou
 "Oh, sorry about that!"
 \>\i[74]\}ARIN\{\<\#"You got some issues! You know that?"
 \>\i[74]\}ARIN\{\<\#"Hey you hear me!?"
-\>\i[64]\}UGUST\{\<\#"It's you my friend! I'm happy to see you made it." (M)
-\>\i[64]\}UGUST\{\<\#"It's you my friend! I'm happy to see you made it." (F)
+\>\i[64]\}UGUST\{\<\#"It's you my friend! I'm happy to see you made it."
 \>\i[64]\}UGUST\{\<\#"I apologise for leaving you like that.\. There were some bumps in\#the road..."
 \>\i[64]\}UGUST\{\<\#"But what's important is that you're here. Still alive and strong."
 "How could you leave me like that!?"
@@ -9313,13 +9301,11 @@ You can see scorched skin under the mask. The eyes are glassy and\#dry. The whol
 \>\i[76]\}ASKED PERSON\{\<\#"Oh the season? It definitely is the month of the Sulfur. No doubt\#about it. No doubt about it."
 The masked person seems to be in a trance of some kind, just repeating\#the same words over and over again...
 \>\i[76]\}ASKED PERSON\{\<\#"The sulfur? It's the one with a triangle, right?"
-\>\i[73]\}EEVES\{\<\#"Ah, young master. We meet again." (M)
-\>\i[73]\}EEVES\{\<\#"Ah, young master. We meet again." (F)
+\>\i[73]\}EEVES\{\<\#"Ah, young master. We meet again."
 \>\i[73]\}EEVES\{\<\#"Welcome to the grand masquarade. We are celebrating the end of\#times, the festival of Termina."
 \>\i[73]\}EEVES\{\<\#"I'm sure you're aware of the festival by now too."
 \>\i[73]\}EEVES\{\<\#"Greetings. Welcome to the grand masquarade. We are celebrating the\#end of times, the festival of Termina."
-\>\i[73]\}EEVES\{\<\#"Ah, but alas, we are not forever young, are we my master?" (M)
-\>\i[73]\}EEVES\{\<\#"Ah, but alas, we are not forever young, are we my master?" (F)
+\>\i[73]\}EEVES\{\<\#"Ah, but alas, we are not forever young, are we my master?"
 \>\i[73]\}EEVES\{\<\#"I understand that your time is money. And money is nigh."
 \>\i[73]\}EEVES\{\<\#"If I'm not mistaken, you're waiting for the bells to ring, am I right?"
 \>\i[73]\}EEVES\{\<\#"But before that happens, I would have liked to introduce you to\#some of my closest acquaintances."
@@ -9652,10 +9638,8 @@ GabText The inner yard is overgrown with weeds of different kinds.
 The otherwordly force that was keeping the door shut... It's gone\#now...
 An otherwordly force seems to keep the door stuck...
 You could use \c[2]Purifying talisman\c[0] here?
-\>\i[144]\}OCKETCAT\{\<\#"So you've decided to partake in that degenerate festivity?" (M)
-\>\i[144]\}OCKETCAT\{\<\#"So you've decided to partake in that degenerate festivity?" (F)
-\>\i[144]\}OCKETCAT\{\<\#"As you wish master." (M)
-\>\i[144]\}OCKETCAT\{\<\#"As you wish master." (F)
+\>\i[144]\}OCKETCAT\{\<\#"So you've decided to partake in that degenerate festivity?"
+\>\i[144]\}OCKETCAT\{\<\#"As you wish master."
 A lone hanging platform... What is it doing here?
 He has been hanged...
 \>\i[64]\}BELLA\{\<\#"Why is there a hanging platform in a schoolyard!?"

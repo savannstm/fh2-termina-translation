@@ -1,23 +1,17 @@
 choice_text 1 \}[PERSUADE]\{ "I have no intentions of staying. Just stay back and I'll leave."
 choice_text 2 \}[INTIMIDATE]\{ "Where I go is none of your business."
-\>\i[85]\}OODSMAN\{\<\#"Leave stranger. The town has got enough vermin..." (M)
-\>\i[85]\}OODSMAN\{\<\#"Leave stranger. The town has got enough vermin..." (F)
-"I'd love to leave but don't know how..." (M)
-"I'd love to leave but don't know how..." (F)
+\>\i[85]\}OODSMAN\{\<\#"Leave stranger. The town has got enough vermin..."
+"I'd love to leave but don't know how..."
 "I won't leave without your head."
 Nevermind
 \>\i[85]\}OODSMAN\{\<\#"..."
 \>\i[85]\}OODSMAN\{\<\#"Leave! Now! Before I bury this hatchet in your skull..."
 The woodsman seems to be waiting for your initiative...
-\>\i[85]\}OODSMAN\{\<\#"You had your chance... You had your chance you fool!" (M)
-\>\i[85]\}OODSMAN\{\<\#"You had your chance... You had your chance you fool!" (F)
+\>\i[85]\}OODSMAN\{\<\#"You had your chance... You had your chance you fool!"
 \>\i[85]\}OODSMAN\{\<\#"Leave - now! Don't you understand!?"
-"I told you, I'd leave if I could!" (M)
-"I told you, I'd leave if I could!" (F)
+"I told you, I'd leave if I could!"
 "Understand what?"
-"..."
-\>\i[85]\}OODSMAN\{\<\#"Filthy outsider! You'll leave in a body bag then!" (M)
-\>\i[85]\}OODSMAN\{\<\#"Filthy outsider! You'll leave in a body bag then!" (F)
+\>\i[85]\}OODSMAN\{\<\#"Filthy outsider! You'll leave in a body bag then!"
 \>\i[85]\}OODSMAN\{\<\#"It's... the festival of Termina! No one here is going to see\#the morning sun!"
 \>\i[85]\}OODSMAN\{\<\#"I have warned you, you miserable weasel..."
 You seem to have made the woodsman furious.
@@ -246,8 +240,7 @@ Your intimidation tactics just made the villager more defiant and\#furious. His 
 GabText You stole a \c[2]12-gauge shell\c[0]!
 GabText You are assaulted by the villager!
 The villager approaches fast with a rusty pipe raised as a\#weapon. All of his muscles seem to tense up in the heat of\#an attack!
-choice_text 1 \}[PERSUADE]\{ "I've insulted you. How can I apologize?" (M)
-choice_text 1 \}[PERSUADE]\{ "I've insulted you. How can I apologize?" (F)
+choice_text 1 \}[PERSUADE]\{ "I've insulted you. How can I apologize?"
 choice_text 2 \}[INTIMIDATE]\{ "I'll shove that fork down your throat!"
 \>\i[70]\}ENTLEMAN\{\<\#"There is no forgiving! You don't act this way on a candle light\#dinner!"
 "I'm sorry, can we just sit down and eat?"
@@ -260,11 +253,9 @@ Bow down and ask for forgiveness
 The gentleman seems to be hesitating a little bit.
 \>\i[70]\}ENTLEMAN\{\<\#"That's what I thought."
 \>\i[70]\}ENTLEMAN\{\<\#"You just keep apologizing and I keep giving you second chances, is\#that it?"
-\>\i[70]\}ENTLEMAN\{\<\#"You had your chance, ungrateful and vulgar tyke!" (M)
-\>\i[70]\}ENTLEMAN\{\<\#"You had your chance, ungrateful and vulgar tyke!" (F)
+\>\i[70]\}ENTLEMAN\{\<\#"You had your chance, ungrateful and vulgar tyke!"
 \>\i[70]\}ENTLEMAN\{\<\#"That train has passed already. We are way beyond that!"
-\>\i[70]\}ENTLEMAN\{\<\#"You ungrateful and vulgar tyke!" (M)
-\>\i[70]\}ENTLEMAN\{\<\#"You ungrateful and vulgar tyke!" (F)
+\>\i[70]\}ENTLEMAN\{\<\#"You ungrateful and vulgar tyke!"
 You are not able to convince him with your words.
 \>\i[70]\}ENTLEMAN\{\<\#"Acting like a big mob boss, are we!?"
 \>\i[70]\}ENTLEMAN\{\<\#"Don't make me laugh!"
@@ -272,13 +263,11 @@ You are not able to convince him with your words.
 "Laugh? I will make you cry!"
 \>\i[70]\}ENTLEMAN\{\<\#"We got a tough guy here..."
 Despite his words, the gentleman seems a bit nervous.
-\>\i[70]\}ENTLEMAN\{\<\#"Huah hah... Sure thing pal." (M)
-\>\i[70]\}ENTLEMAN\{\<\#"Huah hah... Sure thing pal." (F)
+\>\i[70]\}ENTLEMAN\{\<\#"Huah hah... Sure thing pal."
 \>\i[70]\}ENTLEMAN\{\<\#"Maybe work on that intimidation game a bit?"
 \>\i[70]\}ENTLEMAN\{\<\#"It's all lovely and all, but no one's going to take you seriously\#here."
 \>\i[70]\}ENTLEMAN\{\<\#"So you say, but these are not just my games..."
-\>\i[70]\}ENTLEMAN\{\<\#"We are both just pawns in his game... But unlike you scoundrel,\#I'm playing the game by my own rules." (M)
-\>\i[70]\}ENTLEMAN\{\<\#"We are both just pawns in his game... But unlike you scoundrel,\#I'm playing the game by my own rules." (F)
+\>\i[70]\}ENTLEMAN\{\<\#"We are both just pawns in his game... But unlike you scoundrel,\#I'm playing the game by my own rules."
 \>\i[70]\}ENTLEMAN\{\<\#"I will savor these last moments... I will have a casserole made\#from you..."
 \>\i[70]\}ENTLEMAN\{\<\#"Perhaps with the right wine... I will be able to wash away the\#bad taste you left."
 GabText The gentleman's skin begins to rot beneath his shirt...
@@ -403,8 +392,7 @@ Introduce yourself
 "What is going on here?"
 \>\i[76]\}OONSCORCHED\{\<\#"As if I'd care!"
 \>\i[76]\}OONSCORCHED\{\<\#"Oh I'll tell you what! I'll rip your throat open, that's\#what!"
-\>\i[76]\}OONSCORCHED\{\<\#"Playing it cool? Just keep doing that and I'll rip your\#throat!" (M)
-\>\i[76]\}OONSCORCHED\{\<\#"Playing it cool? Just keep doing that and I'll rip your\#throat!" (F)
+\>\i[76]\}OONSCORCHED\{\<\#"Playing it cool? Just keep doing that and I'll rip your\#throat!"
 \>\i[76]\}OONSCORCHED\{\<\#"I will! Look at this!"
 "Let's see it! I call your bluff!"
 "Sorry, I meant no disrespect!"
@@ -894,15 +882,13 @@ The hag is just cackling at you.
 "What's so funny?"
 "Are you alright lady?"
 "Let's see who will have the last laugh."
-\>\i[80]\}AT HAG\{\<\#"Ka! Why so serious stranger?" (M)
-\>\i[80]\}AT HAG\{\<\#"Ka! Why so serious stranger?" (F)
+\>\i[80]\}AT HAG\{\<\#"Ka! Why so serious stranger?"
 \>\i[80]\}AT HAG\{\<\#"Let the granny give you a hug! Kaah!"
 \>\i[80]\}AT HAG\{\<\#"Dats sweet. You can always give me a good rubbin'. My back has\#been aching for a good bit now."
 \>\i[80]\}AT HAG\{\<\#"Don't be scared, just come a little closer... Come CLOSER!"
 How do you persuade someone who dwells in the deepest levels of\#madness?
 \>\i[80]\}AT HAG\{\<\#"M' back aches. My poor dirty feet is cramping and my eye sight\#ain't what it used to be."
-\>\i[80]\}AT HAG\{\<\#"But nothing like some company to relieve all that. Why don'tcha\#stay here a fair bit longer stranger?" (M)
-\>\i[80]\}AT HAG\{\<\#"But nothing like some company to relieve all that. Why don'tcha\#stay here a fair bit longer stranger?" (F)
+\>\i[80]\}AT HAG\{\<\#"But nothing like some company to relieve all that. Why don'tcha\#stay here a fair bit longer stranger?"
 \>\i[80]\}AT HAG\{\<\#"Kaah kaah kaa!"
 \>\i[80]\}AT HAG\{\<\#"Is that so? Such spite. Let me muster some more spirit from ya\#laddie!"
 How do you intimidate someone who dwells in the deepest levels of\#madness?
@@ -1009,8 +995,7 @@ choice_text 3 \}[INTIMIDATE]\{ "Do I just push you down the stairs or how should
 \>\i[78]\}LIVIA\{\<\#"Do you really mean it?"
 \>\i[78]\}LIVIA\{\<\#"Why should I believe you?"
 Olivia is hesitating.
-\>\i[78]\}LIVIA\{\<\#"I'm not just going to keep giving you second chances! You started\#this so better be ready for this too!" (M)
-\>\i[78]\}LIVIA\{\<\#"I'm not just going to keep giving you second chances! You started\#this so better be ready for this too!" (F)
+\>\i[78]\}LIVIA\{\<\#"I'm not just going to keep giving you second chances! You started\#this so better be ready for this too!"
 \>\i[78]\}LIVIA\{\<\#"I don't believe you for one second!"
 \>\i[78]\}LIVIA\{\<\#"What's wrong with you!?"
 \>\i[78]\}LIVIA\{\<\#"What!? How does that make even sense!?"
