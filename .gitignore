@@ -1,5 +1,6 @@
 /.vscode
 /img/**/*.png
+/movies
 /output
 /*.zip
 /.rpgm-translation-gui
