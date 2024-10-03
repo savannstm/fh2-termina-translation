@@ -42,10 +42,12 @@ BGM Volume
 BGS Volume
 Command Remember
 However, it was unable to escape!
+%1 tries to escape...
 Load which file?
 ME Volume
 %1's party
 Possession
 Save to which file?
 SE Volume
+%1 was victorious!
 Fear & Hunger 2: TERMINA
