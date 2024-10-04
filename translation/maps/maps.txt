@@ -5059,7 +5059,6 @@ Here lies \N[20]...
 \N[21] has taken too much damage. It's struggling to contain\#his soul.
 You can see the dim light fading in \N[21]'s eye\#sockets. \N[21] is at the end of its road.
 Here lies \N[21]...
-The \c[2]Soul stone\c[0] changed it's appearance.\#The stone is radiating faint blue light.
 \N[13] has too many limbs cut. He's in a state of shock.
 Marcoh is breathing heavily. His eyes still seem vivid, but his\#body clearly doesn't react.
 Marcoh tries to shrug his head. His eyes give you comfort. He seems\#to be at peace with his fate.
