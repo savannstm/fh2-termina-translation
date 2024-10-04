@@ -1,7 +1,8 @@
 /.vscode
-/img/**/*.png
+/img/translation/**/*.png
+/img/original
 /movies
 /output
 /*.zip
 /.rpgm-translation-gui
-/mobile_cache
+/mobile
