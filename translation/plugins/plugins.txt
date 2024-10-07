@@ -80,17 +80,9 @@ Menu
 Menu
 Shoot/Run
 Shoot/Run
-PgUp
-Page Up
-PgDn
-Page Down
-◄
 Move ◄ Left
-▲
 Move ▲ Up
-►
 Move ► Right
-▼
 Move ▼ Down
 +State
 +Buff
