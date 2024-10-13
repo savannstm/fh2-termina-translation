@@ -1,0 +1,113 @@
+Item: 1, Equip: 2, Synthesis: 3, kill: 4, St: 5, Options: 7, uit Game: 6<#>Предметы: 1, Экипировка: 2, Synthesis: 3, kill: 4, St: 5, Настройки: 7, uit Game: 6
+User<#>Использующий
+Ally<#>Союзник
+Allies<#>союзники
+Enemy<#>Противник
+Enemies<#>противники
+All %1<#>Все %1
+%2 Random %1<#>%2 случайный %1
+General<#>Общее
+General settings that alter the way the game behaves.<#>Общие настройки, влияющие на поведение игры.
+Command Remember<#>Запоминать команды
+Game remembers the last command selected during battle.<#>Игра будет запоминать выбор последнего хода игрока.
+Filter Effects<#>Фильтр эффектов
+Enable and disable filter effects.<#>Включение и отключение фильтра эффектов.
+Message Sounds<#>Звуки сообщений
+Enable and disable the message sounds.<#>Включение и выключение звукового сопровождения сообщений.
+Message Speed<#>Скорость сообщений
+Changes the speed text is displayed during messages.<#>Изменить скорость появления сообщений.
+Video files<#>Видеофайлы
+Enable and disable video files. Videos are known to cause problems for some.<#>Включение и отключение видеофайлов. Видео иногда вызывают проблемы.
+Videos are replaced by animated shots when disabled.<#>При отключении, видео заменяются анимированными кадрами.
+Static Effect<#>Эффект статики
+Enable and disable the static effect.<#>Включение и выключение эффекта статики.
+Audio<#>Аудио
+Adjust the audio settings for the game.<#>Регулировка звука и музыкальных эффектов.
+Master Volume<#>Общая громкость
+Adjusts the overall volume of the game.<#>Регулировка общей громкости игры.
+BGM Volume<#>Громкость музыки
+Adjusts the volume of the background music.<#>Регулировка громкости фоновой музыки.
+BGS Volume<#>Громкость муз. эффектов
+Adjusts the volume of the background sound effects.<#>Регулировка громкости фоновых музыкальных эффектов.
+ME Volume<#>Громкость мелодий
+Adjusts the volume of the melody effects<#>Регулировка громкости мелодийных эффектов,
+such as fanfares.<#>таких, как фанфары.
+SE Volume<#>Громкость эффектов
+Adjusts the volume of the sound effects.<#>Регулировка громкости звуковых эффектов.
+Controls<#>Управление
+Change the way you can control the game.<#>Настройка раскладки управления в игре.
+Gamepad Config<#>Настройка геймпада
+Configure the game's gamepad settings.<#>Настройка ракладки геймпада.
+Keyboard Config<#>Настройка клавиатуры
+Configure the game's keyboard settings.<#>Настройка раскладки клавиатуры.
+All<#>Все
+"A list of all of the game's settings."<#>"Список возможных настроек игры."
+Exit<#>Выход
+"Exit the Settings Menu."<#>"Покинуть настройки."
+A,B,C,D,E,a,b,c,d,e<#>А,Б,В,Г,Д,а,б,в,г,д
+F,G,H,I,J,f,g,h,i,j<#>Е,Ё,Ж,З,И,е,ё,ж,з,и
+K,L,M,N,O,k,l,m,n,o<#>Й,К,Л,М,Н,й,к,л,м,н
+P,Q,R,S,T,p,q,r,s,t<#>О,П,Р,С,Т,о,п,р,с,т
+U,V,W,X,Y,u,v,w,x,y<#>У,Ф,Х,Ц,Ч,у,ф,х,ц,ч
+Z,[,],^,_,z,{,},|,~<#>Ш,Щ,Ъ,Ы,Ь,ш,щ,ъ,ы,ь
+0,1,2,3,4,!,#,$,%,&<#>Э,Ю,Я,,,э,ю,я,,
+5,6,7,8,9,(,),*,+,-<#>0,1,2,3,4,5,6,7,8,9
+/,=,?,<,>,:,;, ,Page,OK<#>/,=,?,<,>,:,;, ,Стр.,ОК
+Á,É,Í,Ó,Ú,á,é,í,ó,ú<#>A,B,C,D,E,a,b,c,d,e
+À,È,Ì,Ò,Ù,à,è,ì,ò,ù<#>F,G,H,I,J,f,g,h,i,j
+Â,Ê,Î,Ô,Û,â,ê,î,ô,û<#>K,L,M,N,O,k,l,m,n,o
+Ä,Ë,Ï,Ö,Ü,ä,ë,ï,ö,ü<#>P,Q,R,S,T,p,q,r,s,t
+Ā,Ē,Ī,Ō,Ū,ā,ē,ī,ō,ū<#>0,1,2,3,4,!,#,$,%,&
+Ã,Å,Æ,Ç,Ð,ã,å,æ,ç,ð<#>Ã,Å,Æ,Ç,Ð,ã,å,æ,ç,ð
+Ñ,Õ,Ø,Š,Ŵ,ñ,õ,ø,š,ŵ<#>Ñ,Õ,Ø,Š,Ŵ,ñ,õ,ø,š,ŵ
+Ý,Ŷ,Ÿ,Ž,Þ,ý,ÿ,ŷ,ž,þ<#>Ý,Ŷ,Ÿ,Ž,Þ,ý,ÿ,ŷ,ž,þ
+Ĳ,Œ,ĳ,œ,ß,«,»,,Page,OK<#>Ĳ,Œ,ĳ,œ,ß,«,»,,Стр.,ОК
+Change the configuration of this key?<#>Изменить назначение этой клавиши?
+Default Keyboard Layout<#>Раскладка по умолчанию
+Reverts your keyboard setting to the default setup.<#>Возвращает раскладку в изначальное состояние.
+WASD Movement Layout<#>Раскладка движения на WASD
+Changes your keyboard to WASD movement.<#>Меняет раскладку клавиатуры для использования WASD.
+Finish Configuration<#>Завершить настройку
+Are you done configuring your keyboard?<#>Вы закончили настраивать раскладку?
+Clear<#>Очистить
+OK<#>ОК
+OK / Interact<#>ОК / Взаимодействие
+X<#>X
+Cancel / Menu<#>Отменить / Меню
+Cancel<#>Отменить
+Cancel<#>Отменить
+Menu<#>Меню
+Menu<#>Меню
+Shoot/Run<#>Стрельба/Бег
+Shoot/Run<#>Стрельба/Бег
+Move ◄ Left<#>Движение ◄ Налево
+Move ▲ Up<#>Движение ▲ Вверх
+Move ► Right<#>Движение ► Направо
+Move ▼ Down<#>Движение ▼ Вниз
++State<#>+Статус
++Buff<#>+Бонус
+-State<#>-Статус
+-Buff<#>-Бонус
+Use %1<#>Использовать %1
+Discard %1 %2<#>Выбросить %1 %2
+Are you sure you want to discard %1 %2?<#>Вы уверены, что хотите выбросить %1 %2?
+Yes<#>Да
+No<#>Нет
+Finish<#>Завершить
+Remove<#>Удалить
+Synthesis<#>Synthesis
+Craft Item<#>Создать предмет
+Craft Weapon<#>Создать оружие
+Craft Armor<#>Создать броню
+Finish<#>Завершить
+Collected Recipes<#>Собранных рецептов
+Crafted Items<#>Созданных предметов
+Crafted Weapons<#>Созданного оружия
+Crafted Armors<#>Созданной брони
+This item has not been crafted yet.<#>Этот предмет ещё не был создан.
+Ingredients<#>Ингридиенты
+Quantity<#>Количество
+Item: 1, quip: 2, Synthesis: 3, kill: 4, St: 5, Options: 7, uit Game: 6<#>Предметы: 1, quip: 2, Synthesis: 3, kill: 4, St: 5, Настройки: 7, uit Game: 6
+Category:Items, Category:Healing, Category:Food, KeyItems, Weapons, Armors, Category:Body bag<#>Category:Предметы, Category:Исцеление, Category:Еда, KeyItems, Weapons, Armors, Category:Мешок для трупов
+Rev up<#>Поднажать
+%1 Heal<#>%1

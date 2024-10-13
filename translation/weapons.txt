@@ -1,0 +1,55 @@
+Knife<#>Нож
+A short kitchen knife. What it lacks in size it makes up\#in speed.<#>Короткий кухонный нож. То, чего ему не хватает в размере,\#он компенсирует скоростью.
+Officer sword<#>Офицерская шпага
+A sword of an army officer. Swords like these don't see much use\#these days. They are kept around more because of tradition.<#>Шпага армейского офицера. Такие мечи не находят особого\#применения в наши дни. Их хранят скорее из-за традиций.
+Rusty pipe<#>Ржавая труба
+Rusty iron pipe with hefty weight. Can cause momentary stun.<#>Ржавая и тяжёлая железная труба. Может неплохо оглушить.
+Mauler<#>Истязатель
+A long barbed and spiked rod. The weapon is very heavy and\#clumsy to wield but causes severe damage when hit.<#>Длинный шест с зубьями и шипами. Тяжёл в обращении, но при\#попадании наносит огромный урон.
+Scalpel<#>Скальпель
+A sharp scalpel. It's very short, but very accurate in experienced\#hands.<#>Острый скальпель. Короткий, но крайне точный в умелых руках.
+Axe<#>Топор
+A medium sized wood axe. Swinging this as a weapon is sure\#to scare away lesser foes.<#>Деревянный топор средних размеров. Размахивание им безусловно\#напугает слабых противников.
+Kassara<#>Сучкоруб
+Originally a tool for cutting tree branches. It could be used\#for things equal in size, like human limbs for example.<#>Инструмент для обрезки веток деревьев. Его можно использовать\#для чего-нибудь тех же размеров - например, человеческих\#конечностей.
+Sickle<#>Серп
+A tool used for harvesting crops. It also has a long history\#as a weapon of choice for civilians.<#>Орудие, используемое для сбора урожая. Также имеет длинную\#историю использования в качестве гражданского оружия.
+Bayonet<#>Винтовка со штыком
+A rifle with a knife attachment. You switch to close-range\#combat easily with this one. Shoot on field with [SHIFT].<#>Винтовка с насадкой-штыком. Она позволяет быстро\#переключиться на ближний бой. Стреляйте вне боя на [SHIFT].
+Rifle .303 Mk I<#>Винтовка Mk.I .303
+A bolt-action, magazine-fed repeating rifle. The most common\#used rifle in the First Great War. Shoot on field with [SHIFT].<#>Винтовка со скользящим затвором и магазинной подачей. Такие\#винтовки были самыми распространёнными в период\#Первой мировой. Стреляйте вне боя на [SHIFT].
+12-gauge Trenchgun<#>Дробовик 12-го калибра
+A powerful gun with a serious kick. Fires a number of small\#pellets that stop even larger foes. Shoot on field with [SHIFT].<#>Мощное оружие с серьёзной отдачей. Стреляет дробью,\#способной остановить даже крупных противников.\#Стреляйте вне боя на [SHIFT].
+Lugr Pistol<#>Пистолет Люгера
+A toggle-locked, recoil-operated semi-automatic pistol. Typically\#used by the Bremen army officers as a secondary arm.<#>Полуавтоматический пистолет с предохранителем и компенсатором\#разброса. Используется офицерами бременской армии в качестве\#табельного оружия. Стреляйте вне боя на [SHIFT].
+Pipe wrench<#>Разводной ключ
+A tool used for assembling wide variety of things. Can be used\#as a blunt weapons as well.<#>Инструмент, используемый для разведения самых разных штук.\#Также служит в качестве тупого оружия.
+Sandman's kiss<#>Поцелуй сновидца
+A syringe with neurotoxins attached to an officer sword.\#Each thrust of the sword releases some of the poison.<#>Шприц с нейротоксинами, прикрепленный к офицерской сабле.\#С каждым взмахом, шприц сочится ядом.
+Reaper's rake<#>Грабли жнеца
+Four sickles attached to a broomstick. A 2-handed slashing\#weapon that causes severe bleeding.<#>Четыре серпа, прикрепленные к метлам. Двуручное режущее\#оружие, вызывающее сильные кровотечения.
+Lantern flail<#>Цепной фонарь
+A makeshift weapon that is a bit hard to wield, but hard to\#read properly as well making it an unpredictable weapon with\#heavy mass. Can cause burns as well.<#>Импровизированное оружие, которым тяжело управлять.\#Оно абсолютно массивное и непредсказуемое. Может\#сильно обжечь.
+Meat grinder<#>Мясорубка
+A violent and fierce weapon. A saw blade attached to a bench\#grinder that is customized to work without being plugged in.<#>Жестокое и яростное оружие. Циркулярная пила, прибитая\#к шлифовальной машинке, которой ещё и не нужно подключение\#к сети.
+Gaelian greatsword<#>Гаэлийский двуручный меч
+An old greatsword from the highlands north of Rondon. These\#swords were nicknamed 'the king's bane' because of how effective\#they were against Rondon knights in the 12th century.<#>Старый двуручный меч с северного высокогорья Рондона. Эти мечи\#даже получили название «королевское проклятье» благодаря тому,\#насколько эффективны они были против рыцарей Рондона в 12 веке.
+Meat mallet<#>Отбивной молоток
+A tool used in kitchen that makes up one brutal weapon.\#Swinging this will surely score you critical hits every now\#and then.<#>Кухонный инструмент, также представляющий собой грозное оружие.\#Размахивая этой штукой, нанести смертельный удар - плёвое дело.
+Iron spear<#>Железное копьё
+An old iron spear that was still used by the cavalry of Bohemia\#few decades ago. Up until firearms became more prevalent in this\#region.<#>Старое железное копьё, которое последние несколько десятилетий\#использовалось кавалерией Богемии. До тех пор, пока\#огнестрельное оружие не возымело популярность.
+Sergal spear<#>Копьё Сергала
+A finely decorated ornament spear from the warrior tribes\#of northern Vinland. The decoration suggests highly advanced\#cultures, but sergals remain largely unknown in the old continent.<#>Копьё, украшенное орнаментами воинских племен Винланда.\#На вид - это изобретение высокоразвитой культуры, при том\#что Сергалы остаются в большей степени неизученными.
+Red virtue<#>Красная добродетель
+A masterfully forged light sword. The sword is very light and\#so excels in finesse. It is said that Red virtue is one of the\#two swords forged for the ancient king of Ma'habre.<#>Мастерски выкованный светлый меч. Он очень легок и изящен.\#Говорят, что красная добродетель - один из мечей, выкованных\#для самого древнего короля Ма'Хабре.
+Briefcase<#>Чемодан
+Blood sword<#>Кровавый меч
+A sword forged from the blood of Alll-mer.<#>Меч, выкованный из крови Алл-мера.
+Longinus<#>Лонгин
+The spear that punctured Alll-mer's side as he was chained and\#crucified. A faint trace of the shadow that was cast away for\#Alll-mer to reach his ascension.<#>Это копьё пронзило Алл-мера, когда он был закован в цепи и\#распят. Оно - остаток того, что Алл-мер, вознёсшись,\#оставил после себя.
+Miasma<#>Миазма
+An otherwordly sword that oozes toxic gasses. The sword\#is said to house the strength of 6 men.<#>Потусторонний меч, который выделяет яд. Говорят, что в\#этом мече заключена сила шести человек.
+Sabbath<#>Саббат
+To counter the rising threats of the witch and vampire hunts of\#the 1700s the Vatican city developed this otherwordly sword to be\#used by the penance knights as their new main weapon.<#>Чтобы противостоять угрозам охоты на ведьм и вампиров\#в 1700-х годах, Ватикан разработал этот меч, который рыцари\#покаяния используют в качестве своего основного оружия.
+Black steel<#>Чёрная сталь
+An eastern style sword that is delicate and sharp. Prone to\#critical hits. The blade as ancient writing, it translates to:\#"The Black Steel of the East".<#>Меч в восточном стиле, тонкий и острый. Наносит критические удары.\#Древняя надпись на нём гласит: «Чёрная Сталь Востока».
