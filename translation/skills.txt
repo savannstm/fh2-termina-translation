@@ -50,7 +50,7 @@ Break through the defence of the opponent.<#>Прорвите оборону с�
 Blood golem<#>Кровавый голем
 Sacrifice blood to summon a golem that fights by your side\#temporarily. The golem only takes orders from the one that\#gave birth to it. Requires 1 Rev Point.<#>Пожертвуйте кровью, чтобы призвать голема, который будет\#временно сражаться на вашей стороне. Голем слушается\#только того, кто создал его. Необходимо 1 очко концентрации.
 Pheromones<#>Феромоны
-Release of pheromones that makes the opponent divert all\#attention to the target.<#>Выброс феромонов, заставляющий противника переключить всё\#внимание на цель.
+Release of pheromones that makes the opponent divert all\#attention to the target.<#>Выброс феромонов, отвлекающий всё внимание противника\#на цель.
 Rock smash<#>Удар камнем
 Smash<#>Разгромить
 Snatch<#>Украсть
@@ -527,7 +527,7 @@ Shivers 1<#>Трепет 1
 Shivers 2<#>Трепет 2
 High priest's fingers are twitching...<#>Пальцы верховного жреца подёргиваются...
 Killing frenzy<#>Убийственное безумие
-The sergal lowers his stance...<#>Сергал встает в низкую стойку...
+The sergal lowers his stance...<#>Сергал встаёт в готовность...
 Slasher<#>Разрубание
 Death gurgle<#>Насмешка
 Meat grinder<#>Мясорубка
@@ -552,7 +552,7 @@ Mauler<#>Истязание
 Peck<#>Клевок
 The gull brother is cackling and laughing...<#>Брат-чайка кричит и смеётся...
 Psycho stab<#>Безумный удар
-The villager lunges at you!<#>Деревенщина бросается на вас!
+The villager lunges at you!<#>Житель бросается на вас!
 Meat tenderizer<#>Размягчитель мяса
 The half-cocooned lunges at you!<#>Полуобращённый бросается на вас!
 Bite<#>Укус
