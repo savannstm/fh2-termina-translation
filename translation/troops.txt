@@ -151,7 +151,7 @@ GabText You stole a \c[2]Bear trap\c[0]!<#>GabText Вы украли \c[2]мед
 GabText You stole a bottle of \c[2]Vodka\c[0]!<#>GabText Вы украли бутылку \c[2]водки\c[0]!
 GabText The villager loses his balance!<#>GabText Житель теряет равновесие!
 GabText The villager is blinded! His eyes are bleeding!<#>GabText Житель ослеп! Его глаза кровоточат!
-GabText A lone villager stumbles on your path...<#>GabText Одинокий житель встает на вашем пути...
+GabText A lone villager stumbles on your path...<#>GabText Одинокий житель встаёт на вашем пути...
 GabText The villager loses his balance.<#>GabText Житель теряет равновесие.
 The villager raises his scythe and takes an aggressive stance...\#The situation got dangerous all of a sudden!<#>Житель поднимает свою косу и принимает агрессивную позу...\#Ситуация внезапно стала опасной!
 Your words are in vain. The villager is clearly out for blood.<#>Ваши слова напрасны. Житель явно жаждет крови.
@@ -274,7 +274,7 @@ GabText The gentleman's skin begins to rot beneath his shirt...<#>GabText Кож
 GabText You can't figure out the weaknesses of the gentleman...<#>GabText Вы не можете выявить слабости джентльмена...
 GabText You stole a \c[2]Meatpie+\c[0] and a \c[2]Vegetable pie+\c[0]!<#>GabText Вы украли \c[2]мясной пирог+\c[0] и \c[2]овощной пирог+\c[0]!
 The party tries to escape... .\\#However, the creature blocks your path!<#>Группа пытается сбежать...\.\#Однако, существо преграждает вам путь!
-GabText The gentleman rises from the dinner table to confront you!<#>GabText Джентльмен встает из-за обеденного стола, чтобы столкнуться с вами!
+GabText The gentleman rises from the dinner table to confront you!<#>GabText Джентльмен встаёт из-за обеденного стола, чтобы столкнуться с вами!
 GabText The gentleman loses his balance.<#>GabText Джентльмен теряет равновесие.
 choice_text 1 \}[PERSUADE]\{ "Even the most devout priest has a price... What can I offer?"<#>choice_text 1 \}[УБЕДИТЬ]\{ «Даже самый набожный может предложить свою цену...»
 choice_text 3 \}[INTIMIDATE]\{ "Your god won't help you here."<#>choice_text 3 \}[ЗАПУГАТЬ]\{ «Твой бог тебе здесь не поможет.»
@@ -1334,7 +1334,7 @@ GabText You stole \c[2]Condensed green\c[0], \c[2]Condensed blue\c[0]...<#>GabTe
 GabText And \c[2]Condensed lavender\c[0]!<#>GabText И \c[2]концентрат лаванды\c[0]!
 GabText The thing is blinded! Her eyes are bleeding!<#>GabText Создание ослепло! Её глаза кровоточат!
 GabText The Mechanical dance slowly approaches you...<#>GabText Механический танец медленно приближается к вам...
-\>\i[73]\}UDGEMENT\{\<\#"Morning waits no one. Morning has gold in store, in its mouth."<#>\>\}\i[381]РАВОСУДИЕ\{\<\#«Утро никого не ждёт. Кто рано встает, тому бог подаёт.»
+\>\i[73]\}UDGEMENT\{\<\#"Morning waits no one. Morning has gold in store, in its mouth."<#>\>\}\i[381]РАВОСУДИЕ\{\<\#«Утро никого не ждёт. Кто рано встаёт, тому бог подаёт.»
 \>\i[73]\}UDGEMENT\{\<\#"The grind never stops!"<#>\>\}\i[381]РАВОСУДИЕ\{\<\#«Работа никогда не прекращается!»
 "Are you alright...? You look injured."<#>«Ты в порядке...? Ты выглядишь раненым.»
 "That sounds familiar. Did you fill this \c[2]Crosswords puzzle\c[0]?"<#>«Звучит знакомо. Это ты заполнил тот \c[2]кроссворд\c[0]?»
@@ -1589,7 +1589,7 @@ GabText A platoon joins the battle!<#>GabText Взвод вступает в б�
 GabText You can't dodge the massive platoon that easily.<#>GabText От взвода так легко не увернешься.
 GabText The rot doesn't seem to affect Platoon...<#>GabText Гниение, похоже, не влияет на взвод...
 GabText The Platoon has got no obvious weaknesses...<#>GabText У взвода нет очевидных слабостей...
-GabText A platoon faces off with you.<#>GabText Взвод встает на вашем пути.
+GabText A platoon faces off with you.<#>GabText Взвод встаёт на вашем пути.
 GabText A platoon and its commander face off with you.<#>GabText Взвод и его командир встают на вашем пути.
 \>\i[81]\}TITCHES\{\<\#"Mmmf...mmm..."<#>\>\}\i[383]ТИТЧЕС\{\<\#«Мммф... ммм...»
 choice_text 2 \}[PERSUADE]\{ "You don't look like one of those monsters above..."<#>choice_text 2 \}[УБЕДИТЬ]\{ «Ты не похожа ни на одного из тех монстров наверху...»
