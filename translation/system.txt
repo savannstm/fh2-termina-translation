@@ -41,6 +41,7 @@ Evasion<#>Уклонение
 BGM Volume<#>Громкость фоновой музыки
 BGS Volume<#>Громкость фоновых звуков
 Command Remember<#>Запоминать действия в бою
+%1 was defeated.<#>%1 терпит поражение.
 However, it was unable to escape!<#>Однако, сбежать не удалось!
 %1 tries to escape...<#>%1 пытается сбежать...
 Load which file?<#>Какой файл загрузить?
