@@ -95,7 +95,7 @@ The outlander aims carefully...<#>Чужеземец тщательно цели
 Gaping mouth<#>Разинутый рот
 Summon Asterisk<#>Призыв Астериска
 Salvation<#>Спасение
-Concentrated whispers carried by the older god Sylvian. Heals\#a considerable amount of health of all the party members.<#>Сосредоточенный шёпот древнего бога Сильвиан. Исцеляет\#значительное количество здоровья всех членов группы.
+Concentrated whispers carried by the older god Sylvian. Heals\#a considerable amount of health of all the party members.<#>Сосредоточенный шёпот древней богини Сильвиан. Исцеляет\#значительное количество здоровья всех членов группы.
 Purifying ember<#>Очищающий уголь
 Purifying black flames<#>Очищающее чёрное пламя
 The creature is wriggling in pain...<#>Существо корчится от боли...
@@ -333,7 +333,7 @@ Mark of Gro-goroth<#>Метка Гро-горота
 Scorched earth<#>Выжженная земля
 Scorch your surroundings completely to create an environment\#that greatly enhances fire attacks. Requires 1 Rev Point.<#>Подожгите землю вокруг себя, чтобы создать обстановку,\#усиливающую огненные атаки. Требуется 1 очко концентрации.
 Roots that reap<#>Пожинающие корни
-A talented wizard can generate a shockwave that travels\#underground and forces sharp roots to push through the ground.\#Attacks all enemies. Requires 2 Rev Points.<#>Талантливый маг может создать ударную волну,\#которая распространится по земле и вытолкнет острые корни.\# Наносит урон всем врагам. Требуется 2 очка концентрации.
+A talented wizard can generate a shockwave that travels\#underground and forces sharp roots to push through the ground.\#Attacks all enemies. Requires 2 Rev Points.<#>Талантливый маг может создать ударную волну, которая\#распространится по земле и вытолкнет острые корни. Наносит\#урон всем врагам. Требуется 2 очка концентрации.
 Spontaneous combustion<#>Спонтанное самовозгорание
 THe highest form of pyromancy. Becomes the flame itself.<#>Высшая форма пиромантии. Вы становитесь самим пламенем.
 Photosynthesis<#>Фотосинтез
