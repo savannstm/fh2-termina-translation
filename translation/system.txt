@@ -1,0 +1,54 @@
+Weapon<#>Оружие
+Shield<#>Щит
+Head<#>Голова
+Body<#>Тело
+Accessory<#>Аксессуар
+Wheels<#>Колёса
+Empty<#>Пусто
+Skills<#>Навыки
+Level<#>Уровень
+Lv<#>Ур.
+Mind<#>Разум
+Hunger<#>Голод
+Fight<#>Сражаться
+Run!<#>Бежать!
+Attack<#>Атака
+Guard<#>Защита
+Item<#>Предметы
+Equip<#>Экипировка
+Formation<#>Построение
+Save<#>Сохранить
+Options<#>Настройки
+Armor<#>Броня
+Books<#>Книги
+Optimize<#>Оптимизировать
+Clear<#>Очистить
+New Game<#>Новая игра
+Continue<#>Продолжить
+To Title<#>В меню
+Cancel<#>Отмена
+Buy<#>Купить
+Sell<#>Продать
+Max Body<#>Макс. Тело
+Max Mind<#>Макс. Разум
+Defense<#>Защита
+M.Attack<#>М. Атака
+M.Defense<#>М. Защита
+Agility<#>Скорость
+Luck<#>Удача
+Accuracy<#>Точность
+Evasion<#>Уклонение
+BGM Volume<#>Громкость фоновой музыки
+BGS Volume<#>Громкость фоновых звуков
+Command Remember<#>Запоминать действия в бою
+%1 was defeated.<#>%1 терпит поражение.
+However, it was unable to escape!<#>Однако, сбежать не удалось!
+%1 tries to escape...<#>%1 пытается сбежать...
+Load which file?<#>Какой файл загрузить?
+ME Volume<#>Громкость музыки
+%1's party<#>Группа %1
+Possession<#>Имеется
+Save to which file?<#>В какой файл сохранить?
+SE Volume<#>Громкость эффектов
+%1 was victorious!<#>%1 побеждает!
+Fear & Hunger 2: TERMINA<#>Fear & Hunger 2: TERMINA

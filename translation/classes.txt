@@ -1,0 +1,19 @@
+Ex-Soldier<#>Бывший солдат
+Mercenary\#<Equip Slot>\#Weapon\#Head\#Body\#Accessory\#Accessory\#Accessory\#</Equip Slot><#>Mercenary\#<Equip Slot>\#Оружие\#Голова\#Тело\#Аксессуар\#Аксессуар\#Аксессуар\#</Equip Slot>
+Ghoul<#>Гуль
+<Equip Slot>\#Head\#Body\#Accessory\#Accessory\#Accessory\#</Equip Slot><#><Equip Slot>\#Голова\#Тело\#Аксессуар\#Аксессуар\#Аксессуар\#</Equip Slot>
+Priest<#>Наемник
+Occultist<#>Оккультист
+<Equip Slot>\#Weapon\#Head\#Body\#Accessory\#Accessory\#Accessory\#</Equip Slot><#><Equip Slot>\#Оружие\#Голова\#Тело\#Аксессуар\#Аксессуар\#Аксессуар\#</Equip Slot>
+Doctor<#>Врач
+Doctor\#<Equip Slot>\#Weapon\#Head\#Body\#Accessory\#Accessory\#Accessory\#</Equip Slot><#>Doctor\#<Equip Slot>\#Оружие\#Голова\#Тело\#Аксессуар\#Аксессуар\#Аксессуар\#</Equip Slot>
+Mechanic<#>Механик
+Mechanic\#<Equip Slot>\#Weapon\#Head\#Body\#Accessory\#Accessory\#Accessory\#</Equip Slot><#>Mechanic\#<Equip Slot>\#Оружие\#Голова\#Тело\#Аксессуар\#Аксессуар\#Аксессуар\#</Equip Slot>
+Black Kalev<#>Чёрный Калев
+<Equip Slot>\#Accessory\#</Equip Slot><#><Equip Slot>\#Аксессуар\#</Equip Slot>
+Blood golem<#>Кровавый голем
+Yellow Mage<#>Жёлтый маг
+Thug<#>Бандит
+Botanist<#>Ботаник
+<Equip Slot>\#Weapon\#Head\#Body\#Wheels\#Accessory\#Accessory\#Accessory\#</Equip Slot><#><Equip Slot>\#Оружие\#Голова\#Тело\#Колёса\#Аксессуар\#Аксессуар\#Аксессуар\#</Equip Slot>
+Journalist<#>Журналист

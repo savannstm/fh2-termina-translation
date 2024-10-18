@@ -1,0 +1,457 @@
+<Menu Category: Items><#><Menu Category: Предметы>
+<Menu Category: Food><#><Menu Category: Еда>
+<Menu Category: Healing><#><Menu Category: Исцеление>
+<Menu Category: Body bag><#><Menu Category: Мешок для трупов>
+Prehevil map<#>Карта Прехевила
+A map of Prehevil.<#>Карта Прехевила.
+Photo album<#>Фотоальбом
+A humble little album containing all the photos you've collected\#through the years.<#>Скромный маленький альбом, содержащий все фотографии, которые\#вы собрали на протяжении многих лет.
+Recipes of the 15th Century vol.1<#>Рецепты 15-го века, том 1
+The first volume of the cook book series. Contains recipes\#for the meat and vegetable pies.<#>Первый том серии кулинарных книг. Содержит рецепты мясного\#и овощного пирогов.
+The Four Ages of History<#>Четыре Века Истории
+A brief history book about the different ages of modern\#chronology.<#>Краткая историческая книга о разных эпохах современной\#хронологии.
+Matches<#>Спички
+Use to light a fire. Light brings warmth and safety and keeps\#fear in check.<#>Используйте, чтобы зажечь огонь. Свет приносит тепло и отдаляет\#страх.
+Cloth fragment<#>Кусок ткани
+Cloth can be used to tie up small wounds and stop bleeding.<#>Тканью можно перевязать небольшие раны и остановить\#кровотечение.
+Glass vial<#>Стеклянный флакон
+A small vial. Typically used with alchemy.<#>Небольшой флакон. Обычно используется в алхимии.
+Murky vial<#>Мутный флакон
+A vial full of murky liquid. Highly flammable.<#>Флакон, полный мутной жидкости. Легко воспламеняется.
+Oil<#>Масло
+A vial full of oil that is somewhat flammable.<#>Флакон, полный масла.
+Alchemillia vol.2<#>Алхемилия, том 2
+A book for intermediate level alchemy. Contains recipes for\#the murky vial, the white vial and the yellow vial.<#>Книга со знаниями о среднем уровне алхимии.\#Содержит рецепты мутной, белой и жёлтой жидкостей.
+Meatpie<#>Мясной пирог
+Old fashioned meatpie. Rather easy to do.<#>Старомодный мясной пирог. Довольно легко приготовить.
+Egg<#>Яйцо
+An egg of bird or lizard origin. Who knows really?<#>Яйцо, имеющее птичье либо рептильное происхождение.\#Кто знает?
+Dried meat<#>Сушеное мясо
+Strips of meat, dried to prevent spoiling.<#>Полоски мяса, высушенные во избежание порчи.
+Wheat flour<#>Пшеничная мука
+Grinded wheat. On its own it's not much of use, but can be\#used in bakery.<#>Измельченная пшеница. Сама по себе бесполезна, но может быть\#использована в готовке.
+Woodsman's letter<#>Письмо дровосека
+A single piece of paper with crude writing on it. It seems\#to have been written in a hurry.<#>Лист бумаги с грубым почерком на нём. Похоже, было написано\#в спешке.
+Dirty toilet paper<#>Грязная туалетная бумага
+This paper can be used to tie up small wounds and stop bleeding.\#It does look absolutely rancid though. It definitely isn't the\#most hygienic way to patch up yourself...<#>Эту бумагу можно использовать для перевязки небольших ран\#и остановки кровотечений. Определённо не самый гигиеничный\#способ подлатать себя...
+Small key<#>Маленький ключ
+A rusty worn-out key.<#>Ржавый изношенный ключ.
+Rotten meat<#>Тухлое мясо
+Disgusting piece of meat. Its use is questionable...<#>Отвратительный кусок мяса. Его польза под сомнением...
+Mahavre<#>Ма'Хабре
+A book about the ancient city Mahavre.<#>Книга о древнем городе Ма'Хабре.
+New poems of love and torment<#>Новые поэмы о любви и муках
+A perfect collection of love letters written by the storied\#hero Ronn Chambara.<#>Полная коллекция любовных писем, написанных\#легендарным героем Ронном Чамбарой.
+Soldier's diary 1<#>Дневник солдата 1
+A diary of a Bremen soldier that arrived to this area\#recently.<#>Дневник бременского солдата, недавно прибывшего в этот\#регион.
+Blue vial<#>Синий флакон
+A vial full of blue liquid.<#>Флакон с синей жидкостью.
+Vodka<#>Водка
+A bottle of old vodka. Helps you keep sane in this crazy\#world.<#>Бутылка старой водки. Поможет вам остаться разумными в этом\#безумном мире.
+Moldy bread<#>Плесневелый хлеб
+A dried up bread with some mold already growing on it.\#Gives momentary ease against hunger.<#>Засохший хлеб, на котором уже растёт плесень.\#Хорошо утоляет голод.
+Yellow vial<#>Жёлтый флакон
+A vial full of yellow colored mucus. The smell is very salty,\#but it might just be edible...<#>Флакон, полный слизи жёлтого цвета.\#Запах очень солёный, но она может быть съедобна...
+Cheese<#>Сыр
+An old dried up cheese. It has a pretty bad smell to it.<#>Старый засохший сыр. У него довольно неприятный запах.
+Beer<#>Пиво
+A bottle of beer. The beer inside is murky. Helps you stay\#sane in the ever-pressing darkness.<#>Бутылка пива. Пиво внутри мутное. Поможет остаться в здравом\#уме даже в вечно давящей темноте.
+Book of enlightenment<#>Книга просветления
+A mysterious ancient book radiating warm light. It's said\#to be written by the monks beyond the Eastern Sanctuaries.<#>Таинственная древняя книга, излучающая теплый свет.\#Подпись гласит, что книга написана монахами из Восточных\#Святилищ.
+Vegetable pie<#>Овощной пирог
+Old fashioned pie made from various vegetables.<#>Старомодный пирог из различных овощей.
+Carrot<#>Морковь
+A perfectly edible carrot.<#>Вполне съедобная морковь.
+Turnip<#>Репа
+A turnip that seems to be fresh from the ground. It even\#got pieces of dirt in it still.<#>Репа, будто только из земли. На ней даже остались кусочки\#грязи.
+Orders from Vatican<#>Приказы из Ватикана
+A letter directed to father Domek of Prehevil.<#>Письмо, адресованное отцу Домеку в Прехевиле.
+White vial<#>Белый флакон
+A vial full of white colored liquid. Works as an antidote\#for poisoning.<#>Флакон с жидкостью белого цвета.\#Действует как противоядие.
+Heroin<#>Героин
+Highly addictive pain medication. The high creates an\#euphoric effect, but the withdrawal symptoms are severe.<#>Высокоаддиктивное обезболивающее. Создает сильный\#эйфорический эффект, но последствием является острый\#абстинентный синдром.
+Pep pills<#>Бодрящие таблетки
+A strong stimulant with performance-enhancing effects. The\#high raises your awareness, the withdrawal tires you out.<#>Сильный стимулятор, повышающий способности организма.\#Обостряет чувства, зависимости не вызывает.
+Lucky coin<#>Счастливая монета
+Lucky coin to be used in dire situations. Hold [SHIFT]\#while choosing head or tails to boost your chances.<#>Счастливая монета, которую можно использовать в тяжёлых\#ситуациях. Удерживайте [SHIFT], выбирая орла или решку,\#чтобы повысить шансы.
+Bacon & eggs<#>Яичница с беконом
+A great way to start new day - if not a little bit\#heavy on your stomach.<#>Отличный способ начать новый день - только если подобная\#пища не слишком тяжела для вас.
+Goulash<#>Гуляш
+A local delicacy. A stew of meat and vegetables seasoned\#with paprika.<#>Местный деликатес. Рагу из мяса и овощей, приправленное\#паприкой.
+Tomato<#>Помидор
+The color of the tomato is a little pale, suggesting\#it hasn't seen much sun.<#>Помидор немного бледный, что говорит об отсутствии\#солнца в его жизни.
+Paprika<#>Перец
+The parika is already getting a little bit soft, but it's\#still edible.<#>Перчик немного размяк, но ещё вполне съедобен.
+Light blue vial<#>Голубой флакон
+A vial full of light blue liquid.<#>Флакон с голубой жидкостью.
+Salami<#>Салями
+A Dry piece of salami. Made from horse meat.<#>Сухой кусок салями. Изготовлен из конины.
+Blueberries<#>Черника
+Rather fresh pile of blue berries. They are very\#healthy!<#>Свежая кучка черники. Она очень полезная!
+Blueberry pie<#>Черничный пирог
+Old fashioned pie made of blueberries. Tasty and\#healthy in same package!<#>Старомодный пирог из черники. Вкусно и здорово!
+Nitroglycerin powder<#>Нитроглицериновый порошок
+White powder of nitroglycerin. Mixed with right\#elements, you can get something out of this...<#>Белый порошок нитроглицерина. Смешанный с правильными\#элементами, может дать что-то полезное...
+Opium powder<#>Опиум
+If you had a pipe, you could smoke this. It has\#calming and fear reducing effects.<#>Его можно выкурить трубкой.\#Сильно успокаивает и отдаляет страх.
+Pipe<#>Трубка
+You could smoke something with this.<#>С ней можно что-нибудь покурить.
+Tobacco<#>Табак
+A rare luxury product from the new continent, the dark\#lands of Vinland. Can be smoked with a pipe.<#>Редкий предмет роскоши из нового континента, тёмного\#Винланда. Можно выкурить трубкой.
+9mm Bullet<#>9 мм патрон
+A 9mm handgun bullet. On the casing it says "Si vis pacem,\#para bellum". Use [SHIFT] to shoot.<#>Пистолетный патрон калибра 9 мм. На гильзе выгравировано:\#«Si vis pacem, para bellum».\#Используйте [SHIFT], чтобы стрелять вне боя.
+Bear trap<#>Медвежий капкан
+A strong contraption that will cause severe damage if stepped\#on.<#>Грозное приспособление, наносящее огромный урон ногам\#наступающих на него.
+12-gauge shells<#>Дробь 12-го калибра
+A shell that is loaded with multiple lead shots. These shells\#are used with Trenchguns. Use [SHIFT] to shoot.<#>Гильза, заряженная дробью. Используется с дробовиком.\#Используйте [SHIFT], чтобы стрелять вне боя.
+.303 Ammo<#>Патрон .303
+Round-nosed, copper-nickel full-metal-jacketed bullet with\#a lead core. Ammo meant for rifles. Shoot with [SHIFT].<#>Круглоносая пуля с цельнометаллической медно-никелевой\#оболочкой, со свинцовым ядром. Предназначена для винтовок.\#Стреляйте вне боя с помощью [SHIFT].
+Explosive vial<#>Взрывной флакон
+A vial full of explosive liquids. Can be used to clear\#cave-ins or other rocks and rubble.<#>Флакон, полный взрывоопасной жидкости. Может использоваться\#для расчистки завалов.
+Alchemillia vol.3<#>Алхемилия, том 3
+A book for experienced level alchemy. Contains recipes for\#the light blue vial and the brown vial.<#>Книга со знаниями о высоком уровне алхимии.\#Содержит рецепты голубого и коричневого флакона.
+Brown vial<#>Коричневый флакон
+A vial full of brown colored liquid. Just the smell makes\#your muscles contract and heightens your senses.<#>Флакон с коричневой жидкостью. Один лишь запах\#заставляет ваши мышцы сокращаться, а чувства обостряться.
+The Passages of Ma'habre<#>Проходы Махабре
+A normal looking book that feels surprisingly heavy. It's\#covers look very old.<#>Обычная на вид книга, но на удивление тяжела. Обложка\#выглядит очень старой.
+Green herb<#>Зелёная трава
+A green herb with a bitter smell. Used commonly to cure\#infections by rubbing them with the herb.<#>Зелёная трава с горьким запахом. Используется для лечения\#инфекций путём растирания на ране.
+Blue herb<#>Синяя трава
+A blue herb with a sweet smell.<#>Синяя трава со сладким запахом.
+Lavender<#>Лаванда
+Lavender petals that give off a lovely scent. The scent\#soothes you and dilutes your fears.<#>Лепестки лаванды, веющие прекрасным ароматом.\#Запах успокаивает и отдаляет страх.
+Wine vial<#>Винный флакон
+A vial of old murky wine. Drink it to dim your senses\#and fear.<#>Флакон старого мутного вина.\#Выпейте, чтобы притупить чувства и страх.
+Book of Fears<#>Книга страхов
+A book written about different phobias.<#>Книга о разных фобиях.
+Woodsman head<#>Голова дровосека
+The severed head of a woodsman. The blank eyes stare to\#emptiness.<#>Отрубленная голова дровосека. Застывшие глаза смотрят в\#пустоту.
+Booby trap<#>Мина-ловушка
+A makeshift trap made from a case of a landmine. While not\#very damaging, can be used to stun opponents momentarily.<#>Самодельная ловушка в корпусе фугасной мины.\#Не наносит урона, но может неплохо оглушить.
+Lighter<#>Зажигалка
+Use to light a fire. Light brings warmth and safety and keeps\#fear in check. There is still some gas left.<#>Используйте, чтобы что-либо зажечь.\#Свет приносит тепло и отдаляет страх.\#В ней ещё остался газ.
+Villager head<#>Голова жителя
+The severed head of a villager. The blank eyes stare to\#emptiness.<#>Отрубленная голова жителя города. Застывшие глаза смотрят\#в пустоту.
+Vile head<#>Голова мерзости
+The severed head of a villager with his pig mask still on.\#You couldn't get the mask off as if it's melted to the skin.<#>Отрубленная голова деревенского жителя в маске свиньи.\#Маску не выходит снять, будто бы она прижжена к коже.
+Priest's head<#>Голова священника
+The severed head of a decrepit priest. There's something eerie\#about the head. As if something lingers still inside...<#>Отрубленная голова дряхлого священника.\#Есть в ней что-то жуткое... Будто душа не покинула её.
+Gentleman's head<#>Голова Джентльмена
+The severed head of the Gentleman.<#>Отрубленная голова Джентльмена.
+Ronteal's head<#>Голова Ронтила
+The severed head of a ronteal. The head is full of sharp teeth\#and muckus.<#>Отрубленная голова Ронтила. Полна острых зубов и слизи.
+Rifleman head<#>Голова стрелка
+The severed head of a rifleman. His eyes are in permanent squint\#now.<#>Отрубленная голова стрелка. Его глаза застыли в прищуре.
+Soul stone<#>Камень душ
+The insides of the gemstone radiate faint light that slowly\#swirls around.<#>Внутренности этого драгоценного камня излучают слабый свет,\#который медленно кружит над ним.
+Brain flower seed<#>Семя мозгоцвета
+Small seeds that are soft and squishy.<#>Маленькие семена, мягкие и рыхлые.
+Soul stone shard<#>Осколок камня душ
+A shard of a larger gemstone. You can feel magnetic pulse\#from the shard... Maybe if you had more of these...?<#>Осколок более крупного камня. Вы чувствуете пульсацию\#из осколка... Если бы только у вас было их побольше...
+White key<#>Белый ключ
+A white key.<#>Белый ключ.
+Red herb<#>Красная трава
+A red herb with a neutral smell. Intensifies the effect of\#other herbs.<#>Красная трава с нейтральным запахом. Усиливает эффект от\#других трав.
+Alchemillia vol.1<#>Алхемилия, том 1
+A book for beginner level alchemy. Contains recipes for the\#blue vial and simple mixed herbs.<#>Книга с основами алхимии для начинающих.\#Содержит рецепты синего флакона и травяных смесей.
+Mixed herbs<#>Смешанные травы
+A mixture of blue and red herbs that is especially potent.<#>Особенно сильная смесь синей и красной травы.
+A mixture of green and red herbs that is especially potent.<#>Особенно сильная смесь зелёной и красной травы.
+Anathomia<#>Анатомия
+The book of collected knowledge of medical science.<#>Книга собранных знаний медицинской науки.
+Bonesaw<#>Хирургическая пила
+A rusty old bonesaw. You can only imagine the cruelty this\#saw has seen. Effective against infections.<#>Старая ржавая пила для отрезания конечностей по костям.\#Вы можете только представить, какую жестокость она повидала.\#Эффективна против инфекций.
+Arm<#>Рука
+An arm that's still relatively fresh.<#>Рука, которая ещё относительно свежа.
+Leg<#>Нога
+A leg that's still relatively fresh.<#>Нога, которая ещё относительно свежа.
+Goat hoof<#>Козье копыто
+A hoof of a goat. It's still relatively fresh.<#>Копыто козы. Относительно свежо.
+Purifying talisman<#>Талисман очищения
+A paper talisman with markings that originate from\#Eastern Sanctuaries.<#>Бумажный талисман с отметками, происходящими из Восточных\#Святилищ.
+Raw meat<#>Сырое мясо
+A piece of raw meat. It's huge junk, but you don't know\#if it's healthy to eat it raw...<#>Кусок сырого мяса. Оно явно вредное, и вы не знаете, стоит\#ли есть его сырым...
+Grilled meat<#>Жареное мясо
+A piece of grilled meat. It's huge junk that will surely\#satisfy your hunger.<#>Кусок жареного мяса. Довольно вреден, но наверняка утолит голод.
+Mushroom stew<#>Грибное рагу
+Mushroom stew made from local penny buns.<#>Грибное рагу из местных белых грибов.
+Saw blade<#>Циркулярная пила
+A saw blade that is used in table saws. The blade has been\#gathering a little bit rust.<#>Пыльный диск, используемый в настольных пилах.\#Лезвие немного ржавое.
+Ornament lantern<#>Орнаментированный фонарь
+A simple lantern with ornament decorations. Can be used to\#throw at the enemies for a small fire attack.<#>Простой орнаментированный фонарь. Можно кинуть во врага,\#чтобы с некоторым шансом его поджечь.
+Fallen cherub head<#>Голова падшего херувима
+The severed head of a fallen cherub. The head feels hollow and its\#skin feels crispy.<#>Отрубленная голова падшего херувима. По ощущениям пустая\#внутри, а кожа на ней сухая.
+Throwing dart<#>Метательный дротик
+Small darts designed for throwing. They are also dipped\#in poison.<#>Маленький дротик, предназначенный для метания.\#Наконечник покрыт ядом.
+Coded letter #1<#>Зашифрованное письмо №1
+A letter with a coded message...<#>Письмо с зашифрованным сообщением...
+Coded letter #2<#>Зашифрованное письмо №2
+Lion brass key<#>Латунный ключ со львом
+A brass key with a crude insignia of the 2-tailed lion that\#is the old symbol of Prehevil.<#>Латунный ключ с грубым изображением двухвостого льва,\#являющегося древним символом Прехевила.
+Gasoline canister<#>Канистра с бензином
+A canister with a good amount of gasoline still left inside.<#>Внутри осталось приличное количество бензина.
+Rust-coloured pearl<#>Ржавый жемчуг
+A mysterious rust-coloured pearl found from inside a ronteal.\#The shape is perfect, but there is something ominous about it...<#>Таинственная жемчужина цвета ржавчины, найденная внутри\#логова Ронтила. Имеет идеальную форму, но что-то в ней\#ощущается зловещим...
+Soldier's letter<#>Письмо солдата
+A handwritten letter of a Bremen soldier. Seems like he\#never got to send the letter...<#>Рукописное письмо бременского солдата. Кажется, он\#так и не успел отправить его...
+Shilling<#>Шиллинг
+The common currency used in Prehevil. It's value is less\#than that of its counter-parts in Europa.<#>Валюта, часто используемая в Прехевиле.\#Менее ценна, чем её европейские аналоги.
+Eagle brass key<#>Латунный ключ с орлом
+A brass key with a crude insignia of the Bremen national\#animal black eagle.<#>Латунный ключ с грубым изображением бременского\#национального животного - чёрного орла.
+Chalk<#>Мел
+A short piece of chalk. You can draw things with this.<#>Короткий кусочек мела. Вы можете что-нибудь нарисовать им.
+Occult Grimoires<#>Оккультные Гримуары
+The book contains the basics of occult and magick. Information\#about the ritual circles can be found here.<#>В этой книге содержится информация об основах оккультизма\#и магии. Информацию о ритуальных кругах можно узнать здесь.
+Basement key<#>Ключ от подвала
+A basement key found from the woodsman.<#>Ключ от подвала, найденный у дровосека.
+Skin bible - Gro-goroth<#>Кожаная библия - Гро-горот
+A strong occult book written in the medieval times by Enki\#Ankarian. The chapter explains the older god Gro-goroth.<#>Мрачная оккультная книга, написанная в средние века Энки\#Анкарианом. Этот том рассказывает о древнем боге\#Гро-гороте.
+Skin bible - Rher<#>Кожаная библия - Рхер
+A strong occult book written in the medieval times by Enki\#Ankarian. The chapter explains the older god Rher.<#>Мрачная оккультная книга, написанная в средние века Энки\#Анкарианом. Этот том рассказывает о древнем боге Рхере.
+Combat manual<#>Боевое руководство
+A beginner's guide to survival and combat on a battlefield.<#>Руководство по выживанию и бою для начинающих.
+Black matter<#>Чёрная материя
+You cannot quite tell what you are looking at. You can\#recognize pasta in there. It might be edible?<#>Вы не можете точно сказать, на что вы смотрите.\#Вам это напоминает пасту. Может, оно съедобно?
+Newspaper article<#>Газетная статья
+An article about the end of the Great War II.<#>Статья об окончании Второй мировой войны.
+Penny bun<#>Белый гриб
+A mushroom commonly found throughout Europa. An edible mushroom.\#It is used widely as an ingredient in various foods.<#>Гриб, распространённый по всей Европе. Он съедобен.\#Широко используется в различных блюдах.
+Fly amanita<#>Мухомор
+One of the more iconic toadstool species. Its (relatively)\#mild poison is well known even by small children.<#>Один из самых знаменитых ядовитых грибов. Его (относительно)\#слабые ядовитые свойства известны даже детям.
+Golden chanterelle<#>Золотая лисичка
+A sought-after edible mushroom. Its delicious taste is often\#referenced "Chanterelle dreams, amanita nightmares."<#>Известный съедобный гриб. Его восхитительный вкус часто\#описывают так: «Пока лисичка во сне видит мечты, мухомор\#видит кошмары.»
+Glass shards<#>Осколки стекла
+A fistful of glass shards. Better handle them with care so\#you won't cut yourself!<#>Горсть осколков стекла. Обращайтесь с ними осторожно, а\#то порежетесь!
+The Last Frontier ch.1<#>Последний Рубеж, часть 1
+A brief history of the dark continent Vinland.<#>Краткая история тёмного континента Винланд.
+Bolt cutters<#>Болторез
+A tool used for cutting chains, padlocks, bolts and wire.\#The handles are positioned with the best leverage in mind.<#>Инструмент, используемый для перекусывания цепей, замков,\#болтов и проводов. Рукояти расположены так, чтобы создавать\#максимальный нажимной эффект.
+Bolt<#>Болт
+Bolts are typically used in assembling different components\#together.<#>Болты широко используются при сборке различных вещей.
+Duct tape<#>Клейкая лента
+A special water resistant tape created recently in the second\#great war to seal ammunition cases in a durable manner.<#>Специальная водостойкая лента, изобретённая совсем недавно, в\#период Второй мировой войны, чтобы надёжно запечатывать ящики\#с боеприпасами.
+Scrap metal<#>Металлолом
+Pieces of scrap metal left seemingly with no purpose.<#>Куски металлолома, на первый взгляд не имеющие практического\#применения.
+Craftman's notes<#>Заметки ремонтника
+Notes left behind by the craftman of the church.<#>Записки, оставленные церковным рабочим.
+Moonscorched head<#>Голова опаленного луной
+The severed head of a moonscorched villager. The skin has\#burned and melted in an unusual way.<#>Отрубленная голова опаленного луной жителя. На коже\#имеются ожоги и необычные оплавления.
+Bobby's head<#>Голова патрульного
+The severed head of a bobby. The skin has taken exoskeleton-like\#qualities. The expression is in eternal grin.<#>Отрубленная голова патрульного. Его кожа приобрела свойства\#экзоскелета. Выражение застыло в вечной ухмылке.
+Head of Needles<#>Голова Нидлза
+The severed head of the Needles. For some reason you get a\#feeling that his presence still lingers in those eyes...<#>Отрубленная голова Нидлза. По какой-то причине вы чувствуете,\#что его душа всё ещё присутствует в его глазах...
+Pillarman's head<#>Голова столпника
+The severed head of a moonscorched villager. The skin seems\#burned in an unusual way.<#>Отрубленная голова опаленного луной жителя.\#Кожа, кажется, опалена необычным образом.
+Head of the Tormented one<#>Голова Измученного
+Janitor head<#>Голова надзирателя
+The severed head of the janitor from workshops. The face seems\#to be set in forever-grin.<#>Отрубленная голова надзирателя мастерской. Лицо застыло в вечной\#ухмылке.
+Dead crow<#>Мёртвая ворона
+A crow carcass that has recently started decomposing. It smells\#awful and even has few maggots in it.<#>Тушка вороны, которая начала разлагаться. Пахнет\#ужасно, в ней даже есть несколько личинок.
+Church keys<#>Церковные ключи
+A set of keys found from the lower levels of the Church of\#Alll-mer. They look like typical prison keys.<#>Набор ключей, найденный на нижних этажах церкви Алл-мера.\#Выглядят как обычные тюремные клочи.
+Crosswords puzzle<#>Кроссворд
+A torn crosswords puzzle from an old newspaper. Looks like someone\#has filled some of it already...<#>Разорванный кроссворд из старой газеты. Похоже, кто-то\#уже частично его решил...
+Broomstick<#>Метла
+A simple wooden broomstick. It doesn't feel sturdy enough\#to be used as a weapon.<#>Простая деревянная метла. Недостаточно крепка для использования\#в качестве оружия.
+Sewer keys<#>Ключи от канализации
+A set of dirty and rusty keys. One of the keys got carved\#text saying "Sewers".<#>Набор грязных и ржавых ключей. На одном из ключей вырезана\#надпись - «Канализация».
+Recipes of the 15th Century vol.2<#>Рецепты 15-го века, том 2
+The second volume of the cook book series. Contains recipes\#for the meat and vegetable pies.<#>Второй том серии кулинарных книг. Содержит рецепты мясного\#и овощного пирогов.
+Skin bible - Alll-mer<#>Кожаная библия - Алл-мер
+A strong occult book written in the medieval times by Enki\#Ankarian. The chapter explains the older god Alll-mer.<#>Мрачная оккультная книга, написанная в средние века Энки Анкарианом.\#Этот том рассказывает о древнем боге Алл-мере.
+C-ration<#>Витаминный рацион
+A canned military food ration issued to the allied forces.\#Consists corned beef and hardtack biscuits.<#>Сухой продовольственный военный паёк, выдававшийся силам\#союзников в военное время. Состоит из солонины и галет.
+Pressure plate<#>Нажимная плита
+A piece of scrap metal. This particular piece has been used\#as a pressure plate of sorts.<#>Кусок металлолома. Этот конкретный - использовался в качестве\#нажимной плиты.
+Gun powder<#>Порох
+Looks like the standard gun powder that is used with bullets\#and shells.<#>Выглядит, как стандартный порох, используемый в снарядах.
+Liver<#>Печень
+The liver has a function in detoxication, the removal of\#toxic substances from a living organism.<#>Печень выполняет функцию детоксикации, удаляя токсичные\#вещества из организма.
+Kidney<#>Почка
+Kidney participates in the control of bodily fluids, acid-base\#balance and removal of toxins from the body.<#>Почки участвуют в регуляции телесных жидкостей,\#кислотно-щелочном балансе и выведении токсинов из организма.
+Eye<#>Глаз
+Eyes are organs of the visual system. They provide animals\#with vision.<#>Глаза – часть зрительной системы.\#Обеспечивает живые организмы зрением.
+Heart<#>Сердце
+The heart is a muscular organ which pumps blood through the\#blood vessels of the circulatory system.<#>Сердце – мышечный орган, перекачивающий кровь по\#кровеносным сосудам кровеносной системы.
+Parathyroid glands<#>Паращитовидные железы
+The parathyroid glands are four tiny glands that control the\#body's calcium levels.<#>Паращитовидные железы - это четыре крошечные железы, которые\#контролируют уровень кальция в организме.
+Thymus<#>Тимус
+The thymus is a critical organ to the adaptive immune system\#where the body adapts specifically to foreign invaders.<#>Вилочковая железа является критическим органом адаптивной\#иммунной системы, когда тело адаптируется к чужеродной среде.
+Kaiser critique<#>Критика Кайзера
+An article that talks against the Kaiser's army and Bremen.<#>Статья, выступающая против армии Кайзера и Бремена.
+Kaiser's rise to power<#>Приход Кайзера к власти
+An article that talks against the Kaiser's rise to power.<#>Статья, выступающая против прихода Кайзера к власти.
+Master key<#>Мастер-ключ
+Master key found from the landlord's office in the apartment\#building on the residential neighbourhood. A special key designed\#to open all the apartments in the building when necessary.<#>Ключ, найденный в кабинете заведующего зданием в жилом\#квартале. Ключ специально разработан для того, чтобы\#отпирать любые двери в апартаментах при необходимости.
+Fellatio Effigy<#>Статуэтка самоудовлетворения
+A small effigy of man hunched over on a throne. It's carved\#from an unknown material.<#>Небольшая статуэтка человека, сгорбившегося на троне, вырезанная\#из неизвестного материала.
+Hunger Effigy<#>Статуэтка голода
+A small effigy of an deity with its gaping mouth open. It's carved\#from an unknown material.<#>Небольшая статуэтка божества с разинутым ртом, вырезанная\#из неизвестного материала.
+Martyr Effigy<#>Статуэтка мученика
+A small effigy resembling crucified Alll-mer with a snake curled\#over him. It's carved from an unknown material.<#>Небольшая статуэтка, напоминающая распятого Алл-мера со\#змеёй, обернувшейся вокруг него.\#Вырезана из неизвестного материала.
+Heart flower stigma<#>Рыльце сердцецвета
+The stigma of a blooming heart flower. Has restorative properties\#when ingested. Heart and brain flowers are said to be nature's\#way of mimicing and growing a full artificial human being.<#>Рыльце цветущего сердцецвета. Обладает целебными свойствами при\#употреблении внутрь. Говорят, что сердцецвет и мозгоцвет - способ\#природы имитировать выращивание искусственного человека.
+Brain flower stigma<#>Рыльце мозгоцвета
+The stigma of a blooming brain flower. Has a sanity recovering\#effect when ingested. It is said that the pollen of a brain flower\#has the opposite effect and often takes hold of its new host.<#>Рыльце цветущего мозгоцвета. Слегка облегчает разум при\#употреблении внутрь. Говорят, что пыльца мозгоцвета носит\#обратный эффект и часто овладевает своим новым носителем.
+Fecal hound head<#>Голова фекальной гончей
+The severed head of a fecal hound. The smell this beast emits\#even in death is rancid.<#>Отрубленная голова фекальной гончей.\#Запах, который веет вокруг этого существа, даже после\#его смерти, просто ужасен.
+Neighbour head<#>Голова соседа
+The severed head of a neighbour. A rancid smell is eminating\#from its mouth.<#>Отрубленная голова соседа. Изо рта веет ужасным запахом.
+Diary of a madman<#>Дневник сумасшедшего
+A diary of a person living in the apartment building in the\#backstreets of central Prehevil.<#>Дневник человека, проживающего в многоквартирных апартаментах\#центрального Прехевила.
+Headmaster's key<#>Ключ директора
+A special key that belonged to the headmaster of the Prehevil\#orphanage. After his execution, the key is yours to keep.<#>Особый ключ, принадлежавший директору приюта Прехевила.\#После его смерти, вы можете забрать ключ себе.
+Ratkin head<#>Готова крысолюда
+The severed head of a ratkin. The head seems to share characteristics\#of both human and rat.<#>Отрубленная голова крысолюда.\#Похоже, что она разделяет как человеческие, так и крысиные признаки.
+Rat hag head<#>Голова крысиной ведьмы
+The severed head of a rat hag. The towering head is suprisingly\#heavy and left forever in a twisted grin.<#>Отрубленная голова крысиной ведьмы. Эта высокая голова на удивление\#тяжела. Лицо навсегда застыло в кривой ухмылке.
+Henryk's head<#>Голова Генрика
+The severed head of Henryk.<#>Отрубленная голова Генрика.
+Manor key<#>Ключ от поместья
+A key found from the mayor's manor in the Prehevil old town.\#The key looks pretty plain with some light sratches here and there.<#>Ключ, найденный в поместье мэра в старом городе Прехевила.\#Выглядит довольно просто, разве что поцарапан тут и там.
+Abella's head<#>Голова Абеллы
+The severed head of Abella.<#>Отрубленная голова Абеллы.
+Marcoh's head<#>Голова Марко
+The severed head of Marcoh.<#>Отрубленная голова Марко.
+Olivia's head<#>Голова Оливии
+The severed head of Olivia.<#>Отрубленная голова Оливии.
+Poison hemlock<#>Ядовитый болиголов
+A large and poisonous plant that emits unpleasant smell. When\#digested it is very hazardous, but on touch it only causes mild\#poisoning.<#>Крупное ядовитое растение, источающее неприятный запах.\#При употреблении вызывает очень сильные осложения, но\#прикосновения лишь слегка раздражают.
+Nettle<#>Крапива
+Also known as stinging nettle. The leaves and the stem have\#many hollow stinging hairs that cause mild irritation.<#>Крапива. На листьях и на стебле растёт множество крошечных\#ворсинок, вызывающих лёгкое раздражение кожи.
+Tanaka's head<#>Голова Танаки
+The severed head of Tanaka.<#>Отрубленная голова Танаки.
+Pav's head<#>Голова Пава
+The severed head of Pav.<#>Отрубленная голова Пава.
+Foldable wheelchair<#>Складная инвалидная коляска
+A special lightweight foldable wheelchair meant. It is easy and\#fast to set up and feels surprisingly durable despite.<#>Специальная лёгкая складная инвалидная коляска.\#Быстро раскладывается, и вместе с тем удивительно\#прочна.
+Judgement's head<#>Голова Правосудия
+The severed head of Judgement.<#>Отрубленная голова Правосудия.
+Head of the Mechanical dance<#>Голова Механического танца
+The severed head of the Mechanical dance.<#>Отрубленная голова Механического танца.
+Wild dagga<#>Дикая дагга
+Also known as lion's tail. A rare plant to see growing in wild in\#Europa. Someone must have planted it here. When smoked, the plant\#has a calming and numbing effect. Great for relieving fear.<#>Также известна как львиный хвост. Редкое растение, практически\#не растущее в Европе. Похоже, его кто-то подсадил. При курении\#успокаивает и обезболивает. Отлично отдаляет страх.
+Daan's head<#>Голова Даана
+The severed head of Daan.<#>Отрубленная голова Даана.
+Caligura's head<#>Голова Калигуры
+The severed head of Caligura.<#>Отрубленная голова Калигуры.
+Sewer winch<#>Ключ от канализационного люка
+A special winch used for opening the sewer lids in Prehevil.<#>Специальный инструмент, используемый для открывания местных\#канализационных люков.
+Head of the Pocketcat<#>Голова Покеткэта
+The severed head of the Pocketcat<#>Отрубленная голова Покеткэта.
+Karin's head<#>Голова Карин
+The severed head of Karin.<#>Отрубленная голова Карин.
+Levi's head<#>Голова Леви
+The severed head of Levi.<#>Отрубленная голова Леви.
+Half-cocooned head<#>Голова Полуобращённого
+The severed head of a half-cocooned villager.<#>Отрубленная голова человека, наполовину окуклившегося.
+Soldier head<#>Голова солдата
+The severed head of an infantry trooper.<#>Отрубленная голова пехотинца.
+Marina's head<#>Голова Марины
+The severed head of Marina.<#>Отрубленная голова Марины.
+Inquisitor head<#>Голова Инквизитора
+The severed head of an Inquisitor.<#>Отрубленная голова Инквизитора.
+Osaa's head<#>голова О'саа
+The severed head of O'saa.<#>Отрубленная голова О'саа.
+Mastermind's head<#>Голова Высшего разума
+The severed head of the Mastermind.<#>Отрубленная голова Высшего разума.
+Bellend head<#>Голова Головастого
+The severed head of a Bellend.<#>Отрубленная голова Головастого.
+Head of the Stitches<#>Голова Ститчес
+The severed head of the Stitches.<#>Отрубленная голова Ститчес.
+August's head<#>Голова Августа
+The severed head of August.<#>Отрубленная голова Августа.
+Valkyrie's head<#>Голова Валькирии
+The severed head of Valkyrie.<#>Отрубленная голова Валькирии.
+Tanaka's notes<#>Записки Танаки
+Notes left behind by Tanaka. The notes look relatively fresh.<#>Записки, оставленные Танакой. Выглядят написанными\#относительно недавно.
+Ancient book<#>Древняя книга
+An ancient looking book with grotesque leather covers. You\#feel great urge to read the book.<#>Старинная книга в причудливой кожаной обложке. Она\#сильно притягивает ваше внимание.
+Talking board<#>Доска Уиджи
+Dysmorphia's head<#>Голова Дисморфии
+The severed head of Dysmorphia.<#>Отрубленная голова Дисморфии.
+Samarie's head<#>Голова Самари
+The severed head of Samarie.<#>Отрубленная голова Самари.
+Owl cultist head<#>Голова культиста совы
+The severed head of an owl cultist.<#>Отрубленная голова культиста совы.
+Elite trooper head<#>Глава элитного солдата
+The severed head of an elite trooper.<#>Отрубленная голова элитного солдата.
+Flame trooper head<#>Голова огнемётчика
+The severed head of a flame trooper.<#>Отрубленная голова огнемётчика.
+Skin bible - Vinushka (unedited)<#>Кожаная библия - Винушка (неотредактированная)
+A strong occult book written in the medieval times by Enki\#Ankarian. The chapter explains the older god Vinushka. This\#particular version hasn't been tampered and edited by the Vatican.<#>Мрачная оккультная книга, написанная в средние века Энки\#Анкарианом. Этот том рассказывает о древнем боге Винушке.\#Эта конкретная версия не была цензурирована в Ватикане.
+Skin bible - God of Fear and Hunger<#>Кожаная библия - Бог Страха и Голода
+A strong occult book written in the medieval times by Enki\#Ankarian. The chapter explains the god of fear and hunger.<#>Мрачная оккультная книга, написанная в средние века Энки\#Анкарианом. Этот том рассказывает о Боге Страха и Голода.
+Skin bible - Vinushka<#>Кожаная библия - Винушка
+A strong occult book written in the medieval times by Enki\#Ankarian. The chapter explains the older god Vinushka.<#>Мрачная оккультная книга, написанная в средние века Энки\#Анкарианом. Этот том рассказывает о древнем боге Винушке.
+Skin bible - Sylvian<#>Кожаная библия - Сильвиан
+A strong occult book written in the medieval times by Enki\#Ankarian. The chapter explains the older god Sylvian.<#>Мрачная оккультная книга, написанная в средние века Энки\#Анкарианом. Этот том рассказывает о древней богине Сильвиан.
+Prehevil document<#>Документ из Прехевила
+The truth under the moonlight<#>Истина под лунным светом
+NLU Reconnaissance Report #1<#>Разведывательный отчёт ПБС №1
+A brief report about a partisan organization called NLU - Nameless\#Liberty Underground. Distributed to all mid-level Bremen officers\#assigned to Bohemia.<#>Краткий отчёт о партизанской организации ПБС - Подполье\#Безымянной Свободы. Выдаётся всем бременским офицерам,\#назначенным в Богемии.
+NLU Reconnaissance Report #2<#>Разведывательный отчёт ПБС №2
+A brief report about NLU member Haas Reila Audrey. Distributed to\#all mid-level Bremen officers assigned to Bohemia.<#>Краткий отчёт о члене ПБС - Хаас Рейле Одри.\#Выдаётся всем бременским офицерам, назначенным\#в Богемии.
+Telelectroscope and Logic<#>Телеэлектроскоп и Логика
+A document giving you broad overview on Telelectroscope and Logic.<#>Документ, дающий общее представление о Телеэлектроскопах и Логике.
+Brain diagram document<#>Диаграмма мозговой активности
+A document about brain usage and technology.<#>Документ о мозговой активности и технологиях.
+Sylvian trooper head<#>Голова наездницы Сильвиан
+The severed head of a sylvian trooper.<#>Отрубленная голова наездницы Сильвиан.
+Per'kele's head<#>Голова Пер'келе
+The severed head of the Per'kele.<#>Отрубленная голова Пер'келе.
+Kaiser's head<#>Голова Кайзера
+The severed head of the Kaiser.<#>Отрубленная голова Кайзера.
+Head of the Heartless one<#>Голова Бессердечной
+The severed head of the Heartless one.<#>Отрубленная голова Бессердечной.
+Condensed blue<#>Концентрированная синяя трава
+A condensed ball of blue herbs. Recovers great amount of\#health when digested.<#>Сконцентрированный шарик из синей травы.\#Восстанавливает большое количество здоровья.
+Condensed green<#>Концентрированная зелёная трава
+A condensed ball of green herbs. Offer protection against infections,\#poisoning and other mild status ailments in advance. The effect\#doesn't last long though.<#>Сконцентрированный шарик из зелёной травы. Защищает от\#инфекций, отравления и других состоянии заранее.\#К сожалению, эффект длится недолго.
+Condensed lavender<#>Концентрированная лаванда
+A condensed ball of lavender. Recovers great amount of sanity\#when digested.<#>Сконцентрированный шарик из лаванды.\#Восстанавливает большое количество разума.
+Bench grinder<#>Настольный шлифовальный станок
+A grinding machine used to drive abrasive wheels. Commonly used\#to hand grind various tools and perform other rough grinding.\#It's very heavy and you wonder if it's worth carrying around.<#>Шлифовальный станок, используемый для полировки абразивных колес.\#Часто используется для ручной шлифовки инструментов и прочей\#шлифовальной работы. Очень тяжёлый. Стоит ли его таскать?
+Condensed nettle<#>Концентрат крапивы
+Also known as stinging nettle. The leaves and the stem have\#many hollow stinging hairs that cause mild pain if touched.\#The hairs won't cause any real damage, but they do irritate quite a bit.<#>Крапива. На листьях и на стебле растёт множество крошечных\#ворсинок, вызывающих лёгкое раздражение кожи. Не наносит\#особого вреда, но надолго раздражает кожу.
+Condensed hemlock<#>Концентрат болиголова
+A condensed ball of poison hemlock. Even just a small amount\#of any part of the plant can cause respiratory paralysis and\#and death.<#>Сконцентрированный шарик из ядовитого болиголова.\#Даже небольшое его количество, попавшее на кожу,\#может вызвать паралич и смерть.
+The Logic document<#>Документация на Логику
+Portrait of a young man<#>Портрет молодого человека
+An old portrait photograph of a young man. It looks like the photo\#was taken in the late-1800s. The person's face has been scratched\#over and is beyond recognition.<#>Старый потрет молодого человека. Выглядит так, будто фото было\#сделано где-то в конце 1800-х. Фотография расцарапана, и лицо\#человека невозможно узнать.
+Rancid head<#>Прокаженная голова
+The severed head of the Rancid sergal.<#>Отрубленная голова прокаженного Сергала.
+Heart-shaped lock<#>Замок в форме сердца
+Rusty key<#>Ржавый ключ
+Meatpie+<#>Мясной пирог+
+Vegetable pie+<#>Овощной пирог+
+Mushroom stew+<#>Грибное рагу+
+Goulash+<#>Гуляш+
+Catnip<#>Кошачья мята
+Pipe bomb<#>Самодельная бомба
+Schematics for custom foods.<#>Схемы для нестандартных блюд.
+The talisman rises defence against otherwordly powers momentarily\#but it might have some other uses as well...<#>Талисман усиливает защиту от потусторонних сил, но возможно\#имеет и какое-то другое применение...
+'Man in dreams' flyer<#>Листовка «Человек из снов»
+A flyer with an eerily familiar face...<#>Листовка с устрашающе знакомым лицом...
+Taking board instructions<#>Инструкция по доске Уиджи.
+Instructions on how to operate a talking board to communicate\#with spirits and others alike.<#>Инструкции по использованию доски для общения\#с духами.
+God manifesto<#>Божий манифест
+A short manifesto on godhood. Written by renowned occultist\#Donnovan Hugo.<#>Краткий манифест о божественности. Написан известным\#оккультистом Доннованом Хьюго.
+The Tale of the Pocketcat Ch. 1<#>Сказка о Покеткэте, часть 1
+The first chapter of an old fairytale used to scare children from\#wandering off on their own. This particular copy seems faithful to the\#original, unlike the modern watered down versions of the story.<#>Первая глава старинной сказки, которой пугали детей, чтобы\#они не гуляли подолгу. Эта конкретная копия более близка к\#оригиналу, отличному от современных упрощенных версий.
+The Tale of the Pocketcat Ch. 2<#>Сказка о Покеткэте, часть 2
+The second chapter of an old fairytale used to scare children from\#wandering off on their own. This particular copy seems faithful to the\#original, unlike the modern watered down versions of the story.<#>Вторая глава старинной сказки, которой пугали детей, чтобы\#они не гуляли подолгу. Эта конкретная копия более близка к\#оригиналу, отличному от современных упрощенных версий.
+Death mask head<#>Голова посмертной маски
+The severed head of a death mask.<#>Отрубленная голова посмертной маски.
+Meat grinder head<#>Голова мясника
+The severed head of the meat grinder.<#>Отрубленная голова мясника.
+Centaur head<#>Голова кентавра
+The severed head of the centaur.<#>Отрубленная голова кентавра.
+Film reel<#>Кинолента
+A regular 8mm film reel. The label has writing: "Slow Exposure/\#Subject 17". Someone has written the following on top of the label:\#"What does fast exposure look like?"<#>Стандартная 8 мм кинолента. Заголовок гласит: «Медленное\#воздействие/Субъект 17». Кто-то написал поверх заголовка:\#«А что насчёт быстрого воздействия?»
+Dark blue root<#>Тёмно-синий корень
+Roots of a blue herb. The smell of the herb is even sweeter in\#its roots compared to the upper parts.<#>Корень голубой травы. Корень пахнет ещё слаще в сравнении\#с самой травой.
+A mixture of deep blue roots and red herbs that is especially\#potent.<#>Смесь тёмно-синего корня и красной травы, особенно мощная.
+A mixture of deep blue roots and blue herbs that is especially\#potent.<#>Смесь тёмно-синего корня и синей травы, особенно мощная.
+Gull brother head<#>Голова брата-чайки
+The severed head of a gull brother.<#>Отрубленная голова брата-чайки.
