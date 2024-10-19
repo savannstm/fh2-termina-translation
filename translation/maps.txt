@@ -1629,7 +1629,7 @@ You strangle the Bremen lieutenant.\. Without resistance he sleeps away.<#>Вы 
 "You are doing better already?"<#>«Тебе уже лучше?»
 \>\i[144]\}AV\{\<\#"I didn't ask for saving, now did I?"<#>\>\}\i[381]АВ\{\<\#«Я просил у тебя спасения?»
 "You would've died if it wasn't for me."<#>«Ты бы умер, если бы не я.»
-"Things looked bad..."<#>«Ты выглядел плохо...»
+"Things looked bad..."<#>«Ты был в плачевном состоянии...»
 \>\i[144]\}AV\{\<\#"Maybe I would've, maybe I wouldn't have. Now we'll never know."<#>\>\}\i[381]АВ\{\<\#«Может я умер бы, а может и нет. Теперь мы никогда не узнаем.»
 \>\i[144]\}AV\{\<\#"What is it to you? It's none of your business."<#>\>\}\i[381]АВ\{\<\#«Тебе какое дело? Тебя это не касается.»
 \>\i[144]\}AV\{\<\#"Just leave me be."<#>\>\}\i[381]АВ\{\<\#«Оставь меня.»
@@ -1866,22 +1866,22 @@ O'saa wandered off to the next cabin...<#>О'саа ушёл в соседний
 \>\i[82]\}ANAKA\{\<\#"Good evening...\| *Ouch* \|Every muscle in my body is sore from the\#training I had with Marcoh..."<#>\>\}\i[384]АНАКА\{\<\#«Добрый вечер...\| *Ай* \|Каждый мускул моего тела истощен от той\#тренировки, что у нас была с Марко...»
 \>\i[82]\}ANAKA\{\<\#"Who knew boxing was so taxing ha ha."<#>\>\}\i[384]АНАКА\{\<\#«Кто знал, что бокс требует такой отдачи, ха-ха.»
 \>\i[82]\}ANAKA\{\<\#"But I'm glad. I feel a lot more confident. The world became a lot\#less scary in an afternoon."<#>\>\}\i[384]АНАКА\{\<\#«Но я рад. Я чувствую себя намного уверенней. Мир стал намного\#менее страшным за один день.»
-\>\i[76]\}ARCOH\{\<\#"Confidence is good, but don't get cocky Tanaka."<#>\>\}\i[378]АРКО\{\<\#«Уверенность это хорошо, но не наглей, Танака.»
-\>\i[76]\}ARCOH\{\<\#"I mean you did good, but... There are strong folks around."<#>\>\}\i[378]АРКО\{\<\#«Я имею в виду, ты справляешься хорошо, но... Есть враги сильнее\#тебя.»
+\>\i[76]\}ARCOH\{\<\#"Confidence is good, but don't get cocky Tanaka."<#>\>\}\i[378]АРКО\{\<\#«Уверенность - это хорошо, но не наглей, Танака.»
+\>\i[76]\}ARCOH\{\<\#"I mean you did good, but... There are strong folks around."<#>\>\}\i[378]АРКО\{\<\#«Я имею в виду, ты хорошо справляешься, но... Есть враги сильнее\#тебя.»
 \>\i[82]\}ANAKA\{\<\#"Oh no, not at all!"<#>\>\}\i[384]АНАКА\{\<\#«О, нет, вовсе нет!»
-\>\i[82]\}ANAKA\{\<\#"I feel like I'm just in the beginning of my journey. Don't worry."<#>\>\}\i[384]АНАКА\{\<\#«Я чувствую себя лишь в начале пути. Не беспокойся.»
+\>\i[82]\}ANAKA\{\<\#"I feel like I'm just in the beginning of my journey. Don't worry."<#>\>\}\i[384]АНАКА\{\<\#«Я знаю, что нахожусь лишь в начале пути. Не беспокойся.»
 \>\i[82]\}ANAKA\{\<\#"To be honest... I was terrified of this place when we first got\#here."<#>\>\}\i[384]АНАКА\{\<\#«Если быть честным... Я был в ужасе от этого места, когда мы\#только прибыли.»
-\>\i[82]\}ANAKA\{\<\#"I didn't think it could get any worse, but then we ran into that\#Bremen soldier."<#>\>\}\i[384]АНАКА\{\<\#«Я не думал, что что-то может стать хуже, но тогда мы\#столкнулись с тем бременским солдатом.»
+\>\i[82]\}ANAKA\{\<\#"I didn't think it could get any worse, but then we ran into that\#Bremen soldier."<#>\>\}\i[384]АНАКА\{\<\#«Я не думал, что положение может стать хуже, но тогда мы\#столкнулись с тем бременским солдатом.»
 \>\i[82]\}ANAKA\{\<\#"He could've just pulled the trigger and it would've been the end\#of me."<#>\>\}\i[384]АНАКА\{\<\#«Он мог просто нажать на спуск, и для меня бы всё закончилось.»
 \>\i[82]\}ANAKA\{\<\#"I realized it's not just this cursed town that's out to get me.\#We are delicate flowers just waiting to be stomped by any one human\#who wishes to do so."<#>\>\}\i[384]АНАКА\{\<\#«Я понял, что не только этот проклятый город хочет меня забрать.\#Мы - нежные цветы, ожидающие пока их растопчут.»
-\>\i[82]\}ANAKA\{\<\#"I didn't think it could get any worse, but then we ran into that\#mime... with all those syringes..."<#>\>\}\i[384]АНАКА\{\<\#«Я не думал, что что-то может стать хуже, но тогда мы столкнулись\#с тем мимом... со своими шприцами...»
+\>\i[82]\}ANAKA\{\<\#"I didn't think it could get any worse, but then we ran into that\#mime... with all those syringes..."<#>\>\}\i[384]АНАКА\{\<\#«Я не думал, что положение может стать хуже, но тогда мы столкнулись\#с тем мимом... со своими шприцами...»
 \>\i[82]\}ANAKA\{\<\#"I could see cruelty in his eyes. Cruelty and intelligence. Not all\#the horrors in this town are just mindless monsters you can run\#away from..."<#>\>\}\i[384]АНАКА\{\<\#«Я видел жестокость в его глазах. Жестокость и разум. Не все\#ужасы этого города - просто безумные монстры, от которых можно\#сбежать...»
 choice_text 2 "We are heading to a club in the city, it's a safe place..."<#>choice_text 2 «Мы направляемся в городской клуб, там безопасно...»
 choice_text 2 "There's a safe club in the city, the others are there too..."<#>choice_text 2 «В городе есть безопасный клуб, остальные тоже там...»
-\>\i[82]\}ANAKA\{\<\#"The world doesn't owe us anything. It's up to us to stand up and\#do the right thing."<#>\>\}\i[384]АНАКА\{\<\#«Мир нам ничего не должен. Мы - те, кто должен подняться и сам\#сделать правильную вещь.»
+\>\i[82]\}ANAKA\{\<\#"The world doesn't owe us anything. It's up to us to stand up and\#do the right thing."<#>\>\}\i[384]АНАКА\{\<\#«Мир нам ничего не должен. Мы сами должны встать и\#сделать правильный поступок.»
 "Sounds like you've had a lot of time to think."<#>«Звучит так, будто у тебя было много времени подумать.»
-"That's a good policy to live by."<#>«Хорошие жизненные правила.»
-\>\i[82]\}ANAKA\{\<\#"I've always been more of a thinker than a brawler. I'm not\#abandoning the world of intellect just yet. But in this situation\#it's better to roll up your sleeves than over-analyze."<#>\>\}\i[384]АНАКА\{\<\#«Я всегда был больше мыслителем, чем бойцом. Я ещё не покидаю\#мир интеллекта. Но в этой ситуации лучше закатать рукава, чем\#безгранично думать.»
+"That's a good policy to live by."<#>«Хорошие жизненные принципы.»
+\>\i[82]\}ANAKA\{\<\#"I've always been more of a thinker than a brawler. I'm not\#abandoning the world of intellect just yet. But in this situation\#it's better to roll up your sleeves than over-analyze."<#>\>\}\i[384]АНАКА\{\<\#«Я всегда был больше мыслителем, чем бойцом. Я всё ещё держусь\#за мир интеллекта. Но в этой ситуации лучше закатать рукава, чем\#безгранично думать.»
 \>\i[82]\}ANAKA\{\<\#"Is that so?"<#>\>\}\i[384]АНАКА\{\<\#«Это так?»
 \>\i[82]\}ANAKA\{\<\#"It would be closer to various different resources, but wouldn't\#the dangers be more frequent as well?"<#>\>\}\i[384]АНАКА\{\<\#«Мы были бы ближе к различным ресурсам, но разве не стало\#бы также больше опасностей?»
 "The place looks relatively safe."<#>«Место выглядит относительно спокойным.»
@@ -1889,7 +1889,7 @@ choice_text 2 "There's a safe club in the city, the others are there too..."<#>c
 "You can stay here too if you want."<#>«Можешь остаться тут, если хочешь.»
 \>\i[82]\}ANAKA\{\<\#"Hm..."<#>\>\}\i[384]АНАКА\{\<\#«Хм.»
 \>\i[82]\}ANAKA\{\<\#"Maybe I'll have a look in that case."<#>\>\}\i[384]АНАКА\{\<\#«Может, я взгляну в таком случае.»
-\>\i[82]\}ANAKA\{\<\#"Right. It does seem that this place isn't good in the long run."<#>\>\}\i[384]АНАКА\{\<\#«Верно. Это место не выглядит хорошим в долгосрочной перспективе.»
+\>\i[82]\}ANAKA\{\<\#"Right. It does seem that this place isn't good in the long run."<#>\>\}\i[384]АНАКА\{\<\#«Верно. Это место не выглядит надёжным в долгосрочной перспективе.»
 \>\i[82]\}ANAKA\{\<\#"No, don't get me wrong. I do believe your word. If you say the\#place is better. I'll go there."<#>\>\}\i[384]АНАКА\{\<\#«Нет, не пойми меня неправильно. Я тебе верю. Если ты говоришь,\#что там лучше, я схожу туда.»
 \>\i[82]\}ANAKA\{\<\#"Yes. If I had to think of anything positive from this cursed journey\#so far, it would be the lessons I've learned."<#>\>\}\i[384]АНАКА\{\<\#«Да. Если бы я вспоминал что-нибудь позитивное из этой проклятой\#поездки, это были бы уроки, выученные мной.»
 \>\i[82]\}ANAKA\{\<\#"It is not an understatement to say that my world has turned upside\#down."<#>\>\}\i[384]АНАКА\{\<\#«Это не будет преуменьшением, если я скажу, что мой мир\#перевернулся с ног на голову.»
