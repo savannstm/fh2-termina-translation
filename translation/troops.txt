@@ -218,7 +218,7 @@ GabText The vile's skin begins to rot...<#>GabText Кожа Мерзости н�
 GabText You can't figure out the weaknesses of the vile...<#>GabText Вы не можете выявить слабости Мерзости...
 GabText You stole 2 \c[2]White vials\c[0]!<#>GabText Вы украли 2 \c[2]белых флакона\c[0]!
 GabText You stole \c[2]Pep pills\c[0]!<#>GabText Вы украли \c[2]бодрящие таблетки\c[0]!
-GabText The Vile is blinded! His eye socket is filling up with blood.<#>GabText Мерзость ослеплен! Его глазницы наполняются кровью.
+GabText The Vile is blinded! His eye socket is filling up with blood.<#>GabText Мерзость ослеплён! Его глазницы наполняются кровью.
 GabText Vile charges at you with a blank expression on his gas mask!<#>GabText Мерзость бежит на вас с пустым выражением лица в противогазе!
 GabText Vile loses his balance.<#>GabText Мерзость теряет равновесие.
 A man with a pigskin gas mask is pursuing you furiously!<#>Человек в противогазе из свиной кожи яростно преследует вас!
@@ -413,7 +413,7 @@ GabText You've exposed the weaknesses of the moonscorched!<#>GabText Вы выя
 GabText You stole 2 \c[2]Shillings\c[0]!<#>GabText Вы украли 2 \c[2]шиллинга\c[0]!
 GabText You stole a \c[2]Turnip\c[0]!<#>GabText Вы украли \c[2]репу\c[0]!
 GabText The moonscorched loses his balance!<#>GabText Опаленный луной теряет равновесие!
-GabText The moonscorched is blinded! His eyes are bleeding!<#>GabText Опаленный луной ослеплен! Его глаза кровоточат!
+GabText The moonscorched is blinded! His eyes are bleeding!<#>GabText Опаленный луной ослеплён! Его глаза кровоточат!
 GabText A crazed villager runs straight at you in a blind fury!<#>GabText Обезумевший житель бежит прямо на вас в слепой ярости!
 GabText The moonscorched loses his balance.<#>GabText Опаленный луной теряет равновесие.
 A man runs straight at you with an obvious killing intent.\#Even the flayed skin hanging on his waist doesn't seem to\#slow him down...<#>Человек бежит прямо на вас с явным намерением убить.\#Даже содранная кожа, свисающая с его талии,\#не сдерживает его...
@@ -534,7 +534,7 @@ GabText The skin of the Needles begins to rot...<#>GabText Кожа Нидлза
 GabText The needles doesn't seem to have clear weaknesses...<#>GabText У Нидлза, похоже, нет явных слабостей...
 GabText You stole a syringe full of \c[2]Heroin\c[0]!<#>GabText Вы украли шприц, полный \c[2]героина\c[0]!
 GabText Needles loses his balance!<#>GabText Нидлз теряет равновесие!
-GabText Needles is blinded! His eyes are bleeding!<#>GabText Нидлз ослеплен! Его глаза кровоточат!
+GabText Needles is blinded! His eyes are bleeding!<#>GabText Нидлз ослеплён! Его глаза кровоточат!
 GabText Needles whips out a pistol!<#>GabText Нидлз выхватывает пистолет!
 GabText Needles came waltzing in to greet you.<#>GabText Нидлз, вальсируя, приветствует вас.
 Needles looks you straight in the eyes as his expression becomes\#more serious.<#>Нидлз смотрит вам прямо в глаза, выражение его лица становится\#более серьёзным.
@@ -767,7 +767,7 @@ You have trouble saying anything to the beast because of the\#overwhelming stenc
 The beast doesn't seem understand a thing you say. Or it chooses\#to ignore you entirely. Either one could be true.<#>Зверь, кажется, не понимает, что вы говорите. Или он предпочитает\#полностью игнорировать вас. Всё может быть.
 GabText The hounds are rotting before your eyes...<#>GabText Гончие разлагаются у вас на глазах...
 GabText You've exposed the weaknesses of the beasts!<#>GabText Вы выявили слабости зверей!
-GabText The beast is blinded! Its eyes are bleeding!<#>GabText Зверь ослеплен! Его глаза кровоточат!
+GabText The beast is blinded! Its eyes are bleeding!<#>GabText Зверь ослеплён! Его глаза кровоточат!
 GabText The hound hisses at you with its saliva splattering around!<#>GabText Гончая шипит на вас, разбрызгивая вокруг свою слюну!
 GabText You feel nauseous just being this close to the creature...<#>GabText Вас тошнит от одного лишь присутствия существа...
 GabText A striking stench follows the hound as it approaches you...<#>GabText От приближающейся гончей веет поразительным зловонием...
@@ -816,7 +816,7 @@ The small creature keeps stumbling towards you as you try to\#speak some sense t
 The creature is just pursing its lips back and forth. Whether it\#means something is a complete mystery to you.<#>Существо лишь поджимает губы взад-вперёд. Значит ли это\#что-то - полная загадка для вас.
 GabText The cherub is rotting before your eyes...<#>GabText Херувим гниет у вас на глазах...
 GabText You've exposed the weaknesses of the cherub!<#>GabText Вы выявили слабости херувима!
-GabText The cherub is blinded! Its eyes are bleeding!<#>GabText Херувим ослеплен! Его глаза кровоточат!
+GabText The cherub is blinded! Its eyes are bleeding!<#>GabText Херувим ослеплён! Его глаза кровоточат!
 GabText A cherub stumbles upon your path. Its eyes are set on you.<#>GabText Херувим встал у вас на пути. Он смотрит вам в душу.
 GabText The cherubs are rotting before your eyes...<#>GabText Херувимы разлагаются у вас на глазах...
 GabText You've exposed the weaknesses of the cherubs!<#>GabText Вы выявили слабости херувимов!
@@ -828,7 +828,7 @@ GabText You've exposed the weaknesses of the half-cocooned!<#>GabText Вы вы�
 GabText You stole 7 \c[2]Shillings\c[0]!<#>GabText Вы украли 7 \c[2]шиллингов\c[0]!
 GabText You stole a \c[2]12-gauge shells\c[0]!<#>GabText Вы украли \c[2]патрон 12-го калибра\c[0]!
 GabText The half-cocooned loses his balance!<#>GabText Полуобращённый теряет равновесие!
-GabText The half-cocooned is blinded! His sole eye is bleeding!<#>GabText Полуобращённый ослеплен! Его единственный глаз кровоточит!
+GabText The half-cocooned is blinded! His sole eye is bleeding!<#>GabText Полуобращённый ослеплён! Его единственный глаз кровоточит!
 GabText A half-cocooned man swings his mallets furiously!<#>GabText Полуобращённый яростно размахивает своими молотками!
 The man raises his meat mallet is clear fury. He clearly has intentions\#of violence...<#>Мужчина яростно замахивается отбивным молотком. Он явно\#хочет насилия...
 GabText You dodge the swing of the half-cocooned!<#>GabText Вы уворачиваетесь от удара полуобращённого!
@@ -1071,7 +1071,7 @@ GabText You've exposed the weaknesses of Pav!<#>GabText Вы выявили сл
 GabText You stole 10 \c[2]9mm Bullets\c[0]!<#>GabText Вы украли 10 \c[2]9 мм патронов\c[0]!
 \>\i[144]\}AV\{\<\#"Sorry, you're not going anywhere."<#>\>\}\i[381]АВ\{\<\#«Извини, ты никуда не пойдёшь.»
 GabText Pav loses his balance!<#>GabText Пав теряет равновесие!
-GabText Pav is blinded! His eyes are bleeding!<#>GabText Пав ослеплен! Его глаза кровоточат!
+GabText Pav is blinded! His eyes are bleeding!<#>GabText Пав ослеплён! Его глаза кровоточат!
 GabText Pav whips out his pistol faster than you're able to react!<#>GabText Пав выхватывает свой быстрее, чем вы успеваете среагировать!
 \>\i[144]\}AV\{\<\#"Too slow! Too slow!"<#>\>\}\i[381]АВ\{\<\#«Слишком медленно! Слишком медленно!»
 GabText Pav loses his balance.<#>GabText Пав теряет равновесие.
@@ -1258,7 +1258,7 @@ GabText You've exposed the weaknesses of August!<#>GabText Вы выявили �
 GabText You stole 3 \c[2]Bear traps\c[0]!<#>GabText Вы украли 3 \c[2]медвежьих капкана\c[0]!
 \>\i[64]\}UGUST\{\<\#"You think you can outrun my arrows?"<#>\>\}\i[368]ВГУСТ\{\<\#«Вы думаете, что сможете сбежать от моих стрел?»
 GabText August loses his balance!<#>GabText Август теряет равновесие!
-GabText August is blinded! His eyes are bleeding!<#>GabText Август ослеплен! Его глаза кровоточат!
+GabText August is blinded! His eyes are bleeding!<#>GabText Август ослеплён! Его глаза кровоточат!
 GabText August takes an arrow and slowly but firmly loads his bow.<#>GabText Август берет стрелу и медленно, но туго натягивает свой лук.
 \>\i[64]\}UGUST\{\<\#"Only one arrow. That is all I need."<#>\>\}\i[368]ВГУСТ\{\<\#«Лишь одна стрела. Это всё, что мне нужно.»
 GabText August loses his balance.<#>GabText Август теряет равновесие.
@@ -1356,7 +1356,7 @@ GabText The Mechanical dance slowly approaches you...<#>GabText Механиче
 GabText The skin of the Judgement begins to rot...<#>GabText Кожа Правосудия начинает гнить...
 GabText You can't figure out the weaknesses of the judgement...<#>GabText Вы не можете выявить слабости Правосудия...
 GabText You stole 5 \c[2]Glass shards\c[0]!<#>GabText Вы украли 5 \c[2]осколков стекла\c[0]!
-GabText The judgement is blinded! His eyes are bleeding!<#>GabText Правосудие ослеплен! Его глаза кровоточат!
+GabText The judgement is blinded! His eyes are bleeding!<#>GabText Правосудие ослеплён! Его глаза кровоточат!
 GabText The judgement marches towards you without hesitation.<#>GabText Правосудие, не колеблясь, идёт в вашу сторону.
 GabText The judgement loses his balance.<#>GabText Правосудие теряет равновесие.
 choice_text 1 \}[PERSUADE]\{ "Don't do anything more you'd regret later!"<#>choice_text 1 \}[УБЕДИТЬ]\{ «Не делай того, о чём потом пожалеешь!»
@@ -1555,7 +1555,7 @@ GabText The valkyrie is carrying the deceased warriors on its back.<#>GabText В
 GabText The mastermind's skin begins to rot...<#>GabText Кожа высшего разума начинает гнить...
 GabText You've exposed the weaknesses of the mastermind!<#>GabText Вы выявили слабости высшего разума!
 GabText The mastermind loses his balance!<#>GabText Высший разум теряет равновесие!
-GabText The mastermind is blinded! His eyes are bleeding!<#>GabText Высший разум ослеплен! Его глаза кровоточат!
+GabText The mastermind is blinded! His eyes are bleeding!<#>GabText Высший разум ослеплён! Его глаза кровоточат!
 \>\i[144]\}LATOON\{\<\#"Grroumph... groumph..."<#>\>\}\i[370]ЗВОД\{\<\#«Гррумф... грумф...»
 The platoon doesn't seem to be capable of speech. You can however see\#a glimmer of understanding in the various heads and faces you see\#joint in this tangled mess.<#>Взвод, похоже, не способен говорить. Тем не менее вам удаётся\#увидеть проблески понимания в различных головах и лицах, которые\#можно разглядеть в этом беспорядке.
 \>\i[81]\}YLVIAN TROOPER\{\<\#"..."<#>\>\}\i[379]АЕЗДНИЦА СИЛЬВИАН\{\<\#«...»
@@ -1715,7 +1715,7 @@ GabText You've exposed the weaknesses of Per'kele!<#>GabText Вы выявили
 GabText You stole 3 \c[2]Lucky coins\c[0]!<#>GabText Вы украли 3 \c[2]счастливые монеты\c[0]!
 GabText You stole 3 \c[2]Light blue vials\c[0]!<#>GabText Вы украли 3 \c[2]светло-голубых флакона\c[0]!
 GabText Per'kele loses his balance!<#>GabText Пер'келе теряет равновесие!
-GabText The Per'kele is blinded! His eyes are bleeding!<#>GabText Пер'келе ослеплен! Его глаза кровоточат!
+GabText The Per'kele is blinded! His eyes are bleeding!<#>GabText Пер'келе ослеплён! Его глаза кровоточат!
 GabText Per'kele bows gently and prepares for the battle.<#>GabText Пер'келе мягко кланяется и готовится к битве.
 \>\i[144]\}ER'KELE\{\<\#"Have you seen the colour blood takes under the moonlight?"<#>\>\}\i[381]ЕР'КЕЛЕ\{\<\#«Вы видели, какой кровь приобретает оттенок под лунным светом?»
 \>\i[144]\}ER'KELE\{\<\#"Such beautiful blend of pale red and sickly green drenched in\#cold hues of blue."<#>\>\}\i[381]ЕР'КЕЛЕ\{\<\#«Прекрасное сочетание бледно-красного и болезненно-зелёного,\#пропитанное холодными оттенками синего.»
@@ -1742,7 +1742,7 @@ choice_text 6 \}[INTIMIDATE]\{ "I get to kill the Kaiser himself!"<#>choice_text
 GabText Kaiser's skin begins to rot...<#>GabText Кожа Кайзера начинает гнить...
 GabText You've exposed the weaknesses of the kaiser!<#>GabText Вы выявили слабости Кайзера!
 GabText Kaiser loses his balance!<#>GabText Кайзер теряет равновесие!
-GabText The Kaiser is blinded! His eyes are bleeding!<#>GabText Кайзер ослеплен! Его глаза кровоточат!
+GabText The Kaiser is blinded! His eyes are bleeding!<#>GabText Кайзер ослеплён! Его глаза кровоточат!
 GabText Kaiser lifts his sword and prepares himself.<#>GabText Кайзер поднимает свой меч и готовится.
 You try talking to the figure...<#>Вы пробуете поговорить с фигурой...
 "Is there something you are trying to tell me?"<#>«Ты хочешь мне что-то сказать?»
