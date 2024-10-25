@@ -428,7 +428,7 @@ GabText You stole \c[2]Rotten meat\c[0]!<#>GabText Вы украли \c[2]тух
 \>\i[76]\}OONSCORCHED\{\<\#"Please... Just end this..."<#>\>\}\i[380]ПАЛЕННЫЙ ЛУНОЙ\{\<\#«Пожалуйста... Просто покончи с этим...»
 \>\i[76]\}OONSCORCHED\{\<\#"MY SKIN... My self... I'm changing..."<#>\>\}\i[380]ПАЛЕННЫЙ ЛУНОЙ\{\<\#«МОЯ КОЖА... Моё „я”... Я меняюсь...»
 GabText You stole an \c[2]Egg\c[0]!<#>GabText Вы украли \c[2]яйцо\c[0]!
-GabText The crazed villager is too busy to even pay attention to you.<#>GabText Обезумевший житель слишком занят, чтобы обратить на вас внимание.
+GabText The crazed villager is too busy to even pay attention to you.<#>GabText Обезумевший житель занят, не обращая на вас внимание.
 GabText The crazed villager is in frenzy peeling his face off.<#>GabText Обезумевший житель безумно обдирает своё лицо.
 GabText The crazed villager sinks his nails into his skin.<#>GabText Обезумевший житель вонзает ногти в свою кожу.
 \>\i[76]\}OONSCORCHED\{\<\#"T-take it off! TAKE IT OFF PLEASE!"<#>\>\}\i[380]ПАЛЕННЫЙ ЛУНОЙ\{\<\#«С-сними её! СНИМИ ЕЁ, ПОЖАЛУЙСТА!»
@@ -814,7 +814,7 @@ The small creature keeps stumbling towards you as you try to\#speak some sense t
 "Don't come closer!"<#>«Не подходи ближе!»
 "Die, you miserable thing."<#>«Умри, жалкое существо.»
 The creature is just pursing its lips back and forth. Whether it\#means something is a complete mystery to you.<#>Существо лишь поджимает губы взад-вперёд. Значит ли это\#что-то - полная загадка для вас.
-GabText The cherub is rotting before your eyes...<#>GabText Херувим гниет у вас на глазах...
+GabText The cherub is rotting before your eyes...<#>GabText Херувим гниёт у вас на глазах...
 GabText You've exposed the weaknesses of the cherub!<#>GabText Вы выявили слабости херувима!
 GabText The cherub is blinded! Its eyes are bleeding!<#>GabText Херувим ослеплён! Его глаза кровоточат!
 GabText A cherub stumbles upon your path. Its eyes are set on you.<#>GabText Херувим встал у вас на пути. Он смотрит вам в душу.
@@ -1030,7 +1030,7 @@ Tanaka lowers his guard. He seems to be a bit wary of you still.<#>Танака 
 GabText Tanaka's skin begins to rot...<#>GabText Кожа Танаки начинает гнить...
 GabText You've exposed the weaknesses of Tanaka!<#>GabText Вы выявили слабости Танаки!
 GabText You stole 35 \c[2]Shillings\c[0]!<#>GabText Вы украли 35 \c[2]шиллингов\c[0]!
-\>\i[82]\}ANAKA\{\<\#"H-hey! Those are my savings!"<#>\>\}\i[384]АНАКА\{\<\#«Эй! Это мои сбережения!»
+\>\i[82]\}ANAKA\{\<\#"H-hey! Those are my savings!"<#>\>\}\i[384]АНАКА\{\<\#«Э-эй! Это мои сбережения!»
 \>\i[82]\}ANAKA\{\<\#"I just can't let you go at this point."<#>\>\}\i[384]АНАКА\{\<\#«Теперь я просто не могу отпустить тебя.»
 \>\i[82]\}ANAKA\{\<\#"M-my arm!"<#>\>\}\i[384]АНАКА\{\<\#«М-моя рука!»
 \>\i[82]\}ANAKA\{\<\#"YOU CUT IT!"<#>\>\}\i[384]АНАКА\{\<\#«ОНА ОТРЕЗАНА!»
