@@ -7,7 +7,7 @@ Nevermind<#>Неважно
 \>\i[85]\}OODSMAN\{\<\#"..."<#>\>\}\i[372]РОВОСЕК\{\<\#«...»
 \>\i[85]\}OODSMAN\{\<\#"Leave! Now! Before I bury this hatchet in your skull..."<#>\>\}\i[372]РОВОСЕК\{\<\#«Уходи! Немедленно! Пока я не вонзил этот топор тебе в череп...»
 The woodsman seems to be waiting for your initiative...<#>Кажется, дровосек ждёт вашего хода...
-\>\i[85]\}OODSMAN\{\<\#"You had your chance... You had your chance you fool!"<#>\>\}\i[372]РОВОСЕК\{\<\#«У тебя был шанс... У тебя был шанс, дур\x[ак|а]!»
+\>\i[85]\}OODSMAN\{\<\#"You had your chance... You had your chance you fool!"<#>\>\}\i[372]РОВОСЕК\{\<\#«У тебя был шанс... У тебя был шанс, дура\x[к|]!»
 \>\i[85]\}OODSMAN\{\<\#"Leave - now! Don't you understand!?"<#>\>\}\i[372]РОВОСЕК\{\<\#«Уходи - немедленно! Разве ты не понимаешь?!»
 "I told you, I'd leave if I could!"<#>«Я говорю тебе - я уш\x[ёл|ла] бы, если мог\x[|ла]!»
 "Understand what?"<#>«Понимаю что?»
