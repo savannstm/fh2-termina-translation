@@ -11056,7 +11056,7 @@ You get 20 \c[2]Shillings\c[0], a \c[2]Lucky coin\c[0] and a \c[2]Gentleman's ha
 \>\i[64]\}UGUST\{\<\#"I'm at a loss to be honest. I'm running out of time and I've gotten\#no results."<#>\>\}\i[368]ВГУСТ\{\<\#«Если честно, мне не о чём говорить. У меня истекает время,\#и я всё ещё не получил никаких результатов.»
 "What have you done?"<#>«Что ты сделал?»
 "What results?"<#>«Каких результатов?»
-\>\i[64]\}UGUST\{\<\#"Him?"<#>\>\}\i[368]ВГУСТ\{\<\#«Он?»
+\>\i[64]\}UGUST\{\<\#"Him?"<#>\>\}\i[368]ВГУСТ\{\<\#«С ним?»
 \>\i[64]\}UGUST\{\<\#"He decided to take part in the festival, so I took him down."<#>\>\}\i[368]ВГУСТ\{\<\#«Он решил принять участие в фестивале, так что я его убил.»
 \>\i[64]\}UGUST\{\<\#"A fair fight."<#>\>\}\i[368]ВГУСТ\{\<\#«Честный бой.»
 \>\i[64]\}UGUST\{\<\#"It doesn't matter anymore."<#>\>\}\i[368]ВГУСТ\{\<\#«Это больше не имеет значения.»
