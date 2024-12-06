@@ -42,7 +42,7 @@ The text includes the sigil of the Gro-goroth and instructions\#on how to use it
 The text includes the sigil of the Rher and instructions on how\#to use it.<#>Текст включает в себя символ Рхера и инструкции по его\#использованию.
 "The Intermediate Level of Alchemy - Alchemillia vol.2"<#>«Средний уровень алхимии - Алхемилия, том 2»
 "The effects of different coloured alchemic substances are listed\#here:"<#>«Здесь перечислены эффекты различных окрашенных алхимических\#веществ:»
-"Yellow + Oil = Highly flammable"\#Blue + Fly Amanita = Antidote for the poison\#Golden chantarelle + Golden chantarelle = Nutritious liquid."<#>«Жёлтый + Масло = Воспламеняющаяся жидкость\#Синий + Мухомор = Противоядие\#Две золотые лисички = Питательная жидкость.»
+"Yellow + Oil = Highly flammable"\#Blue + Fly Amanita = Antidote for the poison\#Golden chantarelle + Golden chantarelle = Nutritious liquid."<#>«Жёлтый + масло = воспламеняющаяся жидкость\#Синий + мухомор = противоядие\#Две золотые лисички = питательная жидкость.»
 "Conceived by the black. Born from the clay. Shaped by\#our fears. Forged by the sins of her parents."<#>«Зачата тьмой. Рождена из глины. Сформирована нашими страхами.\#Выкована грехами её родителей.»
 "From eternal darkness and void, she'd bring gloom."<#>«Из вечной тьмы и пустоты, она принесла мрак.»
 "The hubris of man brought this upon us, but it is not\#because of cruelty, it is because of wisdom. Only through\#hardship could we see the errors of our ways."<#>«Человеческое высокомерие навлекло его на нас. Не жестокость,\#не мудрость. Только пройдя через испытания, мы сможем увидеть\#ошибки нашего пути.»
@@ -389,7 +389,7 @@ You find a \c[2]Ballistic shield\c[0]!<#>Вы нашли \c[2]баллистич
 "The appearance of the God of Fear & Hunger started the fourth\#age in which mankind had to learn to adapt and evolve. As\#times have progressed, we are still living according to this\#ideology."<#>«Появление Бога Страха и Голода положило начало четвёртой эпохе,\#в которой человечество должно было адаптироваться и развиваться.\#С течением времени, мы всё ещё живем в соответствии с этой\#идеологией.»
 You pick up the unused \c[2]Gasoline canister\c[0].<#>Вы берете неиспользованную \c[2]канистру с бензином\c[0].
 "The Experienced Level of Alchemy - Alchemillia vol.3"<#>«Продвинутый уровень алхимии - Алхемилия, том 3»
-"Recipes for intermediate alchemy:\#Blue + Pep pills = Super senses\#Blue + Blue = Greater healing"<#>«Рецепты продвинутой алхимии:\#Синий + Бодрящие таблетки = Обострённые чувства\#Синий + Синий = Мощное исцеление»
+"Recipes for intermediate alchemy:\#Blue + Pep pills = Super senses\#Blue + Blue = Greater healing"<#>«Рецепты продвинутой алхимии:\#Синий + бодрящие таблетки = обострённые чувства\#Синий + синий = мощное исцеление»
 Talking to yourself or the voices inside won't save your\#sanity.<#>Разговоры с самим собой или внутренними голосами не спасут\#ваше здравомыслие.
 \>\i[76]\}ARINA\{\<\#"Don't you just hate this place?"<#>\>\}\i[378]АРИНА\{\<\#«Разве ты не ненавидишь это место?»
 "What is going on here?"<#>«Что здесь происходит?»
@@ -513,10 +513,10 @@ GabText The potion causes burning sensation the moment it is drank.<#>GabText З
 "The Basics of Alchemy - Alchemillia vol.1"<#>«Основы Алхимии - Алхемилия, том 1»
 "The effects of different herbs and plants are listed here:"<#>«В этой книге перечислены эффекты различных трав и растений:»
 "Blue - Blue herb has healing properties. It's often rubbed against\#open wounds and injuries. The effects are almost immediate."<#>«Синий - Синие травы обладают целебными свойствами.\#Зачастую, их растирают на открытых ранах и местах травм.\#Целебный эффект почти мгновенный.»
-"Green - Green herbs are commonly used on open wounds to prevent\#infections."<#>«Зелёный - Зелёные травы обычно растираются на открытых ранах\#для предотвращения инфекций.»
-"Red - Red herbs have little to no effect on their own, but when\#used together with other herbs they have a boosting effect."<#>«Красный - Сами по себе эти травы бесполезны, но в комбинации\#с другими травами, усиливают эффективность последних.»
-"Lavender - The smell of lavender can be used to ease anxiety and\#fear. It's also said to keep bees away."<#>«Лаванда - Запах лаванды можно использовать для облегчения\#беспокойства и страха. Также говорят, что он отпугивает пчел.»
-"Recipes for basic alchemy:\#Blue + Red = Greater healing properties\#Green + Red = Antidote for mild poisons\#Blue + Blue = Blue vial"<#>«Рецепты базовой алхимии:\#Синий + Красный = Сильный целительный эффект\#Зелёный + Красный = Противоядие от слабых ядов\#Синий + Синий = Синий флакон»
+"Green - Green herbs are commonly used on open wounds to prevent\#infections."<#>«Зелёный - зелёные травы обычно растираются на открытых ранах\#для предотвращения инфекций.»
+"Red - Red herbs have little to no effect on their own, but when\#used together with other herbs they have a boosting effect."<#>«Красный - сами по себе эти травы бесполезны, но в комбинации\#с другими травами, усиливают эффективность последних.»
+"Lavender - The smell of lavender can be used to ease anxiety and\#fear. It's also said to keep bees away."<#>«Лаванда - запах лаванды можно использовать для облегчения\#беспокойства и страха. Также говорят, что он отпугивает пчел.»
+"Recipes for basic alchemy:\#Blue + Red = Greater healing properties\#Green + Red = Antidote for mild poisons\#Blue + Blue = Blue vial"<#>«Рецепты базовой алхимии:\#Синий + красный = сильный целительный эффект\#Зелёный + красный = противоядие от слабых ядов\#Синий + синий = синий флакон»
 "The book of medical science - The book of Anathomia.\#Collected knowledge of Homer of the Abyssonia."<#>«Книга медицинской науки - Книга об Анатомии.\#Сборник знаний Гомера из Абиссонии.»
 "Symptoms - Effects:\#\i[117] - Concussion\#\i[124] - Fracture or broken bone\#\i[114] - Bleeding wounds"<#>«Симптомы - последствия:\#\i[117] - Сотрясение мозга\#\i[124] - Перелом или сломанная кость\#\i[114] - Кровотечение»
 "Symptoms - Effects:\#\i[16] - Mild Poisoning\#\i[113] - Poisoned\#\i[112] - Toxic/Severe poisoning<#>«Симптомы - последствия:\#\i[16] - Легкое отравление\#\i[113] - Отравление\#\i[112] - Токсическое/тяжёлое отравление»
