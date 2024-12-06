@@ -463,8 +463,8 @@ A pile of flesh remains here with a \c[2]Heart flower\c[0] blooming on\#top of i
 \>\i[80]\}ED-HAIRED WOMAN\{\<\#"How about making yourself useful?"<#>\>\}\i[382]ЫЖЕВОЛОСАЯ ЖЕНЩИНА\{\<\#«Как насчёт того, чтобы быть полезным?»
 \>\i[71]\}ENRYK\{\<\#"Maybe I will do just that."<#>\>\}\i[371]ЕНРИК\{\<\#«Я так и поступлю.»
 \>\i[71]\}ENRYK\{\<\#"Just wait and see Ginger."<#>\>\}\i[371]ЕНРИК\{\<\#«Просто подожди и увидишь, рыжуля.»
-\>\i[64]\}BELLA\{\<\#"Yes, go make me proud."<#>\>\}\i[368]БЕЛЛА\{\<\#«Да, иди, заставь меня гордиться.»
-\>\i[80]\}ED-HAIRED WOMAN\{\<\#"Yes, go make me proud."<#>\>\}\i[382]ЫЖЕВОЛОСАЯ ЖЕНЩИНА\{\<\#«Да, иди, заставь меня гордиться.»
+\>\i[64]\}BELLA\{\<\#"Yes, go make me proud."<#>\>\}\i[368]БЕЛЛА\{\<\#«Да, иди, соверши подвиг.»
+\>\i[80]\}ED-HAIRED WOMAN\{\<\#"Yes, go make me proud."<#>\>\}\i[382]ЫЖЕВОЛОСАЯ ЖЕНЩИНА\{\<\#«Да, иди, соверши подвиг.»
 \>\i[71]\}ENRYK\{\<\#*Sigh*<#>\>\}\i[371]ЕНРИК\{\<\#*вздох*
 \>\i[71]\}ENRYK\{\<\#"Maybe I should head for the town too..."<#>\>\}\i[371]ЕНРИК\{\<\#«Может быть, мне тоже стоит отправиться в город...»
 \>\i[71]\}ENRYK\{\<\#"Oh hey..."<#>\>\}\i[371]ЕНРИК\{\<\#«О, привет...»
@@ -823,7 +823,7 @@ You hear voices echoing from the beheaded wizard...\#\c[7]"Enough of this nonsen
 \>\i[76]\}AN WITH CHECKERED PANTS\{\<\#"Have fun."<#>\>\}\i[378]УЖЧИНА В КЛЕТЧАТЫХ ШТАНАХ\{\<\#«Повеселись.»
 "I'm going now. Bye."<#>«Я ухожу. Пока.»
 \>\i[74]\}ARIN\{\<\#"Thank you for these condescending instructions."<#>\>\}\i[376]АРИН\{\<\#«Спасибо тебе за эти снисходительные инструкции.»
-\>\i[74]\}ARIN\{\<\#"They tell to respect your elders, but sometimes you guys make it\#very difficult."<#>\>\}\i[376]АРИН\{\<\#«Говорят, что надо уважать старших, но иногда вы сами делаете\#это очень затруднительным.»
+\>\i[74]\}ARIN\{\<\#"They tell to respect your elders, but sometimes you guys make it\#very difficult."<#>\>\}\i[376]АРИН\{\<\#«Говорят, что надо уважать старших, но иногда из-за вас самих\#это очень затруднительно.»
 \>\i[78]\}LIVIA\{\<\#"Before you go..."<#>\>\}\i[380]ЛИВИЯ\{\<\#«Прежде чем ты уйдёшь...»
 \>\i[78]\}LIVIA\{\<\#"Should we go over the dream discussion with the new one too?"<#>\>\}\i[380]ЛИВИЯ\{\<\#«Может, нам обсудить сон с новень\x[ким|кой]?»
 "The dream...?"<#>«Тот сон...?»
