@@ -817,7 +817,7 @@ You hear voices echoing from the beheaded wizard...\#\c[7]"Enough of this nonsen
 "What are you going to do?"<#>«Что ты собираешься делать?»
 "I need to be going too."<#>«Мне тоже нужно идти.»
 \>\i[76]\}AN WITH CHECKERED PANTS\{\<\#*Shrugs* "Wait here I guess. I'm not in a hurry."<#>\>\}\i[378]УЖЧИНА В КЛЕТЧАТЫХ ШТАНАХ\{\<\#*Пожимает плечами* «Подожду здесь, полагаю. Я не тороплюсь.»
-\>\i[76]\}AN WITH CHECKERED PANTS\{\<\#"Sure thing. Don't let us slow you down."<#>\>\}\i[378]УЖЧИНА В КЛЕТЧАТЫХ ШТАНАХ\{\<\#«Конечно. Не держись за нас, как за обузу.»
+\>\i[76]\}AN WITH CHECKERED PANTS\{\<\#"Sure thing. Don't let us slow you down."<#>\>\}\i[378]УЖЧИНА В КЛЕТЧАТЫХ ШТАНАХ\{\<\#«Конечно. Не держись за нас.»
 "Got it."<#>«Ясно.»
 "If I see anyone, I'll let them know of you guys waiting here."<#>«Если я кого-нибудь найду, я скажу им, что вы тут.»
 \>\i[76]\}AN WITH CHECKERED PANTS\{\<\#"Have fun."<#>\>\}\i[378]УЖЧИНА В КЛЕТЧАТЫХ ШТАНАХ\{\<\#«Повеселись.»
@@ -11511,7 +11511,7 @@ There seems to be nothing interesting in the drawer.<#>В комоде, похо
 \>\i[76]\}ARINA\{\<\#"This leads to the sewers...?"<#>\>\}\i[378]АРИНА\{\<\#«Это место ведет в канализацию...?»
 \>\i[76]\}ARINA\{\<\#"Please anything but the sewers!"<#>\>\}\i[378]АРИНА\{\<\#«Пожалуйста, что угодно, но не канализация!»
 \>\i[74]\}ARIN\{\<\#"This looks like a maintenance building of sorts... And judging\#by the smell, it leads down to the sewers..."<#>\>\}\i[376]АРИН\{\<\#«Выглядит, как какое-то здание для технического обслуживания...\#И судя по запаху, оно ведет в канализацию...»
-\>\i[64]\}BELLA\{\<\#"The sewer entrance is just down the stairs...?"<#>\>\}\i[368]БЕЛЛА\{\<\#«Вход в канализацию прямо вниз по лестнице...?»
+\>\i[64]\}BELLA\{\<\#"The sewer entrance is just down the stairs...?"<#>\>\}\i[368]БЕЛЛА\{\<\#«Вниз по лестнице вход в канализацию...?»
 \>\i[64]\}BELLA\{\<\#"We are going down aren't we?"<#>\>\}\i[368]БЕЛЛА\{\<\#«Мы же не идём туда?»
 \>\i[67]\}AAN\{\<\#"That's a... rich aroma eminating from the downstairs..."<#>\>\}\i[372]ААН\{\<\#«Снизу... веет богатым ароматом...»
 \>\i[78]\}LIVIA\{\<\#"Oof, what is that smell? It's horrible!"<#>\>\}\i[380]ЛИВИЯ\{\<\#«Уф, что это за запах? Он ужасен!»
