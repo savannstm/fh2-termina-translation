@@ -144,6 +144,21 @@ async function replaceVillagerFemaleLines() {
     await Bun.write("./output/data/Troops.json", JSON.stringify(troopsJSON));
 }
 
+async function replaceIncorrectNeedlesLosesBalanceLine() {
+    const troopsJSON = JSON.parse(await Bun.file("./output/data/Troops.json").text());
+
+    for (const [i, item] of troopsJSON[47].pages[10].list.entries()) {
+        for (const [pr, parameter] of item.parameters.entries()) {
+            if (parameter === "GabText Нидлз теряет равновесие.") {
+                troopsJSON[47].pages[10].list[i].parameters[pr] = "GabText Измученный теряет равновесие.";
+            }
+        }
+    }
+
+    await Bun.write("./output/data/Troops.json", JSON.stringify(troopsJSON));
+}
+
 await replaceAugustWhatBringsYouHereLine();
 await replaceMoonscorchedFemaleLines();
 await replaceVillagerFemaleLines();
+await replaceIncorrectNeedlesLosesBalanceLine();
