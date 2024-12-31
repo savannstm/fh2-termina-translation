@@ -431,8 +431,8 @@ You stir up the hornet's nest!<#>Вы разворошили осиное гне
 Hornet sting<#>Укус шершня
 Slap<#>Удар
 Double slap<#>Двойной удар
-Curse of Light<#>Проклятие Света
-Pillar of Light<#>Столп Света
+Curse of Light<#>Проклятие света
+Pillar of Light<#>Столп света
 Soul strike<#>Удар души
 Spear swing<#>Взмах копьём
 Throwing spear<#>Бросок копья
