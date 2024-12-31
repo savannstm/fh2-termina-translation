@@ -1,329 +1,329 @@
-Woodsman [torso]<#>Дровосек [торс]
-Woodsman [head]<#>Дровосек [голова]
-Woodsman [right arm]<#>Дровосек [правая рука]
-Woodsman [left arm]<#>Дровосек [левая рука]
-Woodsman [right leg]<#>Дровосек [правая нога]
-Woodsman [left leg]<#>Дровосек [левая нога]
-Woodsman [appendage]<#>Дровосек [отросток]
-Janitor [torso]<#>Надзиратель [торс]
-Janitor [head]<#>Надзиратель [голова]
-Janitor [right arm]<#>Надзиратель [правая рука]
-Janitor [left arm]<#>Надзиратель [левая рука]
-Janitor [right leg]<#>Надзиратель [правая нога]
-Janitor [left leg]<#>Надзиратель [левая нога]
-Janitor [sacks]<#>Надзиратель [мошонка]
-Headless [torso]<#>Безголовая гончая [торс]
-Headless [back paws]<#>Безголовая гончая [задние лапы]
-Headless [front paws]<#>Безголовая гончая [передние лапы]
-Villager [torso]<#>Житель [торс]
-Villager [head]<#>Житель [голова]
-Villager [right arm]<#>Житель [правая рука]
-Villager [left arm]<#>Житель [левая рука]
-Villager [right leg]<#>Житель [правая нога]
-Villager [left leg]<#>Житель [левая нога]
-Ronteal [torso]<#>Ронтил [торс]
-Ronteal [mouth 1]<#>Ронтил [рот 1]
-Ronteal [right arm]<#>Ронтил [правая рука]
-Ronteal [left arm]<#>Ронтил [левая рука]
-Ronteal [right leg]<#>Ронтил [правая нога]
-Ronteal [left leg]<#>Ронтил [левая нога]
-Ronteal [mouth 2]<#>Ронтил [рот 2]
+Woodsman [torso]<#>Дровосек (торс)
+Woodsman [head]<#>Дровосек (голова)
+Woodsman [right arm]<#>Дровосек (правая рука)
+Woodsman [left arm]<#>Дровосек (левая рука)
+Woodsman [right leg]<#>Дровосек (правая нога)
+Woodsman [left leg]<#>Дровосек (левая нога)
+Woodsman [appendage]<#>Дровосек (отросток)
+Janitor [torso]<#>Надзиратель (торс)
+Janitor [head]<#>Надзиратель (голова)
+Janitor [right arm]<#>Надзиратель (правая рука)
+Janitor [left arm]<#>Надзиратель (левая рука)
+Janitor [right leg]<#>Надзиратель (правая нога)
+Janitor [left leg]<#>Надзиратель (левая нога)
+Janitor [sacks]<#>Надзиратель (мошонка)
+Headless [torso]<#>Безголовая гончая (торс)
+Headless [back paws]<#>Безголовая гончая (задние лапы)
+Headless [front paws]<#>Безголовая гончая (передние лапы)
+Villager [torso]<#>Житель (торс)
+Villager [head]<#>Житель (голова)
+Villager [right arm]<#>Житель (правая рука)
+Villager [left arm]<#>Житель (левая рука)
+Villager [right leg]<#>Житель (правая нога)
+Villager [left leg]<#>Житель (левая нога)
+Ronteal [torso]<#>Ронтил (торс)
+Ronteal [mouth 1]<#>Ронтил (рот 1)
+Ronteal [right arm]<#>Ронтил (правая рука)
+Ronteal [left arm]<#>Ронтил (левая рука)
+Ronteal [right leg]<#>Ронтил (правая нога)
+Ronteal [left leg]<#>Ронтил (левая нога)
+Ronteal [mouth 2]<#>Ронтил (рот 2)
 Bear trap<#>Медвежий капкан
-Vile [torso]<#>Мерзость [торс]
-Vile [head]<#>Мерзость [голова]
-Vile [right arm]<#>Мерзость [правая рука]
-Vile [left arm]<#>Мерзость [левая рука]
-Vile [right leg]<#>Мерзость [правая нога]
-Vile [left leg]<#>Мерзость [левая нога]
-Decrepit priest [torso]<#>Дряхлый священник [торс]
-Decrepit priest [head]<#>Дряхлый священник [голова]
-Decrepit priest [right arm]<#>Дряхлый священник [правая рука]
-Decrepit priest [left arm]<#>Дряхлый священник [левая рука]
-Decrepit priest [right leg]<#>Дряхлый священник [правая нога]
-Decrepit priest [left leg]<#>Дряхлый священник [левая нога]
-Chaugnar [torso]<#>Чаугнар [торс]
-Chaugnar [head]<#>Чаугнар [голова]
-Chaugnar [right arm]<#>Чаугнар [правая рука]
-Chaugnar [left arm]<#>Чаугнар [левая рука]
-Chaugnar [right leg]<#>Чаугнар [правая нога]
-Chaugnar [left leg]<#>Чаугнар [левая нога]
-Gentleman [torso]<#>Джентльмен [торс]
-Gentleman [head]<#>Джентльмен [голова]
-Gentleman [right arm]<#>Джентльмен [правая рука]
-Gentleman [left arm]<#>Джентльмен [левая рука]
-Gentleman [right leg]<#>Джентльмен [правая нога]
-Gentleman [left leg]<#>Джентльмен [левая нога]
+Vile [torso]<#>Мерзость (торс)
+Vile [head]<#>Мерзость (голова)
+Vile [right arm]<#>Мерзость (правая рука)
+Vile [left arm]<#>Мерзость (левая рука)
+Vile [right leg]<#>Мерзость (правая нога)
+Vile [left leg]<#>Мерзость (левая нога)
+Decrepit priest [torso]<#>Дряхлый священник (торс)
+Decrepit priest [head]<#>Дряхлый священник (голова)
+Decrepit priest [right arm]<#>Дряхлый священник (правая рука)
+Decrepit priest [left arm]<#>Дряхлый священник (левая рука)
+Decrepit priest [right leg]<#>Дряхлый священник (правая нога)
+Decrepit priest [left leg]<#>Дряхлый священник (левая нога)
+Chaugnar [torso]<#>Чаугнар (торс)
+Chaugnar [head]<#>Чаугнар (голова)
+Chaugnar [right arm]<#>Чаугнар (правая рука)
+Chaugnar [left arm]<#>Чаугнар (левая рука)
+Chaugnar [right leg]<#>Чаугнар (правая нога)
+Chaugnar [left leg]<#>Чаугнар (левая нога)
+Gentleman [torso]<#>Джентльмен (торс)
+Gentleman [head]<#>Джентльмен (голова)
+Gentleman [right arm]<#>Джентльмен (правая рука)
+Gentleman [left arm]<#>Джентльмен (левая рука)
+Gentleman [right leg]<#>Джентльмен (правая нога)
+Gentleman [left leg]<#>Джентльмен (левая нога)
 Gasoline canister<#>Канистра с бензином
 Rifleman<#>Стрелок
 Half-cocooned 7<#>Полуобращённый
 Half-cocooned 8<#>Полуобращённый
 Meat grinder<#>Мясник
-Rifleman [torso]<#>Стрелок [торс]
-Rifleman [head]<#>Стрелок [голова]
-Rifleman [arms]<#>Стрелок [оружие]
-Rifleman [right leg]<#>Стрелок [правая нога]
-Rifleman [left leg]<#>Стрелок [левая нога]
-Pillarman [torso]<#>Столпник [торс]
-Pillarman [head]<#>Столпник [голова]
-Pillarman [right leg]<#>Столпник [правая нога]
-Pillarman [left leg]<#>Столпник [левая нога]
-Pillarman [black eye 1]<#>Столпник [чёрный глаз 1]
-Pillarman [black eye 2]<#>Столпник [чёрный глаз 2]
-Pillarman [black eye 3]<#>Столпник [чёрный глаз 3]
-Moonscorched [torso]<#>Опаленный луной [торс]
-Moonscorched [head]<#>Опаленный луной [голова]
-Moonscorched [right arm]<#>Опаленный луной [правая рука]
-Moonscorched [left arm]<#>Опаленный луной [левая рука]
-Moonscorched [right leg]<#>Опаленный луной [правая нога]
-Moonscorched [left leg]<#>Опаленный луной [левая нога]
-Crimson father [torso]<#>Багровый отец [торс]
-Crimson father [head]<#>Багровый отец [голова]
-Crimson father [right arm]<#>Багровый отец [правая рука]
-Crimson father [left arm]<#>Багровый отец [левая рука]
-Crimson father [tentacle 1]<#>Багровый отец [щупальце 1]
-Crimson father [tentacle 2]<#>Багровый отец [щупальце 2]
-Crimson father [tentacle 3]<#>Багровый отец [щупальце 3]
-Bobby [torso]<#>Патрульный [торс]
-Bobby [head]<#>Патрульный [голова]
-Bobby [right arm]<#>Патрульный [правая рука]
-Bobby [left arm]<#>Патрульный [левая рука]
-Bobby [left arm 2]<#>Патрульный [левая рука 2]
-Bobby [right leg]<#>Патрульный [правая нога]
-Bobby [left leg]<#>Патрульный [левая нога]
-Needles [torso]<#>Нидлз [торс]
-Needles [head]<#>Нидлз [голова]
-Needles [right arm]<#>Нидлз [правая рука]
-Needles [left arm]<#>Нидлз [левая рука]
-Needles [right leg]<#>Нидлз [правая нога]
-Needles [left leg]<#>Нидлз [левая нога]
-Tormented one [torso]<#>Измученный [торс]
-Tormented one [head]<#>Измученный [голова]
-Tormented one [right arm]<#>Измученный [правая рука]
-Tormented one [left arm]<#>Измученный [левая рука]
-Tormented one [right leg]<#>Измученный [правая нога]
-Tormented one [left leg]<#>Измученный [левая нога]
-Dysmorphia [torso]<#>Дисморфия [торс]
-Dysmorphia [head]<#>Дисморфия [голова]
-Dysmorphia [right arm]<#>Дисморфия [правая рука]
-Dysmorphia [left arm]<#>Дисморфия [левая рука]
-Dysmorphia [legs]<#>Дисморфия [ноги]
+Rifleman [torso]<#>Стрелок (торс)
+Rifleman [head]<#>Стрелок (голова)
+Rifleman [arms]<#>Стрелок (оружие)
+Rifleman [right leg]<#>Стрелок (правая нога)
+Rifleman [left leg]<#>Стрелок (левая нога)
+Pillarman [torso]<#>Столпник (торс)
+Pillarman [head]<#>Столпник (голова)
+Pillarman [right leg]<#>Столпник (правая нога)
+Pillarman [left leg]<#>Столпник (левая нога)
+Pillarman [black eye 1]<#>Столпник (чёрный глаз 1)
+Pillarman [black eye 2]<#>Столпник (чёрный глаз 2)
+Pillarman [black eye 3]<#>Столпник (чёрный глаз 3)
+Moonscorched [torso]<#>Опаленный луной (торс)
+Moonscorched [head]<#>Опаленный луной (голова)
+Moonscorched [right arm]<#>Опаленный луной (правая рука)
+Moonscorched [left arm]<#>Опаленный луной (левая рука)
+Moonscorched [right leg]<#>Опаленный луной (правая нога)
+Moonscorched [left leg]<#>Опаленный луной (левая нога)
+Crimson father [torso]<#>Багровый отец (торс)
+Crimson father [head]<#>Багровый отец (голова)
+Crimson father [right arm]<#>Багровый отец (правая рука)
+Crimson father [left arm]<#>Багровый отец (левая рука)
+Crimson father [tentacle 1]<#>Багровый отец (щупальце 1)
+Crimson father [tentacle 2]<#>Багровый отец (щупальце 2)
+Crimson father [tentacle 3]<#>Багровый отец (щупальце 3)
+Bobby [torso]<#>Патрульный (торс)
+Bobby [head]<#>Патрульный (голова)
+Bobby [right arm]<#>Патрульный (правая рука)
+Bobby [left arm]<#>Патрульный (левая рука)
+Bobby [left arm 2]<#>Патрульный (левая рука 2)
+Bobby [right leg]<#>Патрульный (правая нога)
+Bobby [left leg]<#>Патрульный (левая нога)
+Needles [torso]<#>Нидлз (торс)
+Needles [head]<#>Нидлз (голова)
+Needles [right arm]<#>Нидлз (правая рука)
+Needles [left arm]<#>Нидлз (левая рука)
+Needles [right leg]<#>Нидлз (правая нога)
+Needles [left leg]<#>Нидлз (левая нога)
+Tormented one [torso]<#>Измученный (торс)
+Tormented one [head]<#>Измученный (голова)
+Tormented one [right arm]<#>Измученный (правая рука)
+Tormented one [left arm]<#>Измученный (левая рука)
+Tormented one [right leg]<#>Измученный (правая нога)
+Tormented one [left leg]<#>Измученный (левая нога)
+Dysmorphia [torso]<#>Дисморфия (торс)
+Dysmorphia [head]<#>Дисморфия (голова)
+Dysmorphia [right arm]<#>Дисморфия (правая рука)
+Dysmorphia [left arm]<#>Дисморфия (левая рука)
+Dysmorphia [legs]<#>Дисморфия (ноги)
 Ghoul<#>Гуль
 Cancer 1<#>Рак 1
 Cancer 2<#>Рак 2
 Cancer 3<#>Рак 3
-Owl cultist [arms]<#>Культист совы [руки]
-Owl cultist [torso]<#>Культист совы [торс]
-Owl cultist [head]<#>Культист совы [голова]
-Owl cultist [right leg]<#>Культист совы [правая нога]
-Owl cultist [left leg]<#>Культист совы [левая нога]
+Owl cultist [arms]<#>Культист совы (руки)
+Owl cultist [torso]<#>Культист совы (торс)
+Owl cultist [head]<#>Культист совы (голова)
+Owl cultist [right leg]<#>Культист совы (правая нога)
+Owl cultist [left leg]<#>Культист совы (левая нога)
 Owl sprite<#>Дух совы
-Neighbour [torso]<#>Сосед [торс]
-Neighbour [head]<#>Сосед [голова]
-Neighbour [left arm]<#>Сосед [левая рука]
-Neighbour [right arm]<#>Сосед [правая рука]
-Neighbour [left leg]<#>Сосед [левая нога]
-Pillarman [rectus abdominis 1]<#>Столпник [мышца живота 1]
-Pillarman [rectus abdominis 2]<#>Столпник [мышца живота 2]
-Pillarman [rectus abdominis 3]<#>Столпник [мышца живота 3]
-Pillarman [rectus abdominis 4]<#>Столпник [мышца живота 4]
-Pillarman [rectus abdominis 5]<#>Столпник [мышца живота 5]
-Pillarman [rectus abdominis 6]<#>Столпник [мышца живота 6]
-Bellend [torso]<#>Головастый [торс]
-Bellend [head]<#>Головастый [голова]
-Bellend [left arm]<#>Головастый [левая рука]
-Bellend [right arm]<#>Головастый [правая рука]
-Bellend [left leg]<#>Головастый [левая нога]
-Bellend [right leg]<#>Головастый [правая нога]
-Inquisitor [torso]<#>Инквизитор [торс]
-Inquisitor [head]<#>Инквизитор [голова]
-Inquisitor [hand]<#>Инквизитор [рука]
-Soldier [torso]<#>Солдат [торс]
-Soldier [head]<#>Солдат [голова]
-Soldier [left arm]<#>Солдат [левая рука]
-Soldier [right arm]<#>Солдат [правая рука]
-Soldier [left leg]<#>Солдат [левая нога]
-Soldier [right leg]<#>Солдат [правая нога]
-Elite trooper [right arm]<#>Элитный солдат [правая рука]
-Elite trooper [torso]<#>Элитный солдат [торс]
-Elite trooper [head]<#>Элитный солдат [голова]
-Elite trooper [left arm]<#>Элитный солдат [левая рука]
-Elite trooper [left leg]<#>Элитный солдат [левая нога]
-Elite trooper [right leg]<#>Элитный солдат [правая нога]
-Flametrooper [torso]<#>Огнемётчик [торс]
-Flametrooper [head]<#>Огнемётчик [голова]
-Flametrooper [arms]<#>Огнемётчик [руки]
-Flametrooper [left leg]<#>Огнемётчик [левая нога]
-Flametrooper [right leg]<#>Огнемётчик [правая нога]
-Sew job [torso]<#>Сшитый [торс]
-Sew job [head 1]<#>Сшитый [голова 1]
-Sew job [head 2]<#>Сшитый [голова 2]
-Sew job [head 3]<#>Сшитый [голова 3]
-Fecal hound [torso]<#>Фекальная гончая [торс]
-Fecal hound [head 1]<#>Фекальная гончая [голова 1]
-Fallen cherub [torso]<#>Падший херувим [торс]
-Fallen cherub [head]<#>Падший херувим [голова]
-Cherub [torso]<#>Херувим [торс]
+Neighbour [torso]<#>Сосед (торс)
+Neighbour [head]<#>Сосед (голова)
+Neighbour [left arm]<#>Сосед (левая рука)
+Neighbour [right arm]<#>Сосед (правая рука)
+Neighbour [left leg]<#>Сосед (левая нога)
+Pillarman [rectus abdominis 1]<#>Столпник (мышца живота 1)
+Pillarman [rectus abdominis 2]<#>Столпник (мышца живота 2)
+Pillarman [rectus abdominis 3]<#>Столпник (мышца живота 3)
+Pillarman [rectus abdominis 4]<#>Столпник (мышца живота 4)
+Pillarman [rectus abdominis 5]<#>Столпник (мышца живота 5)
+Pillarman [rectus abdominis 6]<#>Столпник (мышца живота 6)
+Bellend [torso]<#>Головастый (торс)
+Bellend [head]<#>Головастый (голова)
+Bellend [left arm]<#>Головастый (левая рука)
+Bellend [right arm]<#>Головастый (правая рука)
+Bellend [left leg]<#>Головастый (левая нога)
+Bellend [right leg]<#>Головастый (правая нога)
+Inquisitor [torso]<#>Инквизитор (торс)
+Inquisitor [head]<#>Инквизитор (голова)
+Inquisitor [hand]<#>Инквизитор (рука)
+Soldier [torso]<#>Солдат (торс)
+Soldier [head]<#>Солдат (голова)
+Soldier [left arm]<#>Солдат (левая рука)
+Soldier [right arm]<#>Солдат (правая рука)
+Soldier [left leg]<#>Солдат (левая нога)
+Soldier [right leg]<#>Солдат (правая нога)
+Elite trooper [right arm]<#>Элитный солдат (правая рука)
+Elite trooper [torso]<#>Элитный солдат (торс)
+Elite trooper [head]<#>Элитный солдат (голова)
+Elite trooper [left arm]<#>Элитный солдат (левая рука)
+Elite trooper [left leg]<#>Элитный солдат (левая нога)
+Elite trooper [right leg]<#>Элитный солдат (правая нога)
+Flametrooper [torso]<#>Огнемётчик (торс)
+Flametrooper [head]<#>Огнемётчик (голова)
+Flametrooper [arms]<#>Огнемётчик (руки)
+Flametrooper [left leg]<#>Огнемётчик (левая нога)
+Flametrooper [right leg]<#>Огнемётчик (правая нога)
+Sew job [torso]<#>Сшитый (торс)
+Sew job [head 1]<#>Сшитый (голова 1)
+Sew job [head 2]<#>Сшитый (голова 2)
+Sew job [head 3]<#>Сшитый (голова 3)
+Fecal hound [torso]<#>Фекальная гончая (торс)
+Fecal hound [head 1]<#>Фекальная гончая (голова 1)
+Fallen cherub [torso]<#>Падший херувим (торс)
+Fallen cherub [head]<#>Падший херувим (голова)
+Cherub [torso]<#>Херувим (торс)
 Irrational obelisk<#>Иррациональный обелиск
-Half-cocooned [torso]<#>Полуобращённый [торс]
-Half-cocooned [head]<#>Полуобращённый [голова]
-Half-cocooned [left arm]<#>Полуобращённый [левая рука]
-Half-cocooned [right arm]<#>Полуобращённый [правая рука]
-Half-cocooned [left leg]<#>Полуобращённый [левая нога]
-Half-cocooned [right leg]<#>Полуобращённый [правая нога]
-Half-cocooned [mallet 2]<#>Полуобращённый [молоток 2]
-Ratkin [torso]<#>Раткин [торс]
-Ratkin [head]<#>Раткин [голова]
-Ratkin [right arm]<#>Раткин [правая рука]
-Ratkin [left arm]<#>Раткин [левая рука]
-Ratkin [right leg]<#>Раткин [правая нога]
-Ratkin [left leg]<#>Раткин [левая нога]
-Ratkin [tail]<#>Раткин [хвост]
-Rat lady [torso]<#>Крысиная дама [торс]
-Rat lady [head]<#>Крысиная дама [голова]
-Rat lady [arm]<#>Крысиная дама [рука]
-Rat lady [leg]<#>Крысиная дама [нога]
+Half-cocooned [torso]<#>Полуобращённый (торс)
+Half-cocooned [head]<#>Полуобращённый (голова)
+Half-cocooned [left arm]<#>Полуобращённый (левая рука)
+Half-cocooned [right arm]<#>Полуобращённый (правая рука)
+Half-cocooned [left leg]<#>Полуобращённый (левая нога)
+Half-cocooned [right leg]<#>Полуобращённый (правая нога)
+Half-cocooned [mallet 2]<#>Полуобращённый (молоток 2)
+Ratkin [torso]<#>Раткин (торс)
+Ratkin [head]<#>Раткин (голова)
+Ratkin [right arm]<#>Раткин (правая рука)
+Ratkin [left arm]<#>Раткин (левая рука)
+Ratkin [right leg]<#>Раткин (правая нога)
+Ratkin [left leg]<#>Раткин (левая нога)
+Ratkin [tail]<#>Раткин (хвост)
+Rat lady [torso]<#>Крысиная дама (торс)
+Rat lady [head]<#>Крысиная дама (голова)
+Rat lady [arm]<#>Крысиная дама (рука)
+Rat lady [leg]<#>Крысиная дама (нога)
 Rat<#>Крыса
-Henryk [torso]<#>Генрик [торс]
-Henryk [head]<#>Генрик [голова]
-Henryk [right arm]<#>Генрик [правая рука]
-Henryk [left arm]<#>Генрик [левая рука]
-Henryk [right leg]<#>Генрик [правая нога]
-Henryk [left leg]<#>Генрик [левая нога]
-Abella [torso]<#>Абелла [торс]
-Abella [head]<#>Абелла [голова]
-Abella [right arm]<#>Абелла [правая рука]
-Abella [left arm]<#>Абелла [левая рука]
-Abella [right leg]<#>Абелла [правая нога]
-Abella [left leg]<#>Абелла [левая нога]
-Marcoh [torso]<#>Марко [торс]
-Marcoh [head]<#>Марко [голова]
-Marcoh [right arm]<#>Марко [правая рука]
-Marcoh [left arm]<#>Марко [левая рука]
-Marcoh [right leg]<#>Марко [правая нога]
-Marcoh [left leg]<#>Марко [левая нога]
-Olivia [torso]<#>Оливия [торс]
-Olivia [head]<#>Оливия [голова]
-Olivia [left arm]<#>Оливия [левая рука]
-Olivia [right leg]<#>Оливия [правая нога]
-Olivia [left leg]<#>Оливия [левая нога]
-Tanaka [torso]<#>Танака [торс]
-Tanaka [head]<#>Танака [голова]
-Tanaka [right arm]<#>Танака [правая рука]
-Tanaka [left arm]<#>Танака [левая рука]
-Tanaka [right leg]<#>Танака [правая нога]
-Tanaka [left leg]<#>Танака [левая нога]
-Mechanical dance [torso]<#>Механический танец [торс]
-Mechanical dance [head]<#>Механический танец [голова]
-Mechanical dance [right arm]<#>Механический танец [правая рука]
-Mechanical dance [left arm]<#>Механический танец [левая рука]
-Judgement [torso]<#>Правосудие [торс]
-Judgement [head]<#>Правосудие [голова]
-Judgement [right arm]<#>Правосудие [правая рука]
-Judgement [left arm]<#>Правосудие [левая рука]
-Judgement [right leg]<#>Правосудие [правая нога]
-Judgement [left leg]<#>Правосудие [левая нога]
-Giant [torso]<#>Гигант [торс]
-Giant [head]<#>Гигант [голова]
-Giant [right arm]<#>Гигант [правая рука]
-Giant [left arm]<#>Гигант [левая рука]
-Giant [right leg]<#>Гигант [правая нога]
-Giant [left leg]<#>Гигант [левая нога]
-Pocketcat [torso]<#>Покеткэт [торс]
-Pocketcat [head]<#>Покеткэт [голова]
-Pocketcat [left arm]<#>Покеткэт [левая рука]
-Pocketcat [right arm]<#>Покеткэт [правая рука]
-Pocketcat [left leg]<#>Покеткэт [левая нога]
-Pocketcat [right leg]<#>Покеткэт [правая нога]
-Daan [torso]<#>Даан [торс]
-Daan [head]<#>Даан [голова]
-Daan [right arm]<#>Даан [правая рука]
-Daan [left arm]<#>Даан [левая рука]
-Daan [right leg]<#>Даан [правая нога]
-Daan [left leg]<#>Даан [левая нога]
-Pav [torso]<#>Пав [торс]
-Pav [head]<#>Пав [голова]
-Pav [right arm]<#>Пав [правая рука]
-Pav [left arm]<#>Пав [левая рука]
-Pav [right leg]<#>Пав [правая нога]
-Pav [left leg]<#>Пав [левая нога]
-Karin [torso]<#>Карин [торс]
-Karin [head]<#>Карин [голова]
-Karin [arms]<#>Карин [руки]
-Karin [right leg]<#>Карин [правая нога]
-Karin [left leg]<#>Карин [левая нога]
-Marina [torso]<#>Марина [торс]
-Marina [head]<#>Марина [голова]
-Marina [right arm]<#>Марина [правая рука]
-Marina [left arm]<#>Марина [левая рука]
-Marina [legs]<#>Марина [ноги]
-Levi [torso]<#>Леви [торс]
-Levi [head]<#>Леви [голова]
-Levi [arms]<#>Леви [руки]
-Levi [right leg]<#>Леви [правая нога]
-Levi [left leg]<#>Леви [левая нога]
-O'saa [torso]<#>О'саа [торс]
-O'saa [head]<#>О'саа [голова]
-O'saa [right arm]<#>О'саа [правая рука]
-O'saa [left arm]<#>О'саа [левая рука]
-O'saa [right leg]<#>О'саа [правая нога]
-O'saa [left leg]<#>О'саа [левая нога]
-Mastermind [torso]<#>Высший разум [торс]
-Mastermind [head]<#>Высший разум [голова]
-Mastermind [right arm]<#>Высший разум [правая рука]
-Mastermind [left arm]<#>Высший разум [левая рука]
-Mastermind [right leg]<#>Высший разум [правая нога]
-Mastermind [left leg]<#>Высший разум [левая нога]
-Mastermind [eye]<#>Высший разум [глаз]
-Mastermind [phantom arm]<#>Высший разум [фантомная рука]
-Mastermind [legs]<#>Высший разум [ноги]
-Weeping scope [torso]<#>Плачущий прицел [торс]
-Weeping scope [right leg]<#>Плачущий прицел [правая нога]
-Weeping scope [left leg]<#>Плачущий прицел [левая нога]
-Stitches [torso]<#>Ститчес [торс]
-Stitches [head]<#>Ститчес [голова]
-Stitches [right arm]<#>Ститчес [правая рука]
-Stitches [left arm]<#>Ститчес [левая рука]
-Stitches [right leg]<#>Ститчес [правая нога]
-Stitches [left leg]<#>Ститчес [левая нога]
+Henryk [torso]<#>Генрик (торс)
+Henryk [head]<#>Генрик (голова)
+Henryk [right arm]<#>Генрик (правая рука)
+Henryk [left arm]<#>Генрик (левая рука)
+Henryk [right leg]<#>Генрик (правая нога)
+Henryk [left leg]<#>Генрик (левая нога)
+Abella [torso]<#>Абелла (торс)
+Abella [head]<#>Абелла (голова)
+Abella [right arm]<#>Абелла (правая рука)
+Abella [left arm]<#>Абелла (левая рука)
+Abella [right leg]<#>Абелла (правая нога)
+Abella [left leg]<#>Абелла (левая нога)
+Marcoh [torso]<#>Марко (торс)
+Marcoh [head]<#>Марко (голова)
+Marcoh [right arm]<#>Марко (правая рука)
+Marcoh [left arm]<#>Марко (левая рука)
+Marcoh [right leg]<#>Марко (правая нога)
+Marcoh [left leg]<#>Марко (левая нога)
+Olivia [torso]<#>Оливия (торс)
+Olivia [head]<#>Оливия (голова)
+Olivia [left arm]<#>Оливия (левая рука)
+Olivia [right leg]<#>Оливия (правая нога)
+Olivia [left leg]<#>Оливия (левая нога)
+Tanaka [torso]<#>Танака (торс)
+Tanaka [head]<#>Танака (голова)
+Tanaka [right arm]<#>Танака (правая рука)
+Tanaka [left arm]<#>Танака (левая рука)
+Tanaka [right leg]<#>Танака (правая нога)
+Tanaka [left leg]<#>Танака (левая нога)
+Mechanical dance [torso]<#>Механический танец (торс)
+Mechanical dance [head]<#>Механический танец (голова)
+Mechanical dance [right arm]<#>Механический танец (правая рука)
+Mechanical dance [left arm]<#>Механический танец (левая рука)
+Judgement [torso]<#>Правосудие (торс)
+Judgement [head]<#>Правосудие (голова)
+Judgement [right arm]<#>Правосудие (правая рука)
+Judgement [left arm]<#>Правосудие (левая рука)
+Judgement [right leg]<#>Правосудие (правая нога)
+Judgement [left leg]<#>Правосудие (левая нога)
+Giant [torso]<#>Гигант (торс)
+Giant [head]<#>Гигант (голова)
+Giant [right arm]<#>Гигант (правая рука)
+Giant [left arm]<#>Гигант (левая рука)
+Giant [right leg]<#>Гигант (правая нога)
+Giant [left leg]<#>Гигант (левая нога)
+Pocketcat [torso]<#>Покеткэт (торс)
+Pocketcat [head]<#>Покеткэт (голова)
+Pocketcat [left arm]<#>Покеткэт (левая рука)
+Pocketcat [right arm]<#>Покеткэт (правая рука)
+Pocketcat [left leg]<#>Покеткэт (левая нога)
+Pocketcat [right leg]<#>Покеткэт (правая нога)
+Daan [torso]<#>Даан (торс)
+Daan [head]<#>Даан (голова)
+Daan [right arm]<#>Даан (правая рука)
+Daan [left arm]<#>Даан (левая рука)
+Daan [right leg]<#>Даан (правая нога)
+Daan [left leg]<#>Даан (левая нога)
+Pav [torso]<#>Пав (торс)
+Pav [head]<#>Пав (голова)
+Pav [right arm]<#>Пав (правая рука)
+Pav [left arm]<#>Пав (левая рука)
+Pav [right leg]<#>Пав (правая нога)
+Pav [left leg]<#>Пав (левая нога)
+Karin [torso]<#>Карин (торс)
+Karin [head]<#>Карин (голова)
+Karin [arms]<#>Карин (руки)
+Karin [right leg]<#>Карин (правая нога)
+Karin [left leg]<#>Карин (левая нога)
+Marina [torso]<#>Марина (торс)
+Marina [head]<#>Марина (голова)
+Marina [right arm]<#>Марина (правая рука)
+Marina [left arm]<#>Марина (левая рука)
+Marina [legs]<#>Марина (ноги)
+Levi [torso]<#>Леви (торс)
+Levi [head]<#>Леви (голова)
+Levi [arms]<#>Леви (руки)
+Levi [right leg]<#>Леви (правая нога)
+Levi [left leg]<#>Леви (левая нога)
+O'saa [torso]<#>О'саа (торс)
+O'saa [head]<#>О'саа (голова)
+O'saa [right arm]<#>О'саа (правая рука)
+O'saa [left arm]<#>О'саа (левая рука)
+O'saa [right leg]<#>О'саа (правая нога)
+O'saa [left leg]<#>О'саа (левая нога)
+Mastermind [torso]<#>Высший разум (торс)
+Mastermind [head]<#>Высший разум (голова)
+Mastermind [right arm]<#>Высший разум (правая рука)
+Mastermind [left arm]<#>Высший разум (левая рука)
+Mastermind [right leg]<#>Высший разум (правая нога)
+Mastermind [left leg]<#>Высший разум (левая нога)
+Mastermind [eye]<#>Высший разум (глаз)
+Mastermind [phantom arm]<#>Высший разум (фантомная рука)
+Mastermind [legs]<#>Высший разум (ноги)
+Weeping scope [torso]<#>Плачущий прицел (торс)
+Weeping scope [right leg]<#>Плачущий прицел (правая нога)
+Weeping scope [left leg]<#>Плачущий прицел (левая нога)
+Stitches [torso]<#>Ститчес (торс)
+Stitches [head]<#>Ститчес (голова)
+Stitches [right arm]<#>Ститчес (правая рука)
+Stitches [left arm]<#>Ститчес (левая рука)
+Stitches [right leg]<#>Ститчес (правая нога)
+Stitches [left leg]<#>Ститчес (левая нога)
 Living flesh<#>Живая плоть
-Monster [torso]<#>Монстр [торс]
-Monster [arm 2]<#>Монстр [рука 2]
-Monster [arm 4]<#>Монстр [рука 4]
-Monster [arm 3]<#>Монстр [рука 3]
-Monster [arm 6]<#>Монстр [рука 6]
-Monster [arm 1]<#>Монстр [рука 1]
-Monster [arm 5]<#>Монстр [рука 5]
-Cocoon [torso]<#>Кокон [торс]
-Cocoon [cocoon]<#>Кокон [кокон]
-Cocoon [left arms]<#>Кокон [левая рука]
-Cocoon [right arm]<#>Кокон [правая рука]
-Cocoon [left leg]<#>Кокон [левая нога]
-Cocoon [right leg]<#>Кокон [правая нога]
-Cocoon [head]<#>Кокон [голова]
-Valkyrie [torso]<#>Валькирия [торс]
-Valkyrie [right leg]<#>Валькирия [правая нога]
-Valkyrie [left leg]<#>Валькирия [левая нога]
-Bellend [1]<#>Головастый [1]
-Bellend [2]<#>Головастый [2]
-Bellend [3]<#>Головастый [3]
-Bellend [4]<#>Головастый [4]
-August [torso]<#>Август [торс]
-August [head]<#>Август [голова]
-August [arms]<#>Август [руки]
-August [right leg]<#>Август [правая нога]
-August [left leg]<#>Август [левая нога]
-Caligura [torso]<#>Калигура [торс]
-Caligura [head]<#>Калигура [голова]
-Caligura [right arm]<#>Калигура [правая рука]
-Caligura [left arm]<#>Калигура [левая рука]
-Caligura [right leg]<#>Калигура [правая нога]
-Caligura [left leg]<#>Калигура [левая нога]
-Samarie [torso]<#>Самари [торс]
-Samarie [head]<#>Самари [голова]
-Samarie [right arm]<#>Самари [правая рука]
-Samarie [left arm]<#>Самари [левая рука]
-Samarie [right leg]<#>Самари [правая нога]
-Samarie [left leg]<#>Самари [левая нога]
+Monster [torso]<#>Монстр (торс)
+Monster [arm 2]<#>Монстр (рука 2)
+Monster [arm 4]<#>Монстр (рука 4)
+Monster [arm 3]<#>Монстр (рука 3)
+Monster [arm 6]<#>Монстр (рука 6)
+Monster [arm 1]<#>Монстр (рука 1)
+Monster [arm 5]<#>Монстр (рука 5)
+Cocoon [torso]<#>Кокон (торс)
+Cocoon [cocoon]<#>Кокон (кокон)
+Cocoon [left arms]<#>Кокон (левая рука)
+Cocoon [right arm]<#>Кокон (правая рука)
+Cocoon [left leg]<#>Кокон (левая нога)
+Cocoon [right leg]<#>Кокон (правая нога)
+Cocoon [head]<#>Кокон (голова)
+Valkyrie [torso]<#>Валькирия (торс)
+Valkyrie [right leg]<#>Валькирия (правая нога)
+Valkyrie [left leg]<#>Валькирия (левая нога)
+Bellend [1]<#>Головастый 1
+Bellend [2]<#>Головастый 2
+Bellend [3]<#>Головастый 3
+Bellend [4]<#>Головастый 4
+August [torso]<#>Август (торс)
+August [head]<#>Август (голова)
+August [arms]<#>Август (руки)
+August [right leg]<#>Август (правая нога)
+August [left leg]<#>Август (левая нога)
+Caligura [torso]<#>Калигура (торс)
+Caligura [head]<#>Калигура (голова)
+Caligura [right arm]<#>Калигура (правая рука)
+Caligura [left arm]<#>Калигура (левая рука)
+Caligura [right leg]<#>Калигура (правая нога)
+Caligura [left leg]<#>Калигура (левая нога)
+Samarie [torso]<#>Самари (торс)
+Samarie [head]<#>Самари (голова)
+Samarie [right arm]<#>Самари (правая рука)
+Samarie [left arm]<#>Самари (левая рука)
+Samarie [right leg]<#>Самари (правая нога)
+Samarie [left leg]<#>Самари (левая нога)
 Logic 1<#>Логика 1
 Tank 1<#>Танк 1
 Tank 2<#>Танк 2
@@ -333,64 +333,64 @@ Tank 5<#>Танк 5
 Tank 6<#>Танк 6
 Hand of creation<#>Рука творения
 Hand of destruction<#>Рука разрушения
-Per'kele [torso]<#>Пер'келе [торс]
-Per'kele [head]<#>Пер'келе [голова]
-Per'kele [right wing]<#>Пер'келе [правое крыло]
-Per'kele [left wing]<#>Пер'келе [левое крыло]
-Per'kele [right leg]<#>Пер'келе [правая нога]
-Per'kele [left leg]<#>Пер'келе [левая нога]
-Kaiser [torso]<#>Кайзер [торс]
-Kaiser [head]<#>Кайзер [голова]
-Kaiser [right arm]<#>Кайзер [правая рука]
-Kaiser [left arm]<#>Кайзер [левая рука]
-Kaiser [right leg]<#>Кайзер [правая нога]
-Kaiser [left leg]<#>Кайзер [левая нога]
+Per'kele [torso]<#>Пер'келе (торс)
+Per'kele [head]<#>Пер'келе (голова)
+Per'kele [right wing]<#>Пер'келе (правое крыло)
+Per'kele [left wing]<#>Пер'келе (левое крыло)
+Per'kele [right leg]<#>Пер'келе (правая нога)
+Per'kele [left leg]<#>Пер'келе (левая нога)
+Kaiser [torso]<#>Кайзер (торс)
+Kaiser [head]<#>Кайзер (голова)
+Kaiser [right arm]<#>Кайзер (правая рука)
+Kaiser [left arm]<#>Кайзер (левая рука)
+Kaiser [right leg]<#>Кайзер (правая нога)
+Kaiser [left leg]<#>Кайзер (левая нога)
 Asterisk<#>Астериск
 Shadowy figure<#>Теневая фигура
-Beekeeper [torso]<#>Пчеловод [торс]
-Beekeeper [head]<#>Пчеловод [голова]
-Beekeeper [right arm]<#>Пчеловод [правая рука]
-Beekeeper [left arm]<#>Пчеловод [левая рука]
-Beekeeper [right leg]<#>Пчеловод [правая нога]
-Beekeeper [left leg]<#>Пчеловод [левая нога]
-Beekeeper [nest]<#>Пчеловод [гнездо]
-Sylvian trooper [torso]<#>Наездница Сильвиан [торс]
-Sylvian trooper [head]<#>Наездница Сильвиан [голова]
-Sylvian trooper [right arm]<#>Наездница Сильвиан [правая рука]
-Sylvian trooper [left arm]<#>Наездница Сильвиан [левая рука]
-Sylvian trooper [left leg]<#>Наездница Сильвиан [левая нога]
-Sylvian trooper [right leg]<#>Наездница Сильвиан [правая нога]
+Beekeeper [torso]<#>Пчеловод (торс)
+Beekeeper [head]<#>Пчеловод (голова)
+Beekeeper [right arm]<#>Пчеловод (правая рука)
+Beekeeper [left arm]<#>Пчеловод (левая рука)
+Beekeeper [right leg]<#>Пчеловод (правая нога)
+Beekeeper [left leg]<#>Пчеловод (левая нога)
+Beekeeper [nest]<#>Пчеловод (гнездо)
+Sylvian trooper [torso]<#>Наездница Сильвиан (торс)
+Sylvian trooper [head]<#>Наездница Сильвиан (голова)
+Sylvian trooper [right arm]<#>Наездница Сильвиан (правая рука)
+Sylvian trooper [left arm]<#>Наездница Сильвиан (левая рука)
+Sylvian trooper [left leg]<#>Наездница Сильвиан (левая нога)
+Sylvian trooper [right leg]<#>Наездница Сильвиан (правая нога)
 Platoon<#>Взвод
-Rancid sergal [torso]<#>Сергал Прокаженный [торс]
-Rancid sergal [head]<#>Сергал Прокаженный [голова]
-Rancid sergal [right arm]<#>Сергал Прокаженный [правая рука]
-Rancid sergal [left arm]<#>Сергал Прокаженный [левая рука]
-Rancid sergal [right leg]<#>Сергал Прокаженный [правая нога]
-Rancid sergal [left leg]<#>Сергал Прокаженный [левая нога]
-Heartless one [torso]<#>Бессердечная [торс]
-Heartless one [head]<#>Бессердечная [голова]
-Heartless one [left arm]<#>Бессердечная [левая рука]
-Heartless one [right arm]<#>Бессердечная [правая рука]
-Heartless one [right leg]<#>Бессердечная [правая нога]
-Heartless one [left leg]<#>Бессердечная [левая нога]
-Heartless one [wings]<#>Бессердечная [крылья]
-Moonless beast [torso]<#>Безлунный зверь [торс]
+Rancid sergal [torso]<#>Сергал Прокаженный (торс)
+Rancid sergal [head]<#>Сергал Прокаженный (голова)
+Rancid sergal [right arm]<#>Сергал Прокаженный (правая рука)
+Rancid sergal [left arm]<#>Сергал Прокаженный (левая рука)
+Rancid sergal [right leg]<#>Сергал Прокаженный (правая нога)
+Rancid sergal [left leg]<#>Сергал Прокаженный (левая нога)
+Heartless one [torso]<#>Бессердечная (торс)
+Heartless one [head]<#>Бессердечная (голова)
+Heartless one [left arm]<#>Бессердечная (левая рука)
+Heartless one [right arm]<#>Бессердечная (правая рука)
+Heartless one [right leg]<#>Бессердечная (правая нога)
+Heartless one [left leg]<#>Бессердечная (левая нога)
+Heartless one [wings]<#>Бессердечная (крылья)
+Moonless beast [torso]<#>Безлунный зверь (торс)
 Poe<#>По
 Moonless<#>Безлунница
 Lurker in the dark<#>Силуэт во тьме
-Moonless beast [head]<#>Безлунный зверь [голова]
-Moonless beast [right paw]<#>Безлунный зверь [правая лапа]
-Moonless beast [left paw]<#>Безлунный зверь [левая лапа]
-Moonless beast [hind paws]<#>Безлунный зверь [задние лапы]
+Moonless beast [head]<#>Безлунный зверь (голова)
+Moonless beast [right paw]<#>Безлунный зверь (правая лапа)
+Moonless beast [left paw]<#>Безлунный зверь (левая лапа)
+Moonless beast [hind paws]<#>Безлунный зверь (задние лапы)
 Miasma<#>Миазма
 Black Steel<#>Чёрная сталь
-Father Hugo [torso]<#>Отец Хьюго [торс]
-Father Hugo [head]<#>Отец Хьюго [голова]
-Father Hugo [right arm]<#>Отец Хьюго [правая рука]
-Father Hugo [left arm]<#>Отец Хьюго [левая рука]
-Father Hugo [right leg]<#>Отец Хьюго [правая нога]
-Father Hugo [left leg]<#>Отец Хьюго [левая нога]
-Father Hugo [penis]<#>Отец Хьюго [пенис]
+Father Hugo [torso]<#>Отец Хьюго (торс)
+Father Hugo [head]<#>Отец Хьюго (голова)
+Father Hugo [right arm]<#>Отец Хьюго (правая рука)
+Father Hugo [left arm]<#>Отец Хьюго (левая рука)
+Father Hugo [right leg]<#>Отец Хьюго (правая нога)
+Father Hugo [left leg]<#>Отец Хьюго (левая нога)
+Father Hugo [penis]<#>Отец Хьюго (пенис)
 Ratkin 1<#>Раткин 1
 Ratkin 2<#>Раткин 2
 Ratkin 3<#>Раткин 3
@@ -398,37 +398,37 @@ Ratkin 4<#>Раткин 4
 Ratkin 5<#>Раткин 5
 Ratkin 6<#>Раткин 6
 Rher<#>Рхер
-Rher [eye 1]<#>Рхер [глаз 1]
-Rher [eye 2]<#>Рхер [глаз 2]
-Rher [eye 3]<#>Рхер [глаз 3]
-Rher [eye 4]<#>Рхер [глаз 4]
-Rher [eye 5]<#>Рхер [глаз 5]
-Rher [eye 6]<#>Рхер [глаз 6]
-Death mask [torso]<#>Посмертная маска [торс]
-Death mask [head]<#>Посмертная маска [голова]
-Death mask [right arm]<#>Посмертная маска [правая рука]
-Death mask [left arm]<#>Посмертная маска [левая рука]
-Death mask [right leg]<#>Посмертная маска [правая нога]
-Death mask [left leg]<#>Посмертная маска [левая нога]
+Rher [eye 1]<#>Рхер (глаз 1)
+Rher [eye 2]<#>Рхер (глаз 2)
+Rher [eye 3]<#>Рхер (глаз 3)
+Rher [eye 4]<#>Рхер (глаз 4)
+Rher [eye 5]<#>Рхер (глаз 5)
+Rher [eye 6]<#>Рхер (глаз 6)
+Death mask [torso]<#>Посмертная маска (торс)
+Death mask [head]<#>Посмертная маска (голова)
+Death mask [right arm]<#>Посмертная маска (правая рука)
+Death mask [left arm]<#>Посмертная маска (левая рука)
+Death mask [right leg]<#>Посмертная маска (правая нога)
+Death mask [left leg]<#>Посмертная маска (левая нога)
 Half-cocooned<#>Полуобращённый
-Centaur [torso]<#>Кентавр [торс]
-Centaur [head 1]<#>Кентавр [голова 1]
-Centaur [head 2]<#>Кентавр [голова 2]
-Centaur [left front leg]<#>Кентавр [левая передняя нога]
-Centaur [right front leg]<#>Кентавр [правая передняя нога]
-Centaur [left hind leg]<#>Кентавр [левая задняя нога]
-Centaur [right hind leg]<#>Кентавр [правая задняя нога]
-Caligura [penis]<#>Калигура [пенис]
-Platoon [torso]<#>Взвод [торс]
-Platoon [cannon]<#>Взвод [пушка]
-Platoon [right arm]<#>Взвод [правая рука]
-Platoon [left arm]<#>Взвод [левая рука]
-Gull bro 1 [torso]<#>Брат-чайка 1 [торс]
-Gull bro 1 [head]<#>Брат-чайка 1 [голова]
-Gull bro 1 [right arm]<#>Брат-чайка 1 [правая рука]
-Gull bro 2 [torso]<#>Брат-чайка 2 [торс]
-Gull bro 2 [head]<#>Брат-чайка 2 [голова]
-Gull bro 2 [arms]<#>Брат-чайка 2 [руки]
+Centaur [torso]<#>Кентавр (торс)
+Centaur [head 1]<#>Кентавр (голова 1)
+Centaur [head 2]<#>Кентавр (голова 2)
+Centaur [left front leg]<#>Кентавр (левая передняя нога)
+Centaur [right front leg]<#>Кентавр (правая передняя нога)
+Centaur [left hind leg]<#>Кентавр (левая задняя нога)
+Centaur [right hind leg]<#>Кентавр (правая задняя нога)
+Caligura [penis]<#>Калигура (пенис)
+Platoon [torso]<#>Взвод (торс)
+Platoon [cannon]<#>Взвод (пушка)
+Platoon [right arm]<#>Взвод (правая рука)
+Platoon [left arm]<#>Взвод (левая рука)
+Gull bro 1 [torso]<#>Брат-чайка 1 (торс)
+Gull bro 1 [head]<#>Брат-чайка 1 (голова)
+Gull bro 1 [right arm]<#>Брат-чайка 1 (правая рука)
+Gull bro 2 [torso]<#>Брат-чайка 2 (торс)
+Gull bro 2 [head]<#>Брат-чайка 2 (голова)
+Gull bro 2 [arms]<#>Брат-чайка 2 (руки)
 Wooden door<#>Деревянная дверь
 Chained door<#>Закованная дверь
 Wooden doors<#>Деревянные двери
@@ -441,4 +441,4 @@ Washing machine<#>Стиральная машина
 Reinforced metal door<#>Укреплённая металлическая дверь
 Reinforced gate<#>Укреплённые ворота
 Reinforced doors<#>Укреплённые двери
-Olivia [right arm]<#>Оливия [правая рука]
+Olivia [right arm]<#>Оливия (правая рука)
