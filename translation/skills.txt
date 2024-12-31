@@ -523,8 +523,8 @@ Piercing howl<#>Пронзительный вой
 Left paw<#>Левая лапа
 Right paw<#>Правая лапа
 Rotten meat<#>Тухлое мясо
-Shivers 1<#>Трепет 1
-Shivers 2<#>Трепет 2
+Shivers 1<#>Дрожь 1
+Shivers 2<#>Дрожь 2
 High priest's fingers are twitching...<#>Пальцы верховного жреца подёргиваются...
 Killing frenzy<#>Убийственное безумие
 The sergal lowers his stance...<#>Сергал встаёт в готовность...
