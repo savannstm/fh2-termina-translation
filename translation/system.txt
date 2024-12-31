@@ -32,8 +32,8 @@ Sell<#>Продать
 Max Body<#>Макс. Тело
 Max Mind<#>Макс. Разум
 Defense<#>Защита
-M.Attack<#>М. Атака
-M.Defense<#>М. Защита
+M.Attack<#>Маг. Атака
+M.Defense<#>Маг. Защита
 Agility<#>Скорость
 Luck<#>Удача
 Accuracy<#>Точность
@@ -51,4 +51,4 @@ Possession<#>Имеется
 Save to which file?<#>В какой файл сохранить?
 SE Volume<#>Громкость эффектов
 %1 was victorious!<#>%1 побеждает!
-Fear & Hunger 2: TERMINA<#>Fear & Hunger 2: TERMINA
+Fear & Hunger 2: TERMINA<#>
