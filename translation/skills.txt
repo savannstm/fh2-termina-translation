@@ -65,7 +65,7 @@ The yellow mage forms magical hand signs...<#>Жёлтый маг рисует �
 Chains of torment<#>Цепи истязаний
 Summon the chains that tormented Chambara for hundreds\#of years.<#>Призовите цепи истязаний, которые мучили Чамбару\#сотни лет.
 En garde<#>Ан гард
-Long combat experience has prepared you for fights.\#Prepare for an attack to gain advantage by pressing [E].<#>Многолетний боевой опыт подготовил вас к битвам.\#Приготовьтесь к атаке, чтобы нанести первый удар, нажав [E].
+Long combat experience has prepared you for fights.\#Prepare for an attack to gain advantage by pressing [E].<#>Многолетний боевой опыт подготовил вас к битвам.\#Приготовьтесь к атаке, чтобы нанести первый удар, нажав E (У).
 Ritual spear<#>Ритуальное копьё
 Flock of crows<#>Стая ворон
 Black orb<#>Сфера тьмы

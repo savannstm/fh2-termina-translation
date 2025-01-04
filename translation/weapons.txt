@@ -15,13 +15,13 @@ Originally a tool for cutting tree branches. It could be used\#for things equal 
 Sickle<#>Серп
 A tool used for harvesting crops. It also has a long history\#as a weapon of choice for civilians.<#>Орудие, используемое для сбора урожая. Также имеет длинную\#историю использования в качестве гражданского оружия.
 Bayonet<#>Винтовка со штыком
-A rifle with a knife attachment. You switch to close-range\#combat easily with this one. Shoot on field with [SHIFT].<#>Винтовка с насадкой-штыком. Она позволяет быстро\#переключиться на ближний бой. Стреляйте вне боя на [SHIFT].
+A rifle with a knife attachment. You switch to close-range\#combat easily with this one. Shoot on field with [SHIFT].<#>Винтовка с насадкой-штыком. Она позволяет быстро\#переключиться на ближний бой. Стреляйте вне боя на SHIFT.
 Rifle .303 Mk I<#>Винтовка Mk.I .303
-A bolt-action, magazine-fed repeating rifle. The most common\#used rifle in the First Great War. Shoot on field with [SHIFT].<#>Винтовка со скользящим затвором и магазинной подачей. Такие\#винтовки были самыми распространёнными в период\#Первой мировой. Стреляйте вне боя на [SHIFT].
+A bolt-action, magazine-fed repeating rifle. The most common\#used rifle in the First Great War. Shoot on field with [SHIFT].<#>Винтовка со скользящим затвором и магазинной подачей. Такие\#винтовки были самыми распространёнными в период\#Первой мировой. Стреляйте вне боя на SHIFT.
 12-gauge Trenchgun<#>Дробовик 12-го калибра
-A powerful gun with a serious kick. Fires a number of small\#pellets that stop even larger foes. Shoot on field with [SHIFT].<#>Мощное оружие с серьёзной отдачей. Стреляет дробью,\#способной остановить даже крупных противников.\#Стреляйте вне боя на [SHIFT].
+A powerful gun with a serious kick. Fires a number of small\#pellets that stop even larger foes. Shoot on field with [SHIFT].<#>Мощное оружие с серьёзной отдачей. Стреляет дробью,\#способной остановить даже крупных противников.\#Стреляйте вне боя на SHIFT.
 Lugr Pistol<#>Пистолет Люгера
-A toggle-locked, recoil-operated semi-automatic pistol. Typically\#used by the Bremen army officers as a secondary arm.<#>Полуавтоматический пистолет с предохранителем и компенсатором\#разброса. Используется офицерами бременской армии в качестве\#табельного оружия. Стреляйте вне боя на [SHIFT].
+A toggle-locked, recoil-operated semi-automatic pistol. Typically\#used by the Bremen army officers as a secondary arm.<#>Полуавтоматический пистолет с предохранителем и компенсатором\#разброса. Используется офицерами бременской армии в качестве\#табельного оружия. Стреляйте вне боя на SHIFT.
 Pipe wrench<#>Разводной ключ
 A tool used for assembling wide variety of things. Can be used\#as a blunt weapons as well.<#>Инструмент, используемый для разведения самых разных штук.\#Также служит в качестве тупого оружия.
 Sandman's kiss<#>Поцелуй сновидца

@@ -73,7 +73,7 @@ Highly addictive pain medication. The high creates an\#euphoric effect, but the 
 Pep pills<#>Бодрящие таблетки
 A strong stimulant with performance-enhancing effects. The\#high raises your awareness, the withdrawal tires you out.<#>Сильный стимулятор, повышающий способности организма.\#Обостряет чувства, зависимости не вызывает.
 Lucky coin<#>Счастливая монета
-Lucky coin to be used in dire situations. Hold [SHIFT]\#while choosing head or tails to boost your chances.<#>Счастливая монета, которую можно использовать в тяжёлых\#ситуациях. Удерживайте [SHIFT], выбирая орла или решку,\#чтобы повысить шансы.
+Lucky coin to be used in dire situations. Hold [SHIFT]\#while choosing head or tails to boost your chances.<#>Счастливая монета, которую можно использовать в тяжёлых\#ситуациях. Удерживайте SHIFT, выбирая орла или решку,\#чтобы повысить шансы.
 Bacon & eggs<#>Яичница с беконом
 A great way to start new day - if not a little bit\#heavy on your stomach.<#>Отличный способ начать новый день - только если подобная\#пища не слишком тяжела для вас.
 Goulash<#>Гуляш
@@ -99,13 +99,13 @@ You could smoke something with this.<#>С ней можно что-нибудь 
 Tobacco<#>Табак
 A rare luxury product from the new continent, the dark\#lands of Vinland. Can be smoked with a pipe.<#>Редкий предмет роскоши из нового континента, тёмного\#Винланда. Можно выкурить трубкой.
 9mm Bullet<#>9 мм патрон
-A 9mm handgun bullet. On the casing it says "Si vis pacem,\#para bellum". Use [SHIFT] to shoot.<#>Пистолетный патрон калибра 9 мм. На гильзе выгравировано:\#«Si vis pacem, para bellum».\#Используйте [SHIFT], чтобы стрелять вне боя.
+A 9mm handgun bullet. On the casing it says "Si vis pacem,\#para bellum". Use [SHIFT] to shoot.<#>Пистолетный патрон калибра 9 мм. На гильзе выгравировано:\#«Si vis pacem, para bellum».\#Используйте SHIFT, чтобы стрелять вне боя.
 Bear trap<#>Медвежий капкан
 A strong contraption that will cause severe damage if stepped\#on.<#>Грозное приспособление, наносящее огромный урон ногам\#наступающих на него.
 12-gauge shells<#>Дробь 12-го калибра
-A shell that is loaded with multiple lead shots. These shells\#are used with Trenchguns. Use [SHIFT] to shoot.<#>Гильза, заряженная дробью. Используется с дробовиком.\#Используйте [SHIFT], чтобы стрелять вне боя.
+A shell that is loaded with multiple lead shots. These shells\#are used with Trenchguns. Use [SHIFT] to shoot.<#>Гильза, заряженная дробью. Используется с дробовиком.\#Используйте SHIFT, чтобы стрелять вне боя.
 .303 Ammo<#>Патрон .303
-Round-nosed, copper-nickel full-metal-jacketed bullet with\#a lead core. Ammo meant for rifles. Shoot with [SHIFT].<#>Круглоносая пуля с цельнометаллической медно-никелевой\#оболочкой, со свинцовым ядром. Предназначена для винтовок.\#Стреляйте вне боя с помощью [SHIFT].
+Round-nosed, copper-nickel full-metal-jacketed bullet with\#a lead core. Ammo meant for rifles. Shoot with [SHIFT].<#>Круглоносая пуля с цельнометаллической медно-никелевой\#оболочкой, со свинцовым ядром. Предназначена для винтовок.\#Стреляйте вне боя с помощью SHIFT.
 Explosive vial<#>Взрывной флакон
 A vial full of explosive liquids. Can be used to clear\#cave-ins or other rocks and rubble.<#>Флакон, полный взрывоопасной жидкости. Может использоваться\#для расчистки завалов.
 Alchemillia vol.3<#>Алхемилия, том 3
