@@ -130,7 +130,7 @@ async function replaceVillagerFemaleLines() {
                                 "Обезумевшая жительница занята"
                             );
                         } else if (parameter.includes("Обезумевший житель вонзает")) {
-                            troopsJSON[i].pages[p].list[l].parameters[j] = parameter.replace(
+                            troopsJSON[i].pages[p].list[l].parameters[pr] = parameter.replace(
                                 "Обезумевший житель вонзает",
                                 "Обезумевшая жительница вонзает"
                             );
@@ -158,7 +158,62 @@ async function replaceIncorrectNeedlesLosesBalanceLine() {
     await Bun.write("./output/data/Troops.json", JSON.stringify(troopsJSON));
 }
 
+async function replaceLeviGodChoicesLines() {
+    const map019JSON = JSON.parse(await Bun.file("./output/data/Map019.json").text());
+
+    for (const [i, item] of map019JSON.events[224].pages[1].list.entries()) {
+        if (item.code !== 102) {
+            for (const [j, parameter] of item.parameters.entries()) {
+                if (typeof parameter !== "string") {
+                    continue;
+                }
+
+                switch (parameter) {
+                    case "Гро-горот":
+                        map019JSON.events[224].pages[1].list[i].parameters[j] = "Гро-гороту";
+                        break;
+                    case "Винушка":
+                        map019JSON.events[224].pages[1].list[i].parameters[j] = "Винушке";
+                        break;
+                    case "Алл-мер":
+                        map019JSON.events[224].pages[1].list[i].parameters[j] = "Алл-меру";
+                        break;
+                    case "Бог Луны":
+                        map019JSON.events[224].pages[1].list[i].parameters[j] = "Богу Луны";
+                        break;
+                    case "Бог Страха и Голода":
+                        map019JSON.events[224].pages[1].list[i].parameters[j] = "Богу Страха и Голода";
+                        break;
+                }
+            }
+        } else {
+            for (const [j, parameter] of item.parameters[0].entries()) {
+                switch (parameter) {
+                    case "Гро-горот":
+                        map019JSON.events[224].pages[1].list[i].parameters[0][j] = "Гро-гороту";
+                        break;
+                    case "Винушка":
+                        map019JSON.events[224].pages[1].list[i].parameters[0][j] = "Винушке";
+                        break;
+                    case "Алл-мер":
+                        map019JSON.events[224].pages[1].list[i].parameters[0][j] = "Алл-меру";
+                        break;
+                    case "Бог Луны":
+                        map019JSON.events[224].pages[1].list[i].parameters[0][j] = "Богу Луны";
+                        break;
+                    case "Бог Страха и Голода":
+                        map019JSON.events[224].pages[1].list[i].parameters[0][j] = "Богу Страха и Голода";
+                        break;
+                }
+            }
+        }
+    }
+
+    await Bun.write("./output/data/Map019.json", JSON.stringify(map019JSON));
+}
+
 await replaceAugustWhatBringsYouHereLine();
 await replaceMoonscorchedFemaleLines();
 await replaceVillagerFemaleLines();
 await replaceIncorrectNeedlesLosesBalanceLine();
+await replaceLeviGodChoicesLines();
