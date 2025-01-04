@@ -836,7 +836,7 @@ GabText The skin of the decrepit priest begins to rot...<#>GabText Кожа др
 GabText The decrepit priest loses his balance!<#>GabText Дряхлый священник теряет равновесие!
 GabText The decrepit priest loses his balance.<#>GabText Дряхлый священник теряет равновесие.
 GabText A crazed madman runs straight at you in a blind fury!<#>GabText Сумашедший безумец бежит прямо на вас в слепой ярости!
-\>\i[80]\}ATKIN\{\<\#"N-no more talking! I'm done with you!"<#>\>\}\i[382]АТКИН\{\<\#«Н-больше никаких разговоров! Я с тобой покончу!»
+\>\i[80]\}ATKIN\{\<\#"N-no more talking! I'm done with you!"<#>\>\}\i[382]АТКИН\{\<\#«Б-больше никаких разговоров! С меня хватит!»
 \>\i[80]\}ATKIN\{\<\#"M-master! J-just because you know our tongue doesn't make you\#our master! W-who do you think you are?"<#>\>\}\i[382]АТКИН\{\<\#«В-владыка! Т-только потому, что ты знаешь наш язык! Да к-кем\#ты себя вообще возомнил\x[|а]?»
 \>\i[80]\}ATKIN\{\<\#"Ah-- Ah... I'll tear you to shreds. Hear me! T-tear you to\#shreds!"<#>\>\}\i[382]АТКИН\{\<\#«А— А... Я разорву тебя в клочья. Слышишь! Р-разорву тебя в\#клочья!»
 "What's your problem with me?"<#>«Что со мной не так?»
