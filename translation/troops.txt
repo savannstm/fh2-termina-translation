@@ -274,7 +274,7 @@ GabText The gentleman's skin begins to rot beneath his shirt...<#>GabText Кож
 GabText You can't figure out the weaknesses of the gentleman...<#>GabText Вы не можете выявить слабости джентльмена...
 GabText You stole a \c[2]Meatpie+\c[0] and a \c[2]Vegetable pie+\c[0]!<#>GabText Вы украли \c[2]мясной пирог+\c[0] и \c[2]овощной пирог+\c[0]!
 The party tries to escape... .\\#However, the creature blocks your path!<#>Группа пытается сбежать...\.\#Однако, существо преграждает вам путь!
-GabText The gentleman rises from the dinner table to confront you!<#>GabText Джентльмен встаёт из-за обеденного стола, чтобы столкнуться с вами!
+GabText The gentleman rises from the dinner table to confront you!<#>GabText Джентльмен встаёт из-за обеденного стола, и нападает!
 GabText The gentleman loses his balance.<#>GabText Джентльмен теряет равновесие.
 choice_text 1 \}[PERSUADE]\{ "Even the most devout priest has a price... What can I offer?"<#>choice_text 1 \}[УБЕДИТЬ]\{ «Даже самый набожный может предложить свою цену...»
 choice_text 3 \}[INTIMIDATE]\{ "Your god won't help you here."<#>choice_text 3 \}[ЗАПУГАТЬ]\{ «Твой бог тебе здесь не поможет.»
