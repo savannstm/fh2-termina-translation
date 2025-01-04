@@ -455,7 +455,7 @@ But the green bottomless eyes of the monstrosity pierce deep into\#your mind. Yo
 choice_text 1 \}[PERSUADE]\{ "It's blood you want, right? I can arrange you some."<#>choice_text 1 \}[УБЕДИТЬ]\{ «Ты ведь хочешь крови, верно? Я могу дать тебе немного.»
 choice_text 3 \}[INTIMIDATE]\{ "Don't care what you are. All living things understand pain."<#>choice_text 3 \}[ЗАПУГАТЬ]\{ «Мне всё равно, что ты такое. Все живые существа понимают боль.»
 You understand that the creature is not from this world, but its\#motivations lie among humans regardless. You feel an intense lust\#for blood...<#>Вы понимаете, что это существо не из этого мира, но мотивы его,\#несмотря на это, лежат среди людей. Вы чувствуете от него сильную\#жажду крови...
-"We both keep going different directions, okay?"<#>«Мы оба просто разойдемся, хорошо?»
+"We both keep going different directions, okay?"<#>«Мы оба просто разойдёмся, хорошо?»
 "What do you want?"<#>«Чего ты хочешь?»
 Your persuasion efforts have gone to waste. The creature doesn't seem\#to be willing to have conversation. The crimson father is fixated on\#you, nothing else seems to be able to satiate its curiousity and lust.<#>Ваши усилия по убеждению пропали даром. Существо, похоже,\#не желает вступать в беседу. Багровый отец зациклен на вас,\#и ничто другое не способно насытить его любопытство\#и похоть.
 You feel the eyes of the creature bury even deeper. Clearly its\#interests are in you now.<#>Вы чувствуете, как глаза этого существа проникают ещё глубже.\#Очевидно, что сейчас его интересы сосредоточены на вас.
@@ -844,7 +844,7 @@ GabText A crazed madman runs straight at you in a blind fury!<#>GabText Сума
 "Give up and you might just survive."<#>«Сдайся, и ты, возможно, сможешь выжить.»
 "Don't you obey your master?"<#>«Разве ты не должен повиноваться своему владыке?»
 \>\i[80]\}ATKIN\{\<\#"D-do you know whose domain this is!? It's ours! Ours!"<#>\>\}\i[382]АТКИН\{\<\#«Т-ты знаешь, чей это дом?! Он наш! Наш!»
-\>\i[80]\}ATKIN\{\<\#"L-listen-- We don't care what's going on with the surface. J-just\#deal with it and don't come barging in on our home!"<#>\>\}\i[382]АТКИН\{\<\#«С-слушай— Нам всё равно, что происходит на поверхности.\#Д-давай просто разойдемся, и ты никогда больше не придёшь\#в наш дом!»
+\>\i[80]\}ATKIN\{\<\#"L-listen-- We don't care what's going on with the surface. J-just\#deal with it and don't come barging in on our home!"<#>\>\}\i[382]АТКИН\{\<\#«С-слушай— Нам всё равно, что происходит на поверхности.\#Д-давай просто разойдёмся, и ты никогда больше не придёшь\#в наш дом!»
 \>\i[80]\}ATKIN\{\<\#"A-are you mocking me? A-a-are you!?"<#>\>\}\i[382]АТКИН\{\<\#«Т-ты издеваешься надо мной? Д-д-да?!»
 "I'm not invested enough to mock you."<#>«Не хочу тратить силы, даже чтобы поиздеваться над тобой.»
 "What do you think?"<#>«А как ты думаешь?»
@@ -963,7 +963,7 @@ choice_text 3 \}[INTIMIDATE]\{ "Brawn before brains? Has that worked out for you
 \>\i[76]\}ARCOH\{\<\#"Your mindgames have no effect on me."<#>\>\}\i[378]АРКО\{\<\#«Твои уловки на меня не подействуют.»
 \>\i[76]\}ARCOH\{\<\#"You tell me."<#>\>\}\i[378]АРКО\{\<\#«Это ты мне скажи.»
 "It was all just a misunderstanding!"<#>«Всё это было просто недоразумением!»
-"Just stand back and we can both continue on our own ways."<#>«Просто отойди в сторону, и мы оба разойдемся разными путями.»
+"Just stand back and we can both continue on our own ways."<#>«Просто отойди в сторону, и мы оба разойдёмся разными путями.»
 \>\i[76]\}ARCOH\{\<\#"So... You suggest we drop this?"<#>\>\}\i[378]АРКО\{\<\#«Итак... Ты предлагаешь нам бросить это дело?»
 Marcoh is hesitating.<#>Марко колеблется.
 \>\i[76]\}ARCOH\{\<\#"I don't think so. \.Your mindgames have no effect on me."<#>\>\}\i[378]АРКО\{\<\#«Я так не думаю.\. Твои уловки на меня не подействуют.»

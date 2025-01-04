@@ -5546,7 +5546,7 @@ You find yourself in the middle of an encounter...<#>Вы обнаруживае
 \>\i[81]\}ALARYMAN\{\<\#"Marcoh, this is bad..."<#>\>\}\i[376]ЛЕРК\{\<\#«Марко, это плохо...»
 You read his mind...\#\c[1]"I should've just dealt with him while I had the chance... This man\#is a loose cannon..."\c[0]<#>Вы читаете его мысли...\#\c[1]«Я должен был разобраться с ним, когда имел шанс...\#Этот человек - пороховая бочка...»\c[0]
 \>\i[76]\}ARCOH\{\<\#"Take it easy. It was all just a big misunderstanding..."<#>\>\}\i[378]АРКО\{\<\#«Полегче. Это всё - просто большое недопонимание...»
-\>\i[76]\}ARCOH\{\<\#"We continue our separate ways and everyone stays alive for\#tomorrow."<#>\>\}\i[378]АРКО\{\<\#«Мы разойдемся разными путями, и все остаются жить до завтра.»
+\>\i[76]\}ARCOH\{\<\#"We continue our separate ways and everyone stays alive for\#tomorrow."<#>\>\}\i[378]АРКО\{\<\#«Мы разойдёмся разными путями, и все остаются жить до завтра.»
 \>\i[144]\}AV\{\<\#"It's easy to feel remorse when you're looking down the barrel of\#a gun."<#>\>\}\i[381]АВ\{\<\#«Легко чувствовать раскаяние под дулом пистолета.»
 You read his mind...\#\c[1]"I didn't want to resort to killing just yet, but what can you do?"\c[0]<#>Вы читаете его мысли...\#\c[1]«Не хочу пока прибегать к убийству, но что поделаешь?»\c[0]
 "Don't shoot!"<#>«Не стреляй!»
