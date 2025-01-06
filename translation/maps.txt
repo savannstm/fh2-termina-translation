@@ -12484,7 +12484,7 @@ You find the \c[2]Skin bible - Vinushka (unedited)\c[0]!<#>Вы нашли \c[2]
 \>\i[78]\}LIVIA\{\<\#"To feel the fresh morning dew the moment you wake up, to see\#flowers slowly open up and welcome the first rays of the sun..."<#>\>\}\i[380]ЛИВИЯ\{\<\#«Чувствовать свежую утреннюю росу, когда просыпаешься,\#видеть, как медленно раскрываются цветы, приветствуя\#первые лучи солнца...»
 \>\i[78]\}LIVIA\{\<\#"It's great."<#>\>\}\i[380]ЛИВИЯ\{\<\#«Это прекрасно.»
 \>\i[76]\}ARINA\{\<\#"Boy do I hate camping."<#>\>\}\i[378]АРИНА\{\<\#«А я ненавижу кемпинг.»
-\>\i[76]\}ARINA\{\<\#"If you like it, that's all fine of course.\. We can be different."<#>\>\}\i[378]АРИНА\{\<\#«Если он тебе нравится, всё в порядке.\. Мы можем быть разными.»
+\>\i[76]\}ARINA\{\<\#"If you like it, that's all fine of course.\. We can be different."<#>\>\}\i[378]АРИНА\{\<\#«Если он тебе нравится, всё в порядке.\. Быть разными - нормально.»
 \>\i[78]\}LIVIA\{\<\#"Ah..."<#>\>\}\i[380]ЛИВИЯ\{\<\#«Эх...»
 \>\i[64]\}BELLA\{\<\#"In normal circumstances I wouldn't mind staying here for a night\#or two..."<#>\>\}\i[368]БЕЛЛА\{\<\#«При обычных обстоятельствах я была бы не прочь остаться здесь\#на пару ночей...»
 \>\i[64]\}BELLA\{\<\#"But these woods don't feel safe, do they? It's not just me right?"<#>\>\}\i[368]БЕЛЛА\{\<\#«Но в этих лесах не чувствуется безопасность. Не только я так\#себя чувствую?»
