@@ -6811,9 +6811,9 @@ Samarie is just looking at you puzzled.<#>Самари просто смотри
 \>\i[81]\}AMARIE\{\<\#"But on my own."<#>\>\}\i[383]АМАРИ\{\<\#«Но сама.»
 \>\i[81]\}AMARIE\{\<\#"I saw it... What of it?"<#>\>\}\i[383]АМАРИ\{\<\#«Я видела его... Что там?»
 "Let's go there. Let's get you safe."<#>«Давай пойдём туда. Там ты будешь в безопасности.»
-"Go there. I don't want you as hindrance."<#>«Иди туда. Я не хочу, чтобы ты тут ошивалась.»
+"Go there. I don't want you as hindrance."<#>«Иди туда. Я не хочу, чтобы ты тут мешалась.»
 "It doesn't matter. Let's just get to the club."<#>«Неважно. Просто доберись до клуба.»
-\>\i[81]\}AMARIE\{\<\#"I'll go there. If you say it's ok."<#>\>\}\i[383]АМАРИ\{\<\#«Я пойду туда. Если ты говоришь, что это ничего.»
+\>\i[81]\}AMARIE\{\<\#"I'll go there. If you say it's ok."<#>\>\}\i[383]АМАРИ\{\<\#«Я пойду туда. Если ты говоришь, что так нужно.»
 \>\i[81]\}AMARIE\{\<\#"The club... I'll go there like you said."<#>\>\}\i[383]АМАРИ\{\<\#«Клуб... Я пойду туда, как ты и сказал\x[|а].»
 She refuses to say anything. She is just shaking her head.<#>Она отказывается что-либо произносить. Лишь трясёт головой.
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"KA!?"<#>\>\}\i[385]ЕРНОВОЛОСАЯ ДЕВУШКА\{\<\#«КА?!»
@@ -6822,7 +6822,7 @@ She refuses to say anything. She is just shaking her head.<#>Она отказы
 "See you there."<#>«Увидимся там.»
 \>\i[81]\}AMARIE\{\<\#"I have my ways. If you know the red arcs..."<#>\>\}\i[383]АМАРИ\{\<\#«У меня есть способы. Если ты знаешь о красных дугах...»
 \>\i[81]\}AMARIE\{\<\#"Marina. I'll see you there."<#>\>\}\i[383]АМАРИ\{\<\#«Марина. Увидимся там.»
-\>\i[76]\}ARINA\{\<\#"... Yup."<#>\>\}\i[378]АРИНА\{\<\#«...Да.»
+\>\i[76]\}ARINA\{\<\#"... Yup."<#>\>\}\i[378]АРИНА\{\<\#«...Ага.»
 \>\i[81]\}AMARIE\{\<\#"I'll go to the club."<#>\>\}\i[383]АМАРИ\{\<\#«Я пойду в клуб.»
 GabText The boarded walls only emphasize the claustrophobia.<#>GabText Деревянные стены лишь усиливают чувство клаустрофобии.
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"\N[3]! You came!"<#>\>\}\i[385]ЕРНОВОЛОСАЯ ДЕВУШКА\{\<\#«\N[3]! Ты пришла!»
