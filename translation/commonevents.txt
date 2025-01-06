@@ -1053,7 +1053,7 @@ Train cabin<#>Вагон поезда
 Old town<#>Старый город
 Book store<#>Книжный магазин
 Church of Alll-mer<#>Церковь Алл-мера
-PRHL Bop<#>ПРХВЛ Боп
+PRHL Bop<#>Клуб «ПРХВЛ»
 Donnovan's house<#>Дом Доннована
 "Alll-mer - The ascended one. One of the two humanborn gods known\#to this day."<#>«Алл-мер - Вознесённый. Один из двух богов, вознесшихся\#из людей, известных по сей день.»
 "There are two stories of the origins of Alll-mer."<#>«Существует две истории о происхождении Алл-мера.»
