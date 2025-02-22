@@ -1,6 +1,10 @@
-<!-- Map001.json --><#>
+<!-- Map --><#>001
+<!-- Map Name: Praha1 --><#>
+<!-- Order --><#>8
 This is text!<#>
-<!-- Map002.json --><#>
+<!-- Map --><#>002
+<!-- Map Name: outskirts --><#>
+<!-- Order --><#>157
 A dead body. It seems to be in relatively fresh state of\#decomposition...<#>Мёртвое тело. Похоже, что оно начало разлагаться относительно\#недавно...
 Investigate<#>Осмотреть
 Search<#>Обыскать
@@ -12,7 +16,9 @@ You don't have enough sanity to perform this rite.<#>У вас недостат�
 The ghoul manages to stand up. Now name your new possession.<#>Гулю удаётся встать. Теперь, назовите своё новое владение.
 \N[16] seems blissfully ignorant about the pain and suffering\#it has gone through.<#>\N[16], похоже, пребывает в блаженном неведении о боли и\#страданиях, через которые он прошёл.
 Shamelessly it scratches its groin area.<#>Он бесстыдно чешет паховую область.
-<!-- Map003.json --><#>
+<!-- Map --><#>003
+<!-- Map Name: Character_creation --><#>
+<!-- Order --><#>2
 Caution! This game contains scenes of extreme\#violence  and gore. The game also covers themes of\#sexual violence, drug usage and child abuse.<#>
 Continue<#>Продолжить
 Quit<#>Выйти
@@ -29,7 +35,9 @@ No<#>Нет
 Knight - Righteous and discliplined. Following the path\#of the sword is as much about physical, as it is about\#mental strength. Excels in melee combat.<#>
 Unfortunately the only class available in this demo\#version is Mercenary.<#>
 Dark Priest - Alchemy and ritual passages have gained\#you deeper knowledge of human nature. There is no right\#and wrong, only the way of the gods.<#>
-<!-- Map004.json --><#>
+<!-- Map --><#>004
+<!-- Map Name: Path1 --><#>
+<!-- Order --><#>9
 You are unable to move...<#>Вы неспособны двигаться...
 Quit breathing<#>Перестать дышать
 Hold on!<#>Держаться!
@@ -1092,7 +1100,10 @@ Marcoh is just staring at the sky. You can see the moving clouds\#just barely th
 \>\i[76]\}ARCOH\{\<\#"Oh. Right, my bad."<#>\>\}\i[378]АРКО\{\<\#«Да. Верно, ошибся.»
 \>\i[74]\}ARIN\{\<\#"It's 'the calm before the storm', not 'peace'."<#>\>\}\i[376]АРИН\{\<\#«„Затишье перед бурей“, а не „тишина“.»
 \>\i[74]\}ARIN\{\<\#"That's how the saying goes."<#>\>\}\i[376]АРИН\{\<\#«Так говорится в пословице.»
-<!-- Map005.json Abandoned house --><#>Заброшенный дом
+<!-- Map --><#>005
+<!-- Map Name: Abandoned_house --><#>
+<!-- In-game Displayed Name: Abandoned house --><#>Заброшенный дом
+<!-- Order --><#>16
 Use the \c[2]Lighter\c[0] to light the candle?<#>Использовать \c[2]зажигалку\c[0], чтобы зажечь свечу?
 Use a \c[2]Match\c[0] to light the candle?<#>Использовать \c[2]спичку\c[0], чтобы зажечь свечу?
 There is a lone candle here...<#>Здесь стоит одинокая свеча...
@@ -1247,9 +1258,16 @@ Something is moving inside you... Something primal is trying to\#get out of your
 There is something written here... But it's all nonsensical\#ramblings of a crazy person.<#>Здесь что-то написано... Но это лишь бессмысленные\#каракули безумца.
 You find \c[2]Glass shards\c[0]!<#>Вы нашли \c[2]осколки стекла\c[0]!
 You pick up the pinecone from the tree. You get a \c[2]Pinecone pig\c[0]!<#>Вы сорвали шишку с дерева. Вы получили \c[2]шишкосвина\c[0]!
-<!-- Map006.json Grand hall --><#>Большой зал
-<!-- Map007.json --><#>
-<!-- Map008.json --><#>
+<!-- Map --><#>006
+<!-- Map Name: testmap --><#>
+<!-- In-game Displayed Name: Grand hall --><#>Большой зал
+<!-- Order --><#>159
+<!-- Map --><#>007
+<!-- Map Name: MAP007 --><#>
+<!-- Order --><#>160
+<!-- Map --><#>008
+<!-- Map Name: Intro_Moon_scene --><#>
+<!-- Order --><#>167
 \>\i[76]\}YSTERIOUS PERSON\{\<\#"Ah, there you are."<#>\>\}\i[384]АИНСТВЕННЫЙ ЧЕЛОВЕК\{\<\#«Ах, вот вы где.»
 A mysterious person greets you in a monotonous voice.<#>Таинственный человек приветствует вас монотонным голосом.
 \>\i[76]\}YSTERIOUS PERSON\{\<\#"Got you pulled out from that nasty place."<#>\>\}\i[384]АИНСТВЕННЫЙ ЧЕЛОВЕК\{\<\#«Вытащил вас из этого мерзкого места.»
@@ -1294,7 +1312,10 @@ Information about the festival is murky, but it is often associated\#with times 
 You can't remember much else. The moon god in general is shrouded\#in great mystery and his ways are often left unexplained.<#>Вы не можете вспомнить больше. Бог Луны окутан великой тайной,\#и его цели остаются неизвестными.
 \>\i[144]\}ER'KELE\{\<\#"This must all be very confusing to you. So I won't burden you with\#any more exposition and infromation at this very moment."<#>\>\}\i[381]ЕР'КЕЛЕ\{\<\#«Всё это, должно быть, сбивает вас с толку. Я не буду обременять\#вас большим количеством информации в данный момент.»
 \>\i[144]\}ER'KELE\{\<\#"If you progress further, I will gladly answer questions later\#down the road."<#>\>\}\i[381]ЕР'КЕЛЕ\{\<\#«По мере того как вы преуспеваете, я буду отвечать на ваши\#вопросы.»
-<!-- Map009.json Prehevil - Old town --><#>Прехевил - Старый город
+<!-- Map --><#>009
+<!-- Map Name: Old_town2 --><#>
+<!-- In-game Displayed Name: Prehevil - Old town --><#>Прехевил - Старый город
+<!-- Order --><#>20
 GabText The atmosphere is getting heavier and heavier...<#>GabText Атмосфера становится всё тяжелее и тяжелее...
 GabText A reek of death eminates from all the lone alleyways...<#>GabText От одиноких переулков веет смертью...
 \>\i[74]\}ARIN\{\<\#"It's you!"<#>\>\}\i[376]АРИН\{\<\#«Это ты!»
@@ -1443,7 +1464,9 @@ The hay has been left at the mercies of the weather for way\#too long. It's all 
 These are your legs.<#>Ваши ноги.
 Pick them up<#>Подобрать их
 You got pick up 2 \c[2]Legs\c[0].<#>Вы подобрали 2 \c[2]ноги\c[0].
-<!-- Map010.json --><#>
+<!-- Map --><#>010
+<!-- Map Name: start --><#>
+<!-- Order --><#>1
 Choose the mode?<#>
 Normal mode<#>
 Hard mode<#>
@@ -1464,7 +1487,10 @@ Rhabdophobia<#>Рабдофобия
 Teratophobia<#>Тератофобия
 Erotophobia<#>Эротофобия
 Panophobia<#>Панофобия
-<!-- Map011.json Old house --><#>Старый дом
+<!-- Map --><#>011
+<!-- Map Name: Old_house --><#>
+<!-- In-game Displayed Name: Old house --><#>Старый дом
+<!-- Order --><#>21
 A terrible stench oozes from the fridge.<#>Из холодильника исходит ужасная вонь.
 The bed looks to be in a bad shape and very uncomfortable...<#>Кровать пребывает в плохом состоянии и выглядит очень неудобной...
 Faint footsteps disturb your sleep...<#>Тихие шаги прерывают ваш сон...
@@ -1596,8 +1622,13 @@ The body, despite lacking skin is in a top condition. The body has\#next to no w
 The tormented one obviously carries nothing with him.<#>У измученного, очевидно, нет ничего с собой.
 Just as you saw the head off, it turns to dust...<#>Как только вы отпиливаете его голову, она превращается в пыль...
 .\|.\|.\|\#Your necromancy is not strong enough to summon this soul.\#The necromancy failed.<#>.\|.\|.\|\#Ваша некромантия недостаточно сильна, чтобы призвать эту душу.\#Некромантия провалена.
-<!-- Map012.json --><#>
-<!-- Map013.json Deserted cottage --><#>Заброшенная хижина
+<!-- Map --><#>012
+<!-- Map Name: MAP012 --><#>
+<!-- Order --><#>165
+<!-- Map --><#>013
+<!-- Map Name: Cottage1 --><#>
+<!-- In-game Displayed Name: Deserted cottage --><#>Заброшенная хижина
+<!-- Order --><#>11
 Rotten meat on a platter...<#>На тарелке лежит тухлое мясо...
 You find \c[2]Rotten meat\c[0]!<#>Вы нашли \c[2]тухлое мясо\c[0]!
 There are maggots crawling inside the piece...<#>Внутри него ползают личинки...
@@ -1613,7 +1644,10 @@ A worn out bed full of dirty dishes. Sleeping here is the\#last thing on your mi
 \>\i[76]\}ARCOH\{\<\#"I've slept in worse places."<#>\>\}\i[378]АРКО\{\<\#«Я спал в худших местах.»
 GabText A striking smell of mold fills the damp cottage.<#>GabText Резкий запах плесени наполняет сырой коттедж.
 GabText You hit the Crow Mauler and it doesn't seem to care.<#>
-<!-- Map014.json Train cabin --><#>Вагон поезда
+<!-- Map --><#>014
+<!-- Map Name: Train_cabins --><#>
+<!-- In-game Displayed Name: Train cabin --><#>Вагон поезда
+<!-- Order --><#>10
 An old pamphlet. There doesn't appear to be anything interesting\#printed on it.<#>Старая брошюра. На ней нет ничего интересного.
 You search the luggage...<#>Вы обыскиваете багаж...
 The door won't open. It seems to be locked from outside.<#>Дверь не открывается. Похоже, она закрыта с другой стороны.
@@ -2738,7 +2772,10 @@ Pav is down...<#>Пав повержен...
 You get an \c[2]Army uniform\c[0], a \c[2]Lugr pistol\c[0] and 10 \c[2]9mm Bullets\c[0].<#>Вы нашли \c[2]армейскую униформу\c[0], \c[2]пистолет Люгера\c[0] и 10 \c[2]9 мм патронов\c[0].
 You took \c[2]Pav's head\c[0] as a trophy!<#>Вы взяли \c[2]голову Пава\c[0] в качестве трофея!
 These seats are perfectly suited for resting...<#>Эти сиденья идеально подходят для отдыха...
-<!-- Map015.json Outskirts of Prehevil --><#>Окраины Прехевила
+<!-- Map --><#>015
+<!-- Map Name: Outskirts1 --><#>
+<!-- In-game Displayed Name: Outskirts of Prehevil --><#>Окраины Прехевила
+<!-- Order --><#>15
 \>\i[81]\}ALARYMAN\{\<\#"Oh--"<#>\>\}\i[376]ЛЕРК\{\<\#«О—»
 \>\i[81]\}ALARYMAN\{\<\#"It's you. From the train..."<#>\>\}\i[376]ЛЕРК\{\<\#«Это ты. Из поезда...»
 \>\i[81]\}ALARYMAN\{\<\#"Keep quiet... There is something going on here. I have a bad\#feeling about this..."<#>\>\}\i[376]ЛЕРК\{\<\#«Будь тише... Здесь что-то происходит... У меня плохое\#предчувствие...»
@@ -2828,7 +2865,10 @@ A badly mutilated head of a villager...<#>Сильно изуродованна�
 \>\i[76]\}ARCOH\{\<\#"We got more pressing matters."<#>\>\}\i[378]АРКО\{\<\#«У нас есть более насущные дела.»
 \>\i[76]\}ARCOH\{\<\#"Is it normal to have this much fog around these parts?"<#>\>\}\i[378]АРКО\{\<\#«Это нормально, что тут везде так много тумана?»
 Only a \c[2]Fly amanita\c[0] here.<#>Здесь есть лишь \c[2]мухомор\c[0].
-<!-- Map016.json Prehevil - Old town --><#>Прехевил - Старый город
+<!-- Map --><#>016
+<!-- Map Name: Old_town1 --><#>
+<!-- In-game Displayed Name: Prehevil - Old town --><#>Прехевил - Старый город
+<!-- Order --><#>19
 A bloody ritual crucifix. They used to have these in the olden\#times, but you've never seen one in person.<#>Кровавое ритуальное распятие. Они были здесь в старые времена,\#но вы никогда не видели их своими глазами.
 The smell and sight of the sacrificed corpses is repulsive!\#You feel like throwing up.<#>Запах и вид пожертвованных трупов просто ужасен!\#Вас сейчас стошнит.
 GabText You hear distant screams and ramblings... You are not alone.<#>GabText Вы слышите далёкие крики и бормотание... Вы не одни здесь.
@@ -2948,7 +2988,10 @@ The coffin is empty, only a foul odor fills the dead space.<#>Гроб пуст,
 \>\i[78]\}'SAA\{\<\#"The places are usually ones that still feel the need for Alll-mer's\#protection for one reason or another."<#>\>\}\i[380]'САА\{\<\#«Такие места - обычно те, где люди всё ещё нуждаются в\#защите Алл-мера по какой-либо причине.»
 \>\i[78]\}'SAA\{\<\#"During the times of war, some villages even tried to ward off\#Bremen army with these things."<#>\>\}\i[380]'САА\{\<\#«За времена войны, многие деревни пытались запугать\#бременскую армию такими вещами.»
 The door is locked with a simple lock...\#The sign says "Closed until tomorrow."<#>Дверь заперта на простой замок...\#Надпись гласит: «Закрыто до завтра.»
-<!-- Map017.json Workshop --><#>Мастерская
+<!-- Map --><#>017
+<!-- Map Name: Workshop --><#>
+<!-- In-game Displayed Name: Workshop --><#>Мастерская
+<!-- Order --><#>169
 The table is full of cubes with various sigils carved\#all-around them. The cubes are hollow though. They seem\#to be missing some parts still...<#>Стол полон разных кубов с различными символами, вырезанными\#на них. Кубы ощущаются полыми внутри. Похоже, в них\#сейчас чего-то не достаёт...
 \>\i[73]\}ANITOR\{\<\#"I'll teach you to run away! Gyah gyah!"<#>\>\}\i[379]АДЗИРАТЕЛЬ\{\<\#«Я покажу тебе, как убегать! Хье-хье!»
 No reaction. The janitor seems dead by all measures...<#>Никакой реакции. Надзиратель точно мёртв...
@@ -3017,9 +3060,13 @@ GabText You wound the arm of the janitor!<#>GabText Вы ранили руку �
 There are random tools left here. The tools seem to be for\#very specific purposes and they are useless otherwise.<#>Здесь лежат случайные инструменты. Они, похоже, для весьма\#специфической работы, и вряд ли будут полезны вам.
 The contraption doesn't have any seeming use. You have no\#idea about its purpose...<#>У приспособления нет очевидных целей для использования.\#У вас нет никаких идей...
 Lifeless arms reach out from between the boards...<#>Безжизненные руки торчат между балок...
-<!-- Map018.json --><#>
+<!-- Map --><#>018
+<!-- Map Name: Grand_hall --><#>
+<!-- Order --><#>161
 GabText Your head hurts! You feel like you're losing your mind!<#>GabText Ваша голова раскалывается! Вам кажется, будто вы сходите с ума!
-<!-- Map019.json --><#>
+<!-- Map --><#>019
+<!-- Map Name: Intro_Train_cabins --><#>
+<!-- Order --><#>168
 A wall of suitcases... Something feels off...<#>Стена из чемоданов... Что-то не так...
 GabText The mist here carries the same odor as the dungeon air...<#>
 All these suitcases... Something feels off...<#>Все эти чемоданы... Что-то не так...
@@ -3959,7 +4006,10 @@ Stock up on herbs<#>Запастись травами
 You managed to find the \c[2]Alchemillia vol.1\c[0]!<#>Вам удалось найти \c[2]Алхемилию, том 1\c[0]!
 You managed to find 2 \c[2]Green herbs\c[0], 2 \c[2]Blue herbs\c[0],\#2 \c[2]Lavenders\c[0] and a \c[2]Red herb\c[0]!<#>Вам удалось найти 2 \c[2]зелёные травы\c[0], 2 \c[2]синие травы\c[0],\#2 \c[2]лаванды\c[0] и \c[2]красную траву\c[0]!
 Was that... your sister?<#>Это была... ваша сестра?
-<!-- Map020.json Mayor's manor --><#>Поместье мэра
+<!-- Map --><#>020
+<!-- Map Name: Mayors_manor --><#>
+<!-- In-game Displayed Name: Mayor's manor --><#>Поместье мэра
+<!-- Order --><#>22
 An empty barrel.<#>Пустая бочка.
 The hallway is blocked by these chairs...<#>Коридор заблокирован стульями...
 You could use the \c[2]Manor key\c[0] here?<#>Вы могли бы использовать \c[2]ключ от поместья\c[0] здесь.
@@ -4328,7 +4378,10 @@ You take the \c[2]Leather armor\c[0]!<#>Вы взяли \c[2]кожаную бр
 \>\i[66]\}ALIGURA\{\<\#"Turn around bitch. I got use for you..."<#>\>\}\i[376]АЛИГУРА\{\<\#«Повернись, сука. Ты мне пригодишься...»
 \>\i[66]\}ALIGURA\{\<\#"T-t-the f-f-fuck--!?"<#>\>\}\i[376]АЛИГУРА\{\<\#«Ч-ч-что за х-х-хуйня—?!»
 \>\i[66]\}ALIGURA\{\<\#"Ugh! Just slow the fuck down!"<#>\>\}\i[376]АЛИГУРА\{\<\#«Тьфу! Просто нахуй помедленнее!»
-<!-- Map021.json Two-story house --><#>Двухэтажный дом
+<!-- Map --><#>021
+<!-- Map Name: 2_story_house --><#>
+<!-- In-game Displayed Name: Two-story house --><#>Двухэтажный дом
+<!-- Order --><#>25
 You unlock the basement doors.<#>Вы открываете двери подвала.
 choice_text 2 Use Soul stone<#>
 No reaction. But it is satisfying.<#>Никакой реакции. Но это успокаивает.
@@ -4410,7 +4463,10 @@ An empty bucket and an empty suitcase. You're starting to\#see a pattern here...
 It's a dusty radio receiver.<#>Пыльное радио.
 Switch it on<#>Включить его
 It doesn't seem to work.<#>Кажется, не работает.
-<!-- Map022.json Small hut --><#>Маленькая хижина
+<!-- Map --><#>022
+<!-- Map Name: small_hut1 --><#>
+<!-- In-game Displayed Name: Small hut --><#>Маленькая хижина
+<!-- Order --><#>27
 An empty bucket with some spit stains here and there...<#>Пустое ведро, всё в пятнах от плевков...
 \>\i[65]\}ANDAGE MAN\{\<\#"We're closed today. Come back t'morrow!"<#>\>\}\i[374]АБИНТОВАННЫЙ\{\<\#«Сегодня мы закрыты! Возвращайтесь завтра!»
 \>\i[65]\}ANDAGE MAN\{\<\#"So rude!"<#>\>\}\i[374]АБИНТОВАННЫЙ\{\<\#«Как грубо!»
@@ -4473,7 +4529,10 @@ Levi is holding breath to the best of his abilities.<#>Леви задержив
 \>\i[76]\}ARCOH\{\<\#"I kind of had to go...\. But not anymore.\. Not here."<#>\>\}\i[378]АРКО\{\<\#«Мне бы не помешало сходить...\. Но больше нет желания.\.\#Не здесь.»
 \>\i[65]\}ANDAGE MAN\{\<\#"Oi!"<#>\>\}\i[374]АБИНТОВАННЫЙ\{\<\#«Ой!»
 \>\i[65]\}ANDAGE MAN\{\<\#"Just what do ye think yer doing!? Barging in like that!?"<#>\>\}\i[374]АБИНТОВАННЫЙ\{\<\#«Ты вообще понимаешь, что делаешь? Вот так вот врываясь?!»
-<!-- Map023.json Maiden Forest --><#>Девичий лес
+<!-- Map --><#>023
+<!-- Map Name: Forest1 --><#>
+<!-- In-game Displayed Name: Maiden Forest --><#>Девичий лес
+<!-- Order --><#>29
 GabText The creature is shot down!<#>GabText Существо убито!
 GabText The the creature is shot down!<#>GabText Существо убито!
 GabText You shoot the paw of the creature!<#>GabText Вы отстрелили лапу существу!
@@ -4742,7 +4801,10 @@ Levi is looking rather calm.<#>Леви выглядит довольно спо
 \>\i[78]\}'SAA\{\<\#"It appears that the tunnel network truly spreads far and wide..."<#>\>\}\i[380]'САА\{\<\#«Похоже, что система туннелей действительно уходит глубоко\#и далеко...»
 \>\i[78]\}'SAA\{\<\#"I don't think I'll ever get accustomed to this climate. It's always\#either too cold or too wet."<#>\>\}\i[380]'САА\{\<\#«Не думаю, что когда-нибудь привыкну к этому климату. Тут\#всегда либо слишком холодно, либо слишком влажно.»
 \>\i[78]\}'SAA\{\<\#"No wonder there is a heavy veil of mist ever-present.<#>\>\}\i[380]'САА\{\<\#«Не удивительно, что тут всегда такой густой туман.»
-<!-- Map024.json Tunnel 7 --><#>Туннель 7
+<!-- Map --><#>024
+<!-- Map Name: tunnels_7 --><#>
+<!-- In-game Displayed Name: Tunnel 7 --><#>Туннель 7
+<!-- Order --><#>30
 There is no power in this panel. You don't really understand\#what it is used for anyway.<#>Здесь находится служебный лифт. Кажется, он не запитан...
 There is no power in this panel. Seems like the backup\#generator powers up something else...<#>На этой панели нет питания. Похоже, что запасной генератор\#питает что-то другое...
 The path is too tight for you. The creature seems to have pushed\#through some structure beams to get here...<#>Проход слишком тесен для вас. Существо, похоже, пробилось\#через какие-то структурные балки, чтобы попасть сюда...
@@ -4911,8 +4973,13 @@ O'saa seems to be talking to himself...<#>О'саа, похоже, говори�
 \>\i[78]\}'SAA\{\<\#"No."<#>\>\}\i[380]'САА\{\<\#«Нет.»
 O'saa looks straight at you without flinching his expression a\#bit.<#>О'саа смотрит вам прямо в глаза, ни капли невозмутимый.
 An empty shelf.<#>Пустая полка.
-<!-- Map025.json --><#>
-<!-- Map026.json Tunnel 7 - Level 2 --><#>Туннель 7 - Уровень 2
+<!-- Map --><#>025
+<!-- Map Name: Elevator --><#>
+<!-- Order --><#>31
+<!-- Map --><#>026
+<!-- Map Name: tunnels7_2 --><#>
+<!-- In-game Displayed Name: Tunnel 7 - Level 2 --><#>Туннель 7 - Уровень 2
+<!-- Order --><#>33
 The elevator is not responding...<#>Лифт не отвечает...
 The elevator is busted.<#>Лифт застрял.
 There appears to be a letter and a key in his pocket...<#>В его кармане находятся письмо и ключ...
@@ -4978,7 +5045,10 @@ There an electric panel here... You don't really know what\#to do with it.<#>Э�
 \>\i[78]\}'SAA\{\<\#"Maybe it's better if you do it."<#>\>\}\i[380]'САА\{\<\#«Может, лучше всё-таки тебе этим заниматься.»
 O'saa seems to be observing his surroundings.<#>О'саа, похоже, изучает окружение.
 Nothing left in the ammo case.<#>В ящике с патронами ничего не осталось.
-<!-- Map027.json Tunnel 7 - Level 2 --><#>Туннель 7 - Уровень 2
+<!-- Map --><#>027
+<!-- Map Name: Alternate7_2 --><#>
+<!-- In-game Displayed Name: Tunnel 7 - Level 2 --><#>Туннель 7 - Уровень 2
+<!-- Order --><#>34
 No reaction. The kicks seem to sink deep, the husk of the\#creature has become soft and floppy.<#>Никакой реакции. Удары глубоко утопают, оболочка существа\#размягчается и разбалтывается.
 It's as if life has escaped the body.<#>Будто жизнь полностью покинула тело.
 \>\i[67]\}AAN\{\<\#"The creature's body feels hollow. It feels like a half-empty\#bag of potatos, with the potatos halfway through decomposing."<#>\>\}\i[372]ААН\{\<\#«Тело существа ощущается полым. Словно полупустой пакет\#с картошкой, которая уже гниёт.»
@@ -5069,7 +5139,9 @@ Levi is looking around cautiously.<#>Леви осторожно осматри�
 \>\i[78]\}'SAA\{\<\#"What a simple philosophy you live by."<#>\>\}\i[380]'САА\{\<\#«Какая у тебя простая жизненная философия.»
 \>\i[78]\}'SAA\{\<\#"Must be easy to sleep at night in that small little bubble of\#ignorance of yours."<#>\>\}\i[380]'САА\{\<\#«Тебе, должно быть, легко спать по ночам - в таком маленьком\#пузыре собственного невежества.»
 \>\i[76]\}ARCOH\{\<\#"If it works, it works. I don't know what to say."<#>\>\}\i[378]АРКО\{\<\#«Пока это работает - я не волнуюсь. Мне больше нечего сказать.»
-<!-- Map028.json --><#>
+<!-- Map --><#>028
+<!-- Map Name: A_set --><#>
+<!-- Order --><#>7
 GabText The injection made \N[1] numb from all the pain and horror.<#>GabText Инъекция заставила \N[1] онеметь от всей боли и ужаса.
 GabText The injection made \N[3] numb from all the pain and horror.<#>GabText Инъекция заставила \N[3] онеметь от всей боли и ужаса.
 GabText The injection made \N[4] numb from all the pain and horror.<#>GabText Инъекция заставила \N[4] онеметь от всей боли и ужаса.
@@ -5149,14 +5221,22 @@ Here lies \N[28]...<#>Здесь лежит \N[28]...
 Here lies \N[29]...<#>Здесь лежит \N[29]...
 GabText It appears the crown of Alll-mer was too heavy for your to carry.<#>GabText Похоже, что корона Алл-мера слишком тяжела для вашей головы.
 GabText The blood feels warm pouring down from your throat...<#>GabText Теплая кровь стекает по вашей шее...
-<!-- Map029.json Tunnel 7 - Elevator shaft --><#>Туннель 7 - Шахта лифта
+<!-- Map --><#>029
+<!-- Map Name: Alternate_elevator --><#>
+<!-- In-game Displayed Name: Tunnel 7 - Elevator shaft --><#>Туннель 7 - Шахта лифта
+<!-- Order --><#>35
 The creature seems to be breathing still despite your efforts.<#>Существо, похоже, всё ещё дышит, несмотря на ваши усилия.
 You took the \c[2]Big boy's head\c[0] as a trophy!<#>Вы взяли \c[2]голову Здоровяка\c[0] в качестве трофея!
-<!-- Map030.json Tunnel 7 --><#>Туннель 7
+<!-- Map --><#>030
+<!-- Map Name: Alternate_7 --><#>
+<!-- In-game Displayed Name: Tunnel 7 --><#>Туннель 7
+<!-- Order --><#>36
 Skin her<#>
 The skin seems to disintegrate as you peel it off. You cannot\#make any use of it.<#>Кожа, похоже, распадается по мере того как вы разрезаете её.\#Органы не выйдет использовать.
 A mysterious ornament door remains shut.<#>Таинственная орнаментированная дверь остаётся закрытой.
-<!-- Map031.json --><#>
+<!-- Map --><#>031
+<!-- Map Name: hexen --><#>
+<!-- Order --><#>173
 Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Rot\c[0]?<#>Использовать \c[2]камень душ\c[0], чтобы изучить навык \c[2]гниение\c[0]?
 Who will learn \c[2]Rot\c[0]?<#>Кто изучит навык \c[2]гниение\c[0]?
 \p[1]<#>
@@ -5324,7 +5404,9 @@ Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Lunar meteorite\c[0]?<#>Ис
 Who will learn \c[2]Lunar meteorite\c[0]?<#>Кто изучит навык \c[2]лунный метеорит\c[0]?
 Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Lunar storm\c[0]?<#>Использовать \c[2]камень душ\c[0], чтобы изучить навык \c[2]лунный\#шторм\c[0]?
 Who will learn \c[2]Lunar storm\c[0]?<#>Кто изучит навык \c[2]лунный шторм\c[0]?
-<!-- Map032.json --><#>
+<!-- Map --><#>032
+<!-- Map Name: Moon_tower --><#>
+<!-- Order --><#>174
 \>\i[144]\}ER'KELE\{\<\#"Oh. You are here?"<#>\>\}\i[381]ЕР'КЕЛЕ\{\<\#«О. Вы здесь?»
 \>\i[144]\}ER'KELE\{\<\#"You think you have the luxury of wasting time like this?"<#>\>\}\i[381]ЕР'КЕЛЕ\{\<\#«Вы думаете, что у вас есть привилегия вот так тратить время?»
 \>\i[144]\}ER'KELE\{\<\#"Cute."<#>\>\}\i[381]ЕР'КЕЛЕ\{\<\#«Мило.»
@@ -5376,7 +5458,10 @@ Save<#>Сохранение
 \>\i[144]\}ER'KELE\{\<\#"Head to the tower. Let the blood spill."<#>\>\}\i[381]ЕР'КЕЛЕ\{\<\#«Направляйтесь к башне. Пусть прольётся кровь.»
 \>\i[144]\}ER'KELE\{\<\#"As fourteen is reduced to one, so opens the gates to the court\#of Rher."<#>\>\}\i[381]ЕР'КЕЛЕ\{\<\#«Когда четырнадцать сведутся к одному, открываются врата в суд\#Рхера.»
 \>\i[144]\}ER'KELE\{\<\#"You've stood at the base of the Moon Tower. To proceed, you know\#what to do."<#>\>\}\i[381]ЕР'КЕЛЕ\{\<\#«Вы уже стояли у подножия лунной башни. Вы знаете, что нужно\#сделать, чтобы продвинуться.»
-<!-- Map033.json Abandoned house --><#>Заброшенный дом
+<!-- Map --><#>033
+<!-- Map Name: Alternate_Abandoned_house --><#>
+<!-- In-game Displayed Name: Abandoned house --><#>Заброшенный дом
+<!-- Order --><#>17
 The barrel contains gore and some white substance. It reeks\#terrible!<#>В бочке лишь кровь и какая-то белая жидкость.\#Пахнет ужасно!
 Empty shelves. They look like they were never even meant to store\#anything. Like they were meant to just mock their real world\#counterparts instead.<#>Пустые полки. Выглядят так, будто никогда не подразумевались\#для хранения чего-либо. Они были предназначены только для\#одного - подразнить свои реальные аналоги.
 \>\i[76]\}AN IN BLACK\{\<\#"Another one heeds my call..."<#>\>\}\i[385]ЕЛОВЕК В ЧЁРНОМ\{\<\#«Ещё один человек внемлет моему зову...»
@@ -5435,7 +5520,10 @@ Marcoh is nervously looking around...<#>Марко нервно оглядыва
 \>\i[74]\}ARIN\{\<\#"Not this again... Don't you ever get tired of your hocus pocus?"<#>\>\}\i[376]АРИН\{\<\#«Только не опять... Ты не устал от своих фокусов?»
 \>\i[78]\}'SAA\{\<\#"Ignorance breeds anger. I understand."<#>\>\}\i[380]'САА\{\<\#«Невежество порождает гнев. Я понимаю.»
 \>\i[74]\}ARIN\{\<\#"I'm not angry!"<#>\>\}\i[376]АРИН\{\<\#«Во мне нет никакого гнева!»
-<!-- Map034.json Toilet --><#>Туалеты
+<!-- Map --><#>034
+<!-- Map Name: Toilet --><#>
+<!-- In-game Displayed Name: Toilet --><#>Туалеты
+<!-- Order --><#>28
 GabText You are knee deep in feces and filth...<#>GabText Вы по колено в фекалиях и грязи...
 The walls are slippery and slimy...<#>Стены липкие и скользкие...
 You can't seem to get a grip from anywhere...<#>Вы не можете ни за что ухватиться...
@@ -5453,12 +5541,17 @@ Marcoh has quiet determination in his voice, but for some reason you\#don't feel
 Levi is quietly looking for a way to climb up.<#>Леви тихо ищет путь наверх.
 \>\i[78]\}'SAA\{\<\#"Shame on me. I can't believe I followed you down here."<#>\>\}\i[380]'САА\{\<\#«Позор мне. Не могу поверить, что последовал сюда за тобой.»
 \>\i[78]\}'SAA\{\<\#"I deserve this fate worse than the slaves of the South."<#>\>\}\i[380]'САА\{\<\#«Я заслужил это. Судьба - даже хуже, чем у рабов юга.»
-<!-- Map035.json --><#>
+<!-- Map --><#>035
+<!-- Map Name: start_screen --><#>
+<!-- Order --><#>171
 Ex-Soldier<#>Бывший солдат
 Occultist<#>Оккультист
 Doctor<#>Врач
 Engineer<#>Инженер
-<!-- Map036.json Prehevil - Staircase --><#>Прехевил - Ступени
+<!-- Map --><#>036
+<!-- Map Name: Prehevil_Staircase1 --><#>
+<!-- In-game Displayed Name: Prehevil - Staircase --><#>Прехевил - Ступени
+<!-- Order --><#>39
 The husk of the bobby feels stiff and hollow.<#>Оболочка патрульного ощущается жёсткой и пустой.
 The body of the bobby was still pulsating steadily, but now\#it stopped.<#>Тело патрульного постоянно пульсировало, но теперь перестало.
 \>\i[67]\}AAN\{\<\#"This person barely resembles a human anymore despite that most\#likely being his original form. At least based on his anatomy."<#>\>\}\i[372]ААН\{\<\#«Это создание мало напоминает человека, несмотря на то, что в\#большинстве разделяет его черты. Ну, по крайней мере,\#основываясь на его анатомии.»
@@ -5787,7 +5880,10 @@ You pick up the \c[2]Mauler\c[0].<#>Вы подобрали \c[2]истязат�
 You took the \c[2]Gull brother head\c[0] as a trophy!<#>Вы взяли \c[2]голову брата-чайки\c[0] в качестве трофея!
 You took the \c[2]Gull bro head\c[0] as a trophy!<#>Вы взяли \c[2]голову брата-чайки\c[0] в качестве трофея!
 GabText A terrifying presence has entered your vicinity.<#>GabText Ужасающее присутствие вошло в ваши окрестности.
-<!-- Map037.json Prehevil - East --><#>Прехевил - Восток
+<!-- Map --><#>037
+<!-- Map Name: Prehevil_East1 --><#>
+<!-- In-game Displayed Name: Prehevil - East --><#>Прехевил - Восток
+<!-- Order --><#>54
 \>\i[87]\}ELLOW MAGE\{\<\#"I strongly advice keeping your distance!"<#>\>\}\i[373]ЁЛТЫЙ МАГ\{\<\#«Я настоятельно рекомендую тебе соблюдать дистанцию!»
 You notice the yellow mage ahead...<#>Вы замечаете жёлтого мага впереди...
 "Or else?"<#>«Или иначе?»
@@ -5889,7 +5985,10 @@ Looks like she suffered a terrible fate...<#>Похоже, её постигла
 \>\i[76]\}ARINA\{\<\#"I changed my mind!"<#>\>\}\i[378]АРИНА\{\<\#«Я передумала!»
 \>\i[76]\}ARINA\{\<\#"Let's check out the church together!"<#>\>\}\i[378]АРИНА\{\<\#«Давай проверим церковь вместе!»
 A cast-iron coffin. It's sealed shut.<#>Цельнометаллический гроб. Запечатан наглухо.
-<!-- Map038.json Prehevil - Central --><#>Прехевил - Центр
+<!-- Map --><#>038
+<!-- Map Name: Central_Prehevil --><#>
+<!-- In-game Displayed Name: Prehevil - Central --><#>Прехевил - Центр
+<!-- Order --><#>40
 GabText The city feels eerily quiet. Only lifeless husks wander its streets.<#>GabText В городе жутко тихо. Лишь пустые оболочки бродят по улицам.
 An empty barrel left here to barricade the street.<#>Пустая бочка, поставленная здесь, чтобы забаррикадировать улицу.
 GabText The rifleman is shot down!<#>GabText Стрелок убит!
@@ -5916,7 +6015,10 @@ Marina's body...<#>Тело Марины...
 All this is gathered here to block the intersection.<#>Всё это собрано здесь, чтобы перекрыть перекресток.
 \i[323] Temple District\#\i[325] Church of Alll-mer\#\i[326] Residential Area, Business District\#\i[322] St. Domek's Orphanage, Shopping District<#>\i[323] Храмовая Площадь\#\i[325] Церковь Алл-мера\#\i[326] Жилой Район, Деловой Район\#\i[322] Приют Святого Домека, Торговый Район
 A cast iron coffin. It's sealed shut.<#>Цельнометаллический гроб. Запечатан наглухо.
-<!-- Map039.json Prehevil - West --><#>Прехевил - Запад
+<!-- Map --><#>039
+<!-- Map Name: Prehevil_West --><#>
+<!-- In-game Displayed Name: Prehevil - West --><#>Прехевил - Запад
+<!-- Order --><#>86
 GabText The ruination of this area seems somewhat recent.<#>GabText Разрушения в этой области выглядят относительно недавними.
 GabText The half-cocooned is shot down!<#>GabText Полуобращённый убит!
 GabText You shoot the arm of the half-cocooned!<#>GabText Вы отстрелили руку полуобращённому!
@@ -6191,7 +6293,10 @@ Medicinal diagnosis<#>Медицинский диагноз
 There's nothing left.<#>Больше ничего не осталось.
 The meat grinder fell apart in the fight. You pick up the scrap\#pieces. You get \c[2]Saw blade\c[0] and a broken \c[2]Bench grinder\c[0].<#>Ваша мясорубка развалилась прямо посреди боя. Вы забираете\#металлолом. Вы получили \c[2]циркулярное лезвие\c[0] и\#сломанный \c[2]настольный шлифовальный станок\c[0].
 \i[325] Temple District, Church of Alll-mer\#\i[323] St. Domek's Orphanage\#\i[337] Residential Area<#>\i[325] Храмовая Площадь, Церковь Алл-мера\#\i[323] Приют Святого Домека\#\i[337] Жилой Район
-<!-- Map040.json Riverside --><#>Река
+<!-- Map --><#>040
+<!-- Map Name: Riverside --><#>
+<!-- In-game Displayed Name: Riverside --><#>Река
+<!-- Order --><#>105
 You pick up a \c[2]Golden chanterelle\c[0].<#>Вы собрали \c[2]золотую лисичку\c[0].
 The door is locked with a reinforced lock...<#>Дверь заперта на усиленный замок...
 You could use the \c[2]Sewer keys\c[0] here?<#>Вы могли бы использовать здесь \c[2]ключи от канализации\c[0].
@@ -6200,7 +6305,10 @@ You could use the \c[2]Sewer keys\c[0] here?<#>Вы могли бы исполь
 \>\i[64]\}BELLA\{\<\#"The river looks nice and calm... I kind of want to just sit\#down and take a breather."<#>\>\}\i[368]БЕЛЛА\{\<\#«Река выглядит мило и спокойно... Хочется просто сесть и взять\#передышку.»
 Marcoh throws a pebble at the river. The pebble bounces multiple\#times before sinking.<#>Марко бросает камешек в реку. Он несколько раз отскакивает,\#прежде чем утонуть.
 \>\i[76]\}ARCOH\{\<\#"Aim to become like that pebble. Hard and heavy, but agile when\#necessary."<#>\>\}\i[378]АРКО\{\<\#«Стремитесь к форме этого камня. Твёрдый и тяжёлый,\#но ловкий, когда это необходимо.»
-<!-- Map041.json Prehevil - Old town --><#>Прехевил - Старый город
+<!-- Map --><#>041
+<!-- Map Name: Old_town3 --><#>
+<!-- In-game Displayed Name: Prehevil - Old town --><#>Прехевил - Старый город
+<!-- Order --><#>109
 \>\i[76]\}AN WITH CHECKERED PANTS\{\<\#"Hmmmmm... Hmmmmm..."<#>\>\}\i[378]УЖЧИНА В КЛЕТЧАТЫХ ШТАНАХ\{\<\#«Хмммм... Хмммм...»
 He seems to be lost in his thoughts.<#>Похоже, он глубоко думает.
 "Nice to see you again."<#>«Приятно снова тебя увидеть.»
@@ -6363,7 +6471,10 @@ Someone has nailed severed heads on the wall. Something about\#their placement s
 \>\i[76]\}ARINA\{\<\#"That's cold O'saa..."<#>\>\}\i[378]АРИНА\{\<\#«Ты слишком безразличен, О'саа...»
 Nothing interesting in the bucket.<#>В ведре нет ничего интересного.
 An old wagon. Someone has been trying to keep it functional by\#patching up all the rotten wood, but it looks like the thing could\#fall apart any minute now regardless of the efforts.<#>Старая вагонетка. Кто-то пытался поддерживать её в строю,\#заделывая дыры в гнилом дереве, но она выглядит так,\#будто может ни с того ни с сего развалиться в любой\#момент.
-<!-- Map042.json Lake --><#>Озеро
+<!-- Map --><#>042
+<!-- Map Name: Lake --><#>
+<!-- In-game Displayed Name: Lake --><#>Озеро
+<!-- Order --><#>106
 The man is crying hysterically... He has scratch marks all\#over him. His skin is hanging loose on his cheekbones...<#>Человек истерически плачет... Он весь в следах от\#царапин... Кожа свисает с его щек...
 \>\i[76]\}OONSCORCHED\{\<\#"What? WHAT!?"<#>\>\}\i[380]ПАЛЕННЫЙ ЛУНОЙ\{\<\#«Что?! ЧТО?!»
 \>\i[76]\}OONSCORCHED\{\<\#"We are the ones who SURVIVED!"<#>\>\}\i[380]ПАЛЕННЫЙ ЛУНОЙ\{\<\#«Мы те, кто ВЫЖИЛ!»
@@ -6451,8 +6562,13 @@ Marcoh is just quietly gazing at the lake and its misty horizon.<#>Марко т
 "Just don't tell any more jokes, okay?"<#>«Давай ты больше не будешь рассказывать шутки, ладно?»
 \>\i[78]\}'SAA\{\<\#"No need to be so serious all the time."<#>\>\}\i[380]'САА\{\<\#«Нет нужды всё время быть серьёзн\x[ым|ой].»
 \>\i[78]\}'SAA\{\<\#"...and it really smells like fish here beacuse of the lake and\#the fishing nets over there..."<#>\>\}\i[380]'САА\{\<\#«...и тут действительно пахнет скользкой рыбой, потому что\#здесь находится озеро и даже лежат рыболовные сети...»
-<!-- Map043.json --><#>
-<!-- Map044.json Church of Alll-mer - Level 1 --><#>Церковь Алл-мера - Уровень 1
+<!-- Map --><#>043
+<!-- Map Name: test --><#>
+<!-- Order --><#>175
+<!-- Map --><#>044
+<!-- Map Name: Church_1 --><#>
+<!-- In-game Displayed Name: Church of Alll-mer - Level 1 --><#>Церковь Алл-мера - Уровень 1
+<!-- Order --><#>55
 There seems to be a place for something here...<#>Похоже, тут для чего-то есть место...
 There are carvings of an old time language.\#"The fellatio of the mankind."<#>Здесь что-то вырезано на старом языке.\#«Самоудовлетворение человечества.»
 Place the \c[2]Fellatio Effigy\c[0] on the pedestal?<#>Возложить \c[2]статуэтку самоудовлетворения\c[0] на пьедестал?
@@ -6620,7 +6736,10 @@ Looks like he passed away.<#>Похоже, он умер.
 \>\i[78]\}LIVIA\{\<\#"I just like all that... More than actually dedicating my life\#to any one god."<#>\>\}\i[380]ЛИВИЯ\{\<\#«Мне просто это нравится... Даже больше, чем посвящение\#собственной жизни какому-либо богу.»
 \>\i[78]\}LIVIA\{\<\#"So I'm definitely not against religion. The opposite in fact.\#I just have my own relationship with it. If that makes sense."<#>\>\}\i[380]ЛИВИЯ\{\<\#«Так что, я точно не против религии. Даже за. Просто у меня\#к ней особое отношение, если так вообще можно.»
 \>\i[76]\}ARCOH\{\<\#"It does."<#>\>\}\i[378]АРКО\{\<\#«Можно.»
-<!-- Map045.json Church of Alll-mer - Level 2 --><#>Церковь Алл-мера - Уровень 2
+<!-- Map --><#>045
+<!-- Map Name: Church_level2_OLD --><#>
+<!-- In-game Displayed Name: Church of Alll-mer - Level 2 --><#>Церковь Алл-мера - Уровень 2
+<!-- Order --><#>58
 The chandelier has crashed through the ceiling... There doesn't\#appear to be a way back up...<#>Люстра провалилась сквозь потолок...\#Здесь никак не залезть обратно...
 The cell is locked with a simple rusty lock...<#>Камера заперта на простой ржавый замок...
 You could use the \c[2]Church keys\c[0] here?<#>Вы могли быть использовать здесь \c[2]ключи от церкви\c[0]
@@ -6657,7 +6776,10 @@ The dead man has got something bulging in his pocket...<#>Из кармана м
 Feel it out<#>Прощупать это
 Leave it be<#>Оставить
 You find \c[2]Church keys\c[0]!<#>Вы нашли \c[2]ключи от церкви\c[0]!
-<!-- Map046.json Church of Alll-mer - Ceiling --><#>Церковь Алл-мера - Потолок
+<!-- Map --><#>046
+<!-- Map Name: Church_ceiling2 --><#>
+<!-- In-game Displayed Name: Church of Alll-mer - Ceiling --><#>Церковь Алл-мера - Потолок
+<!-- Order --><#>57
 GabText Sounds like the chandelier broke through the ground...<#>GabText Похоже, люстра проломила пол...
 This chains seems to keep the chandelier hanging...<#>Похоже, эти цепи держат люстру...
 The galvanised chain seems tough and durable You'll need\#some serious leverage to cut it.<#>Оцинкованная цепь, похоже, очень крепка. Вам придётся\#серьёзно надавить, чтобы срезать её.
@@ -6695,13 +6817,19 @@ GabText The pillarman is shot down!<#>GabText Столпник убит!
 GabText The pillarman doesn't even flinch from the shot!<#>GabText Столпник даже не вздрогнул от выстрела!
 GabText The trenchgun destroys the chain!<#>GabText Дробовик разрывает цепь!
 You cannot penetrate the head to plant your seed. The head is\#too hard.<#>Вы не можете пробить голову, чтобы посадить семя.\#Она слишком твёрдая.
-<!-- Map047.json Church of Alll-mer - Ceiling --><#>Церковь Алл-мера - Потолок
+<!-- Map --><#>047
+<!-- Map Name: Church_ceiling1 --><#>
+<!-- In-game Displayed Name: Church of Alll-mer - Ceiling --><#>Церковь Алл-мера - Потолок
+<!-- Order --><#>56
 There appears to be a body of a man hanging at the end of the\#rope.<#>Кажется, на конце верёвки висит тело мужчины.
 The man is long dead. You can tell by the stench alone.<#>Он давно умер. Можно определить по одному лишь запаху.
 \>\i[74]\}ARIN\{\<\#"W-why are we stopping!"<#>\>\}\i[376]АРИН\{\<\#«П-почему мы останавливаемся?!»
 There is an ornament crucifix stuck on the wooden beam...<#>В деревянную балку вонзён орнаментальный крест...
 You take the \c[2]Sabbath\c[0]!<#>Вы забрали \c[2]Саббат\c[0]!
-<!-- Map048.json Church of Alll-mer - Level 2 --><#>Церковь Алл-мера - Уровень 2
+<!-- Map --><#>048
+<!-- Map Name: Church_alternate --><#>
+<!-- In-game Displayed Name: Church of Alll-mer - Level 2 --><#>Церковь Алл-мера - Уровень 2
+<!-- Order --><#>59
 A huge ritual circle is carved here. It doesn't seem to react\#to your presence...<#>Огромный ритуальный круг вырезан здесь. Похоже, он\#никак не реагирует на ваше присутствие...
 You read her mind...\#\c[1]"I-I-I can't believe it happened..."\c[0]<#>Вы читаете её мысли...\#\c[1]«Я-я-я не могу поверить, что это произошло...»\c[0]
 You read her mind...\#\c[1]"SAMARIE YOU FUCKING IDOT! YOU'RE CRAZY! CRAZY!"\c[0]<#>Вы читаете её мысли...\#\c[1]«САМАРИ, ТУПАЯ ИДИОТКА! ТЫ СПЯТИЛА! СПЯТИЛА!»\c[0]
@@ -7074,7 +7202,10 @@ Only the chains remain.<#>Остались одни цепи.
 \>\i[76]\}AN IN BLACK\{\<\#"But which one was it that got cast away? The conscious or the\#sub-conscious of the ascended one?"<#>\>\}\i[385]ЕЛОВЕК В ЧЁРНОМ\{\<\#«Но какого из них стоило отвергнуть? Того, кто был\#сознанием, или того, кто был подсознанием вознесённого?»
 \>\i[76]\}AN IN BLACK\{\<\#"If you continue carving idols, big enough to rival the old world\#order - You won't know which side of you prevails."<#>\>\}\i[385]ЕЛОВЕК В ЧЁРНОМ\{\<\#«Если ты продолжишь создавать идолы, достаточно крупные\#для соперничества со старым мировым порядком, - ты не\#узнаешь, какое из твоих качеств преобладает над другим.»
 \>\i[76]\}AN IN BLACK\{\<\#"It could just as well be you who gets squashed as your shadow runs\#loose."<#>\>\}\i[385]ЕЛОВЕК В ЧЁРНОМ\{\<\#«Может, ты просто умрёшь, когда твоя тень вырвется на\#свободу.»
-<!-- Map049.json Filthy shack --><#>Грязная лачуга
+<!-- Map --><#>049
+<!-- Map Name: Shack1 --><#>
+<!-- In-game Displayed Name: Filthy shack --><#>Грязная лачуга
+<!-- Order --><#>110
 Use the \c[2]Lighter\c[0] to light the bonfire?<#>Использовать \c[2]зажигалку\c[0], чтобы разжечь костёр?
 Use a \c[2]Match\c[0] to light the bonfire?<#>Использовать \c[2]спичку\c[0], чтобы разжечь костёр?
 There is a bonfire piled up here...<#>Здесь разложен костёр...
@@ -7204,7 +7335,10 @@ You can notice Marcoh's stone face change ever so slightly because\#of the sight
 \>\i[76]\}ARINA\{\<\#"A completely useless tidbit, I know, but I decided to share it\#anyway."<#>\>\}\i[378]АРИНА\{\<\#«Довольно бесполезный факт, но я всё равно решила\#им поделиться.»
 \>\i[76]\}ARCOH\{\<\#"Why is all this junk here?"<#>\>\}\i[378]АРКО\{\<\#«Почему здесь так много хлама?»
 \>\i[78]\}'SAA\{\<\#"Nothing interesting here. Let's move on to the next shack."<#>\>\}\i[380]'САА\{\<\#«Здесь нет ничего интересного. Двигаемся к следующей хижине.»
-<!-- Map050.json Tunnel 5 --><#>Туннель 5
+<!-- Map --><#>050
+<!-- Map Name: tunnels_5 --><#>
+<!-- In-game Displayed Name: Tunnel 5 --><#>Туннель 5
+<!-- Order --><#>111
 You had a massive orgasm and passed out.<#>Вы испытали сильнейший оргазм и потеряли сознание.
 There's a toolbox left here.<#>Здесь оставлен ящик с инструментами.
 The toolbox is empty.<#>Ящик для инструментов пуст.
@@ -7233,7 +7367,10 @@ A dusty projector is standing here. If you had any film, you could\#play it here
 Insert \c[2]Film reel\c[0]<#>Вставить \c[2]киноленту\c[0]
 There is a projector here with a film reel ready to go.<#>Здесь стоит проектор с кинолентой внутри, готовой к\#воспроизведению.
 Play the film<#>Проиграть фильм
-<!-- Map051.json Church of Alll-mer - Level 2 --><#>Церковь Алл-мера - Уровень 2
+<!-- Map --><#>051
+<!-- Map Name: Church_level2 --><#>
+<!-- In-game Displayed Name: Church of Alll-mer - Level 2 --><#>Церковь Алл-мера - Уровень 2
+<!-- Order --><#>60
 The sarcofagus looks hundreds of years old. It must be close to\#as old as this church.<#>Саркофаг выглядит так, словно ему сотни лет.\#Может, он стар настолько же, насколько и церковь.
 The stone slab cover doesn't seem to budge. Either it's heavier than\#what it looks like or there is a mechanism keeping it in place.<#>Каменная плита не поддаётся. Либо она тяжелее, чем кажется,\#либо внутри есть какой-то механизм, удерживающий её на месте.
 \>\i[76]\}ARINA\{\<\#"I guess we need to check up on that girl..."<#>\>\}\i[378]АРИНА\{\<\#«Я думаю, мы должны проверить эту девочку...»
@@ -7307,7 +7444,10 @@ O'saa is facing away from you and talking to himself...<#>О'саа отвора
 A rusty metal bucket.<#>Ржавое металлическое ведро.
 A grimy old bucket.<#>Грязное старое ведро.
 There's something hidden here in the darkness...<#>В тьме что-то спрятано...
-<!-- Map052.json Derelict house --><#>Заброшенный дом
+<!-- Map --><#>052
+<!-- Map Name: derelict_house --><#>
+<!-- In-game Displayed Name: Derelict house --><#>Заброшенный дом
+<!-- Order --><#>26
 The hallway has been blocked by all this random junk.<#>Коридор заблокирован всем этим случайным хламом.
 An empty suitcase.<#>Пустой чемодан.
 You find a \c[2]Crosswords puzzle\c[0]!<#>Вы нашли \c[2]кроссворды\c[0]!
@@ -7358,7 +7498,10 @@ Black Kalev is staring at his reflection on the dark television screen.<#>Чёр
 \N[28] is staring at his reflection on the television. Something\#about it amuses him.<#>\N[28] уставился на своё отражение в телевизоре.\#Что-то в нём его озадачивает.
 \N[29] sits down and stares at the bottomless depths of the\#dark television screen.<#>\N[29] садится, и смотрит в бездонные пустоты тёмного телевизионного\#экрана.
 GabText You wound the arm of the rifleman!<#>GabText Вы ранили руку стрелка!
-<!-- Map053.json Restaurant Bílý Vůl --><#>Ресторан «Bílý Vůl»
+<!-- Map --><#>053
+<!-- Map Name: Restaurant --><#>
+<!-- In-game Displayed Name: Restaurant Bílý Vůl --><#>Ресторан «Bílý Vůl»
+<!-- Order --><#>65
 Someone had a lavish and grotesque dinner here...<#>У кого-то был роскошный и гротескный ужин тут...
 Seems like someone has just recently emptied the refridgerator.<#>Похоже, что кто-то опустошил холодильник совсем недавно.
 There's something on the bottom shelf though...<#>В нём что-то лежит на нижней полке...
@@ -7450,7 +7593,10 @@ Levi had a \c[2]Rifle .303 Mk I\c[0] and 4 \c[2].303 Ammo\c[0] with him.<#>У Л
 "Want to travel together now?"<#>«Хочешь теперь попутешествовать?»
 \>\i[75]\}EVI\{\<\#"Oh right... Yes..."<#>\>\}\i[377]ЕВИ\{\<\#«О, конечно... Да...»
 A bowl of gore.<#>Миска с кровью.
-<!-- Map054.json Book store --><#>Книжный магазин
+<!-- Map --><#>054
+<!-- Map Name: Book_store --><#>
+<!-- In-game Displayed Name: Book store --><#>Книжный магазин
+<!-- Order --><#>41
 The sign says: "No entry. Staff only."<#>Табличка гласит: «Не входить. Только для персонала.»
 Break the rules and climb over it?<#>Нарушить правила и перелезть?
 The upstairs sound quiet...<#>Наверху тихо...
@@ -7574,7 +7720,10 @@ The table has the newest additions to the book store. Many of\#the books are dra
 A random suspense novel has been set here. The tale tells about\#stormy waters northwest from the shores of Rondon.<#>Здесь оставили случайную новеллу в жанре саспенс. Истории\#рассказывают о буйных водах у берегов Рондона.
 Two brothers who established a fishing route on a particularly\#dangerous waters finally pushed their luck too far and were\#caught in a massive whirlwind.<#>Два брата, наладившие рыболовный маршрут в особенно опасных\#водах, наконец истратили всю свою удачу и были затянуты в\#огромный вихрь.
 Even if the subject doesn't especially interest you, the tale\#does get your heart racing and you can vividly imagine the\#monstrous whirlwind swallowing the brothers down to its bottomless\#depths...<#>Даже если сюжет не сильно интересен, он заставляет ваше\#сердце колотиться, и ваше воображение вырисовывает вихрь,\#засасывающий двух братьев в свою бездонную глубину...
-<!-- Map055.json Prehevil - Back alleys --><#>Прехевил - Переулки
+<!-- Map --><#>055
+<!-- Map Name: Prehevil_Back_alleys --><#>
+<!-- In-game Displayed Name: Prehevil - Back alleys --><#>Прехевил - Переулки
+<!-- Order --><#>66
 GabText Only a lone wind howl accompanies you in these empty alleyways.<#>GabText Лишь одинокие завывания ветра слышатся в пустых переулках.
 GabText The beekeeper just soldiers through the trap!<#>GabText Пчеловоду наплевать на ловушку!
 GabText The fecal hound is shot down!<#>GabText Фекальная гончая убита!
@@ -7641,7 +7790,10 @@ You could unlock the gate from this side.<#>Вы можете открыть в�
 Unlock it<#>Открыть ворота
 The gate is locked from the other side.<#>Ворота заперты с другой стороны.
 \i[323] Shopping District\#\i[325] Church of Alll-mer, Temple District\#\i[326] Business District\#\i[322] St. Domek's Orphanage<#>\i[323] Торговый Район\#\i[325] Церковь Алл-мера, Храмовая Площадь\#\i[326] Деловой Район\#\i[322] Приют Святого Домека
-<!-- Map056.json Renka cafe --><#>Кафе Ренка
+<!-- Map --><#>056
+<!-- Map Name: Renka_cafe --><#>
+<!-- In-game Displayed Name: Renka cafe --><#>Кафе Ренка
+<!-- Order --><#>80
 The door seems to be locked from the other side...<#>Дверь, похоже, заперта с другой стороны...
 GabText An eerie silence fills the old cafe...<#>GabText Жуткая тишина наполняет старое кафе...
 Someone has vandalized the stool and written something under it...<#>Кто-то испортил стул и написал что-то на его дне...
@@ -7671,7 +7823,10 @@ You find a \c[2]Wine vial\c[0]!<#>Вы нашли \c[2]винный флакон
 You find a bottle of \c[2]Beer\c[0]!<#>Вы нашли бутылку \c[2]пива\c[0]!
 Someone has left old coffee grounds here...<#>Кто-то оставил здесь старую кофейную гущу...
 A nice plastic plant.<#>Милое пластиковое растение.
-<!-- Map057.json Prehevil - North-west --><#>Прехевил - Северо-запад
+<!-- Map --><#>057
+<!-- Map Name: Prehevil_NorthWest --><#>
+<!-- In-game Displayed Name: Prehevil - North-west --><#>Прехевил - Северо-запад
+<!-- Order --><#>87
 GabText A quiet wind howls gently in the ruins of the city.<#>GabText Тихий ветер спокойно воет в городских руинах.
 GabText The creature doesn't seem to react to the trap.<#>GabText Похоже, существо никак не реагирует на ловушку.
 GabText The inquisitor is shot down!<#>GabText Инквизитор убит!
@@ -7732,7 +7887,10 @@ You pick up an \c[2]Arm\c[0]...<#>Вы подобрали \c[2]руку\c[0]...
 'Nothing will be the same after... The Awakening' - That's what\#the poster promises at least.<#>«Ничто не будет прежним, после... „Пробуждения“» - по крайней\#мере, это вам обещает вам постер.
 It must be a poster for a fairly new movie, or strictly local Prehevilian\#movie, because you haven't heard of it before.<#>Должно быть, это постер к совершенно новому фильму, либо же\#какому-нибудь местному прехевилскому, потому что вы никогда\#о нём не слышали.
 \i[337] Temple District, Church of Alll-mer\#\i[337] Shopping District, Residential Area\#\i[324] Business District<#>\i[337] Храмовая Площадь, Церковь Алл-мера\#\i[337] Торговый Район, Жилой Район\#\i[324] Деловой Район
-<!-- Map058.json Prehevil - Shopping street --><#>Прехевил - Торговая улица
+<!-- Map --><#>058
+<!-- Map Name: Shopping_street --><#>
+<!-- In-game Displayed Name: Prehevil - Shopping street --><#>Прехевил - Торговая улица
+<!-- Order --><#>78
 GabText The buildings rise higher in this part of the city.<#>GabText В этой части города здания намного выше.
 GabText The sew job is shot down!<#>GabText Сшитый убит!
 GabText You shoot one of the heads of a sew job!<#>GabText Вы отстрелили одну из голов сшитого!
@@ -7893,7 +8051,10 @@ You read her mind...\#\c[1]"What's with the silence? That's worse than being mad
 GabText You hear gunshots coming from north.<#>GabText Вы слышите выстрелы, раздающиеся с севера.
 \i[325] Temple District, Church of Alll-mer\#\i[326] Business District\#\i[322] St. Domek's Orphanage\#\i[324] Residential Area<#>\i[325] Храмовая Площадь, Церковь Алл-мера\#\i[326] Деловой Район\#\i[322] Приют Святого Домека\#\i[324] Жилой Район
 The wooden chest has been tightly chained up.<#>Деревянный сундук был туго закован.
-<!-- Map059.json Prehevil - Temple site --><#>Прехевил - Храмовая площадь
+<!-- Map --><#>059
+<!-- Map Name: Temple_site --><#>
+<!-- In-game Displayed Name: Prehevil - Temple site --><#>Прехевил - Храмовая площадь
+<!-- Order --><#>42
 GabText The air lingers slowly in this part of the city...<#>GabText В этой части города туман плавает медленней...
 \>\i[67]\}AAN\{\<\#"This guy is in a top human form clearly. Under his garbs is a\#muscular body full of scars. Some of the scars look like old\#burns and some look like old rash of some kind."<#>\>\}\i[372]ААН\{\<\#«Этот парень явно находится в расцвете сил. Под его одеждой\#скрывается мускулистое тело, всё в шрамах. Некоторые из них\#похожи на ожоги и давно прошедшую сыпь.»
 \>\i[67]\}AAN\{\<\#"Scary. His muscles are still very tense even after his death."<#>\>\}\i[372]ААН\{\<\#«Ужас. Его мышцы всё ещё напряжены, даже после смерти.»
@@ -7941,7 +8102,10 @@ The being has nothing of value.<#>У создания нет ничего цен
 You can't eat machinery!<#>Вы не можете съесть машину!
 There are no organs to harvest. Besides its head, there doesn't\#appear to be anything organic.<#>У создания нет органов. Похоже, в нём вообще\#нет ничего органического, кроме головы.
 You took \c[2]Head of the Mechanical dance\c[0] as a trophy!<#>Вы взяли \c[2]голову Механического танца\c[0] в качестве трофея!
-<!-- Map060.json Prehevil - Ruined streets --><#>Прехевил - Разрушенные улицы
+<!-- Map --><#>060
+<!-- Map Name: Ruined_city --><#>
+<!-- In-game Displayed Name: Prehevil - Ruined streets --><#>Прехевил - Разрушенные улицы
+<!-- Order --><#>92
 GabText The city of Prehevil - A city that has fallen from grace.<#>GabText Прехевил - город, павший от благодати.
 GabText The soldier is shot down!<#>GabText Солдат убит!
 GabText You shoot the arm of the soldier!<#>GabText Вы отстрелили руку солдату!
@@ -7982,7 +8146,10 @@ The hulking thing is dead now.<#>Огромное существо теперь 
 \>\i[144]\}OCKETCAT\{\<\#"The tower you were heading towards... It's to the east of here.\#It's quite a hike from here, but if you continue eastward, you'll\#get to the church eventually."<#>\>\}\i[381]ОКЕТКЭТ\{\<\#«Башня, к которой ты направляешься... Она на востоке отсюда.\#Отсюда довольно далеко идти, но если продолжишь двигаться\#на восток, рано или поздно окажешься там.»
 \>\i[144]\}OCKETCAT\{\<\#"Just beyond the church's hidden passage you'll find the tower."<#>\>\}\i[381]ОКЕТКЭТ\{\<\#«Ты найдёшь её прямо за секретным проходом церкви.»
 GabText Something big is advancing towards you...<#>GabText Что-то огромное надвигается на вас...
-<!-- Map061.json Lake --><#>Озеро
+<!-- Map --><#>061
+<!-- Map Name: Lake_test --><#>
+<!-- In-game Displayed Name: Lake --><#>Озеро
+<!-- Order --><#>162
 GabText Your anal hole is bleeding...<#>
 GabText Blood just splurted out of your anus...<#>
 A thick layer of fog prevents you from seeing anything in the horizon.\#You try your best to navigate forward regardless...<#>Густой туман не даёт вам увидеть ничего за горизонтом.\#Вы всё равно пытаетесь двигаться вперёд, несмотря на это...
@@ -7993,7 +8160,9 @@ You see the familiar, if a bit ominous little island closing in on you...<#>Вы
 \>\i[73]\}OURNALIST\{\<\#"But I'd call us more like valkyries. Immortalizing the\#people who fought and are now gone."<#>\>\}\i[373]УРНАЛИСТКА\{\<\#«Я бы предпочла называть нас валькириями. Увековечивающими\#тех, кто сражался и пал в бою.»
 \>\i[73]\}OURNALIST\{\<\#"..."<#>\>\}\i[373]УРНАЛИСТКА\{\<\#«...»
 \>\i[73]\}OURNALIST\{\<\#"That's what I keep telling myself at least..."<#>\>\}\i[373]УРНАЛИСТКА\{\<\#«По крайней мере, я продолжаю убеждать себя в этом...»
-<!-- Map062.json --><#>
+<!-- Map --><#>062
+<!-- Map Name: tv_set --><#>
+<!-- Order --><#>163
 "Commentating the events here at the Prehevil, Bohemia is Karin\#Sauer. Good afternoon."<#>«Комментирую события здесь, в Прехевиле, Богемия, Карин Зауэр.\#Добрый день.»
 "Commentating the events here at the Prehevil, Bohemia is Karin\#Sauer. Good evening."<#>«Комментирую события здесь, в Прехевиле, Богемия, Карин Зауэр.\#Добрый вечер.»
 "Commentating the events here at the Prehevil, Bohemia is Karin\#Sauer. I am glad to be the one to bring you the news this late in\#the night."<#>«Комментирую события здесь, в Прехевиле, Богемия, Карин Зауэр.\#Я рада быть той, кто приносит вам новости даже поздней ночью.»
@@ -8005,8 +8174,13 @@ You see the familiar, if a bit ominous little island closing in on you...<#>Вы
 "Regardless of his outward persona, inside this man was a monster."<#>«Независимо от его внешнего вида, внутри этот человек был\#монстром.»
 "The residents of the apartments \c[2]6\c[0], \c[2]9\c[0], \c[2]11\c[0] and \c[2]13\c[0] were murdered\#in the most gruesome manner..."<#>«Убиты жители квартир \c[2]6\c[0], \c[2]9\c[0], \c[2]11\c[0] и \c[2]13\c[0]\#самым ужасным образом...»
 "The residents of the apartments \c[2]2\c[0], \c[2]6\c[0], \c[2]11\c[0] and \c[2]13\c[0] were murdered\#in the most gruesome manner..."<#>«Убиты жители квартир \c[2]2\c[0], \c[2]6\c[0], \c[2]11\c[0] и \c[2]13\c[0]\#самым ужасным образом...»
-<!-- Map063.json --><#>
-<!-- Map064.json Deep woods --><#>Глубокий лес
+<!-- Map --><#>063
+<!-- Map Name: club_test --><#>
+<!-- Order --><#>166
+<!-- Map --><#>064
+<!-- Map Name: Deep_woods --><#>
+<!-- In-game Displayed Name: Deep woods --><#>Глубокий лес
+<!-- Order --><#>121
 GabText The owl cultist is shot down!<#>GabText Культист совы убит!
 GabText You shoot the arms of the owl cultist!<#>GabText Вы отстрелили руки культисту совы!
 GabText The owl cultist is hurt!<#>GabText Культист совы ранен!
@@ -8102,7 +8276,10 @@ There is a wooden chest here buried under the leaves...<#>Под листвой 
 \>\i[78]\}LIVIA\{\<\#"Because I have a condition you see."<#>\>\}\i[380]ЛИВИЯ\{\<\#«Потому что, моё состояние, видишь ли.»
 \>\i[78]\}LIVIA\{\<\#"I'm a botanist."<#>\>\}\i[380]ЛИВИЯ\{\<\#«Я ботаник.»
 \>\i[78]\}LIVIA\{\<\#"I have a condition."<#>\>\}\i[380]ЛИВИЯ\{\<\#«Моё состояние.»
-<!-- Map065.json Deeper woods --><#>Глубинный лес
+<!-- Map --><#>065
+<!-- Map Name: Deeper_woods --><#>
+<!-- In-game Displayed Name: Deeper woods --><#>Глубинный лес
+<!-- Order --><#>120
 The frog makes faint sounds...<#>Лягушка издаёт тихие звуки...
 \>\i[81]\}HUD THE FROG\{\<\#\}"I'm Shud."\{<#>\>\}\i[377]ЯГУШКА ШУД\{\<\#\}«Я Шуд.»\{
 \>\i[81]\}HUD THE FROG\{\<\#\}"You're supposed to be our new master?"\{<#>\>\}\i[377]ЯГУШКА ШУД\{\<\#\}«Так ты, вроде, наш новый владыка?»\{
@@ -8217,7 +8394,10 @@ Marcoh is looking around. Toads especially seem to catch his\#attention.<#>Ма�
 \>\i[69]\}ROG\{\<\#\}"We bow to no one!"\{<#>\>\}\i[377]ЯГУШКА\{\<\#\}«Мы никому не поклоняемся!»\{
 \>\i[69]\}ROG\{\<\#\}"You're on our turf now 'master'."\{<#>\>\}\i[377]ЯГУШКА\{\<\#\}«Теперь ты на нашей земле, „владыка“.»\{
 \>\i[69]\}ROG\{\<\#\}"Better watch your back."\{<#>\>\}\i[377]ЯГУШКА\{\<\#\}«Лучше оглядывайся.»\{
-<!-- Map066.json Clothing Store --><#>Магазин одежды
+<!-- Map --><#>066
+<!-- Map Name: Clothing_store --><#>
+<!-- In-game Displayed Name: Clothing Store --><#>Магазин одежды
+<!-- Order --><#>79
 \>\i[74]\}ARIN\{\<\#"Quiet... But I wouldn't say peaceful... There's something wrong\#with this place."<#>\>\}\i[376]АРИН\{\<\#«Тихо... Но я бы не сказала, что мирно... С этим местом что-то\#не так.»
 \>\i[76]\}ARINA\{\<\#"I thought it would be fun going through these abandoned stores..."<#>\>\}\i[378]АРИНА\{\<\#«Я подумала, будет весело походить по заброшенным магазинам...»
 \>\i[76]\}ARINA\{\<\#"But something's off..."<#>\>\}\i[378]АРИНА\{\<\#«Но что-то не так...»
@@ -8231,7 +8411,10 @@ GabText Something sinister echoes from the depths of the store...<#>GabText Уж
 The mirror door shows only a muddy and distorted reflection of\#yourself...<#>Зеркало показывает лишь ваше грязное и искажённое\#отражение...
 A simple dress hangs on the wardrobe door.<#>На двери гардероба висит простое платье.
 The clothes and dresses on the rack are in a surprisingly good\#condition.<#>Одежда и платья на стеллаже находятся в удивительно хорошем\#состоянии.
-<!-- Map067.json PRHVL Bop --><#>Клуб «ПРХВЛ»
+<!-- Map --><#>067
+<!-- Map Name: prhvl_bop --><#>
+<!-- In-game Displayed Name: PRHVL Bop --><#>Клуб «ПРХВЛ»
+<!-- Order --><#>81
 \>\i[64]\}BELLA\{\<\#"What's this??"<#>\>\}\i[368]БЕЛЛА\{\<\#«Что это??»
 \>\i[64]\}BELLA\{\<\#"A hidden basement?"<#>\>\}\i[368]БЕЛЛА\{\<\#«Скрытый подвал?»
 \>\i[74]\}ARIN\{\<\#"Is it just a speakeasy... or what?"<#>\>\}\i[376]АРИН\{\<\#«Просто погреб... наверное?»
@@ -8546,7 +8729,10 @@ Karin nods.<#>Карин кивает.
 \>\i[74]\}ARIN\{\<\#"...?"<#>\>\}\i[376]АРИН\{\<\#«...?»
 \>\i[74]\}ARIN\{\<\#"I'd appreciate if you said anything."<#>\>\}\i[376]АРИН\{\<\#«Я была бы благодарна, если бы ты ответил\x[|а] мне.»
 \>\i[74]\}ARIN\{\<\#"Whatever. I know the truth, that's all that matters."<#>\>\}\i[376]АРИН\{\<\#«Неважно. Я знаю правду, вот что имеет значение.»
-<!-- Map068.json Altar of the One God --><#>Алтарь единого бога
+<!-- Map --><#>068
+<!-- Map Name: Church_statue --><#>
+<!-- In-game Displayed Name: Altar of the One God --><#>Алтарь единого бога
+<!-- Order --><#>61
 She's dead.<#>Она мертва.
 A partly charred body. There seems to be something hanging on his\#neck...<#>Частично обугленное тело. Кажется, у него есть что-то на шее...
 You find a \c[2]Soul devour necklace\c[0]!<#>Вы нашли \c[2]ожерелье поглощения душ\c[0]!
@@ -8580,7 +8766,10 @@ You see multiple eyes glowing in the darkness above...<#>Вы видите мн�
 \>\i[80]\}ANCID THE SERGAL\{\<\#"More challengers for me to behead!"<#>\>\}\i[383]ЕРГАЛ ПРОКАЖЕННЫЙ\{\<\#«Больше соперников, чтобы обезглавить!»
 \>\i[80]\}ANCID THE SERGAL\{\<\#"I'm off! I don't even bother tainting my blade with your foul blood!"<#>\>\}\i[383]ЕРГАЛ ПРОКАЖЕННЫЙ\{\<\#«Я отчаливаю! Даже не хочется портить своё копьё твоей\#отвратительной кровью!»
 You picked up the \c[2]Sergal spear\c[0] from the severed hand of\#the sergal.<#>Вы подняли \c[2]копьё сергала\c[0] из отрубленной руки\#сергала.
-<!-- Map069.json Apartments 1F --><#>Апартаменты 1Э
+<!-- Map --><#>069
+<!-- Map Name: Apartments_1F --><#>
+<!-- In-game Displayed Name: Apartments 1F --><#>Апартаменты 1Э
+<!-- Order --><#>67
 The doors are locked from the other side...<#>Двери закрыты с другой стороны...
 The books are growing together because of the white crust that is\#covering this entire building.<#>Книги срослись вместе белой коркой, покрывающей всё это здание.
 All the spare keys to the apartments appear to be here...<#>Все запасные ключи от квартир, должно быть, находятся здесь...
@@ -8650,7 +8839,10 @@ Marcoh is looking grim for some reason.<#>Марко выглядит угрюм
 \>\i[78]\}LIVIA\{\<\#"You look so grim?"<#>\>\}\i[380]ЛИВИЯ\{\<\#«Твой угрюмый вид.»
 \>\i[76]\}ARCOH\{\<\#"I don't really like closed places..."<#>\>\}\i[378]АРКО\{\<\#«Мне не сильно нравятся замкнутые пространства...»
 \>\i[78]\}LIVIA\{\<\#"You've got a claustrophobia?"<#>\>\}\i[380]ЛИВИЯ\{\<\#«У тебя клаустрофобия?»
-<!-- Map070.json Apartments B1F --><#>Апартаменты П1Э
+<!-- Map --><#>070
+<!-- Map Name: Apartments_basement --><#>
+<!-- In-game Displayed Name: Apartments B1F --><#>Апартаменты П1Э
+<!-- Order --><#>68
 Looks like the boiler hasn't seen use in a good while.<#>Похоже, что нагреватель уже долгое время не использовался.
 The washing machine started shaking the moment you got out. You can't\#climb back in as it is...<#>Стиральная машина начинает трястись, как только вы вылезаете.\#Вы не можете забраться в неё, пока она в таком состоянии...
 There is a washing machine standing here.<#>Здесь стоит стиральная машина.
@@ -8671,7 +8863,10 @@ Set a password<#>Ввести пароль
 Force the washing machine open<#>Открыть стиральную машину силой
 The glass window is dirty with murky liquids foaming inside.<#>Стеклянное окошко грязное, а внутри пенится мутная жидкость.
 You don't see any laundry inside though. Occasional thump sounds\#suggest that there are some objects inside.<#>Но вы не видите никакого белья внутри. Редкие глухие стуки\#предполагают, что внутри всё же что-то есть.
-<!-- Map071.json Apartments 2F --><#>Апартаменты 2Э
+<!-- Map --><#>071
+<!-- Map Name: Apartments_2F --><#>
+<!-- In-game Displayed Name: Apartments 2F --><#>Апартаменты 2Э
+<!-- Order --><#>69
 \>\i[74]\}ARIN\{\<\#"Ah. There must be additional safety locks inside. I can't seem\#to get this thing open..."<#>\>\}\i[376]АРИН\{\<\#«Ах. Внутри, должно быть, есть дополнительные предохранители.\#Я не смогу её открыть...»
 The door doesn't open. It must have additional safety locks inside.<#>Дверь не открывается. Должно быть, внутри есть дополнительные\#предохранители.
 You could use the \c[2]Master key\c[0] here?<#>Вы могли бы использовать здесь \c[2]мастер-ключ\c[0].
@@ -8809,8 +9004,12 @@ You could sleep here forever. Just forget the outside world and stay\#in bed.<#>
 You became a permanent part of the sleeping house.<#>Вы стали вечной частью спящего дома.
 There is a moldy bed here... You could sleep and rest if you wanted\#to, although every alarm bell is ringing in your head when it comes\#to this apartment.<#>Здесь стоит заплесневелая кровать... Вы могли бы поспать\#и отдохнуть, но все ваши чувства бьют тревогу, когда\#речь заходит об этих апартаментах.
 There is a portrait of a young man on the table. The person has his\#face scrathed over.<#>На столе находится портрет молодого человека. Его лицо\#на фотографии сильно исцарапано.
-<!-- Map072.json --><#>
-<!-- Map073.json --><#>
+<!-- Map --><#>072
+<!-- Map Name: Splash_Screen --><#>
+<!-- Order --><#>154
+<!-- Map --><#>073
+<!-- Map Name: Fortress_intro --><#>
+<!-- Order --><#>156
 You were born with the soul of the endless that makes you\#yearn for freedom and forces you to push your creativity to\#its limits.<#>
 You put your creativity to test in the most harshest of\#enviroments. You were born and soon abandoned in the capital\#of the Eastern Sanctuaries - Jettaiah.<#>
 You had to choose at a very young age to either become a\#pickpocket, a burglar or try to struggle and lead a honest\#life.<#>
@@ -8952,7 +9151,9 @@ Stock up on magical items<#>
 Stock up on intoxicants<#>
 You get a \c[2]Pipe\c[0] and \c[2]Opium powder\c[0].<#>
 This is it. Your stairway to enlightenment. You are set\#to discover the ancient secrets this stronghold keeps and\#to reach the ultimate understanding of the greater scheme\#of things.<#>
-<!-- Map074.json --><#>
+<!-- Map --><#>074
+<!-- Map Name: Fortress --><#>
+<!-- Order --><#>155
 Moonless is dead now...<#>
 GabText The dungeons of Fear & Hunger stand in front of you...<#>
 The girl is dead now...<#>
@@ -9006,7 +9207,10 @@ GabText The hounds are coming!<#>
 An old wagon. Seems to be lightly equipped.<#>
 The barrel is left here to gather rain water. The water has\#been still for too long and is not drinkable.<#>
 A pile of planks. They've been left at mercy of the weather\#for quite some time.<#>
-<!-- Map075.json Apartments 3F --><#>Апартаменты 3Э
+<!-- Map --><#>075
+<!-- Map Name: Apartments_3F --><#>
+<!-- In-game Displayed Name: Apartments 3F --><#>Апартаменты 3Э
+<!-- Order --><#>70
 The lamp doesn't work. Or if it does, the light doesn't come through\#the white crust, so it's all the same.<#>Лампа не работает. Но если и работает, свет всё равно не\#проходит через белую корку, так что нет никакой разницы.
 The rotten floorboards gave in to the weight of the statue.\#Now there is a gaping hole to the darkness here...<#>Прогнивший пол не выдержал веса статуи. Здесь образовалась\#зияющая дыра в тьму...
 It's dark down there. But by the looks of the rough shapes you can\#see, it should just be a similar apartment to this.<#>Снизу темно. Но судя по тому, какие грубые виды вам удаётся\#разглядеть, снизу находится полностью идентичная квартира.
@@ -9043,7 +9247,10 @@ Mold has filled the book pages. You can't make any sense of it.<#>Книжные
 \>\i[81]\}PIRIT\{\<\#"DON'T ... LET ... THAT MAN ... HURT HER."<#>\>\}\i[372]УХ\{\<\#«НЕ ДАЙ... ЕМУ... ЭТОМУ ЧЕЛОВЕКУ... НАВРЕДИТЬ ЕЙ.»
 You got a \c[2]Molded doll\c[0]!<#>Вы получили \c[2]заплесневелую куклу\c[0]!
 The staircase is blocked...<#>Лестница заблокирована...
-<!-- Map076.json Apartments 3F --><#>Апартаменты 3Э
+<!-- Map --><#>076
+<!-- Map Name: Apartments_3F_Alternate --><#>
+<!-- In-game Displayed Name: Apartments 3F --><#>Апартаменты 3Э
+<!-- Order --><#>71
 Karin unlocked the gate with her lockpicking skills.<#>Карин открыла ворота с помощью своих навыков взлома.
 A dirty bucket with dried murky mucus in the bottom.<#>Грязное ведро с засохшей мутной слизью на дне.
 It smells greasy and disgusting.<#>Пахнет приторно и противно.
@@ -9092,7 +9299,10 @@ Put your hand in it<#>Поместить туда руку
 It's too dark to see...<#>Слишком темно, чтобы что-то увидеть...
 You reach inside...<#>Вы достигаете внутренностей...
 You feel nothing.<#>Вы ничего не чувствуете.
-<!-- Map077.json School - Level 1 --><#>Школа - Уровень 1
+<!-- Map --><#>077
+<!-- Map Name: School --><#>
+<!-- In-game Displayed Name: School - Level 1 --><#>Школа - Уровень 1
+<!-- Order --><#>94
 This globe is a little outdated. The Second Great War demolished\#many country borders as well as gave a new identy to some nations.<#>Глобус немного устарел. Вторая мировая война уже уничтожила\#много стран, переместила мировые границы и даже создала\#некоторые новые государства.
 The shelves are stacked with utility items and miscellaneous school\#supplies.<#>Полки забиты бытовыми предметами и различным школьным\#оборудованием.
 GabText Dust specks float quietly in the air. The air is foreboding.<#>GabText Пылинки медленно плавают по воздуху. Витает дурное чувство.
@@ -9321,7 +9531,10 @@ Just a regular toilet.<#>Просто обычный туалет.
 The bookshelf has nothing interesting to you.<#>На книжной полке нет ничего интересного.
 The shelf has nothing interesting to you.<#>На полке ничего интересного.
 A math book on display. A couple of exams are highlighted.<#>Книга по математике лежит распахнутой. В ней выделено\#несколько заданий.
-<!-- Map078.json Sewers - Southern tunnels --><#>Канализация - Южные туннели
+<!-- Map --><#>078
+<!-- Map Name: Sewers1 --><#>
+<!-- In-game Displayed Name: Sewers - Southern tunnels --><#>Канализация - Южные туннели
+<!-- Order --><#>112
 An old rusty barrel. Reeks as bad as everything else in this cesspool.<#>На полке нет ничего интересного для вас.
 An old rusty barrel. Reeks as bad as everything else in this\#cesspool.<#>Старая ржавая бочка. Воняет так же ужасно, как и всё\#остальное в этой выгребной яме.
 You hear faint sounds coming from a hole in the dirt...<#>Вы слышите тихие звуки, исходящие из дыры в земле...
@@ -9388,7 +9601,10 @@ Levi is observing the sewer waters very keenly.<#>Леви очень чутко
 \>\i[76]\}ARCOH\{\<\#"Oh? I think I just saw a mouse... or a rat?"<#>\>\}\i[378]АРКО\{\<\#«А? Я думаю, я видел мышь... или крысу?»
 \>\i[76]\}ARCOH\{\<\#"That's cute--"\.\.\.\. \^<#>\>\}\i[378]АРКО\{\<\#«Это мило—»\.\.\.\.\^
 \>\i[76]\}ARCOH\{\<\#"Erm - That's, that's... quite something."<#>\>\}\i[378]АРКО\{\<\#«Эмм... Это, это... это нечто.»
-<!-- Map079.json Prehevil - Back alleys --><#>Прехевил - Переулки
+<!-- Map --><#>079
+<!-- Map Name: Prehevil_Back_alleys2 --><#>
+<!-- In-game Displayed Name: Prehevil - Back alleys --><#>Прехевил - Переулки
+<!-- Order --><#>75
 He is long gone... There are multiple pecking wound across his\#body.<#>Он давно умер... На его теле присутствуют многочисленные\#раны от клевков.
 He is long gone... Someone or something has decapitated him.<#>Он давно умер... Кто-то или что-то обезглавило его.
 He seems clinging to life just barely...<#>Кажется, что он едва цепляется за жизнь...
@@ -9483,7 +9699,10 @@ He's dead. He has a gaping slash wound across his chest that looks\#relatively f
 The door is stuck.<#>Дверь заклинила.
 An interesting looking statue. It reads:\#"For fertility and prosperity."<#>Статуя интересного вида. На ней написано:\#«За плодородие и процветание.»
 Marcoh's body...<#>Тело Марко...
-<!-- Map080.json Mausoleum Alley --><#>Аллея Мавзолеев
+<!-- Map --><#>080
+<!-- Map Name: Mausoleum_alley --><#>
+<!-- In-game Displayed Name: Mausoleum Alley --><#>Аллея Мавзолеев
+<!-- Order --><#>43
 GabText The mastermind is shot down!<#>GabText Высший разум убит!
 GabText You shoot the arm of the mastermind!<#>GabText Вы отстрелили руку высшего разума!
 GabText The mastermind is hurt!<#>GabText Высший разум ранен!
@@ -9516,7 +9735,10 @@ You took \c[2]Mastermind's head\c[0] as a trophy!<#>Вы взяли \c[2]гол�
 \>\i[67]\}AAN\{\<\#"Looks fancy... and ancient."<#>\>\}\i[372]ААН\{\<\#«Выглядят изысканно... и древне.»
 \>\i[75]\}EVI\{\<\#"...So this was behind the locked doors all along?"<#>\>\}\i[377]ЕВИ\{\<\#«...Так вот что всё это время было за закрытыми дверьми?»
 \>\i[75]\}EVI\{\<\#"The common people were not permitted to enter this side of the\#town... Only the high priests were allowed to set foot on this\#holy ground..."<#>\>\}\i[377]ЕВИ\{\<\#«Обычным людям воспрещалось заходить в эту часть\#города... Лишь высшим жрецам было дозволено ступать\#на эту святую землю...»
-<!-- Map081.json Church of Alll-mer - Level 2 --><#>Церковь Алл-мера - Уровень 2
+<!-- Map --><#>081
+<!-- Map Name: Church_Passageway --><#>
+<!-- In-game Displayed Name: Church of Alll-mer - Level 2 --><#>Церковь Алл-мера - Уровень 2
+<!-- Order --><#>62
 A grimy bucket left here for whatever reason.<#>Грязное ведро, по какой-то причине оставленное здесь.
 An empty wooden bucket. Nothing more to it. Nothing less to it.<#>Пустое деревянное ведро. Больше ничего. Ничуть не меньше.
 No reaction, the body and the cocoon feel surprisingly sturdy.<#>Никакой реакции, но тело и кокон ощущаются удивительно твёрдыми.
@@ -9544,7 +9766,9 @@ Something is slowly approaching from the upstairs...<#>Кто-то медлен�
 \>\i[75]\}EVI\{\<\#"... This pathway... I feel sick."<#>\>\}\i[377]ЕВИ\{\<\#«...Этот проход... Меня тошнит.»
 \>\i[76]\}ARCOH\{\<\#"Are we still on the holy ground, on the church's land?"<#>\>\}\i[378]АРКО\{\<\#«Мы же всё ещё на святой земле, на церковной?»
 \>\i[74]\}ARIN\{\<\#"I definitely wouldn't call this place holy."<#>\>\}\i[376]АРИН\{\<\#«Я бы определённо не назвала это место святым.»
-<!-- Map082.json --><#>
+<!-- Map --><#>082
+<!-- Map Name: Otherside --><#>
+<!-- Order --><#>138
 GabText The blinking lights accompany you on this lone alley.<#>GabText Мигающие огни сопровождают вас в этом уединённом переулке.
 \>\i[74]\}ARIN\{\<\#"Now what? This is like a fever dream!"<#>\>\}\i[376]АРИН\{\<\#«Что теперь? Это какой-то лихорадочный сон!»
 \>\i[74]\}ARIN\{\<\#"I hope you know what you're doing... Because I frankly I have no\#idea what's going on anymore."<#>\>\}\i[376]АРИН\{\<\#«Я надеюсь, ты знаешь, что делаешь... Потому что я, честно,\#не имею понятия, что тут происходит.»
@@ -9562,7 +9786,10 @@ Levi is looking at his surroundings in awe.<#>Леви со страхом ос�
 \>\i[78]\}'SAA\{\<\#"We are given a front row seat to his inner workings."<#>\>\}\i[380]'САА\{\<\#«И нам выпали первые ряды на его кулисы.»
 \>\i[76]\}ARCOH\{\<\#"I don't understand what is happening... But this trickery... It\#doesn't feel malicious."<#>\>\}\i[378]АРКО\{\<\#«Я не понимаю, что происходит... Но эти фокусы...\#Ощущаются не очень то и вредными.»
 You could use \c[2]\n[37]\c[0] here.<#>Вы могли бы использовать \c[2]\N[37]\c[0] здесь.
-<!-- Map083.json Department store --><#>Универмаг
+<!-- Map --><#>083
+<!-- Map Name: Department_store --><#>
+<!-- In-game Displayed Name: Department store --><#>Универмаг
+<!-- Order --><#>83
 GabText Screams of torment echo from the heights above.<#>GabText Крики мучений эхом раздаются сверху.
 \>\i[78]\}LIVIA\{\<\#"Can we just leave? I need fresh air..."<#>\>\}\i[380]ЛИВИЯ\{\<\#«Мы можем просто уйти? Мне нужен свежий воздух...»
 \>\i[78]\}LIVIA\{\<\#"The city was a mistake... Everything was so much more peaceful in\#the woods..."<#>\>\}\i[380]ЛИВИЯ\{\<\#«Идти в город было ошибкой... В лесах было намного\#спокойнее...»
@@ -9583,7 +9810,10 @@ The yellow mage looks weirdly nonchallant and not disturbed by the\#screams echo
 \>\i[64]\}BELLA\{\<\#"Sounds horrible..."<#>\>\}\i[368]БЕЛЛА\{\<\#«Звучит ужасно...»
 \>\i[67]\}AAN\{\<\#"Yep... I hear it too... Hard not to."<#>\>\}\i[372]ААН\{\<\#«Да... Я тоже это слышу. Трудно не услышать.»
 \>\i[76]\}ARCOH\{\<\#"Be prepared. This can't be anything good."<#>\>\}\i[378]АРКО\{\<\#«Будьте готовы. Это не сулит ничем хорошим.»
-<!-- Map084.json Museum --><#>Музей
+<!-- Map --><#>084
+<!-- Map Name: Museum --><#>
+<!-- In-game Displayed Name: Museum --><#>Музей
+<!-- Order --><#>44
 \>\i[144]\}OCKETCAT\{\<\#"Art falls into two categories--\. No, not the art. My bad. Artists\#fall into two categories."<#>\>\}\i[381]ОКЕТКЭТ\{\<\#«Искусство делится на две категории—\. Нет, не искусство.\#Моя оплошность. Художники делятся на две категории.»
 \>\i[144]\}OCKETCAT\{\<\#"There are the ones who see something taking place in the world.\#Maybe it's wrongdoings of their fellow pedestrians, maybe it's\#abuse of power by those sitting on top of the pyramid scheme..."<#>\>\}\i[381]ОКЕТКЭТ\{\<\#«Есть те, кто видит, как что-то происходит в мире. Может, это\#деяния их соратников, а может, это злоупотребление\#силой теми, кто сидит на верхушке пирамиды...»
 \>\i[144]\}OCKETCAT\{\<\#"Whatever it is, it feeds their inspiration and creativity and\#they desperately want put their own spin on it."<#>\>\}\i[381]ОКЕТКЭТ\{\<\#«Что бы это ни было, оно питает их вдохновение и\#креативность, и они отчаянно хотят придать этому\#свой собственный оттенок.»
@@ -9854,7 +10084,10 @@ You get 3 \c[2]Catnips\c[0].<#>Вы получили 3 \c[2]кошачьей м�
 The stone slabs have dragonic faces carved on them.<#>На каменных плитах высечены лица драконов.
 An old armor. It's in a rough condition. If you were to wear it,\#it would probably fall apart.<#>Старая броня. Она в не лучшем состоянии. Если вы наденете\#её, она, наверное, развалится.
 "The stone slabs excavated from the archeological site in Northern\#Rondon. The slabs depict 'The Nine Chromatic Blights' mentioned in\#'The Book of Homer'. The carvings date back approximately 20,000 B.C."<#>«Каменные плиты, извлеченные в результате археологических\#раскопок в Северном Рондоне. На плитах изображены „Девять\#Хроматических Огней“, упомянутых в „Книге Гомера“. Резьба\#датируется примерно 20 000 годом до н. э.»
-<!-- Map085.json Department store --><#>Универмаг
+<!-- Map --><#>085
+<!-- Map Name: Department_store_2 --><#>
+<!-- In-game Displayed Name: Department store --><#>Универмаг
+<!-- Order --><#>84
 \>\i[74]\}ARIN\{\<\#"What... is... wrong with these people...?"<#>\>\}\i[376]АРИН\{\<\#«Что... с этими... людьми не так...?»
 \>\i[74]\}ARIN\{\<\#"Why can't anything be normal in this hellhole?"<#>\>\}\i[376]АРИН\{\<\#«Почему в этой адской дыре ничего не может быть нормальным?»
 \>\i[76]\}ARINA\{\<\#"Their screams... It really gets under your skin, right?"<#>\>\}\i[378]АРИНА\{\<\#«Их крики... Пробирает до глубины души, верно?»
@@ -9881,11 +10114,17 @@ The dried man is holding something tightly in his fist...<#>Иссушенный
 You find a \c[2]Leechmonger ring\c[0]!<#>Вы нашли \c[2]кольцо Пиявочника\c[0]!
 The dried man looks dead. He's not breathing and looks almost\#mummified for whatever reason.<#>Иссушенный человек мёртв. Он не дышит, и по какой-то\#причине выглядит почти мумифицированным.
 GabText Vertigo distorts the view of the lower rooms. You feel dizzy.<#>GabText Завороты искажают вид нижних помещений. У вас кружится голова.
-<!-- Map086.json Department store --><#>Универмаг
+<!-- Map --><#>086
+<!-- Map Name: Department_store_3 --><#>
+<!-- In-game Displayed Name: Department store --><#>Универмаг
+<!-- Order --><#>85
 Levi is looking behind nervously.<#>Леви нервно оглядывается.
 You take the \c[2]Chainmail dress\c[0]!<#>Вы взяли \c[2]кольчужное одеяние\c[0]!
 GabText The stores offer at least some sense of normalcy that once was.<#>GabText Магазины предлагают некоторую нормальность, некогда бывшую здесь.
-<!-- Map087.json School - Level 1 --><#>Школа - Уровень 1
+<!-- Map --><#>087
+<!-- Map Name: School2 --><#>
+<!-- In-game Displayed Name: School - Level 1 --><#>Школа - Уровень 1
+<!-- Order --><#>95
 There's blood everywhere...<#>Здесь везде кровь...
 GabText A dull odor lingers the hallways...<#>GabText Неприятный запах витает в коридорах...
 GabText Despite being a place for children, you sense no joy.<#>GabText Несмотря на то, что это место для детей, вы не чувствуете радости.
@@ -9970,7 +10209,10 @@ A stained table...<#>Запачканный стол...
 It's an empty milk bottle.<#>Это пустая бутылка из-под молока.
 This pipe feel cold.<#>Эта труба холодная наощупь.
 This pipe feel hot.<#>Эта труба горячая наощупь.
-<!-- Map088.json Schoolyard --><#>Школьный двор
+<!-- Map --><#>088
+<!-- Map Name: Schoolyard --><#>
+<!-- In-game Displayed Name: Schoolyard --><#>Школьный двор
+<!-- Order --><#>97
 GabText The inner yard is overgrown with weeds of different kinds.<#>GabText Внутренний двор зарос самыми разными видами травы.
 The otherwordly force that was keeping the door shut... It's gone\#now...<#>Потусторонняя сила, удерживающая дверь запертой...\#Она исчезла...
 An otherwordly force seems to keep the door stuck...<#>Похоже, какая-то потусторонняя сила удерживает дверь\#запертой...
@@ -10007,7 +10249,10 @@ You read his mind...\#\c[1]"Something always comes to remind me of what I've don
 \>\i[76]\}ARINA\{\<\#"Can we just get this over with? I don't want to stay here any\#longer than necessary."<#>\>\}\i[378]АРИНА\{\<\#«Когда мы уже тут закончим? Я не хочу оставаться\#здесь дольше, чем необходимо.»
 \>\i[78]\}'SAA\{\<\#"What a curious place for this contraption."<#>\>\}\i[380]'САА\{\<\#«Какое необычное место для этого приспособления.»
 \>\i[78]\}'SAA\{\<\#"It's not typical for Europa to have gallows in a schoolyard, right?"<#>\>\}\i[380]'САА\{\<\#«Это нетипично для Европы, иметь виселицы на\#школьных дворах, верно?»
-<!-- Map089.json Dr. Kefer's Tricks & Magic --><#>Магия и трюки Доктора Кефера
+<!-- Map --><#>089
+<!-- Map Name: occult_store --><#>
+<!-- In-game Displayed Name: Dr. Kefer's Tricks & Magic --><#>Магия и трюки Доктора Кефера
+<!-- Order --><#>88
 \>\i[67]\}R. KEFER\{\<\#"What's your name pal?"<#>\>\}\i[372]Р. КЕФЕР\{\<\#«Как тебя зовут, дружище?»
 "\N[1]"<#>«\N[1].»
 \>\i[67]\}R. KEFER\{\<\#"Fuck you \N[1]!"<#>\>\}\i[372]Р. КЕФЕР\{\<\#«Иди нахуй, \N[1]!»
@@ -10087,7 +10332,10 @@ There is a lit candle here.<#>Здесь стоит зажжённая свеч�
 GabText A smell of old spices and incense fills the dusty air.<#>GabText Запах старинных специй и ладана наполняет пыльный воздух.
 GabText The atmosphere became heavy all of a sudden...<#>GabText Атмосфера внезапно стала тяжёлой...
 The downstairs sound quiet...<#>Снизу тихо...
-<!-- Map090.json Schoolyard --><#>Школьный двор
+<!-- Map --><#>090
+<!-- Map Name: Alternate_schoolyard --><#>
+<!-- In-game Displayed Name: Schoolyard --><#>Школьный двор
+<!-- Order --><#>98
 You take the \c[2]Hunger effigy\c[0]!<#>Вы взяли \c[2]статуэтку Голода\c[0]!
 The barrel contains gore and some white substance. It reeks terrible!<#>\>\}\i[372]ААН\{\<\#«Секунду назад мы были в школе, а теперь мы здесь.»
 \>\i[67]\}AAN\{\<\#"One second we were at the school and now we're here."<#>\>\}\i[378]АРИНА\{\<\#«Но этот символ... Обычно он действует по-другому...»
@@ -10121,7 +10369,10 @@ You could jump down from here.<#>Вы можете спрыгнуть отсюд
 Jump<#>Спрыгнуть
 What's this? There is something buried under the dirt...<#>Что это? Тут что-то зарыто в грязи...
 You find 5 \c[2].303 Ammo\c[0]!<#>Вы нашли 5 \c[2]патронов .303\c[0]!
-<!-- Map091.json Well --><#>Колодец
+<!-- Map --><#>091
+<!-- Map Name: Well --><#>
+<!-- In-game Displayed Name: Well --><#>Колодец
+<!-- Order --><#>18
 The well doesn't look that deep from down here... But still...\#Can you actually get back up?<#>Колодец не выглядит таким уж глубоким отсюда... Но всё равно...\#Получится ли выбраться?
 Yell for help<#>Кричать
 Investigate the walls<#>Изучить стены
@@ -10168,7 +10419,10 @@ You hear someone else approach the well.<#>Вы слышите, как кто-т
 \>\i[81]\}ALARYMAN\{\<\#"You startled me mister... I thought I heard someth--"\.\.\.\^<#>\>\}\i[376]ЛЕРК\{\<\#«Вы напугали меня, мистер... Я подумал, что услышал чт—»\.\.\.\^
 \>\i[74]\}ARIN\{\<\#"What's the idea now? Why the hell did we jump down here!?"<#>\>\}\i[376]АРИН\{\<\#«В чём замысел? Какого чёрта мы сюда спрыгнули?!»
 Marcoh has quiet determination in his voice. For some reason you\#believe what he's saying.<#>В голосе Марко присутствует тихая решимость, но по\#какой-то причине, вы уверены не так сильно, как он...
-<!-- Map092.json Foundations of decay --><#>Гнилые пещеры
+<!-- Map --><#>092
+<!-- Map Name: Cavern_entrance --><#>
+<!-- In-game Displayed Name: Foundations of decay --><#>Гнилые пещеры
+<!-- Order --><#>122
 GabText It's cold down here...<#>GabText Здесь внизу холодно...
 You cannot penetrate the thick skull of the beast to lay down your\#seed.<#>Вы не можете пробить толстый череп зверя, чтобы посадить семя.
 No reaction from the beast. Your kicks probably wouldn't have much\#effect even if the thing was still alive...<#>Никакой реакции от зверя. Ваши удары, вероятно, не нанесли\#бы никакого урона, даже если бы существо было живо...
@@ -10231,7 +10485,10 @@ You pick up a bottle of \c[2]Vodka\c[0] and 5 \c[2]Blue vials\c[0].<#>Вы за�
 \>\i[75]\}EVI\{\<\#"That's probably for the better. We would've just gotten lost."<#>\>\}\i[377]ЕВИ\{\<\#«Может, это к лучшему. Мы бы просто потерялись.»
 \>\i[78]\}'SAA\{\<\#"An otherwordly darkness fills the air. Can you feel it?"<#>\>\}\i[380]'САА\{\<\#«Неземная тьма заполняет воздух. Чувствуешь?»
 \>\i[78]\}'SAA\{\<\#"I wouldn't loiter around for too long if I were you."<#>\>\}\i[380]'САА\{\<\#«Я бы не ошивался тут долго, будь я на твоём месте.»
-<!-- Map093.json Apartments 2F --><#>Апартаменты 2Э
+<!-- Map --><#>093
+<!-- Map Name: Apartments_2F_Alternate --><#>
+<!-- In-game Displayed Name: Apartments 2F --><#>Апартаменты 2Э
+<!-- Order --><#>72
 You take the \c[2]Fellatio effigy\c[0]!<#>Вы взяли \c[2]статуэтку самоудовлетворения\c[0]!
 GabText A greasy stench fills the humid air.<#>GabText Сальная вонь наполняет влажный воздух.
 "Interesting statue..."<#>«Интересная статуя...»
@@ -10277,7 +10534,10 @@ You read his mind...\#\c[1]"My mind is sharp like a razor. My fists are ready."\
 You read his mind...\#\c[1]"Marcoh, my friend... Your death won't be in vain."\c[0]<#>Вы читаете его мысли...\#\c[1]«Марко, дружище... Твоя смерть не будет напрасной.»\c[0]
 A giant hulking beast is sitting here... It looks to be dead.<#>Здесь сидит гигантский неуклюжий монстр... Похоже, он мёртв.
 The hole is filled with dirty substance. You have no idea what it\#is.<#>Дыра заполнена грязной субстанцией. Вы понятия не имеете,\#что это такое.
-<!-- Map094.json Old hotel --><#>Старый отель
+<!-- Map --><#>094
+<!-- Map Name: Old_hotel --><#>
+<!-- In-game Displayed Name: Old hotel --><#>Старый отель
+<!-- Order --><#>53
 A dirty ashtray.<#>Грязная пепельница.
 The drawers only have everyday items for hotel residents. Nothing\#catches your attention.<#>В шкафчиках лежат повседневные вещи для проживающих\#в отеле. Ничего не привлекает вашего внимания.
 The staircase has collapsed...<#>Лестница обвалилась...
@@ -10304,7 +10564,10 @@ A pile of suitcases left here. They must belong to hotel residents.<#>Здесь
 \>\i[76]\}ARCOH\{\<\#"I guess this place is better than nothing, but I'd really prefer\#not to stay here for the night."<#>\>\}\i[378]АРКО\{\<\#«Я думаю, что это место лучше, чем ничего, но я точно не\#хотел бы остаться здесь на ночь.»
 GabText A stench of mold hits you the moment you step inside.<#>GabText Запах плесени поражает вас в тот момент, как только вы входишь.
 GabText This hotel must have had severe water damage over the years...<#>GabText Этот отель, должно быть, сильно пострадал от влаги за эти годы...
-<!-- Map095.json Old apartments 1F --><#>Старые апартаменты 1Э
+<!-- Map --><#>095
+<!-- Map Name: Apartments_small --><#>
+<!-- In-game Displayed Name: Old apartments 1F --><#>Старые апартаменты 1Э
+<!-- Order --><#>89
 Nothing interesting in the cupboards.<#>В комодах нет ничего интересного.
 A stained old wooden bucket.<#>Старое деревянное ведро с пятнами.
 The sink is rusted shut. How does anyone live here even in the\#normal times?<#>Раковина полностью заржавела. Здесь вообще кто-нибудь\#жил, даже в обычные времена?
@@ -10319,7 +10582,10 @@ Some useless junk. The person living here must be too lazy to\#carry their trash
 \>\i[78]\}LIVIA\{\<\#"Oh thank you... You really don't have to..."<#>\>\}\i[380]ЛИВИЯ\{\<\#«О, спасибо тебе... Но не стоит, правда...»
 \>\i[76]\}ARCOH\{\<\#"Nothing. What do you mean?"<#>\>\}\i[378]АРКО\{\<\#«Всё хорошо. Что ты имеешь в виду?»
 GabText Cobwebs slowly wave in the corner as you enter the building...<#>GabText Паутина по углам медленно развеивается, когда вы входите...
-<!-- Map096.json Sewage treatment plant --><#>Станция очистки сточных вод
+<!-- Map --><#>096
+<!-- Map Name: Sewage_treatment_plant --><#>
+<!-- In-game Displayed Name: Sewage treatment plant --><#>Станция очистки сточных вод
+<!-- Order --><#>113
 \>\i[64]\}BELLA\{\<\#"Oh, this must be the sewage treatment plant..."<#>\>\}\i[368]БЕЛЛА\{\<\#«О, это, должно быть, станция очистки сточных вод...»
 \>\i[64]\}BELLA\{\<\#"Mildly interesting from a technical standpoint... But I don't\#think my future is in sewage and all things smelly...."<#>\>\}\i[368]БЕЛЛА\{\<\#«Слегка интересно с технической точки зрения... Но я\#не думаю, что моё будущее лежит в канализационных\#технологиях и всей этой вони...»
 \>\i[74]\}ARIN\{\<\#"This is the heart of the sewage system? Charming."<#>\>\}\i[376]АРИН\{\<\#«Так это сердце канализационной системы? Очаровательно.»
@@ -10338,11 +10604,17 @@ There is a control panel for the sewage system here.<#>Здесь стоит п�
 Read the instructions<#>Прочитать инструкции
 "The water pressure must be maintained at the minumum of 50% to\#not create cloggages to the sewage system."<#>«Необходимо поддерживать давление воды не ниже 50% для\#предотвращения засоров в канализационной системе.»
 "As a safety precaution, you can only disable 50% of the water pipes\#coming from the western Prehevil and 50% of the water pipes coming\#from the eastern Prehevil."<#>«В целях обеспечения безопасности допускается отключение только\#50%-ов водопроводных труб, идущих из западного Прехевила,\#и 50%-ов водопроводных труб, идущих из восточного Прехевила.»
-<!-- Map097.json Sewers - Backrooms --><#>Канализация - Подсобные помещения
+<!-- Map --><#>097
+<!-- Map Name: Sewers_backrooms --><#>
+<!-- In-game Displayed Name: Sewers - Backrooms --><#>Канализация - Подсобные помещения
+<!-- Order --><#>114
 The door won't open. Something is blocking the door from the\#other side.<#>Дверь не открывается. Что-то блокирует её с другой стороны.
 \>\i[76]\}ARCOH\{\<\#"I didn't expect to end up knee deep in sewers when I boarded the\#train at the Vatican City the other day..."<#>\>\}\i[378]АРКО\{\<\#«Я не думал, что окажусь по колено в отходах, когда\#сел на поезд из Ватикана в тот день...»
 GabText There is water dripping down the walls everywhere you look.<#>GabText Вода капает с любой стены, на какую не посмотреть.
-<!-- Map098.json Sewers - Mid tunnels --><#>Канализация - Центральные туннели
+<!-- Map --><#>098
+<!-- Map Name: Sewers2 --><#>
+<!-- In-game Displayed Name: Sewers - Mid tunnels --><#>Канализация - Центральные туннели
+<!-- Order --><#>115
 GabText The smell of filth and feces is almost too overwhelming...<#>GabText Запах отходов и фекалий просто невыносим...
 GabText The ratkin is shot down!<#>GabText Раткин убит!
 GabText You shoot the arm of the ratkin!<#>GabText Вы отстрелили руку раткину!
@@ -10402,12 +10674,21 @@ O'saa is looking a little pale.<#>О'саа немного побледнел.
 \>\i[64]\}BELLA\{\<\#"No! Marcoh this is a horrible advice!"<#>\>\}\i[368]БЕЛЛА\{\<\#«Нет! Марко, это ужасный совет!»
 \>\i[64]\}BELLA\{\<\#"I don't want to spoil my favourite dishes with this rancid\#smell!"<#>\>\}\i[368]БЕЛЛА\{\<\#«Я не хочу портить свои любимые блюда этим ужасным запахом!»
 \>\i[76]\}ARCOH\{\<\#"... But it works for me...?"<#>\>\}\i[378]АРКО\{\<\#«...Но мне это помогает...?»
-<!-- Map099.json Apartments 1F --><#>Апартаменты 1Э
+<!-- Map --><#>099
+<!-- Map Name: Apartments_1F_Alternate --><#>
+<!-- In-game Displayed Name: Apartments 1F --><#>Апартаменты 1Э
+<!-- Order --><#>73
 The gate is locked with a complicated mechanism...<#>Ворота закрыты сложным механизмом...
-<!-- Map100.json Apartments B1F --><#>Апартаменты П1Э
+<!-- Map --><#>100
+<!-- Map Name: Apartments_basement_Alternate --><#>
+<!-- In-game Displayed Name: Apartments B1F --><#>Апартаменты П1Э
+<!-- Order --><#>74
 There is a bloody tunnel here.<#>Кровавый туннель.
 Climb in<#>Залезть внутрь
-<!-- Map101.json Sewers - Western tunnels --><#>Канализация - Западные туннели
+<!-- Map --><#>101
+<!-- Map Name: Sewers3 --><#>
+<!-- In-game Displayed Name: Sewers - Western tunnels --><#>Канализация - Западные туннели
+<!-- Order --><#>116
 \>\i[75]\}EVI\{\<\#"I AM LEVI."<#>\>\}\i[377]ЕВИ\{\<\#«Я ЛЕВИ.»
 \>\i[75]\}EVI\{\<\#"LEVI."<#>\>\}\i[377]ЕВИ\{\<\#«ЛЕВИ.»
 GabText The pipes in the ceiling slowly drip their dirt water on you.<#>GabText С труб на потолке медленно капает грязная вода.
@@ -10420,8 +10701,13 @@ GabText There's someone standing here...<#>GabText Кто-то стоит там
 \>\i[64]\}BELLA\{\<\#"I don't think I can eat anything for a week after this..."<#>\>\}\i[368]БЕЛЛА\{\<\#«Думаю, я не смогу ничего есть после этого как минимум\#неделю...»
 \>\i[67]\}AAN\{\<\#"I can't stop to chat. The smell catches up if we stop even for\#a second."<#>\>\}\i[372]ААН\{\<\#«Я не могу остановиться, чтобы поболтать. Запах настигнет\#нас, если мы остановимся хоть на секунду.»
 \>\i[78]\}LIVIA\{\<\#"This is like a maze. I definitely don't want to get lost down\#here!"<#>\>\}\i[380]ЛИВИЯ\{\<\#«Это словно лабиринт. Я определённо не хочу здесь потеряться!»
-<!-- Map102.json --><#>
-<!-- Map103.json Mayor's manor - Basement --><#>Поместье мэра - Подвал
+<!-- Map --><#>102
+<!-- Map Name: prehevil_view --><#>
+<!-- Order --><#>164
+<!-- Map --><#>103
+<!-- Map Name: Manor_basement --><#>
+<!-- In-game Displayed Name: Mayor's manor - Basement --><#>Поместье мэра - Подвал
+<!-- Order --><#>23
 The crates are full of random food items.<#>Ящики заполнены различными продуктами.
 The crates have some random food items in them, but none of the\#are usable without preparing them first.<#>В ящиках лежат различные продукты, но они бесполезны без\#надлежащего приготовления.
 A basket full of potatoes. They are no use without cooking.<#>Корзина, полная картофеля. Он бесполезен без надлежащего\#приготовления.
@@ -10479,7 +10765,10 @@ Levi is poking at the pulsating sacks.<#>Леви тыкает в пульсир
 \>\i[76]\}ARCOH\{\<\#"Either one is fine by me."<#>\>\}\i[378]АРКО\{\<\#«Оба варианта неплохие, как по мне.»
 You take the \c[2]Fluted fauld\c[0]!<#>Вы взяли \c[2]рифленую юбку\c[0]!
 An empty shelf left here to just gather dust.<#>Пустая полка собирает здесь пыль.
-<!-- Map104.json Tunnel 6 --><#>Туннель 6
+<!-- Map --><#>104
+<!-- Map Name: tunnels_6 --><#>
+<!-- In-game Displayed Name: Tunnel 6 --><#>Туннель 6
+<!-- Order --><#>37
 A dirty bucket.<#>Грязное ведро.
 The bucket used for cleaning the tunnels.<#>Ведро, используемое для уборки в туннелях.
 A toolbox full of random items used for tunnel maintenance.\#Nothing seems useful to you.<#>Ящик для инструментов, полный случайных предметов, используемых\#для обслуживания туннелей. Ничего не выглядит полезным.
@@ -10491,7 +10780,10 @@ An empty bucket with some dried up crust in the bottom.<#>Пустое ведр�
 An old rusty barrel.<#>Старая ржавая бочка.
 The door only open from the other side.<#>Дверь открывается только с другой стороны.
 \>\i[78]\}LIVIA\{\<\#"The tunnel just keeps on going to the darkness..."<#>\>\}\i[380]ЛИВИЯ\{\<\#«Туннель лишь устремляется во тьму...»
-<!-- Map105.json PRHVL Bop - Speakeasy --><#>Клуб «ПРХВЛ» - Подполье
+<!-- Map --><#>105
+<!-- Map Name: Speakeasy --><#>
+<!-- In-game Displayed Name: PRHVL Bop - Speakeasy --><#>Клуб «ПРХВЛ» - Подполье
+<!-- Order --><#>82
 There is a ladder to the upstairs here.<#>Лестница, ведущая наверх.
 The bunk beds look alright. Nothing too fancy, but they serve their\#purpose.<#>Двухъярусные кровати выглядят неплохо. В них нет ничего\#особенного, но они служат своей цели.
 Top or bottom bunk?<#>Верхняя или нижняя койка?
@@ -10584,7 +10876,10 @@ You pick up a \c[2]12-gauge Trenchgun\c[0] and 4 \c[2]12-gauge shells\c[0].<#>В
 There's nothing useful left here.<#>Здесь не осталось ничего полезного.
 You pick up a \c[2]Lugr Pistol\c[0] and 4 \c[2]9mm Bullets\c[0].<#>Вы забрали \c[2]пистолет Люгера\c[0] и 4 \c[2]9 мм патрона\c[0].
 There is also a \c[2]Coded letter #1\c[0] under the pistol.<#>Под пистолетом также лежало \c[2]зашифрованное письмо №1\c[0].
-<!-- Map106.json Sewers - Western end --><#>Канализация - Западный тупик
+<!-- Map --><#>106
+<!-- Map Name: Sewers4 --><#>
+<!-- In-game Displayed Name: Sewers - Western end --><#>Канализация - Западный тупик
+<!-- Order --><#>117
 GabText A smell that is a mix of dirt, blood and feces fills the air.<#>GabText Воздух наполняется запахом грязи, крови и фекалий.
 \>\i[76]\}OONSCORCHED\{\<\#"Hey hey! We might have a truce, but I'm not the keeper of my\#bros."<#>\>\}\i[380]ПАЛЕННЫЙ ЛУНОЙ\{\<\#«Эй, эй! Может, у нас перемирие, но я не ручаюсь за своих братьев.»
 \>\i[76]\}OONSCORCHED\{\<\#"I'd get away from these sewers as fast as possible if I were you."<#>\>\}\i[380]ПАЛЕННЫЙ ЛУНОЙ\{\<\#«Я бы убрался из этой канализации так быстро, как только мог,\#будь я на твоём месте.»
@@ -10636,10 +10931,16 @@ Levi looks like he's trying to soldier through the bad smell.<#>Леви выг�
 \>\i[78]\}'SAA\{\<\#"How come the ancient aqueducts were better maintained than these\#tunnels?"<#>\>\}\i[380]'САА\{\<\#«Каким образом выходит так, что древние акведуки обслуживались\#лучше, чем эти туннели?»
 \>\i[76]\}ARCOH\{\<\#"Why do we end up in tight closed spaces wherever we go?"<#>\>\}\i[378]АРКО\{\<\#«Почему мы оказываемся в замкнутых местах, куда бы ни\#пошли?»
 \>\i[76]\}ARCOH\{\<\#"Couldn't we travel on the ground level just as well?"<#>\>\}\i[378]АРКО\{\<\#«Не могли бы мы с таким же успехом путешествовать на\#поверхности?»
-<!-- Map107.json Sewers - West junction --><#>Канализация - Западный перекресток
+<!-- Map --><#>107
+<!-- Map Name: Sewers_west --><#>
+<!-- In-game Displayed Name: Sewers - West junction --><#>Канализация - Западный перекресток
+<!-- Order --><#>38
 The barrel is empty.<#>Бочка пуста.
 \>\i[64]\}BELLA\{\<\#"The bunker connects to the sewers...? That's a strange turn of\#events."<#>\>\}\i[368]БЕЛЛА\{\<\#«Бункер соединён с канализацией...? Это странный поворот\#событий.»
-<!-- Map108.json School - Basement --><#>Школа - Подвал
+<!-- Map --><#>108
+<!-- Map Name: School_basement --><#>
+<!-- In-game Displayed Name: School - Basement --><#>Школа - Подвал
+<!-- Order --><#>99
 The shelves have miscellaneous utility items. None of them look\#useful to you at the moment.<#>На полках лежат различные бытовые предметы. Ни один из них\#не кажется вам полезным.
 GabText The basement has an aggressive stench of mold and gore.<#>GabText В подвале стоит резкий запах плесени и крови.
 An old bucket with mucus and other secretion in the bottom.<#>Старое ведро со слизью и другими выделениями на дне.
@@ -10675,7 +10976,10 @@ A filthy sink.<#>Грязная раковина.
 The shelves have random utility and cleaning products.<#>На полках хранятся различные бытовые предметы и чистящие\#средства.
 GabText The fallen cherub is smacked down!<#>GabText Падший херувим раздавлен!
 A bloody bowl.<#>Кровавая миска.
-<!-- Map109.json Confessional --><#>Исповедальня
+<!-- Map --><#>109
+<!-- Map Name: Confessional --><#>
+<!-- In-game Displayed Name: Confessional --><#>Исповедальня
+<!-- Order --><#>63
 An overwhelming aura fills the air as you sit down to the confessional.<#>Непреодолимая аура наполняет воздух, как только вы заходите\#в исповедальню.
 The claustrophobic little box creates an atmosphere of condemnation\#and spite.<#>Клаустрофобная маленькая кабинка создаёт атмосферу закрытости\#и злобы.
 "Forgive me father, for I have sinned..."<#>«Прости меня, отец, ибо я согрешил\x[|а]...»
@@ -10928,7 +11232,10 @@ You do not see anyone on the other side...<#>Вы никого не видите
 You hear voices echoing from the beheaded wizard...\#\c[7]"Look at you! Sitting here like a chump!"\c[0]<#>В вашей голове эхом раздаётся голос обезглавленного мага...\#\c[7]«Посмотри на себя! Сидишь здесь как болван!»\c[0]
 You hear voices echoing from the beheaded wizard...\#\c[7]"You think Alll-mer gives A RAT'S TWAT ON YOUR REMORSE!?"\c[0]<#>В вашей голове эхом раздаётся голос обезглавленного мага...\#\c[7]«Думаешь, Алл-меру не плевать на ТВОЁ РАСКАЯНИЕ?!»\c[0]
 You hear voices echoing from the beheaded wizard...\#\c[7]"YOU DISAPPOINT ME PUPIL!"\c[0]<#>В вашей голове эхом раздаётся голос обезглавленного мага...\#\c[7]«ТЫ РАЗОЧАРОВЫВАЕШЬ МЕНЯ, УЧЕНИК!»\c[0]
-<!-- Map110.json Prehevil - Temple site --><#>Прехевил - Храмовая площадь
+<!-- Map --><#>110
+<!-- Map Name: Temple_site_1 --><#>
+<!-- In-game Displayed Name: Prehevil - Temple site --><#>Прехевил - Храмовая площадь
+<!-- Order --><#>48
 A military road block.<#>Военный блокпост.
 It's a statue of a man wrapped under a giant snake.<#>Статуя мужчины, окутанного гигантской змеёй.
 The expression on the man's face is that of anguish.<#>У него на лице прослеживается тоскливое выражение.
@@ -10976,7 +11283,10 @@ The murky water is standing still. It smells really bad...<#>Мутная вод
 \>\i[75]\}EVI\{\<\#"Is it safe inside or... not?"<#>\>\}\i[377]ЕВИ\{\<\#«Здесь безопасно, или... нет?»
 \>\i[75]\}EVI\{\<\#"I couldn't quite tell."<#>\>\}\i[377]ЕВИ\{\<\#«Не могу сказать с уверенностью.»
 The barrel is left here to collect rain water.<#>Пустая бочка, оставленная для сбора дождевой воды.
-<!-- Map111.json Prehevil - Temple site --><#>Прехевил - Храмовая площадь
+<!-- Map --><#>111
+<!-- Map Name: Temple_site_2 --><#>
+<!-- In-game Displayed Name: Prehevil - Temple site --><#>Прехевил - Храмовая площадь
+<!-- Order --><#>47
 There is something written here...<#>Здесь что-то написано...
 "Echoing the words of the light, to vouch for the candour of their\#message:"<#>«Повторяя слова света, чтобы подтвердить искренность их\#послания:»
 "The stairway to the court of Rher is granted only for the ones who\#take part in the festival of the moon."<#>«Лестница в суд Рхера доступна только тем, кто принимает\#участие в празднике Луны.»
@@ -11141,7 +11451,10 @@ Marina looks devastated.<#>Марина выглядит опустошённо�
 \>\i[75]\}EVI\{\<\#"Obviously it didn't use to be like this..."<#>\>\}\i[377]ЕВИ\{\<\#«Очевидно, она раньше не была такой...»
 Osaa's body...<#>Тело О'саа...
 \i[337] Church of Alll-mer\#\i[326] Shopping District, Business District,\#\i[326] St. Domek's Orphanage, Residential Area<#>\i[337] Церковь Алл-мера\#\i[326] Торговый Район, Деловой Район,\#\i[326] Приют Святого Домека, Жилой Район
-<!-- Map112.json D'ábel's island --><#>Остров Дабль
+<!-- Map --><#>112
+<!-- Map Name: devils_island --><#>
+<!-- In-game Displayed Name: D'ábel's island --><#>Остров Дабль
+<!-- Order --><#>107
 GabText A cold wind sweeps the barren island...<#>GabText Холодный ветер проносится по безжизненному острову...
 Step on board and return to the mainland<#>Лодка в довольно хорошей форме. Больше нечего сказать о ней.
 GabText Something seems to be approaching...<#>GabText Кажется, что-то приближается к вам...
@@ -11160,7 +11473,10 @@ GabText Something seems to be approaching...<#>GabText Кажется, что-т
 \>\i[75]\}EVI\{\<\#"But I guess there's no way to tell how long exactly that would\#be..."<#>\>\}\i[377]ЕВИ\{\<\#«Но я думаю, нельзя точно сказать, сколько времени это займет...»
 \>\i[75]\}EVI\{\<\#"Nevermind I said anything..."<#>\>\}\i[377]ЕВИ\{\<\#«Неважно, я ничего не говорил...»
 \>\i[78]\}'SAA\{\<\#"Something clearly wanted us to come here to this island... but\#what?"<#>\>\}\i[380]'САА\{\<\#«Кто-то определённо хотел, чтобы мы приплыли на этот остров...\#но зачем?»
-<!-- Map113.json Deepest woods --><#>Глубочайший лес
+<!-- Map --><#>113
+<!-- Map Name: Deepest_woods --><#>
+<!-- In-game Displayed Name: Deepest woods --><#>Глубочайший лес
+<!-- Order --><#>130
 GabText The air feels damp and heavy in this part of the forest...<#>GabText В этой части леса воздух ощущается влажным и тяжёлым.
 GabText The centaur is shot down!<#>GabText Кентавр убит!
 GabText You shoot a leg of the centaur!<#>GabText Вы отстрелили ногу кентавру!
@@ -11209,7 +11525,10 @@ Beating a dead horse produces no results.<#>Избиение дохлой лош
 The most bizarre feature is the human torso stemming from the\#back of the creature. The anatomy of the torso does look like\#human apart from the prolonged neck and head.<#>Самая странная особенность тела - человеческий торс,\#растущий из спины существа. Анатомия торса напоминает\#человека с длинной шеей и головой.
 The body looks vulnerable to piercing and slashing attacks especially.<#>Тело выглядит особенно уязвимым к колющим и режущим\#атакам.
 You took the \c[2]Centaur head\c[0] as a trophy!<#>Вы взяли \c[2]голову кентавра\c[0] в качестве трофея!
-<!-- Map114.json Outskirts of Prehevil --><#>Окраины Прехевила
+<!-- Map --><#>114
+<!-- Map Name: Outskirts_path --><#>
+<!-- In-game Displayed Name: Outskirts of Prehevil --><#>Окраины Прехевила
+<!-- Order --><#>12
 A ladder has been left here...<#>Здесь оставили лестницу...
 Lower the ladders<#>Спустить её
 \>\i[81]\}ALARYMAN\{\<\#"Just look at this..."<#>\>\}\i[376]ЛЕРК\{\<\#«Просто посмотри на это...»
@@ -11250,7 +11569,10 @@ Marina is just quietly looking at the burnt house and the corpses\#near it.<#>М
 \>\i[76]\}ARCOH\{\<\#"May these poor bastards rest in peace..."<#>\>\}\i[378]АРКО\{\<\#«Да упокоятся с миром эти несчастные ублюдки...»
 \>\i[76]\}ARCOH\{\<\#"Lets remember these days later in our lives when we feel something\#troubling us. We made it through. Everything will be a cakewalk in\#comparison."<#>\>\}\i[378]АРКО\{\<\#«Давай вспомним эти дни позже, когда почувствуем, что\#что-то беспокоит нас. Мы справились. Всё будет проще\#простого в сравнении с этим.»
 \i[325] Prehevil, Old Town\#\i[326] Maiden Woods<#>\i[325] Прехевил, Старый Город\#\i[326] Девичий Лес
-<!-- Map115.json Tunnel 1 --><#>Туннель 1
+<!-- Map --><#>115
+<!-- Map Name: tunnels_1_entrance --><#>
+<!-- In-game Displayed Name: Tunnel 1 --><#>Туннель 1
+<!-- Order --><#>131
 Random scribblings fill the notebook...<#>Различные каракули заполняют блокнот...
 "We might not reach the paradise today, not in ten years, maybe\#not even in our lifetime..."<#>«Возможно, что мы не доберёмся до рая сегодня, не доберёмся\#и через десять лет, не доберёмся никогда в наших жизнях...»
 "But know that we are laying down the foundation. The roots that\#will grow and bring the mankind to the promised land..."<#>«Но знайте, что мы закладываем фундамент. Корни, которые\#вырастут, и приведут человечество в землю обетованную...»
@@ -11289,7 +11611,10 @@ O'saa pulled the arrow from his shoulder.<#>О'саа вытащил стрел�
 \>\i[75]\}EVI\{\<\#"Should someone stay up here in guard...?"<#>\>\}\i[377]ЕВИ\{\<\#«Может, нужно оставить кого-нибудь на карауле...?»
 An empty bucket that has been left here to rust. A metaphor of your\#life? Could be.<#>Пустое ведро, которое оставили здесь ржаветь.\#Метафора на вашу жизнь? Возможно.
 GabText The bunker muffles all the outside sound.<#>GabText Бункер заглушает все внешние звуки.
-<!-- Map116.json Tunnel 1 --><#>Туннель 1
+<!-- Map --><#>116
+<!-- Map Name: tunnels_1 --><#>
+<!-- In-game Displayed Name: Tunnel 1 --><#>Туннель 1
+<!-- Order --><#>132
 A paint bucket. On the label it says the colour is 'Phantom blue.'<#>Ведро с краской.\#На этикетке написано, что цвет - «Призрачный синий».
 There is an electric panel here. But there is no electricity, so\#you cannot use it.<#>Электрическая панель. Но из-за того, что\#электричества нет, вы не можете ей воспользоваться.
 \>\i[78]\}LIVIA\{\<\#"S-something is shuffling and moving in the darkness!"<#>\>\}\i[380]ЛИВИЯ\{\<\#«Т-там что-то вертится и двигается в темноте!»
@@ -11349,7 +11674,10 @@ You became a part of the perfect flesh.<#>Вы стали частью идеа�
 It's a timetable for working shifts...<#>Это расписание рабочих смен...
 Someone has been sewing together different body parts...<#>Похоже, кто-то сшивал вместе разные части тел...
 The sew job seems to be a work-in-progress still.<#>Видимо, работа по сшиванию всё ещё не завершена.
-<!-- Map117.json Museum - Ballroom --><#>Музей - Бальный зал
+<!-- Map --><#>117
+<!-- Map Name: Museum_ballroom --><#>
+<!-- In-game Displayed Name: Museum - Ballroom --><#>Музей - Бальный зал
+<!-- Order --><#>45
 \>\i[74]\}ARIN\{\<\#"Would you look at this!"<#>\>\}\i[376]АРИН\{\<\#«Посмотрите на это!»
 \>\i[74]\}ARIN\{\<\#"I knew there had to be a logical reason for all that's happening here!"<#>\>\}\i[376]АРИН\{\<\#«Я знала, что будет логическое объяснение всему происходящему\#здесь!»
 \>\i[74]\}ARIN\{\<\#"The army's been here!"<#>\>\}\i[376]АРИН\{\<\#«Армия была здесь!»
@@ -11367,7 +11695,10 @@ O'saa looks puzzled.<#>О'саа выглядит озадаченным.
 \>\i[67]\}AAN\{\<\#"Nevermind."<#>\>\}\i[372]ААН\{\<\#«Забудь.»
 \>\i[76]\}ARCOH\{\<\#"This doesn't looks like your regular renovation work..."<#>\>\}\i[378]АРКО\{\<\#«Не похоже на обычные строительные работы...»
 \>\i[76]\}ARCOH\{\<\#"What did they dig here?"<#>\>\}\i[378]АРКО\{\<\#«Что они здесь раскапывали?»
-<!-- Map118.json Tunnel 1 - Level 2 --><#>Туннель 1 - Уровень 2
+<!-- Map --><#>118
+<!-- Map Name: tunnels_1_2 --><#>
+<!-- In-game Displayed Name: Tunnel 1 - Level 2 --><#>Туннель 1 - Уровень 2
+<!-- Order --><#>133
 A rusty bucket.<#>Ржавое ведро.
 Miscellaneous documents are laid on the table.<#>Разнообразные документы лежат на столе.
 You find \c[2]NLU Reconnaissance Report #2\c[0] among the papers.<#>Вы нашли \c[2]отчёт о разведке над ПБС №2\c[0] среди бумаг.
@@ -11467,9 +11798,14 @@ The spreadsheet is depicting 'signal strength' from past few\#months. There is n
 There are numerous books about new sciences and advanced\#engineering.<#>Здесь лежит множество книг о новых науках и продвинутой\#инженерии.
 There is a mysterious letter on the table...<#>На столе лежит загадочное письмо...
 You find a \c[2]Coded letter #2\c[0]!<#>Вы нашли \c[2]зашифрованное письмо №2\c[0]
-<!-- Map119.json The hollow tower --><#>Полая башня
+<!-- Map --><#>119
+<!-- Map Name: hollow_tower --><#>
+<!-- In-game Displayed Name: The hollow tower --><#>Полая башня
+<!-- Order --><#>50
 GabText The hollow tower rises up to dizzying heights...<#>GabText Полая башня возвышается на головокружительные высоты...
-<!-- Map120.json --><#>
+<!-- Map --><#>120
+<!-- Map Name: hollow_tower2 --><#>
+<!-- Order --><#>51
 The Moon God grew disinterested in you and slowly drifted away.<#>Бог Луны потерял к вам интерес и медленно удалился.
 You've become a witness to something beyond your comprehension.\.\.\#You've seen something you shouldn't have.<#>Вы стали свидетелем того, что лежит за гранью вашего понимания.\.\.\#Вы видели то, чего не должны были видеть.
 As you slowly regain your consciousness, you realize you're not\#the same person as you were still just a brief moment ago.<#>Когда вы медленно приходите в себя, вы понимаете, что вы не\#тот же человек, которым вы были лишь мгновение назад.
@@ -11479,7 +11815,10 @@ The gentle wind on your cheek feels alien. With this newly\#acquired understandi
 But...<#>Но...
 At least you survived,\. with your mind still somewhat intact...<#>По крайней мере вы выжили,\. и ваш разум всё ещё с вами...
 You survived...<#>Вы выжили...
-<!-- Map121.json Old apartments 2F --><#>Старые апартаменты 2Э
+<!-- Map --><#>121
+<!-- Map Name: Apartments_small_2F --><#>
+<!-- In-game Displayed Name: Old apartments 2F --><#>Старые апартаменты 2Э
+<!-- Order --><#>90
 A television.<#>Телевизор.
 Doesn't seem to work...<#>Похоже, он не работает...
 Or maybe there is no electricity?<#>Или электричества нет?
@@ -11496,7 +11835,10 @@ The only constant in all the papers is the letter 'R' reversed.\#Whatever that m
 There are random everyday items on the shelf. Nothing too interesting.<#>На полке лежат обычные повседневные вещи. Ничего слишком\#интересного.
 GabText Looks like who ever lived here left in a hurry...<#>GabText Кто бы здесь ни жил, они, похоже, покинули дом в спешке...
 What is going on with this bed?<#>Что происходит с этой кроватью?
-<!-- Map122.json Old apartments 3F --><#>Старые апартаменты 3Э
+<!-- Map --><#>122
+<!-- Map Name: Apartments_small_3F --><#>
+<!-- In-game Displayed Name: Old apartments 3F --><#>Старые апартаменты 3Э
+<!-- Order --><#>91
 You take the \c[2]Blue herb\c[0]!<#>Вы взяли \c[2]синюю траву\c[0]!
 You already took the herb from here.<#>Вы уже забрали траву отсюда.
 An empty wooden bucket.<#>Пустое деревянное ведро.
@@ -11507,7 +11849,10 @@ The cupboards hold random kitchenware.<#>В комодах хранится ра
 The bed is covered in filth and junk.<#>Кровать заполнена грязью и хламом.
 There is a portrait of a young man on top of the drawer. The person\#has his face scrathed over.<#>На вершине комода стоит портрет молодого человека.\#Его лицо на фотографии сильно исцарапано.
 There seems to be nothing interesting in the drawer.<#>В комоде, похоже, нет ничего интересного.
-<!-- Map123.json Waste disposal office --><#>Центр распределения отходов
+<!-- Map --><#>123
+<!-- Map Name: Sewers_entrance --><#>
+<!-- In-game Displayed Name: Waste disposal office --><#>Центр распределения отходов
+<!-- Order --><#>118
 \>\i[76]\}ARINA\{\<\#"This leads to the sewers...?"<#>\>\}\i[378]АРИНА\{\<\#«Это место ведет в канализацию...?»
 \>\i[76]\}ARINA\{\<\#"Please anything but the sewers!"<#>\>\}\i[378]АРИНА\{\<\#«Пожалуйста, что угодно, но не канализация!»
 \>\i[74]\}ARIN\{\<\#"This looks like a maintenance building of sorts... And judging\#by the smell, it leads down to the sewers..."<#>\>\}\i[376]АРИН\{\<\#«Выглядит, как какое-то здание для технического обслуживания...\#И судя по запаху, оно ведет в канализацию...»
@@ -11543,7 +11888,10 @@ You pick up the \c[2]Sewer winch\c[0].<#>Вы подобрали \c[2]ключ �
 There's nothing interesting inside. Only the same random documents\#you can find on the tables too. They got mostly to do with the\#maintenace of the sewage system.<#>Внутри ничего интересного. Те же самые случайные документы,\#которые можно найти на столах. Они в основном про устройство\#канализационной системы.
 A big pile of barrels. Just how practical is it to store them like\#this?<#>Огромная куча бочек. Насколько практично их так хранить?
 GabText A foul stench eminates from the staircase...<#>GabText Ужасный запах исходит от лестничной клетки...
-<!-- Map124.json Old storage --><#>Старое хранилище
+<!-- Map --><#>124
+<!-- Map Name: storage --><#>
+<!-- In-game Displayed Name: Old storage --><#>Старое хранилище
+<!-- Order --><#>93
 An empty shelf gathering dust.<#>Пустая полка собирает пыль.
 The door lock is broken.<#>Дверной замок сломан.
 The basket is full of potatos. They are no use without boiling.<#>Корзина полна картофеля. Он бесполезен сырым.
@@ -11560,7 +11908,10 @@ The basket is full of potatos. They are all growing mold now.<#>Корзина �
 \>\i[78]\}LIVIA\{\<\#"Don't make promises you can't keep..."<#>\>\}\i[380]ЛИВИЯ\{\<\#«Не делай обещаний, которых не сможешь сдержать...»
 \>\i[78]\}'SAA\{\<\#"So much useless junk... Do people really so much for living?"<#>\>\}\i[380]'САА\{\<\#«Так много бесполезного хлама... Неужели людям нужно так\#много для жизни?»
 An empty shelf gathering nothing but dust.<#>Пустой стеллаж стоит здесь, собирая лишь пыль.
-<!-- Map125.json White bunker - Entrance --><#>Белый бункер - Вход
+<!-- Map --><#>125
+<!-- Map Name: tunnels_0_entrance --><#>
+<!-- In-game Displayed Name: White bunker - Entrance --><#>Белый бункер - Вход
+<!-- Order --><#>143
 A sturdy vault door stands menacingly in front of you.<#>Прочная дверь хранилища угрожающе стоит перед вами.
 Open the vault door<#>Открыть дверь хранилища
 Check the connection<#>Проверить подключение
@@ -11616,13 +11967,18 @@ Marcoh knocks the door a couple of times with his first.<#>Марко пару �
 \>\i[78]\}'SAA\{\<\#"This is it."<#>\>\}\i[380]'САА\{\<\#«Вот оно.»
 \>\i[76]\}ARCOH\{\<\#"I'm getting bad vibes from all this..."<#>\>\}\i[378]АРКО\{\<\#«У меня плохое предчувствие насчёт всего этого...»
 The barrel's cork is sealed shut, but it feels like there is some\#liquid in it.<#>Крышка бочки наглухо запечатана, но похоже, что внутри\#есть какая-то жидкость.
-<!-- Map126.json --><#>
+<!-- Map --><#>126
+<!-- Map Name: ladders --><#>
+<!-- Order --><#>46
 \>\i[74]\}ARIN\{\<\#"Just keep climbing! Why should we stop to talk here!?"<#>\>\}\i[376]АРИН\{\<\#«Продолжай лезть! Зачем мы останавливаемся поболтать?!»
 \>\i[64]\}BELLA\{\<\#"The sounds from the masquerade are slowly fading..."<#>\>\}\i[368]БЕЛЛА\{\<\#«Звуки маскарада медленно затихают...»
 \>\i[78]\}LIVIA\{\<\#"!!"<#>\>\}\i[380]ЛИВИЯ\{\<\#«!!»
 \>\i[78]\}LIVIA\{\<\#"Let's just go! Please, let's not stop here!"<#>\>\}\i[380]ЛИВИЯ\{\<\#«Пойдём! Пожалуйста, давай не будем тут останавливаться!»
 GabText Nothing but engulfing darkness awaits you down below...<#>GabText Ничего, кроме поглощающей тьмы не ждёт вас внизу...
-<!-- Map127.json White bunker - Level 1 --><#>Белый бункер - Уровень 1
+<!-- Map --><#>127
+<!-- Map Name: tunnels_0_level1 --><#>
+<!-- In-game Displayed Name: White bunker - Level 1 --><#>Белый бункер - Уровень 1
+<!-- Order --><#>144
 The blast door is shut. It doesn't look like it can be opened from\#this side.<#>Взрывозащитная дверь заперта. Не похоже, что её можно открыть\#с этой стороны.
 A toolbox. You check its insides...<#>Ящик для инструментов. Вы проверяете его...
 A toolbox. There's nothing useful in it anymore.<#>Ящик для инструментов. Внутри больше нет ничего полезного.
@@ -11690,7 +12046,10 @@ Miscellaneous tools laid on the floor. Nothing looks useful to you\#right now.<#
 \i[325] Old site<#>\i[325] Старый узел
 The path here has caved in, or it has been demolished on purpose.<#>Путь здесь обвалился, либо же был снесен намеренно.
 GabText Dust is floating in the air. This old site seems abandoned.<#>GabText Пыль парит в воздухе. Это старое место выглядит заброшенным.
-<!-- Map128.json White bunker - Connecting bridge --><#>Белый бункер - Соединяющий мост
+<!-- Map --><#>128
+<!-- Map Name: tunnels_0_cables1 --><#>
+<!-- In-game Displayed Name: White bunker - Connecting bridge --><#>Белый бункер - Соединяющий мост
+<!-- Order --><#>145
 \>\i[78]\}LIVIA\{\<\#"When all this is finally over.\. I'll retreat to the nature. That's\#the only place where I feel at home."<#>\>\}\i[380]ЛИВИЯ\{\<\#«Когда всё это закончится...\. Я вернусь к природе. Лишь\#на природе я чувствую себя как дома.»
 \>\i[78]\}LIVIA\{\<\#"I've had enough of these man-made nightmares and endless concrete\#tunnels."<#>\>\}\i[380]ЛИВИЯ\{\<\#«Мне хватило этих кошмаров и бесконечных бетонных\#туннелей.»
 \>\i[74]\}ARIN\{\<\#"Once I'm out of here and all this is in the past... I'll out all\#the dirty laundry I've witnessed so far. Just wait and see."<#>\>\}\i[376]АРИН\{\<\#«Когда я выберусь отсюда, и оставлю всё позади...\#Я обличу всю грязь, что я тут засвидетельствовала.\#Просто подождите, и увидите.»
@@ -11712,8 +12071,12 @@ GabText Dust is floating in the air. This old site seems abandoned.<#>GabText П
 \>\i[76]\}ARCOH\{\<\#"Maybe I'm ready to retire. I've seen enough for one life time."<#>\>\}\i[378]АРКО\{\<\#«Может, выйду на пенсию. Я видел достаточно за одну жизнь.»
 \>\i[78]\}'SAA\{\<\#"What to do after we get out of here?"<#>\>\}\i[380]'САА\{\<\#«Что буду делать, когда выберемся отсюда?»
 \>\i[78]\}'SAA\{\<\#"Ha ha,\. I'm apologize. I have to admire your naivety."<#>\>\}\i[380]'САА\{\<\#«Ха-ха,\. мои извинения. Я восхищаюсь твоей наивностью.»
-<!-- Map129.json --><#>
-<!-- Map130.json --><#>
+<!-- Map --><#>129
+<!-- Map Name: day_change --><#>
+<!-- Order --><#>3
+<!-- Map --><#>130
+<!-- Map Name: path_to_river --><#>
+<!-- Order --><#>14
 \>\i[67]\}AAN\{\<\#"I wish I had more knowledge on herbs and other plants..."<#>\>\}\i[372]ААН\{\<\#«Если бы у меня было больше знаний о травах и растениях...»
 \>\i[67]\}AAN\{\<\#"Even just the basics would come to good use here..."<#>\>\}\i[372]ААН\{\<\#«Здесь пригодились бы даже основы...»
 \>\i[78]\}LIVIA\{\<\#"Yup, herbs are amazing."<#>\>\}\i[380]ЛИВИЯ\{\<\#«Да, травы прекрасны.»
@@ -11753,7 +12116,10 @@ Why were they hidden here?<#>Почему они были здесь спрят�
 \>\i[75]\}EVI\{\<\#"I kind of... Shoplifted them from the small store at the old\#town..."<#>\>\}\i[377]ЕВИ\{\<\#«Я вроде как... Украл их из маленького магазинчика в\#старом городе...»
 \>\i[75]\}EVI\{\<\#"Oh! This tree! This was the spot!"<#>\>\}\i[377]ЕВИ\{\<\#«О! Это дерево! Это - то самое место!»
 \>\i[75]\}EVI\{\<\#"This was the stash I talked about."<#>\>\}\i[377]ЕВИ\{\<\#«Это тайник, о котором я говорил.»
-<!-- Map131.json News agency --><#>Новостное агентство
+<!-- Map --><#>131
+<!-- Map Name: News_agency --><#>
+<!-- In-game Displayed Name: News agency --><#>Новостное агентство
+<!-- Order --><#>100
 You take the \c[2]Eyeglasses\c[0]!<#>Вы взяли \c[2]очки\c[0]!
 The filing cabinet is full of old news articles. Nothing too interesting.<#>Кабинет для печатания, полон старых новостных заголовков.\#Ничего интересного.
 \>\i[74]\}ARIN\{\<\#"This must be the local news agency... The Bohemian sect of The\#Midnight Gazette..."<#>\>\}\i[376]АРИН\{\<\#«Это, должно быть, местное новостное агентство.\#Богемский отдел Полуночной Газеты...»
@@ -11783,7 +12149,9 @@ There is some writing on the note...<#>На бумаге что-то напис�
 A rusty bucket used for cleaning the floors.<#>Ржавое ведро, которое использовали для помывки полов.
 The reception desk...<#>Стол приёмной...
 An empty cleaning bucket.<#>Пустое ведро для уборки.
-<!-- Map132.json --><#>
+<!-- Map --><#>132
+<!-- Map Name: pocketcat_scene --><#>
+<!-- Order --><#>172
 \>\i[144]\}OCKETCAT\{\<\#"Once again..."<#>\>\}\i[381]ОКЕТКЭТ\{\<\#«И опять...»
 \>\i[144]\}OCKETCAT\{\<\#"You find yourself in the familiar pit of despair. You've tried to\#claw yourself up from this miserable hole time and time again..."<#>\>\}\i[381]ОКЕТКЭТ\{\<\#«Ты оказываешься в знакомой тебе яме отчаяния. Ты\#пытался выбраться из этой ямы снова и снова...»
 \>\i[144]\}OCKETCAT\{\<\#"It's time to accept the inevitable."<#>\>\}\i[381]ОКЕТКЭТ\{\<\#«Время принять неизбежное.»
@@ -11799,8 +12167,13 @@ An empty cleaning bucket.<#>Пустое ведро для уборки.
 \>\i[144]\}OCKETCAT\{\<\#"Now take the mask and this jacket. Ramble on, my friend, old\#sport."<#>\>\}\i[381]ОКЕТКЭТ\{\<\#«Теперь возьми маску и этот жилет. Продолжай, мой друг,\#дружище.»
 \>\i[144]\}OCKETCAT\{\<\#"It's your time to bask in the sun."<#>\>\}\i[381]ОКЕТКЭТ\{\<\#«Пришло твоё время греться в лучах солнца.»
 The mask and the jacket seem to fit you just perfectly!<#>Маска и жилет сидят на вас просто идеально!
-<!-- Map133.json --><#>
-<!-- Map134.json White bunker - Level 2 --><#>Белый бункер - Уровень 2
+<!-- Map --><#>133
+<!-- Map Name: character_check --><#>
+<!-- Order --><#>4
+<!-- Map --><#>134
+<!-- Map Name: tunnels_0_level2 --><#>
+<!-- In-game Displayed Name: White bunker - Level 2 --><#>Белый бункер - Уровень 2
+<!-- Order --><#>146
 Various cleaning products fill the shelf.<#>Различные чистящие средства заполняют полки.
 The shelf is filled with machinery items you are not familiar with.<#>Полка забита предметами техники, с которыми вы не знакомы.
 An electric panel. You cannot make any sense of it.<#>Электрическая панель. Вы в них ничего не понимаете.
@@ -11816,7 +12189,10 @@ If you're not careful enough it might peck you.<#>Если вы будете н�
 An air breeze can be felt here between the wall cracks...<#>Из щелей в стенах веет ветерок...
 It feel refreshing in this suffocating darkness.<#>Он ощущается свежо в этой удушающей тьме.
 You wonder if this is the last time you feel this sensation as\#you head further down...<#>Вам интересно, последний ли это раз, когда вы\#чувствуете сенсацию, направляясь вниз...
-<!-- Map135.json White bunker - Connecting bridge --><#>Белый бункер - Соединяющий мост
+<!-- Map --><#>135
+<!-- Map Name: tunnels_0_cables2 --><#>
+<!-- In-game Displayed Name: White bunker - Connecting bridge --><#>Белый бункер - Соединяющий мост
+<!-- Order --><#>147
 \>\i[78]\}LIVIA\{\<\#"Maybe a botanical garden or a greenhouse for exotic flowers?"<#>\>\}\i[380]ЛИВИЯ\{\<\#«Может, займусь ботаническим садом или оранжереей для\#экзотических цветов?»
 \>\i[78]\}LIVIA\{\<\#"I would love to travel and see the full bloom of nature around the\#world."<#>\>\}\i[380]ЛИВИЯ\{\<\#«Я бы хотела попутешествовать и увидеть полную красоту\#природы по всему миру.»
 \>\i[74]\}ARIN\{\<\#"An award or two would go a long way in getting me famous..."<#>\>\}\i[376]АРИН\{\<\#«Получу пару премий, и начнётся мой путь знаменитости...»
@@ -11835,7 +12211,9 @@ You wonder if this is the last time you feel this sensation as\#you head further
 \>\i[76]\}ARCOH\{\<\#"Maybe I will start coaching kids at the gym. That could work."<#>\>\}\i[378]АРКО\{\<\#«Возможно начну учить детей в зале. Было бы неплохо.»
 \>\i[78]\}'SAA\{\<\#"Maybe I've travelled the world enough as of now."<#>\>\}\i[380]'САА\{\<\#«Наверное, я уже напутешествовался на данный момент.»
 \>\i[78]\}'SAA\{\<\#"It's time I head back to Abyssonia and see how that miserable place\#is shaping up after the war..."<#>\>\}\i[380]'САА\{\<\#«Настало время вернуться в Абиссонию и посмотреть,\#как преображается это жалкое место после войны...»
-<!-- Map136.json --><#>
+<!-- Map --><#>136
+<!-- Map Name: tunnels_0_level4 --><#>
+<!-- Order --><#>150
 You hear voices echoing from the beheaded wizard...\#\c[7]"He. He is the reason we are here my pupil."\c[0]<#>В вашей голове эхом раздаётся голос обезглавленного мага...\#\c[7]«Он. Он - тот, за кем мы пришли, мой ученик.»\c[0]
 You hear voices echoing from the beheaded wizard...\#\c[7]"Imagine that. All this effort for this little CHICKEN SHIT\#with delusions of grandeur!"\c[0]<#>В вашей голове эхом раздаётся голос обезглавленного мага...\#\c[7]«Представь себе. Все эти усилия для этого маленького\#КУСКА КУРИНОГО ДЕРЬМА с манией величия!»\c[0]
 \>\i[74]\}AISER\{\<\#"You are late you know..."<#>\>\}\i[376]АЙЗЕР\{\<\#«Вы опоздали, знаете...»
@@ -11970,7 +12348,10 @@ You hear voices echoing from the beheaded wizard...\#\c[7]"You will obviously ha
 \>\i[64]\}UGUST\{\<\#"That kind of strength is not easy to come by. So he did anything\#and everything it took to get that kind of power."<#>\>\}\i[368]ВГУСТ\{\<\#«Такую силу нелегко обрести. Поэтому он делал всё, что\#только было в его силах, чтобы заполучить эту власть.»
 \>\i[64]\}UGUST\{\<\#"Without the grand 'ends' he visioned, he only came to be known from\#his 'means'."<#>\>\}\i[368]ВГУСТ\{\<\#«Без грандиозных „целей“, которые он себе представлял, он стал\#известен только благодаря своим „средствам“.»
 "Doesn't sound like a learning type."<#>«Не похоже, что он чему-то научился.»
-<!-- Map137.json White bunker - Level 3 --><#>Белый бункер - Уровень 3
+<!-- Map --><#>137
+<!-- Map Name: tunnels_0_level3 --><#>
+<!-- In-game Displayed Name: White bunker - Level 3 --><#>Белый бункер - Уровень 3
+<!-- Order --><#>148
 Darkness surrounds you from all directions.\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\.\^<#>Тьма окружает вас со всех сторон.\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\.\^
 The masked army officer gives you a flirtatious smile and seductively\#waves you to follow her...<#>Армейский офицер в маске показывает вам кокетливую\#улыбку и соблазнительно изгибается, чтобы вы\#последовали за ней.
 GabText Something big is advancing from the darkness...<#>GabText Что-то большое надвигается из тьмы...
@@ -11983,7 +12364,10 @@ It's hard to tell where the latex suit ends and the trooper\#begins, but the ski
 There is some slightly uncanny about her proportions, but she\#definitely is one of the more 'normal' foes you've faced so far.<#>В её пропорциях присутствует некая зловещая долина,\#но она точно выглядит намного более «нормально» чем\#все те, кого вы встречали ранее.
 The sylvian trooper doesn't exactly have any crevices in her body\#to hide any loot.<#>У наездницы Сильвиан не слишком много карманов,\#чтобы что-то хранить.
 You took the \c[2]Sylvian trooper head\c[0] as a trophy!<#>Вы взяли \c[2]голову наездницы Сильвиан\c[0] в качестве трофея!
-<!-- Map138.json Prehevil - Eastern outskirt --><#>Прехевил - Восточная окраина
+<!-- Map --><#>138
+<!-- Map Name: Prehevil_East_outskirts --><#>
+<!-- In-game Displayed Name: Prehevil - Eastern outskirt --><#>Прехевил - Восточная окраина
+<!-- Order --><#>64
 GabText A tranquil lake views opens up in front of you...<#>GabText Вид на успокаивающее озеро открывается перед вами...
 You can peek to the alleyway, but you cannot fit through.<#>Вы можете заглянуть в переулок, но сами вы туда не протиснитесь.
 Peek<#>Заглянуть
@@ -12019,28 +12403,50 @@ GabText You hear a gunshot...<#>GabText Вы слышите выстрелы...
 \>\i[76]\}ARINA\{\<\#"Oh right! This is the official baptism beach!"<#>\>\}\i[378]АРИНА\{\<\#«О, верно! Это же основной пляж для крещения!»
 \>\i[76]\}ARCOH\{\<\#"It doesn't matter how much you get punched,\. what matters is how\#many punches you can take.\. And how hard you can punch back.\. And\#how many times you get back up to punch again."<#>\>\}\i[378]АРКО\{\<\#«Неважно, как сильно тебя бьют.\. Важно то, сколько ударов\#ты можешь выдержать.\. И как сильно ты можешь ударить в\#ответ.\. И сколько раз ты сможешь встать, чтобы ударить в ответ.»
 \>\i[76]\}ARCOH\{\<\#"Or something along those lines... That's what my coach used to say."<#>\>\}\i[378]АРКО\{\<\#«Или что-то между этим... Так говорил мой тренер.»
-<!-- Map139.json --><#>
-<!-- Map140.json The White womb of Logic --><#>Белое чрево Логики
-<!-- Map141.json --><#>
-<!-- Map142.json Pit --><#>Яма
+<!-- Map --><#>139
+<!-- Map Name: Grand_hall_final --><#>
+<!-- Order --><#>149
+<!-- Map --><#>140
+<!-- Map Name: tunnels_0_final --><#>
+<!-- In-game Displayed Name: The White womb of Logic --><#>Белое чрево Логики
+<!-- Order --><#>151
+<!-- Map --><#>141
+<!-- Map Name: transform --><#>
+<!-- Order --><#>5
+<!-- Map --><#>142
+<!-- Map Name: Pit --><#>
+<!-- In-game Displayed Name: Pit --><#>Яма
+<!-- Order --><#>135
 GabText Your body couldn't handle the fall.<#>GabText Вы не выжили после падения.
-<!-- Map143.json Artificial green --><#>Искусственная зелена
+<!-- Map --><#>143
+<!-- Map Name: final --><#>
+<!-- In-game Displayed Name: Artificial green --><#>Искусственная зелена
+<!-- Order --><#>152
 GabText Warmth surrounds your body...<#>GabText Тепло окружает ваше тело...
 GabText It feels like you're floating in nothingness...<#>GabText Такое ощущение, что вы парите в небытие...
 GabText Empathy and hope fill you from inside out...<#>GabText Сопереживание и надежда наполняют вас изнутри...
 GabText You've gone through enough. Now you can rest...<#>GabText Вы прошли достаточно. Теперь вы можете отдохнуть...
 GabText Just close your eyes and let the warm waves wash you away...<#>GabText Просто закройте глаза и позвольте тёплым волнам смыть вас...
-<!-- Map144.json Outskirts of Prehevil --><#>Окраины Прехевила
+<!-- Map --><#>144
+<!-- Map Name: Alternate_path --><#>
+<!-- In-game Displayed Name: Outskirts of Prehevil --><#>Окраины Прехевила
+<!-- Order --><#>13
 \>\i[67]\}AAN\{\<\#"One second we were at the burned building and now we're here."<#>\>\}\i[372]ААН\{\<\#«Секунду назад мы были в сожжённом здании, а теперь мы\#здесь.»
 \>\i[67]\}AAN\{\<\#"We are not in the normal world anymore I presume..."<#>\>\}\i[372]ААН\{\<\#«Мы больше не в обычном мире, я так полагаю...»
 GabText A cold wind blows in the dark empty before you.<#>GabText Холодный ветерок устремляется в тёмную пустоту перед вами.
-<!-- Map145.json Hidden spot --><#>Скрытое местечко
+<!-- Map --><#>145
+<!-- Map Name: Hidden_woods --><#>
+<!-- In-game Displayed Name: Hidden spot --><#>Скрытое местечко
+<!-- Order --><#>134
 There is a pit here...<#>Здесь яма...
 Throw a rock in it<#>Бросить в неё камень
 The bottom of the pit is shrouded in darkness, so you can't quite\#tell how deep the pit really is...<#>Дно ямы закрывает тьма, так что вы не можете точно\#сказать, насколько она глубока...
 You pick up a small rock and throw it in.<#>Вы подбираете маленький камень и кидаете внутрь.
 Sounds like the pit is quite deep...<#>Похоже, что яма довольно глубока...
-<!-- Map146.json Moon Tower --><#>Лунная башня
+<!-- Map --><#>146
+<!-- Map Name: Moon_tower --><#>
+<!-- In-game Displayed Name: Moon Tower --><#>Лунная башня
+<!-- Order --><#>52
 \>\i[144]\}ER'KELE\{\<\#"Ah, you are finally here."<#>\>\}\i[381]ЕР'КЕЛЕ\{\<\#«Ах, вы наконец здесь.»
 Per'kele greets you in a monotonous voice.<#>Пер'келе встречает вас монотонным голосом.
 You hear voices echoing from the beheaded wizard...\#\c[7]"This should be good."\c[0]<#>В вашей голове эхом раздаётся голос обезглавленного мага...\#\c[7]«Мы сделали достаточно.»\c[0]
@@ -12206,10 +12612,15 @@ The world starts fading before your eyes...<#>Мир перед глазами �
 \>\i[144]\}ER'KELE\{\<\#"So that's it. No illustrious heights for you."<#>\>\}\i[381]ЕР'КЕЛЕ\{\<\#«Да будет так. Никаких прославленных высот для вас.»
 \>\i[144]\}ER'KELE\{\<\#"The only grand prize I can offer at this point is your freedom."<#>\>\}\i[381]ЕР'КЕЛЕ\{\<\#«Единственную великую оплату, которую я могу предложить\#в таком случае - ваша свобода.»
 \>\i[144]\}ER'KELE\{\<\#"Only I stand in your way."<#>\>\}\i[381]ЕР'КЕЛЕ\{\<\#«Лишь я стою на вашем пути.»
-<!-- Map147.json Mayor's manor --><#>Поместье мэра
+<!-- Map --><#>147
+<!-- Map Name: Mayors_manor_alternate --><#>
+<!-- In-game Displayed Name: Mayor's manor --><#>Поместье мэра
+<!-- Order --><#>24
 \>\i[67]\}AAN\{\<\#"One second we were at the manor and now we're here."<#>\>\}\i[372]ААН\{\<\#«Секунду назад мы были в поместье, а теперь мы здесь.»
 \>\i[67]\}AAN\{\<\#"We are not in the mayor's manor anymore I presume..."<#>\>\}\i[372]ААН\{\<\#«Мы больше не в поместье мэра, я так полагаю...»
-<!-- Map148.json --><#>
+<!-- Map --><#>148
+<!-- Map Name: Otherside2 --><#>
+<!-- Order --><#>139
 \>\i[76]\}YSTERIOUS PERSON\{\<\#*Grumble* *Grumble*<#>\>\}\i[374]АГАДОЧНОЕ СУЩЕСТВО\{\<\#*Чавк* *Чавк*
 The person seems to be chewing something.<#>Существо, похоже, что-то жуёт.
 \>\i[76]\}YSTERIOUS PERSON\{\<\#"iT iS fUN."<#>\>\}\i[374]АГАДОЧНОЕ СУЩЕСТВО\{\<\#«вЕ сЕ лО.»
@@ -12223,31 +12634,49 @@ The person seems to be chewing something.<#>Существо, похоже, чт
 \>\i[76]\}YSTERIOUS PERSON\{\<\#"ThAt MaSK..."<#>\>\}\i[374]АГАДОЧНОЕ СУЩЕСТВО\{\<\#«ЭтА МаСКа...»
 \>\i[76]\}YSTERIOUS PERSON\{\<\#"SuRE lOOks FUN."<#>\>\}\i[374]АГАДОЧНОЕ СУЩЕСТВО\{\<\#«ВыГЛяДИТ ВЕСЕЛО.»
 GabText A lone street and a building appears out of the darkness.<#>GabText Одинокая улица и здание появляются из тьмы.
-<!-- Map149.json Workshop --><#>Мастерская
+<!-- Map --><#>149
+<!-- Map Name: Workshop2 --><#>
+<!-- In-game Displayed Name: Workshop --><#>Мастерская
+<!-- Order --><#>170
 GabText The air is hot and musky.<#>GabText Воздух горячий и мускусный.
 A pile of cubes with mysterious sigils carved across it. You do\#not understand their purpose.<#>Куча кубов, на которых выгравированы загадочные символы.\#Вы не понимаете их назначения.
-<!-- Map150.json --><#>
+<!-- Map --><#>150
+<!-- Map Name: pocketcat_room --><#>
+<!-- Order --><#>140
 \>\i[74]\}ARIN\{\<\#"What's the purpose of this junk?"<#>\>\}\i[376]АРИН\{\<\#«Зачем нужен весь этот хлам?»
 \>\i[76]\}ARINA\{\<\#"In any other circumstance this would be kind of cute... But it's\#uncanny seeing stuff like this here."<#>\>\}\i[378]АРИНА\{\<\#«При любых других обстоятельствах, всё было бы даже\#немного мило... Но сейчас, жутко видеть подобное.»
 \>\i[64]\}BELLA\{\<\#"Is this a children's room...?"<#>\>\}\i[368]БЕЛЛА\{\<\#«Это детская комната...?»
 \>\i[78]\}LIVIA\{\<\#"Does someone live here?"<#>\>\}\i[380]ЛИВИЯ\{\<\#«Здесь вообще кто-нибудь живёт?»
 GabText The room has an eerie atmosphere. Something is very wrong about this place.<#>GabText Комната окутана жутью. С этим местом явно что-то не так.
-<!-- Map151.json --><#>
-<!-- Map152.json --><#>
+<!-- Map --><#>151
+<!-- Map Name: endings --><#>
+<!-- Order --><#>176
+<!-- Map --><#>152
+<!-- Map Name: fall_scene --><#>
+<!-- Order --><#>158
 GabText You hit the beast and manage to kill it!<#>
 GabText You hit the beast and manage to wound it!<#>
 GabText You hit the creature and manage to kill it!<#>
 GabText You hit the creature and manage to wound it!<#>
-<!-- Map153.json --><#>
+<!-- Map --><#>153
+<!-- Map Name: pocketcat2_room --><#>
+<!-- Order --><#>141
 \>\i[74]\}ARIN\{\<\#"What's this? A crime scene...?"<#>\>\}\i[376]АРИН\{\<\#«Что это? Место преступления...?»
 \>\i[64]\}BELLA\{\<\#"This doesn't feel real now does it?"<#>\>\}\i[368]БЕЛЛА\{\<\#«Ощущается нереально, не так ли?»
 \>\i[64]\}BELLA\{\<\#"It's like someone set this up. Almost like a movie scene."<#>\>\}\i[368]БЕЛЛА\{\<\#«Будто кто-то заснял это. Как в фильме.»
 \>\i[78]\}LIVIA\{\<\#"Is there a... dead body under the rug?"<#>\>\}\i[380]ЛИВИЯ\{\<\#«Может тут где-то спрятан... труп?»
 \>\i[78]\}'SAA\{\<\#"What exactly is this room supposed to symbolize?"<#>\>\}\i[380]'САА\{\<\#«Что вообще эта комната должна символизировать?»
 \>\i[76]\}ARCOH\{\<\#"It's a ... Police scene?"<#>\>\}\i[378]АРКО\{\<\#«Это... Место преступления?»
-<!-- Map154.json --><#>
-<!-- Map155.json --><#>
-<!-- Map156.json Prehevil - West --><#>Прехевил - Запад
+<!-- Map --><#>154
+<!-- Map Name: ending1 --><#>
+<!-- Order --><#>177
+<!-- Map --><#>155
+<!-- Map Name: start_the_game --><#>
+<!-- Order --><#>6
+<!-- Map --><#>156
+<!-- Map Name: Prehevil_West2 --><#>
+<!-- In-game Displayed Name: Prehevil - West --><#>Прехевил - Запад
+<!-- Order --><#>101
 There's nothing here.<#>Здесь ничего нет.
 The truck seems to be wrecked. There is no using it.<#>Грузовик, похоже, разбит. Его не завести.
 \>\i[74]\}ARIN\{\<\#"Can you imagine how many innocent people lost their lives here!?"<#>\>\}\i[376]АРИН\{\<\#«Ты можешь представить, как много невинных людей потеряли\#здесь свои жизни?!»
@@ -12255,18 +12684,29 @@ The truck seems to be wrecked. There is no using it.<#>Грузовик, пох�
 \>\i[74]\}ARIN\{\<\#"The moment you send your troops over to another sovereign country,\#that's when this shit stops being self-defence!"<#>\>\}\i[376]АРИН\{\<\#«В тот момент, когда ты посылаешь свои войска в другую\#независимую страну, твои действия перестают быть\#самозащитой!»
 \>\i[74]\}ARIN\{\<\#"Disgusting."<#>\>\}\i[376]АРИН\{\<\#«Отвратительно.»
 Karin spits on the ground.<#>Карин плюет на землю.
-<!-- Map157.json --><#>
+<!-- Map --><#>157
+<!-- Map Name: hallway1 --><#>
+<!-- Order --><#>102
 The door doesn't budge.<#>Дверь не поддаётся.
 GabText It's quiet...<#>GabText Здесь тихо...
-<!-- Map158.json Prehevil - West --><#>Прехевил - Запад
+<!-- Map --><#>158
+<!-- Map Name: inner_garden --><#>
+<!-- In-game Displayed Name: Prehevil - West --><#>Прехевил - Запад
+<!-- Order --><#>103
 You find a \c[2]One-winged necklace\c[0].<#>Вы нашли \c[2]ожерелье в форме крыла\c[0].
 \>\i[74]\}ARIN\{\<\#"Try to walk only in open areas."<#>\>\}\i[376]АРИН\{\<\#«Старайтесь ходить только по открытым пространствам.»
 \>\i[67]\}AAN\{\<\#"We are happy of your expertise. Having 'covered wars' sure comes\#handy in situations like these."<#>\>\}\i[372]ААН\{\<\#«Мы рады иметь твоё экспертное мнение. „Освещение воин“,\#безусловно, очень полезно в подобных ситуациях.»
-<!-- Map159.json Old apartments 1F --><#>Старые апартаменты 1Э
+<!-- Map --><#>159
+<!-- Map Name: Apartments_backalley --><#>
+<!-- In-game Displayed Name: Old apartments 1F --><#>Старые апартаменты 1Э
+<!-- Order --><#>76
 There are a lot of chairs here.<#>Здесь очень много стульев.
 The sink has mysterious stains in it.<#>Раковина заляпана неизвестными пятнами.
 The toilet is filthy and disgusting, but you suspected as much even\#before checking it out.<#>Туалет грязный и отвратительный, но вы и так об этом\#подозревали.
-<!-- Map160.json Old apartments 2F --><#>Старые апартаменты 2Э
+<!-- Map --><#>160
+<!-- Map Name: Apartments_backalley_2F --><#>
+<!-- In-game Displayed Name: Old apartments 2F --><#>Старые апартаменты 2Э
+<!-- Order --><#>77
 The stairs have been cut. Looks like someone did this intentionally.<#>Лестница обрушилась. Похоже, её обрушили намеренно.
 The bed is full of gore. You don't feel like sleeping in it.<#>Кровать вся в крови. Вы не хотите на ней спать.
 It's a television set. There doesn't appear to be electricity here,\#so you cannot use it.<#>Телевизионный набор. Похоже, что электричества нет, так что\#вы не можете его использовать.
@@ -12275,7 +12715,9 @@ The bucket has nothing interesting in it. Just random rubbish.<#>В ведре �
 There are only underwear and old socks in the drawer.<#>В комоде лишь нижнее бельё и старые носки.
 A bloody tray.<#>Кровавый поднос.
 The sink is dirty. No one in Prehevil seems to know much about\#hygiene and keeping things tidy...<#>Раковина грязная. Похоже, в Прехевиле немногие осведомлены\#о гигиене и о том, как поддерживать чистоту...
-<!-- Map161.json --><#>
+<!-- Map --><#>161
+<!-- Map Name: head_count --><#>
+<!-- Order --><#>179
 Not a single soul returned from this trip...<#>Из этой поездки не вернулась ни одна душа...
 \c[2]\v[1816]\c[0] managed to survive through all the horrors...<#>\c[2]\v[1816]\c[0] людям удалось пережить все ужасы...
 Only \c[2]1\c[0] managed to survive through all the horrors...<#>Только \c[2]одному\c[0] удалось пережить все ужасы...
@@ -12350,9 +12792,16 @@ Thank you for playing \n[15]!<#>Спасибо за игру, \N[15]!
 Thank you for playing \n[13]!<#>Спасибо за игру, \N[13]!
 Thank you for playing \n[14]!<#>Спасибо за игру, \N[14]!
 Thank you for playing!<#>Спасибо за игру!
-<!-- Map162.json --><#>
-<!-- Map163.json --><#>
-<!-- Map164.json School - Level 2 --><#>Школа - Уровень 2
+<!-- Map --><#>162
+<!-- Map Name: final_falling --><#>
+<!-- Order --><#>153
+<!-- Map --><#>163
+<!-- Map Name: ending1_free --><#>
+<!-- Order --><#>178
+<!-- Map --><#>164
+<!-- Map Name: School3 --><#>
+<!-- In-game Displayed Name: School - Level 2 --><#>Школа - Уровень 2
+<!-- Order --><#>96
 The bookshelf is scorched. Nothing remains here.<#>Книжная полка выжжена. На ней ничего не осталось.
 Nothing interesting here.<#>Здесь ничего интересного.
 The table is scorched...<#>Стол обгорел...
@@ -12380,24 +12829,39 @@ The clock is stuck at 14:35.<#>Часы застряли на отметке в 
 A peaceful vista. There are some storm clouds gathering in the\#distance...<#>Мирное зрелище. На небе собираются дождевые облака...
 Portraits of school staff. Everyone shares one common feature -\#a thousand-yard stare.<#>Портреты школьных педагогов. Все лица разделяют одну\#особенность - взгляд прямо в душу.
 You find a \c[2]Soul stone\c[0]!<#>Вы нашли \c[2]камень душ\c[0]!
-<!-- Map165.json --><#>
+<!-- Map --><#>165
+<!-- Map Name: Elevator_shaft1 --><#>
+<!-- Order --><#>32
 The cable ends here. The drop doesn't look too bad. You could\#jump down, but there would be no way back up from here...<#>Кабель кончается здесь. Спрыгнуть не кажется плохим решением.\#Вы можете это сделать, но пути назад может и не быть...
 Go back<#>Вернуться
-<!-- Map166.json --><#>
+<!-- Map --><#>166
+<!-- Map Name: Cavern_ladders --><#>
+<!-- Order --><#>123
 \>\i[74]\}ARIN\{\<\#"Do we have to do this here?"<#>\>\}\i[376]АРИН\{\<\#«Что мы здесь делаем?»
-<!-- Map167.json Tunnel 4 - Level 2 --><#>Туннель 4 - Уровень 2
+<!-- Map --><#>167
+<!-- Map Name: tunnels4 --><#>
+<!-- In-game Displayed Name: Tunnel 4 - Level 2 --><#>Туннель 4 - Уровень 2
+<!-- Order --><#>124
 There is no power to use the elevator, but there are ropes\#hanging in the shaft that could be used to climb down...<#>Лифт не выйдет использовать из-за отсутствия энергии, но в\#шахте свисают верёвки, по которым можно было бы спуститься...
 A rusty bucket. Sometimes a bucket is just a bucket and nothing else.<#>Ржавое ведро. Иногда ведро - это просто ведро, и ничего более.
 There is no power to use the elevator, but there are ropes\#hanging in the shaft that could be used to climb up...<#>Лифт не выйдет использовать из-за отсутствия энергии, но в\#шахте свисают верёвки, по которым можно было бы подняться...
 \>\i[67]\}AAN\{\<\#"What is this thing doing in the caverns in the first place?"<#>\>\}\i[372]ААН\{\<\#«Что он вообще делает в пещерах?»
-<!-- Map168.json --><#>
-<!-- Map169.json Tunnel 4 - Level 3 --><#>Туннель 4 - Уровень 3
+<!-- Map --><#>168
+<!-- Map Name: Elevator_shaft2 --><#>
+<!-- Order --><#>125
+<!-- Map --><#>169
+<!-- Map Name: tunnels4_3 --><#>
+<!-- In-game Displayed Name: Tunnel 4 - Level 3 --><#>Туннель 4 - Уровень 3
+<!-- Order --><#>126
 The shelf has various different diagrams and schematics piled on\#top of each other. None of them seem interesting to you at this\#very moment.<#>На полке лежат разные диаграммы и чертежи, сложенные\#стопкой друг на друга. Ни одна из бумаг не кажется вам\#полезной в данный момент.
 There are random documents laid down on the table.<#>Различные документы лежат на столе.
 \>\i[82]\}ANAKA\{\<\#"Good afternoon..."<#>\>\}\i[384]АНАКА\{\<\#«Добрый день...»
 \>\i[82]\}ANAKA\{\<\#"It's Kida Tanaka. Good to make your acquaintance."<#>\>\}\i[384]АНАКА\{\<\#«Кида Танака. Приятно познакомиться.»
 \>\i[82]\}ANAKA\{\<\#"THEN I SWALLOW YOU WHOLE!"<#>\>\}\i[384]АНАКА\{\<\#«ТОГДА Я ПРОГЛОЧУ ТЕБЯ ЦЕЛИКОМ!»
-<!-- Map170.json Crypt --><#>Склеп
+<!-- Map --><#>170
+<!-- Map Name: Crypt1 --><#>
+<!-- In-game Displayed Name: Crypt --><#>Склеп
+<!-- Order --><#>128
 There's nothing interesting left here anymore.<#>Здесь не осталось ничего интересного.
 You pick up the \c[2]God manifesto\c[0].<#>Вы подобрали \c[2]божий манифест\c[0].
 A skeleton monk stand forever in guard here...<#>Скелет монаха стоит здесь на вечной страже...
@@ -12414,15 +12878,27 @@ You press through the crack...<#>Вы дотягиваетесь сквозь щ
 \>\i[78]\}'SAA\{\<\#"The markings on these graves suggest a more primitive form of\#Alll-mer worship..."<#>\>\}\i[380]'САА\{\<\#«Символы на этих могилах предполагают более примитивную\#форму поклонения Алл-меру...»
 \>\i[78]\}'SAA\{\<\#"The ritual crucifix at the old town already suggested as much,\#but it is interesting see more from that bygone era."<#>\>\}\i[380]'САА\{\<\#«Ритуальное распятие в городе уже многое объяснило, но\#было бы интересно узнать больше об ушедших эпохах.»
 GabText A cold air fills the crypt...<#>GabText Холодный воздух наполняет склеп...
-<!-- Map171.json Foundations of decay --><#>Гнилые пещеры
+<!-- Map --><#>171
+<!-- Map Name: decayed_foundations --><#>
+<!-- In-game Displayed Name: Foundations of decay --><#>Гнилые пещеры
+<!-- Order --><#>129
 The wall has been breached here...<#>Стена была проломлена здесь...
 Squeeze inside<#>Протиснуться
 It's dark inside. Looks like a crypt. You're not sure because of\#the darkness, but it almost looks like there are figures standing\#there...<#>Внутри темно. Выглядит, словно склеп. Вы не уверены\#из-за тьмы, но вам почти кажется, что в темноте\#стоят фигуры...
 It's dark inside.<#>Внутри темно.
 It's dark inside. Looks like a crypt or something akin to that.\#It's hard to make out anything else...<#>Внутри темно. Выглядит, словно склеп или что-то подобное.\#Сложно сделать ещё какие-нибудь выводы...
-<!-- Map172.json Pit --><#>
-<!-- Map173.json Tunnel 4 - Level 1 --><#>Туннель 4 - Уровень 1
-<!-- Map174.json Donnovan's house --><#>Дом Доннована
+<!-- Map --><#>172
+<!-- Map Name: Pit2 --><#>
+<!-- In-game Displayed Name: Pit --><#>Яма
+<!-- Order --><#>136
+<!-- Map --><#>173
+<!-- Map Name: tunnels4_1 --><#>
+<!-- In-game Displayed Name: Tunnel 4 - Level 1 --><#>Туннель 4 - Уровень 1
+<!-- Order --><#>127
+<!-- Map --><#>174
+<!-- Map Name: donnovan_house --><#>
+<!-- In-game Displayed Name: Donnovan's house --><#>Дом Доннована
+<!-- Order --><#>49
 Scribblings in blood. You do not recognize the language.<#>Каракули, нарисованные кровью. Вы не узнаёте язык.
 Looks like who ever lived here was in process of moving out when\#all this happened in the town...<#>Похоже, кто бы тут ни жил, он готовился уезжать, когда\#всё это произошло...
 There are erratic scriblings on the paper...<#>На бумаге нарисованы каракули...
@@ -12477,8 +12953,14 @@ You find the \c[2]Skin bible - Vinushka (unedited)\c[0]!<#>Вы нашли \c[2]
 "The sun..."<#>«Солнце...»
 "The city haunts my waking hours.\#Relentlessly.\#Endlessly."<#>«Город преследует мои часы наяву.\#Безжалостно.\#Бесконечно.»
 "After a long night, the dawn finally arrives, inviting us to\#the promised land."<#>«После долгой ночи наконец настанет рассвет, приглашающий\#нас на землю обетованную.»
-<!-- Map175.json Sewers - Western tunnels --><#>Канализация - Западные туннели
-<!-- Map176.json Tent --><#>Палатка
+<!-- Map --><#>175
+<!-- Map Name: Sewers5_small --><#>
+<!-- In-game Displayed Name: Sewers - Western tunnels --><#>Канализация - Западные туннели
+<!-- Order --><#>119
+<!-- Map --><#>176
+<!-- Map Name: Tent1 --><#>
+<!-- In-game Displayed Name: Tent --><#>Палатка
+<!-- Order --><#>137
 \>\i[74]\}ARIN\{\<\#"An army tent?\. Smells like Bremen pig to me."<#>\>\}\i[376]АРИН\{\<\#«Армейская палатка?\. Я чую запах бременских свиней.»
 \>\i[78]\}LIVIA\{\<\#"What's better than camping out in the wild?"<#>\>\}\i[380]ЛИВИЯ\{\<\#«Что может быть лучше, чем лесной кемпинг?»
 \>\i[78]\}LIVIA\{\<\#"To feel the fresh morning dew the moment you wake up, to see\#flowers slowly open up and welcome the first rays of the sun..."<#>\>\}\i[380]ЛИВИЯ\{\<\#«Чувствовать свежую утреннюю росу, когда просыпаешься,\#видеть, как медленно раскрываются цветы, приветствуя\#первые лучи солнца...»
@@ -12496,8 +12978,15 @@ You find the \c[2]Skin bible - Vinushka (unedited)\c[0]!<#>Вы нашли \c[2]
 \>\i[78]\}'SAA\{\<\#"It's absurd. Only once you have the choice, would you consider\#it pastime to revert back to living in tents."<#>\>\}\i[380]'САА\{\<\#«Это абсурд. Даже когда у вас есть выбор, вы предпочитаете\#проводить свободное время жизнью в палатке.»
 \>\i[76]\}ARCOH\{\<\#"I always associate tents with Vatican slums instead of camping\#in the wild."<#>\>\}\i[378]АРКО\{\<\#«У меня палатки всегда ассоциировались с ватиканскими\#трущобами, нежели чем кемпингом на природе.»
 \>\i[76]\}ARCOH\{\<\#"Funny."<#>\>\}\i[378]АРКО\{\<\#«Забавно.»
-<!-- Map177.json Prehevil - Alleyway --><#>Прехевил - Переулок
-<!-- Map178.json --><#>
+<!-- Map --><#>177
+<!-- Map Name: Prehevil_alleyway --><#>
+<!-- In-game Displayed Name: Prehevil - Alleyway --><#>Прехевил - Переулок
+<!-- Order --><#>104
+<!-- Map --><#>178
+<!-- Map Name: Otherside_test --><#>
+<!-- Order --><#>142
 Take the \c[2]Joy mask\c[0]?<#>Забрать \c[2]маску радости\c[0]?
-<!-- Map179.json --><#>
+<!-- Map --><#>179
+<!-- Map Name: Floating --><#>
+<!-- Order --><#>108
 "..."<#>«...»
