@@ -1,7 +1,6 @@
 <!-- Map --><#>001
 <!-- Map Name: Praha1 --><#>
 <!-- Order --><#>8
-This is text!<#>
 <!-- Map --><#>002
 <!-- Map Name: outskirts --><#>
 <!-- Order --><#>157
@@ -19,25 +18,15 @@ Shamelessly it scratches its groin area.<#>Он бесстыдно чешет п
 <!-- Map --><#>003
 <!-- Map Name: Character_creation --><#>
 <!-- Order --><#>2
-Caution! This game contains scenes of extreme\#violence  and gore. The game also covers themes of\#sexual violence, drug usage and child abuse.<#>
 Continue<#>Продолжить
 Quit<#>Выйти
 Thank you for showing interest anyway!<#>В любом случае, спасибо за проявленный интерес!
-GabText Please create your character<#>
-GabText First, you must choose your profession<#>
-GabText \N[1]...<#>
-GabText You have travelled a great distance<#>
-GabText in search of your former comrade in arms.<#>
-GabText Your journey has lead you to this wretched place.<#>
-Mercenary - A warrior class that will do whatever it\#takes to see the light of the next day. There isn't\#a task you wouldn't undertake for a bag of silver coins.<#>
 Yes<#>Да
 No<#>Нет
-Knight - Righteous and discliplined. Following the path\#of the sword is as much about physical, as it is about\#mental strength. Excels in melee combat.<#>
-Unfortunately the only class available in this demo\#version is Mercenary.<#>
-Dark Priest - Alchemy and ritual passages have gained\#you deeper knowledge of human nature. There is no right\#and wrong, only the way of the gods.<#>
 <!-- Map --><#>004
 <!-- Map Name: Path1 --><#>
 <!-- Order --><#>9
+"..."<#>«...»
 You are unable to move...<#>Вы неспособны двигаться...
 Quit breathing<#>Перестать дышать
 Hold on!<#>Держаться!
@@ -1362,14 +1351,7 @@ GabText The dark priest is hurt!<#>GabText Тёмный жрец ранен!
 GabText You wound the arm of the dark priest!<#>GabText Вы ранили руку тёмного жреца!
 No reaction from the foul man. Lifeless eyes beneath the mask\#remain cloudy.<#>Никакой реакции от этого отвратительного человека.\#Безжизненные глаза за его мутной маской плохо видно.
 You took the \c[2]Vile head\c[0] as a trophy!<#>Вы взяли \c[2]голову Мерзости\c[0] в качестве трофея!
-Use \c[2]Soul stone\c[0]<#>
-The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue light.<#>
-Use \c[2]Demon seed\c[0]<#>
-A baby sprouted out of your seed!<#>
-You take the baby with you.<#>
 You do not have enough sanity to perform this act.<#>У вас недостаточно разума, чтобы совершить это действие.
-You could use \c[2]Soul stone\c[0] here...<#>
-The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.<#>
 There is a wooden chest here...<#>Здесь стоит деревянный сундук...
 Open it<#>Открыть его
 HEADS<#>ОРЕЛ
@@ -1467,21 +1449,7 @@ You got pick up 2 \c[2]Legs\c[0].<#>Вы подобрали 2 \c[2]ноги\c[0]
 <!-- Map --><#>010
 <!-- Map Name: start --><#>
 <!-- Order --><#>1
-Choose the mode?<#>
-Normal mode<#>
-Hard mode<#>
-[Dungeon Nights]<#>
-It is strongly recommended that you play the Normal mode\#before attempting [Dungeon Nights] mode.<#>
-[Dungeon Nights] combines physical, mental and social\#challenges all into one and it might be too much for beginners.<#>
-Proceed with the [Dungeon Nights]<#>
-Go back!<#>
-Play intro?<#>
-D'arce<#>
-Enki<#>
-Ragnvaldr<#>
-Cahara<#>
 Zoophobia<#>Зоофобия
-Necrophobia<#>
 Phasmophobia<#>Фазмофобия
 Rhabdophobia<#>Рабдофобия
 Teratophobia<#>Тератофобия
@@ -1643,7 +1611,6 @@ A worn out bed full of dirty dishes. Sleeping here is the\#last thing on your mi
 \>\i[76]\}ARCOH\{\<\#"It's an alright shack I suppose..."<#>\>\}\i[378]АРКО\{\<\#«Неплохая лачуга, как по мне...»
 \>\i[76]\}ARCOH\{\<\#"I've slept in worse places."<#>\>\}\i[378]АРКО\{\<\#«Я спал в худших местах.»
 GabText A striking smell of mold fills the damp cottage.<#>GabText Резкий запах плесени наполняет сырой коттедж.
-GabText You hit the Crow Mauler and it doesn't seem to care.<#>
 <!-- Map --><#>014
 <!-- Map Name: Train_cabins --><#>
 <!-- In-game Displayed Name: Train cabin --><#>Вагон поезда
@@ -2946,7 +2913,6 @@ GabText This must be it for you...<#>GabText Похоже, это конец д�
 \>\i[64]\}UGUST\{\<\#"Good luck."<#>\>\}\i[368]ВГУСТ\{\<\#«Удачи.»
 There are pigs standing in the pen. They look well-fed.<#>В загоне стоят свиньи. Они выглядят упитанно.
 There are fishes hanging from a drying rope. They seem to be\#coated in yellow substance...<#>Рыбы свисают с сушилки. Они покрыты какой-то жёлтой\#субстанцией...
-It works!<#>
 Chained up coffins. The chains seem reinforced and really\#diffifult to open up.<#>Закованные гробы. Цепи выглядят прочными и практически\#неснимаемыми.
 Knock on the coffin<#>Постучаться в гроб
 No reaction. You cannot hear anything from inside.<#>Никакой реакции. Вы не слышите ничего изнутри.
@@ -3068,7 +3034,6 @@ GabText Your head hurts! You feel like you're losing your mind!<#>GabText Ваш
 <!-- Map Name: Intro_Train_cabins --><#>
 <!-- Order --><#>168
 A wall of suitcases... Something feels off...<#>Стена из чемоданов... Что-то не так...
-GabText The mist here carries the same odor as the dungeon air...<#>
 All these suitcases... Something feels off...<#>Все эти чемоданы... Что-то не так...
 Marina<#>Марина
 Levi<#>Леви
@@ -4383,10 +4348,7 @@ You take the \c[2]Leather armor\c[0]!<#>Вы взяли \c[2]кожаную бр
 <!-- In-game Displayed Name: Two-story house --><#>Двухэтажный дом
 <!-- Order --><#>25
 You unlock the basement doors.<#>Вы открываете двери подвала.
-choice_text 2 Use Soul stone<#>
 No reaction. But it is satisfying.<#>Никакой реакции. Но это успокаивает.
-Skin him<#>
-You took a \c[2]Pale skin\c[0]!<#>
 The chair fell over on its own.<#>Стул упал сам по себе.
 \>\i[76]\}ARINA\{\<\#"Looks like the basement was used for worshipping something..."<#>\>\}\i[378]АРИНА\{\<\#«Похоже, что подвал использовался для поклонения кому-то...»
 \>\i[76]\}ARINA\{\<\#"Must have been something they didn't want the church to know about."<#>\>\}\i[378]АРИНА\{\<\#«Может, они не хотели чтобы об этом знала церковь.»
@@ -5161,8 +5123,6 @@ Black Kalev has too many hooves cut. He's just staring to\#emptiness, waiting fo
 Black Kalev doesn't need your sympathy. That's all you can\#get from his expression at least.<#>Чёрному Калеву не нужны ваши извинения. Это всё, что вы\#можете сказать по его выражению лица.
 Black Kalev just lays still and looks through you.<#>Чёрный Калев смирно лежит и смотрит сквозь вас.
 Black Kalev is dead now...<#>Чёрный Калев теперь мёртв...
-Your child is dead now...<#>
-The \c[2]Soul stone\c[0] doesn't seem to react to his\#remains...<#>
 \N[16] has taken too much damage. It's struggling to contain his\#soul.<#>\N[16] принял на себя слишком много урона. Он борется с тем,\#чтобы удержать свою душу в теле.
 The ghoul is breathing heavily. You can hear death rattle deep\#within him...<#>Гуль тяжело дышит. Вы слышите предсмертные хрипы, исходящие\#от него...
 Here lies \N[16]...<#>Здесь лежит \N[16]...
@@ -5200,7 +5160,6 @@ Here lies \N[20]...<#>Здесь лежит \N[20]...
 \N[21] has taken too much damage. It's struggling to contain\#his soul.<#>\N[21] принял на себя слишком много урона. Он борется с тем,\#чтобы удержать свою душу в теле.
 You can see the dim light fading in \N[21]'s eye\#sockets. \N[21] is at the end of its road.<#>Вы видите угасающий свет в глазах \N[21].\#Он находится в конце своего пути.
 Here lies \N[21]...<#>Здесь лежит \N[21]...
-The \c[2]Soul stone\c[0] changed it's appearance.\#The stone is radiating faint blue light.<#>
 \N[13] has too many limbs cut. He's in a state of shock.<#>У \N[13] отсутствует слишком много конечностей. Он\#в состоянии шока.
 Marcoh is breathing heavily. His eyes still seem vivid, but his\#body clearly doesn't react.<#>Марко тяжело дышит. Его глаза выглядят живыми, в то время как\#тело никак не реагирует.
 Marcoh tries to shrug his head. His eyes give you comfort. He seems\#to be at peace with his fate.<#>Марко пытается покачать головой. Его глаза успокаивают вас.\#Похоже, он полностью принял свою судьу.
@@ -5231,7 +5190,6 @@ You took the \c[2]Big boy's head\c[0] as a trophy!<#>Вы взяли \c[2]гол
 <!-- Map Name: Alternate_7 --><#>
 <!-- In-game Displayed Name: Tunnel 7 --><#>Туннель 7
 <!-- Order --><#>36
-Skin her<#>
 The skin seems to disintegrate as you peel it off. You cannot\#make any use of it.<#>Кожа, похоже, распадается по мере того как вы разрезаете её.\#Органы не выйдет использовать.
 A mysterious ornament door remains shut.<#>Таинственная орнаментированная дверь остаётся закрытой.
 <!-- Map --><#>031
@@ -5239,10 +5197,6 @@ A mysterious ornament door remains shut.<#>Таинственная орнаме
 <!-- Order --><#>173
 Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Rot\c[0]?<#>Использовать \c[2]камень душ\c[0], чтобы изучить навык \c[2]гниение\c[0]?
 Who will learn \c[2]Rot\c[0]?<#>Кто изучит навык \c[2]гниение\c[0]?
-\p[1]<#>
-\p[2]<#>
-\p[3]<#>
-\p[4]<#>
 Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Mastery over vermin\c[0]?<#>Использовать \c[2]камень душ\c[0], чтобы изучить навык \c[2]господство\#над паразитами\c[0]?
 Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Necromancy\c[0]?<#>Использовать \c[2]камень душ\c[0], чтобы изучить навык \c[2]некромантия\c[0]?
 Who will learn \c[2]Necromancy\c[0]?<#>Кто изучит навык \c[2]некромантия\c[0]?
@@ -5283,7 +5237,6 @@ Who will learn \c[2]Black smog\c[0]?<#>Кто изучит навык \c[2]чё�
 Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Advanced botanism\c[0]?<#>Использовать \c[2]камень душ\c[0], чтобы изучить навык \c[2]продвинутая\#ботаника\c[0]?
 Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Persuade\c[0]?<#>Использовать \c[2]камень душ\c[0], чтобы изучить навык \c[2]убеждение\c[0]?
 Use a \c[2]Lesser soul\c[0] to get \c[2]Attack +1\c[0]?<#>Использовать \c[2]камень душ\c[0], чтобы получить \c[2]+1 к атаке\c[0]?
-Sense<#>
 Who will get \c[2]Attack +1\c[0]?<#>Кто получит \c[2]+1 к атаке\c[0]?
 Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Inverse crown of thorns\c[0]?<#>Использовать \c[2]камень душ\c[0], чтобы изучить навык \c[2]обратный\#терновый венец\c[0]?
 Use a \c[2]Lesser soul\c[0] to get \c[2]Defense +1\c[0]?<#>Использовать \c[2]камень душ\c[0], чтобы получить \c[2]+1 к защите\c[0]?
@@ -5332,10 +5285,8 @@ Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Wrench toss\c[0]?<#>Испо
 Who will learn \c[2]Wrench toss\c[0]?<#>Кто изучит навык \c[2]бросок разводного ключа\c[0]?
 Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Lockpicking\c[0]?<#>Использовать \c[2]камень душ\c[0], чтобы изучить навык \c[2]взлом\c[0]?
 Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Escape plan\c[0]?<#>Использовать \c[2]камень душ\c[0], чтобы изучить навык \c[2]план побега\c[0]?
-Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Dash\c[0]?<#>
 Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Counter stance\c[0]?<#>Использовать \c[2]камень душ\c[0], чтобы изучить навык \c[2]стойка\#контратаки\c[0]?
 Who will learn \c[2]Counter stance\c[0]?<#>Кто изучит навык \c[2]стойка контратаки\c[0]?
-reset all<#>
 Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Weaponcraft\c[0]?<#>Использовать \c[2]камень душ\c[0], чтобы изучить навык \c[2]изготовление\#оружия\c[0]?
 Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Gun proficiency\c[0]?<#>Использовать \c[2]камень душ\c[0], чтобы изучить навык \c[2]владение\#оружием\c[0]?
 Who will learn \c[2]Gun proficiency\c[0]?<#>Кто изучит навык \c[2]владение оружием\c[0]?
@@ -5379,7 +5330,6 @@ Who will learn \c[2]Meditation\c[0]?<#>Кто изучит навык \c[2]ме�
 Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Greater blood magic\c[0]?<#>Использовать \c[2]камень душ\c[0], чтобы изучить навык \c[2]высшая\#магия крови\c[0]?
 Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]La Danse Macabre\c[0]?<#>Использовать \c[2]камень душ\c[0], чтобы изучить навык \c[2]танец\#смерти\c[0]?
 Who will learn \c[2]La Danse Macabre\c[0]?<#>Кто изучит навык \c[2]танец смерти\c[0]?
-Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Counter-magic\c[0]?<#>
 Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Poison tip\c[0]?<#>Использовать \c[2]камень душ\c[0], чтобы изучить навык \c[2]покрытие\#ядом\c[0]?
 Who will learn \c[2]Poison tip\c[0]?<#>Кто изучит навык \c[2]покрытие ядом\c[0]?
 Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Greater meditation\c[0]?<#>Использовать \c[2]камень душ\c[0], чтобы изучить навык \c[2]высшая\#медитация\c[0]?
@@ -5389,7 +5339,6 @@ Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Explosives\c[0]?<#>Испо�
 Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Steal\c[0]?<#>Использовать \c[2]камень душ\c[0], чтобы изучить навык \c[2]воровство\c[0]?
 Who will learn \c[2]Steal\c[0]?<#>Кто изучит навык \c[2]воровство\c[0]?
 Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Killing intent\c[0]?<#>Использовать \c[2]камень душ\c[0], чтобы изучить навык \c[2]желание\#убивать\c[0]?
-Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Bribe\c[0]?<#>
 Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Chains of torment\c[0]?<#>Использовать \c[2]камень душ\c[0], чтобы изучить навык \c[2]цепи\#истязаний\c[0]?
 Who will learn \c[2]Chains of torment\c[0]?<#>Кто изучит навык \c[2]цепи истязаний\c[0]?
 Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Photosynthesis\c[0]?<#>Использовать \c[2]камень душ\c[0], чтобы изучить навык \c[2]фотосинтез\c[0]?
@@ -6763,7 +6712,6 @@ There is some writing on the papers...<#>На бумагах что-то нап�
 "We are just sacrificial lambs to them. Waiting for slaughter."<#>«Мы лишь жертвенные агнцы для них. Ожидающие заклания.»
 There is nothing to devour...<#>Здесь нечего поглощать...
 There isn't much to kick. Only a sack of clothing and the\#empty shell left behind by the crimson father.<#>Здесь нечего бить. Лишь кучка вещей и пустая оболочка,\#оставленная багровым отцом.
-Skin it<#>
 There is nothing to lay your seed in...<#>Здесь не во что садить семя...
 There is nothing to saw off...<#>Здесь нечего отпиливать...
 \>\i[76]\}OONSCORCHED\{\<\#"This place... It's cursed."<#>\>\}\i[380]ПАЛЕННЫЙ ЛУНОЙ\{\<\#«Это место... Оно проклято.»
@@ -7345,7 +7293,6 @@ The toolbox is empty.<#>Ящик для инструментов пуст.
 A pile of metal crates that are sealed shut.<#>Куча металлических ящиков, запечатанных наглухо.
 Your head hurts. Your body feels a little slow as it's recovering\#from paralysis...<#>Ваша голова раскалывается. Тело ощущается немного неподвижным,\#восстанавливаясь от паралича...
 You find a chain tied to your ankle...<#>Вы обнаруживаете, что к вашей ноге привязана цепь...
-The \c[2]Soul stone\c[0] doesn't react. It seems that the\#creature is still very much alive.<#>
 There an electric panel here... You don't really know what to do\#with it.<#>Электрическая панель... Вам не совсем понятно,\#как ей пользоваться.
 The crate is sealed shut.<#>Ящик наглухо заколочен.
 \>\i[74]\}ARIN\{\<\#"A hidden bunker... This got me curious."<#>\>\}\i[376]АРИН\{\<\#«Скрытый бункер... Мне стало любопытно.»
@@ -8150,8 +8097,6 @@ GabText Something big is advancing towards you...<#>GabText Что-то огро
 <!-- Map Name: Lake_test --><#>
 <!-- In-game Displayed Name: Lake --><#>Озеро
 <!-- Order --><#>162
-GabText Your anal hole is bleeding...<#>
-GabText Blood just splurted out of your anus...<#>
 A thick layer of fog prevents you from seeing anything in the horizon.\#You try your best to navigate forward regardless...<#>Густой туман не даёт вам увидеть ничего за горизонтом.\#Вы всё равно пытаетесь двигаться вперёд, несмотря на это...
 An ominous little island makes itself known by peeking behind the\#veil of fog...<#>Маленький зловещий остров показывается из-за туманной завесы...
 You decide to navigate towards it.<#>Вы решаете плыть к нему.
@@ -9010,203 +8955,9 @@ There is a portrait of a young man on the table. The person has his\#face scrath
 <!-- Map --><#>073
 <!-- Map Name: Fortress_intro --><#>
 <!-- Order --><#>156
-You were born with the soul of the endless that makes you\#yearn for freedom and forces you to push your creativity to\#its limits.<#>
-You put your creativity to test in the most harshest of\#enviroments. You were born and soon abandoned in the capital\#of the Eastern Sanctuaries - Jettaiah.<#>
-You had to choose at a very young age to either become a\#pickpocket, a burglar or try to struggle and lead a honest\#life.<#>
-Lead a honest life<#>
-Your life spent learning thievery certainly didn't go to\#waste. You learned to live with constant fear and danger\#over the years. The crude streets of Jettaiah teached you\#valuable lessons.<#>
-You learn \c[2]Steal\c[0].<#>
-Your life spend learning thievery certainly didn't go to\#waste. You learned to live with constant fear and danger\#over the years. The crude streets of Jettaiah teached you\#valuable lessons.<#>
-You learn \c[2]Lockpicking\c[0].<#>
-You struggled through your early life, but managed to get\#by as a merchant of sorts. Your skills of haggling and\#speech improved over the years and you also managed to\#gather some savings.<#>
-You get \c[2]30 Silver coins\c[0].<#>
-However your endless soul yearned for more...\#You couldn't just become a family man, grow fat and make\#a living as a mere merchant. You were destined for more.<#>
-As you grew older you took part in various mercenary armies\#and learned the dirtiest tricks to stay alive. You were taken\#in by a notorious veteran highwayman and you joined his little\#band of criminals and ex-soldiers.<#>
-During one of your many raids, your brigade got ambushed.\#The odds were seriously against you. You could have just\#abandoned your comrades and kept you life, or you could have\#fought to your last breath.<#>
-Abandon your comrades<#>
-Fight to the last breath<#>
-You learn \c[2]Escape plan\c[0].<#>
-Not many survived the ambush, but that just meant that the\#mission rewards got less takers. You were one of the lucky\#ones.<#>
-You travelled across the land in your raids and eventually\#settled down in the Kingdom of Rondon where silver was\#loose as long as you were up for getting your knife dirty.<#>
-One day you got an omnious task from the officials of the\#Kingdom of Rondon. You are to be paid well in silver to get\#a captain of a fabled mercenary army out of the dungeons\#of Rondon itself.<#>
-From the dungeons of Fear and Hunger. The morbid place has\#been used as a wartime prison by the kingdom and for some\#reason they need an outside sword like yourself to infiltrate\#their very own stronghold.<#>
-Something is clearly not right about this mission and you\#have felt nauseus since the the moment you agreed on the\#job. But you are short on silver and the reward is all that\#matters in the end.<#>
-You spent your last night in the kingdom...<#>
-Go drinking and get laid at the brothel<#>
-Stock up food for the mission<#>
-Stock up healing items for the mission<#>
-Rush straight for your mission<#>
-You get a \c[2]Wine vial\c[0], a \c[2]Bottle of whiskey\c[0]\#and an \c[2]Ale\c[0].<#>
-You also get an itch in your groin area...<#>
-You get 3 \c[2]Dried meat\c[0], a \c[2]Moldy bread\c[0] and\#a \c[2]Cheese\c[0].<#>
-You get a \c[2]Blue vial\c[0] and 2 \c[2]Cloth fragments\c[0].<#>
-You learn \c[2]Dash\c[0].<#>
-This really is your make-or-break mission. There is a person\#back in the city relying on you to return with riches. You\#have heard rumours about this place and you are sure that\#there are great treasures hidden somewhere in these ruins...<#>
-So even if the mission was to go south for some reason,\#you are not going to return empty handed.<#>
-You were born with the soul of the tormented. You are\#destined to struggle in every step you take in life, but\#this just ultimately makes you stronger physically and tempers\#your iron will that rivals the will of the gods themselves.<#>
-You had a balanced childhood in the city of Oldegård with\#both of your parents always present. Your father taught you\#in the art of war. The very first step was to choose your\#weapon.<#>
-Choose bow & arrows<#>
-Choose mace and shield<#>
-You get a \c[2]Short bow\c[0] and 5 \c[2]arrows\c[0].<#>
-You get an \c[2]Iron mace\c[0] and a \c[2]Wooden buckler\c[0].<#>
-Winters grew colder and summers shorter, which resulted\#a great hunger in the north. The fine men of the Oldegård\#set sails to the unknown west in a desperate attempt to\#find food and riches to feed the people.<#>
-You had grown into your manhood and aboarded the ship.\#After months of sailing, the sea saw no end and the crew\#was struggling for their life. Some laid weak under the\#deck while some embraced the cold dark sea.<#>
-As the weak met their fate, the rest indulged in the greatest\#sin...<#>
-Devour your fallen comrades<#>
-Don't give in<#>
-You learn \c[2]Devour\c[0].<#>
-Eventually you lost your mind to the hunger and like a\#raging wolf you cried the night on the deck, while others\#feasted on the fallen.<#>
-You learn \c[2]Bloodlust\c[0].<#>
-As if the trip wasn't dark enough, when you finally found\#land, it was something no one in the civilized world could\#ever imagine. From the far reaches of the world you found the\#dark continent of Vinland.<#>
-The continent had never been touched by a civilized man.\#The land was tainted by ancient deities and gods you had\#never even heard of. The things you witnessed there left a\#mark in you that could never be washed away.<#>
-Some of your comrades lost their minds while others tried to\#pillage anything worthwhile before leaving the macabre place.<#>
-Take souveniers from Vinland<#>
-Don't touch anything and flee back to your ship<#>
-You get a \c[2]Soul stone\c[0].<#>
-Unfortunately the relics you brought from the trip tainted\#you and you formed a Panophobia, a fear of everything.<#>
-An ancient artefact was brought from the dark continent.\#You knew it was a mistake, but the choice wasn't in your\#hands. While you were hunting, away from home, a mercenary\#army raided your village.<#>
-Upon your return, you witnessed your home burning, your\#family slain and the artefact stolen. Those who survived\#the raid described the army and it's captain.<#>
-He was the famous captain from the fabled mercenary army\#Knights of the Midnight Sun. You immediately packed and\#left after him. The man would witness the iron will tempered\#in the north and in the dark continent of Vinland.<#>
-Stock up on equipment<#>
-Stock up on healing items<#>
-Rush straight after him<#>
-You get 3 \c[2]Iron arrows\c[0] and a \c[2]Bear trap\c[0].<#>
-You get a \c[2]Dried meat\c[0], a \c[2]Moldy bread\c[0] and\#3 \c[2]Carrots\c[0].<#>
-You get \c[2]4 Blue herbs\c[0], a \c[2]White vial\c[0] and\#\c[2]2 Cloth fragments\c[0].<#>
-You learned that the man has since been imprisoned in the\#Kingdom of Rondons dungeons. In the notorious dungeons\#of Fear & Hunger.<#>
-You set your mind - You will kill everything that carries\#a dark soul in the dungeons, you will have your revenge\#and the dark artefact will be yours again. There is no\#other way.<#>
-You were born with the soul of domination that makes\#people around you bend to your will. You are a natural\#leader, but you might often end up blind to self-criticism.<#>
-If your birth sign wasn't enough to warrant a future of\#greatness, you were also born into a wealthy noble family.\#At an early age you were sent into training to become\#a holy knight of Kingdom of Rondon.<#>
-Training to become a squire was a harsh school that spared\#no one. No matter if you were from a noble origin or not.<#>
-A practice sparring match between you and a well seasoned\#squire took place at the central training grounds.<#>
-It is said that a fighter shows their true colours in their\#first fight. This applied to you too. When you saw the\#sword coming your way, you...<#>
-Quickly stepped aside and dodged it<#>
-Raised your buckler in defence<#>
-You learned \c[2]Fast stance\c[0].<#>
-You learned \c[2]Defence stance\c[0].<#>
-As time went on, you proved out to be a gifted fighter and\#a valuable asset to the army of Rondon. However...<#>
-The Kingdom of Rondon claimed to follow the will of the\#gods in it's pursuit for more power. But all the rewards\#seemed to fall into the laps of the elite and noble sitting\#comformtably behind the castle walls.<#>
-Ruthlessly the kingdom would expand it's reign.\#Reducing the feeble citadels to ashes and blood stains.\#Enslaving the sweet women folk whilst every man is slain.\#Only spare a child or two, that it's legend may grow.<#>
-Your devotion was shaken. You were all but ready to retire\#from the army, but your family insisted - no, they demanded\#you to stay as a holy knight, or else you'd bring great\#shame to their noble family.<#>
-Break ties with your family and run away.<#>
-Listen to your family and stay as a holy knight.<#>
-At this point family ties weighted no more than strangers\#you met at the dirty streets of Rondon. You completely cut\#ties with your family wihout hesitation.<#>
-Just as you were about to flee from the army, things took\#an unexpected turn for you. You met a captain of a small\#mercenary army who seemed to share the same ill-will towards\#the Kingdom of Rondon as you.<#>
-You swallowed your grief and doubt and decided to stay as\#a holy knight. In the end you could try to fix things up\#from the inside, you figured.<#>
-Your family gave you a gift of \c[2]20 Silver coins\c[0].<#>
-Just as things seemed too dark, you saw a light in the\#darkness. You met a captain of a small mercenary army who\#seemed to share the same ill-will towards the Kingdom of\#Rondon as you.<#>
-The common folk was starting to gather around the\#charismatic leader Le'garde, who shared the humble origin\#similar to farmers and villagers alike. There was\#definitely something otherworldy in his stature.<#>
-Le'garde saw potential in you and with warm words, he\#almost seduced you to join his band of mercenaries. Thanks\#to your rigorous discipline, you took a high position in\#his army, the Knight of the Midnight Sun.<#>
-Your army was growing fast in both size and influence in the\#western regions. The Kingdom of Rondon would first use your\#services to their own benefit, but soon saw you more as a\#possible threat to their modern reigns.<#>
-Something changed with Le'garde as well. He kept more to\#himself and studied ancient texts and occult. He became\#obsessed with some relics and artefacts that gave you omnious\#feelings and terrible nightmares.<#>
-It was almost too much for you, when Le'garde decided to\#raid the northen capital Oldegård and slayed everyone who\#stood in the way between him and this mysterious ancient\#relic. You never understood it's importance.<#>
-It was this small overblow that was enough of an excuse\#for the Kingdom of Rondon to turn common folks against\#Le'garde and justify his imprisonment.<#>
-As the troops of the Rondon army marched towards your\#clearly smaller army, you had to choose which position\#to take in the coming encounter.<#>
-Take the rear and manage defences.<#>
-Spearhead the coming assault.<#>
-You get a \c[2]Long sword\c[0] and an \c[2]Eagle crest shield\c[0].<#>
-You get also get a \c[2]Plate mail\c[0] and \c[2]Leg guards\c[0].<#>
-You get an \c[2]Iron spear\c[0].<#>
-You get also get a \c[2]Iron cuirass\c[0] and \c[2]Arm guards\c[0].<#>
-The Knights of the Midnight Sun lost the fight.<#>
-Many of your comrades were slain, but you managed to escape\#the battlefield.<#>
-Le'garde was taken as a captive and to be used most likely\#on propaganda.<#>
-You knew you didn't have much time before he would be\#sentenced to death, so you had to act fast.<#>
-Even if it seemed like a suicide mission, you decided to\#save Le'garde from the prisons he was held in.<#>
-Before leaving for your desperate journey, you decided\#to stock up on equipment and items...<#>
-You get a \c[2]7 Tinderboxes\c[0], a \c[2]Quill\c[0]\#and a \c[2]Blue vial\c[0].<#>
-The dungeons open before you... You won't leave the ruins\#without Le'garde. One way or another, you two will be\#reunited. Even if it requires you to give up on your\#principles.<#>
-You were born with the soul of the enlightened. You are\#always seeking restlessly for new knowledge and secrets\#hidden from common folk.<#>
-This trait already started showing itself at a very young\#age as you were chosen to become a dark priest upon the birth\#of you and your twin sister.<#>
-Like typical to such occult rites, you were pitted against\#your sibling with ritual daggers and challenged to fight\#each other to the death.<#>
-Unfortunate for you, you were born with a fragile body\#and your sister easily overpowered you and had her dagger\#on your neck waiting for the final blow.<#>
-She however showed mercy and withdrew her dagger. She\#took steps away from you as your high priest masters glared\#gleefully at the event unfolding before their very eyes.<#>
-Strike your dagger to her spine while she walks away<#>
-Accept your defeat<#>
-You stroke your dagger to the spine of your sister and she\#collapsed on the ground. You high priest masters seemed\#especially pleased with this and prepared you for your\#ascension ceremony.<#>
-In the ascension ceremony you were to resurrect your\#deceased sister with necromancy and use her as your ghoul.\#You did this and the cold corpse of your sister brought\#a smile to your otherwise emotionless face.<#>
-You learn \c[2]Necromancy\c[0].<#>
-After your ascension to dark priesthood, you were to leave\#the temple grounds and learn of occult on your own in your\#dark pilgrimage.<#>
-The dark priests got no place for the weak, so you were\#thrown in an underground well. There you were meant to\#quietly wither away, but instead you fed on insects and other\#small critters that shared your fate down there.<#>
-With time you learned to understand the language they\#spoke. You learned \c[2]Mastery over insects\c[0].<#>
-With the aid of your new slaves, you eventually grew strong\#enough to climb up the well. You creeped upstairs to the\#temple and noticed it was night time.<#>
-Set the temple on fire and leave<#>
-Quietly leave and run away without revenge<#>
-Vengeful in how you had been treated, you set the temple on\#fire, jammed the exit door so no one could escape and then\#ran away. Only muffled screams could be heard coming from\#the temple.<#>
-You learn \c[2]Pyromancy trick\c[0].<#>
-You quietly left the temple area thinking that revenge\#doesn't solve anything, but in order to make sure you\#survive on your own you took some precious books to secure\#your wealth.<#>
-You get \c[2]Alchemillia vol. 1\c[0].<#>
-After leaving the temple grounds, you vowed to become a\#dark priest by your own merits and prove your fate wrong.<#>
-When beginning your self-studies, you first had to choose\#the god you'd dedicate your time to.<#>
-Pray for Gro-goroth<#>
-Pray for Sylvian<#>
-Pray for Alll-Mer<#>
-Pray for God of the Depths<#>
-You travelled across the western continent, learning of\#different gods, deities, blood magic and all known sciences.\#Your studies didn't come without their merits. You were\#acknowledged by the top scholars of the modern times.<#>
-You were finally granted a pass to the great libraries\#of the Kingdom of Rondon. You now had the collection of\#all known history and science at your grasp.<#>
-You learned of a certain man who was propheticed to begin\#a new era for mankind. A man meant for greatness. But why\#would you need to share the spotlight of the gods with any\#mortal man?<#>
-Prophecies are only for those who are weak enough to bend\#to their sorry fates. You need to find this man and learn\#more. To your current knowledge, he would be found\#imprisoned at the notorious dungeons of Fear & Hunger.<#>
-You decided to stock up before your travels.<#>
-Stock up on magical items<#>
-Stock up on intoxicants<#>
-You get a \c[2]Pipe\c[0] and \c[2]Opium powder\c[0].<#>
-This is it. Your stairway to enlightenment. You are set\#to discover the ancient secrets this stronghold keeps and\#to reach the ultimate understanding of the greater scheme\#of things.<#>
 <!-- Map --><#>074
 <!-- Map Name: Fortress --><#>
 <!-- Order --><#>155
-Moonless is dead now...<#>
-GabText The dungeons of Fear & Hunger stand in front of you...<#>
-The girl is dead now...<#>
-The stone has a heavy aura to it. It's almost too much\#for you to carry...<#>
-GabText You hit the hound and manage to kill it!<#>
-You search the barrel for anything useful...<#>
-You search the crate for anything useful...<#>
-\c[7]The Merchant\c[0]\#"Hello there dweller."<#>
-\c[7]The Merchant\c[0]\#"Your eyes... They are starting to have that absent gaze\#in them already."<#>
-\c[7]The Merchant\c[0]\#"A little bird told me that these dungeons just swallowed\#a new set of poor bastards."<#>
-\c[7]The Merchant\c[0]\#"I just saw a business opportunity, that's all."<#>
-\c[7]The Merchant\c[0]\#"So what shall it be?"<#>
-You have \c[2]\v[0096] Silver coins\c[0]. What do you want to trade them for?<#>
-\i[269]Potion of full healing \c[2][8]\c[0]<#>
-\i[267]Potion of full sanity \c[2][8]\c[0]<#>
-\i[268]Potion of life \c[2][15]\c[0]<#>
-You trade 8 \c[2]Silver coins\c[0] for a \c[2]Potion of full healing\c[0]!<#>
-Unfortunately you do not have enough silver.<#>
-You trade 5 \c[2]Silver coins\c[0] for a \c[2]Potion of full sanity\c[0]!<#>
-You trade 15 \c[2]Silver coins\c[0] for a \c[2]Potion of life\c[0]!<#>
-\c[7]The Merchant\c[0]\#"..."<#>
-\c[7]The Merchant\c[0]\#"Hello there dweller. What shall it be this time?"<#>
-\c[7]The Merchant\c[0]\#"Hm. Hm. Well my time here is done."<#>
-\c[7]The Merchant\c[0]\#"Farewell."<#>
-A dead horse is laying down here.<#>
-Based on the stage of decomposition, the horse has been\#dead for approximately one week.<#>
-Beating the horse produces no effects.<#>
-\c[7]Le'garde\c[0]\#"So you are about to leave?"<#>
-\c[7]Le'garde\c[0]\#"..."<#>
-\c[7]Le'garde\c[0]\#"I'm afraid we must part our ways here."<#>
-\c[7]Le'garde\c[0]\#"I still have unfinished business in the darkness..."<#>
-\c[7]D'arce\c[0]\#"What do you mean Le'garde?"<#>
-\c[7]Le'garde\c[0]\#"I can't explain it here, but I must go."<#>
-\c[7]D'arce\c[0]\#"..."<#>
-\c[7]D'arce\c[0]\#"Fine. I'll go with you."<#>
-"I must leave this place."<#>
-"I'll come with you."<#>
-\c[7]Le'garde\c[0]\#"Farewell."<#>
-\c[7]Le'garde\c[0]\#"You're free to join me."<#>
-The mist is preventing you from leaving this place...<#>
-You could \c[2]Devour\c[0] the remains of the dead hound.<#>
-You could use \c[2]Demon seed\c[0] on the cavewolf.<#>
-Use<#>
-A wild hound lies dead on the ground.<#>
-Search him<#>
-The hound is definitely dead.<#>
-The hound doesn't appear to have anything.<#>
-GabText You hear distant barking from afar...<#>
-GabText The barking is getting closer.<#>
-GabText The hounds are coming!<#>
-An old wagon. Seems to be lightly equipped.<#>
-The barrel is left here to gather rain water. The water has\#been still for too long and is not drinkable.<#>
-A pile of planks. They've been left at mercy of the weather\#for quite some time.<#>
 <!-- Map --><#>075
 <!-- Map Name: Apartments_3F --><#>
 <!-- In-game Displayed Name: Apartments 3F --><#>Апартаменты 3Э
@@ -12547,31 +12298,6 @@ The world starts fading before your eyes...<#>Мир перед глазами �
 \>\i[144]\}ER'KELE\{\<\#"You see..."<#>\>\}\i[381]ЕР'КЕЛЕ\{\<\#«Видите ли...»
 \>\i[144]\}ER'KELE\{\<\#"I have followed your journey since the beginning and I've slowly\#come to the conclusion that I simply hate your existence. Absolutely\#detest your guts. I can't stand the sight of you."<#>\>\}\i[381]ЕР'КЕЛЕ\{\<\#«Я следил за вашим путешествием с самого начала, и медленно\#пришёл к заключению, что я просто ненавижу ваше существование.\#Абсолютно презираю вас. Я не могу выдержать даже вашего вида.»
 \>\i[144]\}ER'KELE\{\<\#"This is strictly personal. Between you and me."<#>\>\}\i[381]ЕР'КЕЛЕ\{\<\#«Это сугубо личное. Между мной и вами.»
-\>\i[144]\}ER'KELE\{\<\#"But along came silly humans..."<#>
-\>\i[144]\}ER'KELE\{\<\#"They gave these forces a name, they created an obscure ruleset\#around their worship only to hope for some kind of a salvation at\#the end of it."<#>
-\>\i[144]\}ER'KELE\{\<\#"After this, the kings and sultans seized the opportunity and ruled\#people with the strength of the older gods."<#>
-\>\i[144]\}ER'KELE\{\<\#"Some used this strength quite literally, while some only herded the\#masses with their teachings after tweaking them to better suit the\#demand."<#>
-\>\i[144]\}ER'KELE\{\<\#"Time and time again a new power rises to the top. Some call themselves\#new gods, some puppeteer the nations from behind the curtain, but\#the ending is always the same."<#>
-\>\i[144]\}ER'KELE\{\<\#"It is an eternal cycle that has befallen all mankind."<#>
-\>\i[144]\}ER'KELE\{\<\#"You can go back to that world if you choose so and live a life\#as a slave to those sitting on top, whoever happens to be wielding\#the waning strength of the older gods at the moment..."<#>
-\>\i[144]\}ER'KELE\{\<\#"Or..."<#>
-\>\i[144]\}ER'KELE\{\<\#"You can embrace the chaos and break free from the cycle."<#>
-\>\i[144]\}ER'KELE\{\<\#"We - the Cult of Sulfur - We choose to live and breathe in chaos,\#outside the artificial boundaries created by the society and mankind."<#>
-\>\i[144]\}ER'KELE\{\<\#"You can either be at the receiving end of the stick or holding it."<#>
-\>\i[144]\}ER'KELE\{\<\#"We choose to hold it."<#>
-\>\i[144]\}ER'KELE\{\<\#"We revel in the blood of the sacrificial lambs, the masses are\#for slaughter, for the fallen god - the Sulfur God."<#>
-\>\i[144]\}ER'KELE\{\<\#"Before the exodus of the gods... There existed one that was\#banished from the pantheon."<#>
-\>\i[144]\}ER'KELE\{\<\#"As he was chained deep beneath the earth's surface... This fallen one,\#this fallen god - He was never able to leave this world."<#>
-\>\i[144]\}ER'KELE\{\<\#"He exists beyond the eternal cycle and beyond the greater scheme\#of things..."<#>
-\>\i[144]\}ER'KELE\{\<\#"To celebrate the chaos, we gather souls for the fallen one."<#>
-\>\i[144]\}ER'KELE\{\<\#"As the champion of Termina - You too can join us."<#>
-"So worship your god instead of mine, because... Why exactly?"<#>
-"What happened to the Moon God?"<#>
-"I'd be honored to join you."<#>
-"I just want out. I want no part in this."<#>
-"This is enough. Just die already."<#>
-\>\i[144]\}ER'KELE\{\<\#"Just say yes and you will find out shortly..."<#>
-\>\i[144]\}ER'KELE\{\<\#"The Sulfur God<#>
 \>\i[144]\}ER'KELE\{\<\#"As promised, you are entitled to the grand prize."<#>\>\}\i[381]ЕР'КЕЛЕ\{\<\#«Как и обещано, вы будете представлены к великой оплате.»
 \>\i[144]\}ER'KELE\{\<\#"You have faced death head-on, the only thing missing is facing\#death of your self."<#>\>\}\i[381]ЕР'КЕЛЕ\{\<\#«Вы повстречали много смертей, но единственная вещь,\#которой вы не встречали - собственная смерть.»
 \>\i[144]\}ER'KELE\{\<\#"The empty man-made morals, that hollow weight stirring deep inside\#you... All carved out. You will finally know what it means to be\#truly free."<#>\>\}\i[381]ЕР'КЕЛЕ\{\<\#«Пустые человеческие морали, вес пустоты, что шевелится глубоко\#внутри вас... Всё это было вырезано. Вы наконец узнаете, что\#означает истинная свобода.»
@@ -12654,10 +12380,6 @@ GabText The room has an eerie atmosphere. Something is very wrong about this pla
 <!-- Map --><#>152
 <!-- Map Name: fall_scene --><#>
 <!-- Order --><#>158
-GabText You hit the beast and manage to kill it!<#>
-GabText You hit the beast and manage to wound it!<#>
-GabText You hit the creature and manage to kill it!<#>
-GabText You hit the creature and manage to wound it!<#>
 <!-- Map --><#>153
 <!-- Map Name: pocketcat2_room --><#>
 <!-- Order --><#>141
@@ -12989,4 +12711,3 @@ Take the \c[2]Joy mask\c[0]?<#>Забрать \c[2]маску радости\c[0
 <!-- Map --><#>179
 <!-- Map Name: Floating --><#>
 <!-- Order --><#>108
-"..."<#>«...»

@@ -1,0 +1,741 @@
+<!-- File: skills -->
+Summon the chains that tormented Chambara for hundreds\#of years.
+Concentrated whispers carried by the older god Sylvian\#heal a considerable amount of health.
+<!-- File: commonevents -->
+Zoophobia
+Nosophobia
+Erotophobia
+Rhabdophobia
+Teratophobia
+Phasmophobia
+<!-- File: map65535 -->
+<!-- File: map1 -->
+This is text!
+<!-- File: map2 -->
+<!-- File: map3 -->
+GabText You have travelled a great distance
+GabText \N[1]...
+Unfortunately the only class available in this demo\#version is Mercenary.
+GabText Your journey has lead you to this wretched place.
+GabText First, you must choose your profession
+Dark Priest - Alchemy and ritual passages have gained\#you deeper knowledge of human nature. There is no right\#and wrong, only the way of the gods.
+Knight - Righteous and discliplined. Following the path\#of the sword is as much about physical, as it is about\#mental strength. Excels in melee combat.
+Mercenary - A warrior class that will do whatever it\#takes to see the light of the next day. There isn't\#a task you wouldn't undertake for a bag of silver coins.
+GabText Please create your character
+GabText in search of your former comrade in arms.
+Caution! This game contains scenes of extreme\#violence  and gore. The game also covers themes of\#sexual violence, drug usage and child abuse.
+<!-- File: map4 -->
+<!-- File: map5 -->
+<!-- File: map6 -->
+<!-- File: map7 -->
+<!-- File: map8 -->
+<!-- File: map9 -->
+Use \c[2]Demon seed\c[0]
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue light.
+You take the baby with you.
+A baby sprouted out of your seed!
+You could use \c[2]Soul stone\c[0] here...
+Use \c[2]Soul stone\c[0]
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+<!-- File: map10 -->
+It is strongly recommended that you play the Normal mode\#before attempting [Dungeon Nights] mode.
+Ragnvaldr
+Enki
+[Dungeon Nights]
+Hard mode
+Go back!
+[Dungeon Nights] combines physical, mental and social\#challenges all into one and it might be too much for beginners.
+Play intro?
+Proceed with the [Dungeon Nights]
+D'arce
+Necrophobia
+Choose the mode?
+Cahara
+Normal mode
+<!-- File: map11 -->
+You could use \c[2]Soul stone\c[0] here...
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+<!-- File: map12 -->
+<!-- File: map13 -->
+GabText You hit the Crow Mauler and it doesn't seem to care.
+<!-- File: map14 -->
+"......."
+"........."
+".........."
+"....."
+"..........."
+"......"
+"........"
+<!-- File: map15 -->
+<!-- File: map16 -->
+It works!
+Use \c[2]Soul stone\c[0]
+<!-- File: map17 -->
+<!-- File: map18 -->
+<!-- File: map19 -->
+GabText You hit the Crow Mauler and it doesn't seem to care.
+GabText The mist here carries the same odor as the dungeon air...
+<!-- File: map20 -->
+<!-- File: map21 -->
+Skin him
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue light.
+A baby sprouted out of your seed!
+GabText You hit the Crow Mauler and it doesn't seem to care.
+You take the baby with you.
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+Use \c[2]Soul stone\c[0]
+You took a \c[2]Pale skin\c[0]!
+Use \c[2]Demon seed\c[0]
+choice_text 2 Use Soul stone
+You could use \c[2]Soul stone\c[0] here...
+<!-- File: map22 -->
+Skin him
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue light.
+A baby sprouted out of your seed!
+GabText You hit the Crow Mauler and it doesn't seem to care.
+You take the baby with you.
+Use \c[2]Soul stone\c[0]
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+You took a \c[2]Pale skin\c[0]!
+Use \c[2]Demon seed\c[0]
+choice_text 2 Use Soul stone
+You could use \c[2]Soul stone\c[0] here...
+<!-- File: map23 -->
+<!-- File: map24 -->
+Skin him
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue light.
+A baby sprouted out of your seed!
+You take the baby with you.
+Use \c[2]Soul stone\c[0]
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+You took a \c[2]Pale skin\c[0]!
+Use \c[2]Demon seed\c[0]
+choice_text 2 Use Soul stone
+You could use \c[2]Soul stone\c[0] here...
+<!-- File: map25 -->
+<!-- File: map26 -->
+Skin him
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue light.
+A baby sprouted out of your seed!
+You take the baby with you.
+Use \c[2]Soul stone\c[0]
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+You took a \c[2]Pale skin\c[0]!
+Use \c[2]Demon seed\c[0]
+choice_text 2 Use Soul stone
+You could use \c[2]Soul stone\c[0] here...
+<!-- File: map27 -->
+GabText You hit the Crow Mauler and it doesn't seem to care.
+<!-- File: map28 -->
+The \c[2]Soul stone\c[0] doesn't seem to react to his\#remains...
+Your child is dead now...
+You could use \c[2]Soul stone\c[0] here...
+The \c[2]Soul stone\c[0] changed it's appearance.\#The stone is radiating faint blue light.
+<!-- File: map29 -->
+You take the baby with you.
+Skin him
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue light.
+GabText You hit the Crow Mauler and it doesn't seem to care.
+Use \c[2]Soul stone\c[0]
+A baby sprouted out of your seed!
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+You took a \c[2]Pale skin\c[0]!
+Use \c[2]Demon seed\c[0]
+choice_text 2 Use Soul stone
+You could use \c[2]Soul stone\c[0] here...
+<!-- File: map30 -->
+Skin him
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue light.
+A baby sprouted out of your seed!
+You take the baby with you.
+Use \c[2]Soul stone\c[0]
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+You took a \c[2]Pale skin\c[0]!
+Use \c[2]Demon seed\c[0]
+choice_text 2 Use Soul stone
+You could use \c[2]Soul stone\c[0] here...
+Skin her
+<!-- File: map31 -->
+reset all
+Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Counter-magic\c[0]?
+\p[4]
+\p[1]
+\p[3]
+Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Bribe\c[0]?
+Use a \c[2]Lesser soul\c[0] to learn the skill \c[2]Dash\c[0]?
+Sense
+\p[2]
+<!-- File: map32 -->
+<!-- File: map33 -->
+Skin him
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue light.
+A baby sprouted out of your seed!
+You take the baby with you.
+Use \c[2]Soul stone\c[0]
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+You took a \c[2]Pale skin\c[0]!
+Use \c[2]Demon seed\c[0]
+choice_text 2 Use Soul stone
+You could use \c[2]Soul stone\c[0] here...
+<!-- File: map34 -->
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue light.
+You take the baby with you.
+Skin him
+GabText You hit the Crow Mauler and it doesn't seem to care.
+Use \c[2]Soul stone\c[0]
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+A baby sprouted out of your seed!
+You took a \c[2]Pale skin\c[0]!
+Use \c[2]Demon seed\c[0]
+choice_text 2 Use Soul stone
+You could use \c[2]Soul stone\c[0] here...
+Skin her
+<!-- File: map35 -->
+<!-- File: map36 -->
+<!-- File: map37 -->
+You could use \c[2]Soul stone\c[0] here...
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+<!-- File: map38 -->
+Skin him
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue light.
+A baby sprouted out of your seed!
+You take the baby with you.
+Use \c[2]Soul stone\c[0]
+You took a \c[2]Pale skin\c[0]!
+Use \c[2]Demon seed\c[0]
+choice_text 2 Use Soul stone
+<!-- File: map39 -->
+You could use \c[2]Soul stone\c[0] here...
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+<!-- File: map40 -->
+You could use \c[2]Soul stone\c[0] here...
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+<!-- File: map41 -->
+Skin him
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue light.
+A baby sprouted out of your seed!
+You take the baby with you.
+Use \c[2]Soul stone\c[0]
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+You took a \c[2]Pale skin\c[0]!
+Use \c[2]Demon seed\c[0]
+choice_text 2 Use Soul stone
+You could use \c[2]Soul stone\c[0] here...
+Skin her
+<!-- File: map42 -->
+You could use \c[2]Soul stone\c[0] here...
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+<!-- File: map43 -->
+<!-- File: map44 -->
+You take the baby with you.
+Skin him
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue light.
+A baby sprouted out of your seed!
+GabText You hit the Crow Mauler and it doesn't seem to care.
+Use \c[2]Soul stone\c[0]
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+You took a \c[2]Pale skin\c[0]!
+Use \c[2]Demon seed\c[0]
+choice_text 2 Use Soul stone
+You could use \c[2]Soul stone\c[0] here...
+<!-- File: map45 -->
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue light.
+You take the baby with you.
+A baby sprouted out of your seed!
+Skin him
+Use \c[2]Soul stone\c[0]
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+Skin it
+You took a \c[2]Pale skin\c[0]!
+Use \c[2]Demon seed\c[0]
+choice_text 2 Use Soul stone
+You could use \c[2]Soul stone\c[0] here...
+<!-- File: map46 -->
+You could use \c[2]Soul stone\c[0] here...
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+<!-- File: map47 -->
+GabText You hit the Crow Mauler and it doesn't seem to care.
+<!-- File: map48 -->
+GabText You hit the Crow Mauler and it doesn't seem to care.
+<!-- File: map49 -->
+GabText You hit the Crow Mauler and it doesn't seem to care.
+<!-- File: map50 -->
+The \c[2]Soul stone\c[0] doesn't react. It seems that the\#creature is still very much alive.
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue light.
+You take the baby with you.
+ysp.VideoPlayer.releaseVideo('exposure1_3.webm')
+Use \c[2]Soul stone\c[0]
+You took a \c[2]Pale skin\c[0]!
+Use \c[2]Demon seed\c[0]
+choice_text 2 Use Soul stone
+You could use \c[2]Soul stone\c[0] here...
+Skin him
+A baby sprouted out of your seed!
+ysp.VideoPlayer.releaseVideo('scene_moon.webm')
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+ysp.VideoPlayer.releaseVideo('sulfur.webm')
+ysp.VideoPlayer.releaseVideo('gods.webm')
+<!-- File: map51 -->
+You could use \c[2]Soul stone\c[0] here...
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+<!-- File: map52 -->
+<!-- File: map53 -->
+<!-- File: map54 -->
+Skin him
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue light.
+A baby sprouted out of your seed!
+You take the baby with you.
+Use \c[2]Soul stone\c[0]
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+You took a \c[2]Pale skin\c[0]!
+Use \c[2]Demon seed\c[0]
+choice_text 2 Use Soul stone
+You could use \c[2]Soul stone\c[0] here...
+<!-- File: map55 -->
+You could use \c[2]Soul stone\c[0] here...
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+<!-- File: map56 -->
+<!-- File: map57 -->
+You could use \c[2]Soul stone\c[0] here...
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+<!-- File: map58 -->
+<!-- File: map59 -->
+<!-- File: map60 -->
+<!-- File: map61 -->
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue light.
+You take the baby with you.
+A baby sprouted out of your seed!
+GabText Blood just splurted out of your anus...
+Use \c[2]Soul stone\c[0]
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+Use \c[2]Demon seed\c[0]
+GabText Your anal hole is bleeding...
+choice_text 2 Use Soul stone
+You could use \c[2]Soul stone\c[0] here...
+<!-- File: map62 -->
+<!-- File: map63 -->
+<!-- File: map64 -->
+<!-- File: map65 -->
+<!-- File: map66 -->
+<!-- File: map67 -->
+<!-- File: map68 -->
+<!-- File: map69 -->
+<!-- File: map70 -->
+<!-- File: map71 -->
+<!-- File: map72 -->
+<!-- File: map73 -->
+Le'garde was taken as a captive and to be used most likely\#on propaganda.
+You were born with the soul of domination that makes\#people around you bend to your will. You are a natural\#leader, but you might often end up blind to self-criticism.
+You learn \c[2]Devour\c[0].
+Stock up food for the mission
+Eventually you lost your mind to the hunger and like a\#raging wolf you cried the night on the deck, while others\#feasted on the fallen.
+As time went on, you proved out to be a gifted fighter and\#a valuable asset to the army of Rondon. However...
+This trait already started showing itself at a very young\#age as you were chosen to become a dark priest upon the birth\#of you and your twin sister.
+At this point family ties weighted no more than strangers\#you met at the dirty streets of Rondon. You completely cut\#ties with your family wihout hesitation.
+You get a \c[2]Dried meat\c[0], a \c[2]Moldy bread\c[0] and\#3 \c[2]Carrots\c[0].
+From the dungeons of Fear and Hunger. The morbid place has\#been used as a wartime prison by the kingdom and for some\#reason they need an outside sword like yourself to infiltrate\#their very own stronghold.
+You put your creativity to test in the most harshest of\#enviroments. You were born and soon abandoned in the capital\#of the Eastern Sanctuaries - Jettaiah.
+He was the famous captain from the fabled mercenary army\#Knights of the Midnight Sun. You immediately packed and\#left after him. The man would witness the iron will tempered\#in the north and in the dark continent of Vinland.
+Unfortunately the relics you brought from the trip tainted\#you and you formed a Panophobia, a fear of everything.
+Stock up on equipment
+Your life spent learning thievery certainly didn't go to\#waste. You learned to live with constant fear and danger\#over the years. The crude streets of Jettaiah teached you\#valuable lessons.
+You learned that the man has since been imprisoned in the\#Kingdom of Rondons dungeons. In the notorious dungeons\#of Fear & Hunger.
+A practice sparring match between you and a well seasoned\#squire took place at the central training grounds.
+As the troops of the Rondon army marched towards your\#clearly smaller army, you had to choose which position\#to take in the coming encounter.
+You stroke your dagger to the spine of your sister and she\#collapsed on the ground. You high priest masters seemed\#especially pleased with this and prepared you for your\#ascension ceremony.
+With time you learned to understand the language they\#spoke. You learned \c[2]Mastery over insects\c[0].
+You quietly left the temple area thinking that revenge\#doesn't solve anything, but in order to make sure you\#survive on your own you took some precious books to secure\#your wealth.
+Listen to your family and stay as a holy knight.
+You were born with the soul of the enlightened. You are\#always seeking restlessly for new knowledge and secrets\#hidden from common folk.
+Raised your buckler in defence
+Don't give in
+Rush straight after him
+You were finally granted a pass to the great libraries\#of the Kingdom of Rondon. You now had the collection of\#all known history and science at your grasp.
+You decided to stock up before your travels.
+Stock up on magical items
+Your devotion was shaken. You were all but ready to retire\#from the army, but your family insisted - no, they demanded\#you to stay as a holy knight, or else you'd bring great\#shame to their noble family.
+You get \c[2]Alchemillia vol. 1\c[0].
+After leaving the temple grounds, you vowed to become a\#dark priest by your own merits and prove your fate wrong.
+Necrophobia
+Your family gave you a gift of \c[2]20 Silver coins\c[0].
+She however showed mercy and withdrew her dagger. She\#took steps away from you as your high priest masters glared\#gleefully at the event unfolding before their very eyes.
+It was this small overblow that was enough of an excuse\#for the Kingdom of Rondon to turn common folks against\#Le'garde and justify his imprisonment.
+You spent your last night in the kingdom...
+As you grew older you took part in various mercenary armies\#and learned the dirtiest tricks to stay alive. You were taken\#in by a notorious veteran highwayman and you joined his little\#band of criminals and ex-soldiers.
+You get a \c[2]Blue vial\c[0] and 2 \c[2]Cloth fragments\c[0].
+Choose bow & arrows
+The continent had never been touched by a civilized man.\#The land was tainted by ancient deities and gods you had\#never even heard of. The things you witnessed there left a\#mark in you that could never be washed away.
+You get \c[2]4 Blue herbs\c[0], a \c[2]White vial\c[0] and\#\c[2]2 Cloth fragments\c[0].
+In the ascension ceremony you were to resurrect your\#deceased sister with necromancy and use her as your ghoul.\#You did this and the cold corpse of your sister brought\#a smile to your otherwise emotionless face.
+D'arce
+You learn \c[2]Escape plan\c[0].
+Set the temple on fire and leave
+Unfortunate for you, you were born with a fragile body\#and your sister easily overpowered you and had her dagger\#on your neck waiting for the final blow.
+You get 3 \c[2]Dried meat\c[0], a \c[2]Moldy bread\c[0] and\#a \c[2]Cheese\c[0].
+Training to become a squire was a harsh school that spared\#no one. No matter if you were from a noble origin or not.
+The common folk was starting to gather around the\#charismatic leader Le'garde, who shared the humble origin\#similar to farmers and villagers alike. There was\#definitely something otherworldy in his stature.
+You had a balanced childhood in the city of Oldegård with\#both of your parents always present. Your father taught you\#in the art of war. The very first step was to choose your\#weapon.
+You learn \c[2]Necromancy\c[0].
+The dark priests got no place for the weak, so you were\#thrown in an underground well. There you were meant to\#quietly wither away, but instead you fed on insects and other\#small critters that shared your fate down there.
+You travelled across the western continent, learning of\#different gods, deities, blood magic and all known sciences.\#Your studies didn't come without their merits. You were\#acknowledged by the top scholars of the modern times.
+You also get an itch in your groin area...
+Enki
+Stock up healing items for the mission
+After your ascension to dark priesthood, you were to leave\#the temple grounds and learn of occult on your own in your\#dark pilgrimage.
+Upon your return, you witnessed your home burning, your\#family slain and the artefact stolen. Those who survived\#the raid described the army and it's captain.
+With the aid of your new slaves, you eventually grew strong\#enough to climb up the well. You creeped upstairs to the\#temple and noticed it was night time.
+Strike your dagger to her spine while she walks away
+As the weak met their fate, the rest indulged in the greatest\#sin...
+You were born with the soul of the endless that makes you\#yearn for freedom and forces you to push your creativity to\#its limits.
+You learn \c[2]Lockpicking\c[0].
+Stock up on healing items
+Something is clearly not right about this mission and you\#have felt nauseus since the the moment you agreed on the\#job. But you are short on silver and the reward is all that\#matters in the end.
+Just as things seemed too dark, you saw a light in the\#darkness. You met a captain of a small mercenary army who\#seemed to share the same ill-will towards the Kingdom of\#Rondon as you.
+The dungeons open before you... You won't leave the ruins\#without Le'garde. One way or another, you two will be\#reunited. Even if it requires you to give up on your\#principles.
+You learned of a certain man who was propheticed to begin\#a new era for mankind. A man meant for greatness. But why\#would you need to share the spotlight of the gods with any\#mortal man?
+Take the rear and manage defences.
+Your army was growing fast in both size and influence in the\#western regions. The Kingdom of Rondon would first use your\#services to their own benefit, but soon saw you more as a\#possible threat to their modern reigns.
+Before leaving for your desperate journey, you decided\#to stock up on equipment and items...
+You knew you didn't have much time before he would be\#sentenced to death, so you had to act fast.
+Don't touch anything and flee back to your ship
+Even if it seemed like a suicide mission, you decided to\#save Le'garde from the prisons he was held in.
+It was almost too much for you, when Le'garde decided to\#raid the northen capital Oldegård and slayed everyone who\#stood in the way between him and this mysterious ancient\#relic. You never understood it's importance.
+Abandon your comrades
+Like typical to such occult rites, you were pitted against\#your sibling with ritual daggers and challenged to fight\#each other to the death.
+Pray for Alll-Mer
+You learn \c[2]Bloodlust\c[0].
+Winters grew colder and summers shorter, which resulted\#a great hunger in the north. The fine men of the Oldegård\#set sails to the unknown west in a desperate attempt to\#find food and riches to feed the people.
+You get a \c[2]Short bow\c[0] and 5 \c[2]arrows\c[0].
+You get also get a \c[2]Iron cuirass\c[0] and \c[2]Arm guards\c[0].
+You learned \c[2]Fast stance\c[0].
+Prophecies are only for those who are weak enough to bend\#to their sorry fates. You need to find this man and learn\#more. To your current knowledge, he would be found\#imprisoned at the notorious dungeons of Fear & Hunger.
+You get a \c[2]Long sword\c[0] and an \c[2]Eagle crest shield\c[0].
+Fight to the last breath
+This is it. Your stairway to enlightenment. You are set\#to discover the ancient secrets this stronghold keeps and\#to reach the ultimate understanding of the greater scheme\#of things.
+You learn \c[2]Dash\c[0].
+You travelled across the land in your raids and eventually\#settled down in the Kingdom of Rondon where silver was\#loose as long as you were up for getting your knife dirty.
+You get 3 \c[2]Iron arrows\c[0] and a \c[2]Bear trap\c[0].
+One day you got an omnious task from the officials of the\#Kingdom of Rondon. You are to be paid well in silver to get\#a captain of a fabled mercenary army out of the dungeons\#of Rondon itself.
+You get an \c[2]Iron mace\c[0] and a \c[2]Wooden buckler\c[0].
+Devour your fallen comrades
+You swallowed your grief and doubt and decided to stay as\#a holy knight. In the end you could try to fix things up\#from the inside, you figured.
+You get a \c[2]Pipe\c[0] and \c[2]Opium powder\c[0].
+Quietly leave and run away without revenge
+Rush straight for your mission
+Pray for Sylvian
+Take souveniers from Vinland
+Lead a honest life
+You had grown into your manhood and aboarded the ship.\#After months of sailing, the sea saw no end and the crew\#was struggling for their life. Some laid weak under the\#deck while some embraced the cold dark sea.
+Go drinking and get laid at the brothel
+During one of your many raids, your brigade got ambushed.\#The odds were seriously against you. You could have just\#abandoned your comrades and kept you life, or you could have\#fought to your last breath.
+Vengeful in how you had been treated, you set the temple on\#fire, jammed the exit door so no one could escape and then\#ran away. Only muffled screams could be heard coming from\#the temple.
+Spearhead the coming assault.
+You learned \c[2]Defence stance\c[0].
+Stock up on intoxicants
+Break ties with your family and run away.
+You get a \c[2]7 Tinderboxes\c[0], a \c[2]Quill\c[0]\#and a \c[2]Blue vial\c[0].
+You learn \c[2]Pyromancy trick\c[0].
+You learn \c[2]Steal\c[0].
+You get an \c[2]Iron spear\c[0].
+You struggled through your early life, but managed to get\#by as a merchant of sorts. Your skills of haggling and\#speech improved over the years and you also managed to\#gather some savings.
+Not many survived the ambush, but that just meant that the\#mission rewards got less takers. You were one of the lucky\#ones.
+If your birth sign wasn't enough to warrant a future of\#greatness, you were also born into a wealthy noble family.\#At an early age you were sent into training to become\#a holy knight of Kingdom of Rondon.
+An ancient artefact was brought from the dark continent.\#You knew it was a mistake, but the choice wasn't in your\#hands. While you were hunting, away from home, a mercenary\#army raided your village.
+However your endless soul yearned for more...\#You couldn't just become a family man, grow fat and make\#a living as a mere merchant. You were destined for more.
+You were born with the soul of the tormented. You are\#destined to struggle in every step you take in life, but\#this just ultimately makes you stronger physically and tempers\#your iron will that rivals the will of the gods themselves.
+Choose mace and shield
+So even if the mission was to go south for some reason,\#you are not going to return empty handed.
+Just as you were about to flee from the army, things took\#an unexpected turn for you. You met a captain of a small\#mercenary army who seemed to share the same ill-will towards\#the Kingdom of Rondon as you.
+Something changed with Le'garde as well. He kept more to\#himself and studied ancient texts and occult. He became\#obsessed with some relics and artefacts that gave you omnious\#feelings and terrible nightmares.
+Ruthlessly the kingdom would expand it's reign.\#Reducing the feeble citadels to ashes and blood stains.\#Enslaving the sweet women folk whilst every man is slain.\#Only spare a child or two, that it's legend may grow.
+Many of your comrades were slain, but you managed to escape\#the battlefield.
+Pray for God of the Depths
+You get also get a \c[2]Plate mail\c[0] and \c[2]Leg guards\c[0].
+You get \c[2]30 Silver coins\c[0].
+You get a \c[2]Wine vial\c[0], a \c[2]Bottle of whiskey\c[0]\#and an \c[2]Ale\c[0].
+You set your mind - You will kill everything that carries\#a dark soul in the dungeons, you will have your revenge\#and the dark artefact will be yours again. There is no\#other way.
+As if the trip wasn't dark enough, when you finally found\#land, it was something no one in the civilized world could\#ever imagine. From the far reaches of the world you found the\#dark continent of Vinland.
+Le'garde saw potential in you and with warm words, he\#almost seduced you to join his band of mercenaries. Thanks\#to your rigorous discipline, you took a high position in\#his army, the Knight of the Midnight Sun.
+Accept your defeat
+Some of your comrades lost their minds while others tried to\#pillage anything worthwhile before leaving the macabre place.
+You get a \c[2]Soul stone\c[0].
+Your life spend learning thievery certainly didn't go to\#waste. You learned to live with constant fear and danger\#over the years. The crude streets of Jettaiah teached you\#valuable lessons.
+The Knights of the Midnight Sun lost the fight.
+Cahara
+Ragnvaldr
+Quickly stepped aside and dodged it
+You had to choose at a very young age to either become a\#pickpocket, a burglar or try to struggle and lead a honest\#life.
+This really is your make-or-break mission. There is a person\#back in the city relying on you to return with riches. You\#have heard rumours about this place and you are sure that\#there are great treasures hidden somewhere in these ruins...
+The Kingdom of Rondon claimed to follow the will of the\#gods in it's pursuit for more power. But all the rewards\#seemed to fall into the laps of the elite and noble sitting\#comformtably behind the castle walls.
+Pray for Gro-goroth
+When beginning your self-studies, you first had to choose\#the god you'd dedicate your time to.
+It is said that a fighter shows their true colours in their\#first fight. This applied to you too. When you saw the\#sword coming your way, you...
+<!-- File: map74 -->
+You have \c[2]\v[0096] Silver coins\c[0]. What do you want to trade them for?
+You trade 5 \c[2]Silver coins\c[0] for a \c[2]Potion of full sanity\c[0]!
+\c[7]The Merchant\c[0]\#"Hello there dweller. What shall it be this time?"
+GabText You hear distant barking from afar...
+\c[7]The Merchant\c[0]\#"Your eyes... They are starting to have that absent gaze\#in them already."
+Beating the horse produces no effects.
+You could use \c[2]Soul stone\c[0] here...
+You trade 8 \c[2]Silver coins\c[0] for a \c[2]Potion of full healing\c[0]!
+\c[7]The Merchant\c[0]\#"..."
+The hound doesn't appear to have anything.
+The \c[2]Soul stone\c[0] doesn't seem to react to his\#remains...
+A baby sprouted out of your seed!
+\c[7]The Merchant\c[0]\#"So what shall it be?"
+GabText The barking is getting closer.
+The mist is preventing you from leaving this place...
+Moonless is dead now...
+\c[7]The Merchant\c[0]\#"Farewell."
+You could use \c[2]Demon seed\c[0] on the cavewolf.
+GabText The hounds are coming!
+\c[7]The Merchant\c[0]\#"I just saw a business opportunity, that's all."
+You search the crate for anything useful...
+\i[268]Potion of life \c[2][15]\c[0]
+\c[7]Le'garde\c[0]\#"I still have unfinished business in the darkness..."
+You could \c[2]Devour\c[0] the remains of the dead hound.
+The \c[2]Soul stone\c[0] changed it's appearance.\#The stone is radiating faint blue light.
+GabText You hit the hound and manage to kill it!
+\c[7]D'arce\c[0]\#"..."
+GabText Your anal hole is bleeding...
+An old wagon. Seems to be lightly equipped.
+The stone has a heavy aura to it. It's almost too much\#for you to carry...
+Based on the stage of decomposition, the horse has been\#dead for approximately one week.
+\c[7]Le'garde\c[0]\#"So you are about to leave?"
+\c[7]Le'garde\c[0]\#"Farewell."
+The hound is definitely dead.
+\c[7]The Merchant\c[0]\#"Hm. Hm. Well my time here is done."
+\c[7]Le'garde\c[0]\#"I can't explain it here, but I must go."
+\c[7]The Merchant\c[0]\#"Hello there dweller."
+GabText Blood just splurted out of your anus...
+A wild hound lies dead on the ground.
+\c[7]D'arce\c[0]\#"What do you mean Le'garde?"
+"I must leave this place."
+\c[7]Le'garde\c[0]\#"You're free to join me."
+You search the barrel for anything useful...
+The barrel is left here to gather rain water. The water has\#been still for too long and is not drinkable.
+You take the baby with you.
+Unfortunately you do not have enough silver.
+\c[7]The Merchant\c[0]\#"A little bird told me that these dungeons just swallowed\#a new set of poor bastards."
+The girl is dead now...
+"I'll come with you."
+GabText The dungeons of Fear & Hunger stand in front of you...
+\c[7]Le'garde\c[0]\#"I'm afraid we must part our ways here."
+A pile of planks. They've been left at mercy of the weather\#for quite some time.
+\c[7]Le'garde\c[0]\#"..."
+You trade 15 \c[2]Silver coins\c[0] for a \c[2]Potion of life\c[0]!
+Search him
+Use
+Your child is dead now...
+\i[267]Potion of full sanity \c[2][8]\c[0]
+\i[269]Potion of full healing \c[2][8]\c[0]
+A dead horse is laying down here.
+\c[7]D'arce\c[0]\#"Fine. I'll go with you."
+<!-- File: map75 -->
+<!-- File: map76 -->
+<!-- File: map77 -->
+You could use \c[2]Soul stone\c[0] here...
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+<!-- File: map78 -->
+<!-- File: map79 -->
+You could use \c[2]Soul stone\c[0] here...
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+<!-- File: map80 -->
+<!-- File: map81 -->
+<!-- File: map82 -->
+<!-- File: map83 -->
+<!-- File: map84 -->
+<!-- File: map85 -->
+<!-- File: map86 -->
+<!-- File: map87 -->
+You could use \c[2]Soul stone\c[0] here...
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+<!-- File: map88 -->
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue light.
+You take the baby with you.
+A baby sprouted out of your seed!
+Use \c[2]Soul stone\c[0]
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+Use \c[2]Demon seed\c[0]
+choice_text 2 Use Soul stone
+You could use \c[2]Soul stone\c[0] here...
+<!-- File: map89 -->
+GabText You hit the Crow Mauler and it doesn't seem to care.
+<!-- File: map90 -->
+Skin her
+<!-- File: map91 -->
+<!-- File: map92 -->
+<!-- File: map93 -->
+<!-- File: map94 -->
+Skin him
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue light.
+A baby sprouted out of your seed!
+You take the baby with you.
+Use \c[2]Soul stone\c[0]
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+You took a \c[2]Pale skin\c[0]!
+Use \c[2]Demon seed\c[0]
+choice_text 2 Use Soul stone
+You could use \c[2]Soul stone\c[0] here...
+<!-- File: map95 -->
+<!-- File: map96 -->
+<!-- File: map97 -->
+<!-- File: map98 -->
+<!-- File: map99 -->
+<!-- File: map100 -->
+<!-- File: map101 -->
+<!-- File: map102 -->
+<!-- File: map103 -->
+<!-- File: map104 -->
+Skin him
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue light.
+A baby sprouted out of your seed!
+You take the baby with you.
+Use \c[2]Soul stone\c[0]
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+You took a \c[2]Pale skin\c[0]!
+Use \c[2]Demon seed\c[0]
+choice_text 2 Use Soul stone
+You could use \c[2]Soul stone\c[0] here...
+<!-- File: map105 -->
+<!-- File: map106 -->
+<!-- File: map107 -->
+<!-- File: map108 -->
+You could use \c[2]Soul stone\c[0] here...
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+<!-- File: map109 -->
+<!-- File: map110 -->
+<!-- File: map111 -->
+<!-- File: map112 -->
+<!-- File: map113 -->
+<!-- File: map114 -->
+<!-- File: map115 -->
+Skin him
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue light.
+A baby sprouted out of your seed!
+You take the baby with you.
+Use \c[2]Soul stone\c[0]
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+You took a \c[2]Pale skin\c[0]!
+Use \c[2]Demon seed\c[0]
+choice_text 2 Use Soul stone
+You could use \c[2]Soul stone\c[0] here...
+<!-- File: map116 -->
+<!-- File: map117 -->
+<!-- File: map118 -->
+Skin him
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue light.
+A baby sprouted out of your seed!
+You take the baby with you.
+Use \c[2]Soul stone\c[0]
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+You took a \c[2]Pale skin\c[0]!
+Use \c[2]Demon seed\c[0]
+choice_text 2 Use Soul stone
+You could use \c[2]Soul stone\c[0] here...
+<!-- File: map119 -->
+GabText You hit the Crow Mauler and it doesn't seem to care.
+<!-- File: map120 -->
+<!-- File: map121 -->
+<!-- File: map122 -->
+<!-- File: map123 -->
+<!-- File: map124 -->
+<!-- File: map125 -->
+<!-- File: map126 -->
+<!-- File: map127 -->
+<!-- File: map128 -->
+<!-- File: map129 -->
+ysp.VideoPlayer.releaseVideo('sulfur.webm')
+ysp.VideoPlayer.releaseVideo('gods.webm')
+<!-- File: map130 -->
+<!-- File: map131 -->
+<!-- File: map132 -->
+<!-- File: map133 -->
+<!-- File: map134 -->
+<!-- File: map135 -->
+<!-- File: map136 -->
+<!-- File: map137 -->
+<!-- File: map138 -->
+You could use \c[2]Soul stone\c[0] here...
+The \c[2]Soul stone\c[0] changed its appearance.\#The stone feels heavier now and is radiating faint blue\#light.
+<!-- File: map139 -->
+<!-- File: map140 -->
+<!-- File: map141 -->
+<!-- File: map142 -->
+<!-- File: map143 -->
+<!-- File: map144 -->
+<!-- File: map145 -->
+<!-- File: map146 -->
+\>\i[144]\}ER'KELE\{\<\#"After this, the kings and sultans seized the opportunity and ruled\#people with the strength of the older gods."
+\>\i[144]\}ER'KELE\{\<\#"They gave these forces a name, they created an obscure ruleset\#around their worship only to hope for some kind of a salvation at\#the end of it."
+\>\i[144]\}ER'KELE\{\<\#"Before the exodus of the gods... There existed one that was\#banished from the pantheon."
+"So worship your god instead of mine, because... Why exactly?"
+"I just want out. I want no part in this."
+\>\i[144]\}ER'KELE\{\<\#"Just say yes and you will find out shortly..."
+\>\i[144]\}ER'KELE\{\<\#"We choose to hold it."
+\>\i[144]\}ER'KELE\{\<\#"Or..."
+\>\i[144]\}ER'KELE\{\<\#"To celebrate the chaos, we gather souls for the fallen one."
+\>\i[144]\}ER'KELE\{\<\#"Time and time again a new power rises to the top. Some call themselves\#new gods, some puppeteer the nations from behind the curtain, but\#the ending is always the same."
+\>\i[144]\}ER'KELE\{\<\#"We - the Cult of Sulfur - We choose to live and breathe in chaos,\#outside the artificial boundaries created by the society and mankind."
+\>\i[144]\}ER'KELE\{\<\#"He exists beyond the eternal cycle and beyond the greater scheme\#of things..."
+\>\i[144]\}ER'KELE\{\<\#"You can either be at the receiving end of the stick or holding it."
+\>\i[144]\}ER'KELE\{\<\#"As the champion of Termina - You too can join us."
+"I'd be honored to join you."
+\>\i[144]\}ER'KELE\{\<\#"Some used this strength quite literally, while some only herded the\#masses with their teachings after tweaking them to better suit the\#demand."
+"What happened to the Moon God?"
+"This is enough. Just die already."
+\>\i[144]\}ER'KELE\{\<\#"But along came silly humans..."
+\>\i[144]\}ER'KELE\{\<\#"The Sulfur God
+\>\i[144]\}ER'KELE\{\<\#"You can embrace the chaos and break free from the cycle."
+\>\i[144]\}ER'KELE\{\<\#"We revel in the blood of the sacrificial lambs, the masses are\#for slaughter, for the fallen god - the Sulfur God."
+\>\i[144]\}ER'KELE\{\<\#"It is an eternal cycle that has befallen all mankind."
+\>\i[144]\}ER'KELE\{\<\#"You can go back to that world if you choose so and live a life\#as a slave to those sitting on top, whoever happens to be wielding\#the waning strength of the older gods at the moment..."
+\>\i[144]\}ER'KELE\{\<\#"As he was chained deep beneath the earth's surface... This fallen one,\#this fallen god - He was never able to leave this world."
+<!-- File: map147 -->
+<!-- File: map148 -->
+<!-- File: map149 -->
+<!-- File: map150 -->
+<!-- File: map151 -->
+<!-- File: map152 -->
+GabText You hit the creature and manage to wound it!
+Moonless is dead now...
+The stone has a heavy aura to it. It's almost too much\#for you to carry...
+GabText You hit the beast and manage to kill it!
+The \c[2]Soul stone\c[0] doesn't seem to react to his\#remains...
+GabText You hit the Crow Mauler and it doesn't seem to care.
+The \c[2]Soul stone\c[0] changed it's appearance.\#The stone is radiating faint blue light.
+GabText You hit the creature and manage to kill it!
+The girl is dead now...
+GabText You hit the beast and manage to wound it!
+Your child is dead now...
+You could use \c[2]Soul stone\c[0] here...
+<!-- File: map153 -->
+<!-- File: map154 -->
+<!-- File: map155 -->
+<!-- File: map156 -->
+<!-- File: map157 -->
+<!-- File: map158 -->
+<!-- File: map159 -->
+<!-- File: map160 -->
+<!-- File: map161 -->
+<!-- File: map162 -->
+<!-- File: map163 -->
+<!-- File: map164 -->
+<!-- File: map165 -->
+<!-- File: map166 -->
+<!-- File: map167 -->
+<!-- File: map168 -->
+<!-- File: map169 -->
+<!-- File: map170 -->
+GabText You hit the Crow Mauler and it doesn't seem to care.
+<!-- File: map171 -->
+<!-- File: map172 -->
+<!-- File: map173 -->
+<!-- File: map174 -->
+<!-- File: map175 -->
+<!-- File: map176 -->
+GabText You hit the Crow Mauler and it doesn't seem to care.
+<!-- File: map177 -->
+<!-- File: map178 -->
+<!-- File: map179 -->
