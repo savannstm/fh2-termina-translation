@@ -63,7 +63,6 @@ Harness the strength of a hundred leeches. The price is\#that you have to carry 
 Needle worm<#>Игольчатый червь
 The yellow mage forms magical hand signs...<#>Жёлтый маг рисует магические символы руками...
 Chains of torment<#>Цепи истязаний
-Summon the chains that tormented Chambara for hundreds\#of years.<#>Призовите цепи истязаний, которые мучили Чамбару\#сотни лет.
 En garde<#>Ан гард
 Long combat experience has prepared you for fights.\#Prepare for an attack to gain advantage by pressing [E].<#>Многолетний боевой опыт подготовил вас к битвам.\#Приготовьтесь к атаке, чтобы нанести первый удар, нажав E (У).
 Ritual spear<#>Ритуальное копьё
@@ -386,7 +385,6 @@ Rapid fire<#>Беглый огонь
 The weeping scope is weeping...<#>Плачущий прицел рыдает...
 Wire trap<#>Проволочная ловушка
 Cross stiching<#>Вышивание крестиком
-Concentrated whispers carried by the older god Sylvian\#heal a considerable amount of health.<#>Концентрированный шёпот древней богини Сильвиан\#исцеляет значительное количество здоровья.
 The floppy arm stays idle.<#>Громоздкая рука бездействует.
 The neighbour is preparing for a devastating attack!<#>Сосед готовится к разрушительной атаке!
 The floppy arm is tensing up...<#>Его громоздкая рука напрягается...

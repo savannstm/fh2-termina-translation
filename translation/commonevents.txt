@@ -1396,13 +1396,7 @@ GabText \N[15] summons the Longinus, but she cannot wield it!<#>GabText \N[15] �
 \>\i[76]\}ARINA\{\<\#"I don't feel good about this... Do we really have to fight?"<#>\>\}\i[378]АРИНА\{\<\#«Мне это не совсем нравится... Нам действительно нужно\#сражаться?»
 \>\i[75]\}EVI\{\<\#"Do we really have to do this?"<#>\>\}\i[377]ЕВИ\{\<\#«Нам правда нужно это делать?»
 \>\i[78]\}'SAA\{\<\#"I have no interest in your quarrel."<#>\>\}\i[380]'САА\{\<\#«Меня не интересует ваш конфликт.»
-Zoophobia<#>Зоофобия
-Nosophobia<#>Нозофобия
-Teratophobia<#>Тератофобия
-Phasmophobia<#>Фазмофобия
-Erotophobia<#>Эротофобия
-Rhabdophobia<#>Рабдофобия
-"It has come to our knowledge that there are sinister forces at play\#and they have their eyes set on Prehevil, Bohemia for whatever wicked \#reason."<#>«Нам стало известно, что в игре замешаны зловещие силы, и они\#положили глаз на Прехевил, город в Богемии, по какой-то злой\#причине.»
+"It has come to our knowledge that there are sinister forces at play\#and they have their eyes set on Prehevil, Bohemia for whatever wicked\#reason."<#>«Нам стало известно, что в игре замешаны зловещие силы, и они\#положили глаз на Прехевил, город в Богемии, по какой-то злой\#причине.»
 GabText IT BURNS!<#>GabText ЖЖЁТ!
 GabText Your skin is burning to a crisp!<#>GabText Ваша кожа сгорает дотла!
 GabText The pain is maddening!<#>GabText Боль ужасающая!
