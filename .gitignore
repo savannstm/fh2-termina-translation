@@ -4,7 +4,7 @@
 /movies
 /output
 /*.zip
-/.rpgmtranslate
+/.rpgmtranslate/**/
 /mobile
 /original
 /data
