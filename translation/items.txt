@@ -38,10 +38,10 @@ Small key<#>Маленький ключ
 A rusty worn-out key.<#>Ржавый изношенный ключ.
 Rotten meat<#>Тухлое мясо
 Disgusting piece of meat. Its use is questionable...<#>Отвратительный кусок мяса. Его польза под сомнением...
-Mahavre<#>Ма'Хабре
-A book about the ancient city Mahavre.<#>Книга о древнем городе Ма'Хабре.
 New poems of love and torment<#>Новые поэмы о любви и муках
 A perfect collection of love letters written by the storied\#hero Ronn Chambara.<#>Полная коллекция любовных писем, написанных\#легендарным героем Ронном Чамбарой.
+Mahavre<#>Ма'Хабре
+A book about the ancient city Mahavre.<#>Книга о древнем городе Ма'Хабре.
 Soldier's diary 1<#>Дневник солдата 1
 A diary of a Bremen soldier that arrived to this area\#recently.<#>Дневник бременского солдата, недавно прибывшего в этот\#регион.
 Blue vial<#>Синий флакон

@@ -12,6 +12,7 @@ The woodsman seems to be waiting for your initiative...<#>Кажется, дро
 \>\i[85]\}OODSMAN\{\<\#"Leave - now! Don't you understand!?"<#>\>\}\i[372]РОВОСЕК\{\<\#«Уходи - немедленно! Разве ты не понимаешь?!»
 "I told you, I'd leave if I could!"<#>«Я говорю тебе - я уш\x[ёл|ла] бы, если мог\x[|ла]!»
 "Understand what?"<#>«Понимаю что?»
+"..."<#>«...»
 \>\i[85]\}OODSMAN\{\<\#"Filthy outsider! You'll leave in a body bag then!"<#>\>\}\i[372]РОВОСЕК\{\<\#«\x[Грязный чужеземец|Грязная чужеземка]! Тогда ты уйдёшь отсюда в мешке для трупов!»
 \>\i[85]\}OODSMAN\{\<\#"It's... the festival of Termina! No one here is going to see\#the morning sun!"<#>\>\}\i[372]РОВОСЕК\{\<\#«Это... фестиваль Термины! Никто здесь не увидит утреннее солнце!»
 \>\i[85]\}OODSMAN\{\<\#"I have warned you, you miserable weasel..."<#>\>\}\i[372]РОВОСЕК\{\<\#«Я предупреждал тебя, жалкая псина...»
@@ -1724,6 +1725,7 @@ GabText A platoon and its commander face off with you.<#>GabText Взвод и �
 <!-- Event Name: Inquisitor3 --><#>
 <!-- Event Name: Sew job2 --><#>
 <!-- Event Name: Sew job3 --><#>
+<!-- Event Name: fallen_cherub6 --><#>
 <!-- Event Name: fallen_cherub15 --><#>
 <!-- Event Name: Rifleman4 --><#>
 <!-- Event Name: Bellend2 --><#>
@@ -1824,6 +1826,7 @@ GabText The trooper is cackling behind his gas mask.<#>GabText Солдат хи
 <!-- Event Name: Ronteal5 --><#>
 <!-- Event Name: Ronteal6 --><#>
 <!-- Event Name: Ronteal7 --><#>
+<!-- Event Name: Logic_fight --><#>
 \>\i[75]\}OGIC\{\<\#"..."<#>\>\}\i[377]ОГИКА\{\<\#«...»
 The machine doesn't seem to react to your talk in any way.<#>Машина никак не реагирует на ваши разговоры.
 "Do you understand me?"<#>«Ты понимаешь меня?»
@@ -1835,7 +1838,6 @@ GabText You find no obvious weaknesses in the Logic.<#>GabText Вы не выя�
 GabText A monolith stands tall before you...<#>GabText Перед вами возвышается монолит...
 GabText The exhaust system is heating up...<#>GabText Выхлопная система нагревается...
 GabText The exhaust system is running at full force.<#>GabText Выхлопная система работает на полную мощность.
-<!-- Event Name: Logic_fight --><#>
 Violently the thing thrusts its tentacles down the throat.\#Cold tendrils can be felt squirming deeper and deeper as\#\N[1] tries to vomit.<#>Существо яростно вонзает свои щупальца в горло.\#Холодные щупальца извиваются всё глубже и глубже, когда\#\N[1] рвёт.
 The vile things squirts warm fluids in. Feels like it's\#injecting \N[1] with something.<#>Мерзкое создание впрыскивает внутрь тёплую жидкость. Будто вводит\#инъекцию в тело \N[1].
 Violently the thing thrusts its tentacles down the throat.\#Cold tendrils can be felt squirming deeper and deeper as\#\N[3] tries to vomit.<#>Существо яростно вонзает свои щупальца в горло.\#Холодные щупальца извиваются всё глубже и глубже, когда\#\N[3] рвёт.
@@ -2041,6 +2043,7 @@ GabText The poe is not affected by the rot...<#>GabText Гниение не вл
 GabText The poe has no obvious weaknesses!<#>GabText У По нет очевидных слабостей!
 GabText The poe manifests itself from nothing.<#>GabText По проявляет себя из воздуха.
 <!-- Event Name: Rat_lady3 --><#>
+<!-- Event Name: Moonless_beast --><#>
 The moonless beast is growling at you from a short distance...<#>Безлунный зверь рычит на вас с близкого расстояния...
 Throw \c[2]Rotten meat\c[0]<#>Бросить \c[2]гнилое мясо\c[0]
 "Sit girl, sit!"<#>«Садись, девочка, сядь!»
@@ -2059,7 +2062,6 @@ GabText You pick up \c[2]Black steel\c[0]!<#>GabText Вы подобрали \c[
 GabText Something is charging at you from the shadows!<#>GabText Что-то несётся на вас из тени!
 GabText Glowing eyes stare down at you...<#>GabText Светящиеся глаза смотрят на вас сверху вниз...
 GabText A hulking beast reveals itself...<#>GabText Громадный зверь выходит из тени...
-<!-- Event Name: Moonless_beast --><#>
 GabText You pick up \c[2]Black Steel\c[0]!<#>GabText Вы подобрали \c[2]чёрную сталь\c[0]!
 <!-- Event Name: Father_Hugo --><#>
 \>\i[69]\}ATHER HUGO\{\<\#"..."<#>\>\}\i[380]ТЕЦ ХЬЮГО\{\<\#«...»
@@ -2072,7 +2074,6 @@ GabText Father Hugo loses his balance!<#>GabText Отец Хьюго теряе�
 GabText The high priest is blinded! His eyes are bleeding!<#>GabText Верховный жрец ослеп! Его глаза кровоточат!
 GabText Father Hugo widens his arms to embrace you.<#>GabText Отец Хьюго распахивает свои руки, чтобы обнять вас.
 Father Hugo wants to take off his clothes.<#>Отец Хьюго хочет раздеться.
-<!-- Event Name: fallen_cherub6 --><#>
 <!-- Event Name: rancid_sergal1 --><#>
 choice_text 1 \}[PERSUADE]\{ "I'm not a warrior, there is no challenge to be had here!"<#>choice_text 1 \}[УБЕДИТЬ]\{ «Я не воин, я не принимаю твой вызов!»
 \>\i[80]\}ANCID SERGAL\{\<\#"A sergal never backs down from a chance to bask in euphoric\#mutilation!"<#>\>\}\i[383]ЕРГАЛ ПРОКАЖЕННЫЙ\{\<\#«Сергал никогда не отступит от шанса насладиться эйфорией\#увечий!»
@@ -2151,7 +2152,8 @@ The mob seems to be unwilling to negotiate...<#>Шайка, похоже, не �
 GabText The skin of the mob begins to rot...<#>GabText Кожа членов шайки начинает гнить...
 GabText You are having trouble focusing your analyzing skills...<#>GabText У вас возникли проблемы с концентрацией на анализе...
 GabText You're assaulted by a mob!<#>GabText На вас напала шайка!
-The centaur gives you a loud and distorted neigh.<#>Кентавр громко рычит и ржет.
+<!-- Event Name: Centaur1 --><#>
+The centaur gives you a loud and distorted neigh.<#>Кентавр громко рычит и ржёт.
 "If you can understand me, just stay back..."<#>«Если ты меня понимаешь, просто держись подальше...»
 "Stay back!"<#>«Держись подальше!»
 GabText The centaur's skin begins to rot...<#>GabText Кожа кентавра начинает гнить...
@@ -2159,7 +2161,6 @@ GabText You've exposed the weaknesses of the centaur!<#>GabText Вы выяви�
 GabText The creature has nothing of value.<#>GabText У этого существа нет ничего ценного.
 GabText The centaur loses its balance!<#>GabText Кентавр теряет равновесие!
 GabText Centaur charges towards you in a fierce rush!<#>GabText Кентавр бросается на вас в порыве ярости!
-<!-- Event Name: Centaur1 --><#>
 <!-- Event Name: Logic_fight_easy_mode --><#>
 <!-- Event Name: gull_bros --><#>
 choice_text 2 \}[PERSUADE]\{ "I bow down to your greatness..."<#>choice_text 2 \}[УБЕДИТЬ]\{ «Я преклоняюсь вашему величию...»
@@ -2204,6 +2205,7 @@ GabText The rot doesn't seem to affect the gate.<#>GabText Гниение, по�
 GabText The gate has no obvious weaknesses.<#>GabText У ворот нет очевидных слабостей.
 GabText An iron gate stands sturdy before you...<#>GabText Перед вами неподвижно стоят железные ворота...
 The gate is too strong for you.<#>Ворота слишком прочны для вас.
+<!-- Event Name: wooden_door_inside --><#>
 <!-- Event Name: reinforced_door_inside --><#>
 It's a reinforced door. There are no conversations to be had here.<#>Это укреплённая дверь. С ней особо не поболтаешь.
 GabText A reinforced door stands sturdy before you...<#>GabText Укреплённая дверь неподвижно стоит перед вами.
@@ -2219,6 +2221,7 @@ The washing machine is too strong for you.<#>Стиральная машина �
 It's a metal door. There are no conversations to be had here.<#>Это металлическая дверь. С ней особо не поболтаешь.
 GabText A metal door stands sturdy before you...<#>GabText Металлическая дверь неподвижно стоит перед вами...
 <!-- Event Name: iron_bars1_sewers --><#>
+<!-- Event Name: wooden_doors --><#>
 It's a pair of wooden doors. There are no conversations to be\#had here.<#>Это пара деревянных дверей. С ними особо не поболтаешь.
 GabText The rot doesn't seem to affect the doors.<#>GabText Гниение, похоже, не влияет на двери.
 GabText The doors have no obvious weaknesses.<#>GabText У дверей нет очевидных слабостей.
@@ -2227,12 +2230,10 @@ The doors are too strong for you.<#>Двери слишком прочны дл�
 <!-- Event Name: iron_bars1_church --><#>
 <!-- Event Name: wooden_door_apartments --><#>
 <!-- Event Name: iron_bars1_apartments --><#>
-<!-- Event Name: wooden_door_inside --><#>
 <!-- Event Name: wooden_door_school --><#>
 <!-- Event Name: metal_door_reinforced --><#>
 <!-- Event Name: iron_gates1 --><#>
 <!-- Event Name: iron_gates_reinforced --><#>
-<!-- Event Name: wooden_doors --><#>
 <!-- Event Name: Olivia_doppel --><#>
 \>\i[67]\}OPPELGÄNGER OLIVIA\{\<\#"Why would you do this?"<#>\>\}\i[372]ВОЙНИК ОЛИВИИ\{\<\#«Зачем ты это делаешь?»
 \>\i[67]\}OPPELGÄNGER OLIVIA\{\<\#"..."<#>\>\}\i[372]ВОЙНИК ОЛИВИИ\{\<\#«...»

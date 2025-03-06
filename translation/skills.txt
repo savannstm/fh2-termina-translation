@@ -33,7 +33,6 @@ Explosion<#>Взрыв
 Poison tongue<#>Ядовитый язык
 Suicide<#>Самоубийство
 There are worse fates than death. Sometimes it's\#good to go on your own terms...<#>Есть судьбы хуже смерти. Иногда лучше уйти на собственных\#условиях...
-Leg sweep<#>Подсечка
 Run<#>Убежать
 There is no shame in running away from battles. Live to see\#another day.<#>Нет ничего постыдного в том, чтобы убегать из сражений. Жить,\#чтобы увидеть другой день.
 Critical slash<#>Критический удар
@@ -54,7 +53,15 @@ Release of pheromones that makes the opponent divert all\#attention to the targe
 Rock smash<#>Удар камнем
 Smash<#>Разгромить
 Snatch<#>Украсть
+Lockpicking<#>Взлом
+Blood sacrifice<#>Пожертвование кровью
+Devour<#>Пожирание
+Marksmanship<#>Снайпер
+Bloodlust<#>Жажда крови
+Peck<#>Клевок
+Bite<#>Укус
 Maul<#>Истязание
+Whip<#>Хлыст
 Nasty bite<#>Мерзкий укус
 The ghoul stares at you with it's dead fish eyes...<#>Гуль смотрит на вас своими мёртвыми глазами...
 Cinder<#>Зола
@@ -62,6 +69,8 @@ Needle worms<#>Игольчатые черви
 Harness the strength of a hundred leeches. The price is\#that you have to carry them inside you as parasites...<#>Обуздайте силу сотен пиявок. Вам придётся заплатить\#цену - носить их в собственном теле...
 Needle worm<#>Игольчатый червь
 The yellow mage forms magical hand signs...<#>Жёлтый маг рисует магические символы руками...
+Leg sweep<#>Подсечка
+Pummel<#>Избивание
 Chains of torment<#>Цепи истязаний
 En garde<#>Ан гард
 Long combat experience has prepared you for fights.\#Prepare for an attack to gain advantage by pressing [E].<#>Многолетний боевой опыт подготовил вас к битвам.\#Приготовьтесь к атаке, чтобы нанести первый удар, нажав E (У).
@@ -73,6 +82,7 @@ Healing whispers<#>Шёпот исцеления
 Whispers carried by the older god Sylvian heal wounds\#and mend injuries.<#>Шёпот древней богини Сильвиан исцеляет раны\#и затягивает плоть.
 Inject<#>Укол
 Ritual knife<#>Ритуальный нож
+Blade dance<#>Танец клинков
 Axe kick<#>Удар топором
 Rusty claw<#>Ржавый коготь
 Whispers of Gro-goroth<#>Шёпот Гро-горота
@@ -163,7 +173,6 @@ Gunslinger<#>Опытный стрелок
 Advanced use of pistols. Precise shots can occasionally\#dismember opponents. Used on field.<#>Продвинутое обращение с пистолетами. У вас появляется\#возможность иногда отстреливать конечности. Используется\#вне боя.
 Executioner<#>Палач
 Advanced use of trenchguns. You are able to execute a stunned\#enemy by shooting it again on the field.<#>Продвинутое обращение с дробовиками. Вы можете мгновенно\#убить оглушенного противника, выстрелив в него вне боя.
-Marksmanship<#>Снайпер
 Advanced use of rifles. You are able to one-shot enemies\#with the rifle every now and then. Used on field.<#>Продвинутое обращение с винтовками. Иногда, стреляя из\#винтовки, вы можете мгновенно убить противника вне боя.
 Giant fork<#>Гигантская вилка
 Giant knife<#>Гигантский нож
@@ -265,7 +274,6 @@ Greater meditation<#>Высшая медитация
 Reach a greater state of awareness. Meditate while guarding to gain\#even more Rev points on that turn.<#>Достигните высшего просветления. Медитируйте во время защиты,\#чтобы получить два очка концентрации в следующем ходу.
 Spice forge<#>Кузница специй
 Spice forges were widely used by magick practitioners of the\#Middle East back in the day. Spices make it possible to customize\#the properties of your otherwordly skills.<#>Кузницы специй широко использовались практикующими магию на\#Ближнем Востоке в былые времена. Специи позволяют\#улучшить ваши магические способности.
-Blood sacrifice<#>Пожертвование кровью
 Sacrifice your own blood for Gro-goroth, the god of destruction.\#A blood sacrifice will enhance your affinity with the said god.\#Sacrifices like these were everyday occurences back in the day.<#>Пожертвуйте своей собственной кровью ради Гро-горота,\#бога разрушения. Жертвоприношение усилит вашу близость\#с этим богом.
 Masturbation<#>Мастурбация
 An act of self-love enhances your affinity with Sylvian when\#performed on a ritual circle. This act is widely popular among\#the priests of Vatican when mixed with blood sacrifice.<#>Акт самоудовлетворения приблизит вас к Сильвиан, будучи\#совершённым в ритуальном круге. Этот акт широко популярен среди\#священников Ватикана в сочетании с пожертвованием кровью.
@@ -305,7 +313,6 @@ Bury your trauma and fears. This reduces your sanity decline while\#exploring. Y
 Order, Charge!<#>Приказ, в атаку!
 Give orders to your team to charge and attack the enemy without\#wasting their turns.<#>Отдавайте приказы участникам своего отряда, не используя их ходы.
 Order, Defend!<#>Приказ, в защиту!
-Lockpicking<#>Взлом
 An ability to open any simple lock with your trusty lockpick.<#>Возможность открыть любой простой замок своей верной отмычкой.
 Persuade<#>Убеждение
 Persuade your opponents with greater intellect and wit. The effects\#vary between enemy to enemy depending on their persona. Used with\#Talk skill.<#>Убеждайте своих оппонентов превосходящим интеллектом и\#остроумием. Эффекты варьируются от врага к врагу.\#Применяется пассивно с навыком разговора.
@@ -319,9 +326,7 @@ Diagnosis<#>Диагноз
 Study fallen enemies and their anatomy to gain knowledge of\#them. Diagnosis also reveals what strategies might work the\#best when facing similar foes in the future.<#>Изучайте поверженных врагов и их анатомию, чтобы получить\#представление о них. Диагноз также показывает, чем\#лучше атаковать врага.
 Rugged handsome looks<#>Суровый внешний вид
 The skill doesn't necessarily translate to everyone. Beauty is in\#the eye of beholder after all.<#>Этот навык не обязательно применим ко всем. В конце концов,\#красота - в глазах смотрящего.
-Devour<#>Пожирание
 A barbaric trait of devouring the carcass of your opponents\#to ease hunger.<#>Варварская черта пожирания трупов противников для облегчения\#голода.
-Bloodlust<#>Жажда крови
 Hype yourself into a state of aggression and trance. An old\#traditional Oldegårdian folk skill.<#>Введите себя в состояние агрессии и транса. Старинный\#народный ольдегардский навык.
 Provoke the enemy into attacking you only, leaving others\#alone.<#>Спровоцируйте врага на себя, чтобы остальные были\#невредимыми.
 Sisu<#>Сису
@@ -392,12 +397,10 @@ Meat mallet<#>Отбивной молоток
 Vomit<#>Рвота
 Glass shards<#>Осколки стекла
 Glass ceiling<#>Стеклянный потолок
-Whip<#>Хлыст
 Rage smash<#>Яростный удар
 The giant takes a step forward...<#>Великан делает шаг вперёд...
 The muscles on the arm are contracting...<#>Мышцы на его руке сокращаются...
 Mechanical dance shrieks out of pain<#>Механический танец кричит от боли!
-Blade dance<#>Танец клинков
 The giant is engulfed by rage!<#>Гигант охвачен яростью!
 Hanky-panky<#>Лапание
 Claws<#>Когти
@@ -417,7 +420,6 @@ Guard+<#>Защита+
 Perfect guard<#>Идеальная защита
 While guarding your damage is reduced even further and you\#can evade the most drastic physical trauma.<#>Во время защиты, вы будете получать ещё меньше урона, а также\#сможете избежать любой физической травмы.
 Red arc<#>Красная дуга
-Red arc X2<#>Красная дуга x2
 Overheat<#>Перегрев
 Lunar meteorite<#>Лунный метеорит
 Summon a small piece of the moon. Requires 1 Rev Point.<#>Призовите небольшой кусочек луны. Требуется 1 очко концентрации.
@@ -547,11 +549,9 @@ Requires 2 Rev Points.<#>Требуется 2 очка концентрации.
 Left slam<#>Левый удар
 Right slam<#>Правый удар
 Mauler<#>Истязание
-Peck<#>Клевок
 The gull brother is cackling and laughing...<#>Брат-чайка кричит и смеётся...
+Red arc X2<#>Красная дуга x2
 Psycho stab<#>Безумный удар
 The villager lunges at you!<#>Житель бросается на вас!
 Meat tenderizer<#>Размягчитель мяса
 The half-cocooned lunges at you!<#>Полуобращённый бросается на вас!
-Bite<#>Укус
-Pummel<#>Избивание
