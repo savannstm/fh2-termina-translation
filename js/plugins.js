@@ -112,5 +112,9 @@ var $plugins =
 {"name":"HIME_WindowskinChange","status":false,"description":"v1.0 - Change windowskins during the game using script calls!","parameters":{}},
 {"name":"Olivia_MetaControls","status":true,"description":"<MetaControls> for RPG Maker MV version 1.6.1.","parameters":{"":"","ATTENTION!!!":"READ THE HELP FILE","Common Event on New Game":"0","Common Event on Load":"0","Variables on Save":"","Map ID":"0","Map X":"0","Map Y":"0"}},
 {"name":"TY_AbortUrl","status":true,"description":"","parameters":{}},
-{"name":"Olivia_AntiPlayerStress","status":true,"description":"<AntiPlayerStress> for RPG Maker MV version 1.6.1.","parameters":{"":"","ATTENTION!!!":"!!! READ THE HELP FILE !!!","Center Title Command":"false","Default Options":"","Always Dash":"false","Command Remember":"false","Default Volume":"40","Encounter Rate Minimum":"10","Escape Always":"false","Hit Rate Stacking":"false","Level Up":"","Recover Full HP":"false","Recover Full MP":"false","Proper Error Display":"true"}}
+{"name":"Olivia_AntiPlayerStress","status":true,"description":"<AntiPlayerStress> for RPG Maker MV version 1.6.1.","parameters":{"":"","ATTENTION!!!":"!!! READ THE HELP FILE !!!","Center Title Command":"false","Default Options":"","Always Dash":"false","Command Remember":"false","Default Volume":"40","Encounter Rate Minimum":"10","Escape Always":"false","Hit Rate Stacking":"false","Level Up":"","Recover Full HP":"false","Recover Full MP":"false","Proper Error Display":"true"}},
+{"name":"ActorNameSpecificMessages","status":true,"description":"","parameters":{}},
+{"name":"GenderSpecificMessages","status":true,"description":"Provides a method to easily make changes to messages depending on the player's gender.","parameters":{"Gender Switch ID":"0239"}},
+{"name":"NumberSpecificMessages","status":true,"description":"","parameters":{}},
+{"name":"PartySizeSpecificMessages","status":true,"description":"","parameters":{}}
 ];
