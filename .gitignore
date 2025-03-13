@@ -8,3 +8,6 @@
 /mobile
 /original
 /data
+/bun.lock
+/package.json
+/node_modules
