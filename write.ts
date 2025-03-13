@@ -1,4 +1,8 @@
-await Bun.spawn(["rvpacker-txt-rs", "write"], { stdout: "inherit" }).exited;
+import { copyFile, mkdir, readdir, rm } from "fs/promises";
+import psd from "psd.js";
+import { BlobWriter, ZipWriter } from "@zip.js/zip.js";
+import { join } from "path";
+import { Decrypter } from "rpgm-assets-decrypter";
 
 async function replaceAugustWhatBringsYouHereLine() {
     const fourthMapJSON = JSON.parse(await Bun.file("./output/data/Map004.json").text());
@@ -212,8 +216,96 @@ async function replaceLeviGodChoicesLines() {
     await Bun.write("./output/data/Map019.json", JSON.stringify(map019JSON));
 }
 
+async function processDirectory(inputPath: string, outputPath: string, decrypter: Decrypter) {
+    await mkdir(outputPath, { recursive: true });
+
+    for (const file of await readdir(inputPath, { withFileTypes: true })) {
+        const inputFilePath = join(inputPath, file.name);
+        const outputFilePath = join(outputPath, file.name);
+
+        if (file.isDirectory()) {
+            await processDirectory(inputFilePath, outputFilePath, decrypter);
+        } else {
+            if (!file.name.endsWith(".psd")) {
+                await copyFile(inputFilePath, outputFilePath);
+            } else {
+                const psdFile = await psd.open(inputFilePath);
+
+                if (file.name === "icon.psd") {
+                    await psdFile.image.saveAsPng(join(outputFilePath.replace(".psd", ".png")));
+                } else {
+                    await psdFile.image.saveAsPng(join(outputFilePath.replace(".psd", ".png")));
+                    const data = await Bun.file(join(outputFilePath.replace(".psd", ".png"))).arrayBuffer();
+                    const encrypted = decrypter.encryptFile(data, true);
+                    await rm(join(outputFilePath.replace(".psd", ".png")));
+                    await Bun.write(outputFilePath.replace(".psd", ".rpgmvp"), encrypted);
+                }
+            }
+        }
+    }
+}
+
+async function exportPNG() {
+    const psdPath = "./img/translation";
+    const outputPath = "./output/img";
+
+    const decrypter = new Decrypter(JSON.parse(await Bun.file("./data/System.json").text()).encryptionKey);
+    await processDirectory(psdPath, outputPath, decrypter);
+
+    await mkdir("./output/icon", { recursive: true });
+    await copyFile("./output/img/icon/icon.png", "./output/icon/icon.png");
+    await rm("./output/img/icon", { force: true, recursive: true });
+}
+
+async function copyChangeList() {
+    for (const entry of await readdir("./")) {
+        if (entry.endsWith(".html")) {
+            await copyFile(`./${entry}`, `./output/${entry}`);
+            return entry.split(" ")[0];
+        }
+    }
+}
+
+async function zipDirectory(sourceDir: string, outputPath: string) {
+    const blobWriter = new BlobWriter();
+    const zipWriter = new ZipWriter(blobWriter);
+
+    async function addFilesToZip(currentPath: string, relativePath = "") {
+        const entries = await readdir(currentPath, { withFileTypes: true });
+
+        for (const entry of entries) {
+            if (entry.name.endsWith("zip")) {
+                continue;
+            }
+
+            const entryPath = join(currentPath, entry.name);
+            const zipPath = join(relativePath, entry.name).replace(/\\/g, "/");
+
+            if (entry.isDirectory()) {
+                await addFilesToZip(entryPath, zipPath);
+            } else {
+                const fileData = await Bun.file(entryPath).arrayBuffer();
+                await zipWriter.add(zipPath, new Blob([fileData]).stream());
+            }
+        }
+    }
+
+    await addFilesToZip(sourceDir);
+
+    await zipWriter.close();
+
+    const zipBlob = await blobWriter.getData();
+    await Bun.write(outputPath, zipBlob);
+}
+
+await Bun.spawn(["rvpacker-txt-rs", "write"], { stdout: "inherit" }).exited;
 await replaceAugustWhatBringsYouHereLine();
 await replaceMoonscorchedFemaleLines();
 await replaceVillagerFemaleLines();
 await replaceIncorrectNeedlesLosesBalanceLine();
 await replaceLeviGodChoicesLines();
+
+await exportPNG();
+
+const version = await copyChangeList();
+await zipDirectory("./output", `./output/${version}.zip`);
