@@ -348,7 +348,7 @@ Plant your personal seeds of brain flower to a fertile ground.\#Freshly deceased
 Heart flower<#>Сердцецвет
 Plant your personal seeds of heart flower to a fertile ground.\#Freshly deceased corpses being the most fertile of grounds. A heart\#flower replenishes body and wounds.<#>Посадите семена сердцецвета в плодородную среду.\#Свежеиспеченные трупы - самая плодородная почва.\#Сердцецвет восстанавливает тело и залечивает раны.
 Golden gates<#>Золотые врата
-A gift from the Moon God himself. Gain access to golden gates\#that lead you out from madness and world of deceit. A passive ability.<#>Дар самого Лунного бога. Получите доступ к золотым вратам, ведущим\#прочь от безумств измерения обмана. Пассивный навык.\#
+A gift from the Moon God himself. Gain access to golden gates\#that lead you out from madness and world of deceit. A passive ability.<#>Дар самого Лунного бога. Получите доступ к золотым вратам, ведущим\#прочь от безумств измерения обмана. Пассивный навык.
 Reveal aura<#>Поиск ауры
 Reveal positions of the other contestants through examining a\#map. To sense these positions, a spike of energy is required.\#You can't sense a person without this.<#>Показывает позиции участников фестиваля на карте.\#Чтобы найти чью-то ауру, нужен сильный всплеск энергии.\#Без неё вы не учуете человека.
 Blood sword<#>Кровавый меч
@@ -527,7 +527,7 @@ Shivers 1<#>Дрожь 1
 Shivers 2<#>Дрожь 2
 High priest's fingers are twitching...<#>Пальцы верховного жреца подёргиваются...
 Killing frenzy<#>Убийственное безумие
-The sergal lowers his stance...<#>Сергал встаёт в позу готовности...
+The sergal lowers his stance...<#>Сергал встаёт наизготовку...
 Slasher<#>Разрубание
 Death gurgle<#>Насмешка
 Meat grinder<#>Мясорубка

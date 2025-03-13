@@ -46,7 +46,7 @@ Briefcase<#>Чемодан
 Blood sword<#>Кровавый меч
 A sword forged from the blood of Alll-mer.<#>Меч, выкованный из крови Алл-мера.
 Longinus<#>Лонгин
-The spear that punctured Alll-mer's side as he was chained and\#crucified. A faint trace of the shadow that was cast away for\#Alll-mer to reach his ascension.<#>Это копьё пронзило Алл-мера, когда он был закован в цепи и\#распят. Оно лишь тень того, что Алл-мер оставил после себя,\#вознёсшись.
+The spear that punctured Alll-mer's side as he was chained and\#crucified. A faint trace of the shadow that was cast away for\#Alll-mer to reach his ascension.<#>Это копьё пронзило Алл-мера, когда он был закован в цепи и\#распят. Оно - лишь тень того, что Алл-мер оставил после себя,\#вознёсшись.
 Miasma<#>Миазма
 An otherwordly sword that oozes toxic gasses. The sword\#is said to house the strength of 6 men.<#>Потусторонний меч, который выделяет яд. Говорят, что в\#этом мече заключена сила шести человек.
 Sabbath<#>Саббат
