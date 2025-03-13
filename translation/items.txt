@@ -19,7 +19,7 @@ A small vial. Typically used with alchemy.<#>Небольшой флакон. О
 Murky vial<#>Мутный флакон
 A vial full of murky liquid. Highly flammable.<#>Флакон, полный мутной жидкости. Легко воспламеняется.
 Oil<#>Масло
-A vial full of oil that is somewhat flammable.<#>Флакон, полный масла. Воспламеняется.
+A vial full of oil that is somewhat flammable.<#>Флакон, полный легковоспламеняемого масла.
 Alchemillia vol.2<#>Алхемилия, том 2
 A book for intermediate level alchemy. Contains recipes for\#the murky vial, the white vial and the yellow vial.<#>Книга со знаниями о среднем уровне алхимии.\#Содержит рецепты мутной, белой и жёлтой жидкостей.
 Meatpie<#>Мясной пирог
@@ -168,7 +168,7 @@ A leg that's still relatively fresh.<#>Нога, которая ещё отно�
 Goat hoof<#>Козье копыто
 A hoof of a goat. It's still relatively fresh.<#>Копыто козы. Относительно свежо.
 Purifying talisman<#>Талисман очищения
-A paper talisman with markings that originate from\#Eastern Sanctuaries.<#>Бумажный талисман с отметками родом из Восточных\#Святилищ.
+A paper talisman with markings that originate from\#Eastern Sanctuaries.<#>Бумажный талисман с отметками, родом из Восточных\#Святилищ.
 Raw meat<#>Сырое мясо
 A piece of raw meat. It's huge junk, but you don't know\#if it's healthy to eat it raw...<#>Кусок сырого мяса. Оно явно вредное, и вы не знаете, стоит\#ли есть его сырым...
 Grilled meat<#>Жареное мясо
@@ -364,7 +364,7 @@ The severed head of August.<#>Отрубленная голова Августа
 Valkyrie's head<#>Голова Валькирии
 The severed head of Valkyrie.<#>Отрубленная голова Валькирии.
 Tanaka's notes<#>Записки Танаки
-Notes left behind by Tanaka. The notes look relatively fresh.<#>Записки, оставленные Танакой. Кажется были написаны\#относительно недавно.
+Notes left behind by Tanaka. The notes look relatively fresh.<#>Записки, оставленные Танакой. Кажется, были написаны\#относительно недавно.
 Ancient book<#>Древняя книга
 An ancient looking book with grotesque leather covers. You\#feel great urge to read the book.<#>Старинная книга в причудливой кожаной обложке. Она\#сильно притягивает ваше внимание.
 Talking board<#>Доска Уиджи
