@@ -25,9 +25,9 @@ Manic stab<#>Маниакальный удар
 Necromancy<#>Некромантия
 Bring back life to where it once lingered. The bond between\#the body and the soul must still be relatively fresh for the\#necromancy to work.<#>Верните жизнь туда, где она когда-то была. Связь между телом\#и душой должна быть относительной свежей для удачной\#некромантии.
 Pipe smash<#>Удар трубой
-The moonscorched is tearing his face apart...<#>Опаленный луной рвёт своё лицо на части...
-The moonscorched is shaking uncontrollably.<#>Опаленный луной неудержимо трясётся.
-The moonscorched is tearing her face apart...<#>Опаленная луной рвёт своё лицо на части...
+The moonscorched is tearing his face apart...<#>Опалённый луной рвёт своё лицо на части...
+The moonscorched is shaking uncontrollably.<#>Опалённый луной неудержимо трясётся.
+The moonscorched is tearing her face apart...<#>Опалённая луной рвёт своё лицо на части...
 Steal<#>Воровство
 Explosion<#>Взрыв
 Poison tongue<#>Ядовитый язык
@@ -47,14 +47,14 @@ Summon a swarm of rats to disrupt the enemy.<#>Призовите рой кры�
 Guard break<#>Пробить защиту
 Break through the defence of the opponent.<#>Прорвите оборону соперника.
 Blood golem<#>Кровавый голем
-Sacrifice blood to summon a golem that fights by your side\#temporarily. The golem only takes orders from the one that\#gave birth to it. Requires 1 Rev Point.<#>Пожертвуйте кровью, чтобы призвать голема, который будет\#временно сражаться на вашей стороне. Голем слушается\#только того, кто создал его. Необходимо 1 очко концентрации.
+Sacrifice blood to summon a golem that fights by your side\#temporarily. The golem only takes orders from the one that\#gave birth to it. Requires 1 Rev Point.<#>Пожертвуйте кровью, чтобы призвать голема, который будет\#временно сражаться на вашей стороне. Голем слушается\#только своего создателя. Необходимо 1 очко концентрации.
 Pheromones<#>Феромоны
 Release of pheromones that makes the opponent divert all\#attention to the target.<#>Выброс феромонов, отвлекающий всё внимание противника\#на цель.
 Rock smash<#>Удар камнем
 Smash<#>Разгромить
 Snatch<#>Украсть
 Lockpicking<#>Взлом
-Blood sacrifice<#>Пожертвование кровью
+Blood sacrifice<#>Жертва кровью
 Devour<#>Пожирание
 Marksmanship<#>Снайпер
 Bloodlust<#>Жажда крови
@@ -63,7 +63,7 @@ Bite<#>Укус
 Maul<#>Истязание
 Whip<#>Хлыст
 Nasty bite<#>Мерзкий укус
-The ghoul stares at you with it's dead fish eyes...<#>Гуль смотрит на вас своими мёртвыми глазами...
+The ghoul stares at you with it's dead fish eyes...<#>Гуль смотрит на вас мёртвыми глазами...
 Cinder<#>Зола
 Needle worms<#>Игольчатые черви
 Harness the strength of a hundred leeches. The price is\#that you have to carry them inside you as parasites...<#>Обуздайте силу сотен пиявок. Вам придётся заплатить\#цену - носить их в собственном теле...
@@ -97,7 +97,7 @@ Cutlass<#>Сабля
 Molten gold<#>Расплавленное золото
 A simple pyromancy trick to burn your opponents.<#>Простой трюк пиромантии, позволяющий поджечь ваших\#противников.
 A large combustion of fire and flames. Requires 1 Rev\#Point.<#>Сильный взрыв из огня и пламени. Требуется 1 очко\#концентрации.
-Suckerpunch<#>Запрёщенный прием
+Suckerpunch<#>Запрещённый прием
 Shield bash<#>Удар щитом
 Light blue vial<#>Голубой флакон
 The outlander aims carefully...<#>Чужеземец тщательно целится...
@@ -115,7 +115,7 @@ Double-arm smash<#>Двуручный удар
 Plague touch<#>Чумное прикосновение
 Punch<#>Удар
 Loving whispers<#>Шёпот любви
-Concentrated whispers carried out by the older god Sylvian.\#Heals a considerable amount of health. Precariously the whisper's\#effects are solely based on Sylvian's whims.<#>Сосредоточенный шёпот древней богини Сильвиан.\#Восстанавливает значительное количество здоровья.\#Эффект шёпота основывается лишь на прихотях Сильвиан.
+Concentrated whispers carried out by the older god Sylvian.\#Heals a considerable amount of health. Precariously the whisper's\#effects are solely based on Sylvian's whims.<#>Сосредоточенный шёпот древней богини Сильвиан.\#Восстанавливает значительное количество здоровья.\#Эффект шёпота зависит лишь от прихоти Сильвиан.
 Summon the deity of the good luck. The pinecone pig.<#>Призовите божество удачи. Шишкосвина.
 Gauntlet punch<#>Удар рукавицей
 Spider bite<#>Укус паука
@@ -139,7 +139,7 @@ The molded squirms in pain...<#>Плесневелый корчится от б�
 Ejaculation<#>Эякуляция
 War cry<#>Боевой клич
 Provoke the enemy into attacking you.<#>Спровоцируйте врага напасть на вас.
-Chomp<#>Чавкание
+Chomp<#>Чавканье
 Rebirth of the beloved<#>Возрождение возлюбленного
 A hidden love magic that is said to bring back the one\#you loved the most.<#>Скрытая любовная магия, которая, как говорят, возвращает того,\#кого вы любили больше всего.
 Escape plan<#>План побега
@@ -162,7 +162,7 @@ Idle swing...<#>Неспешное покачивание...
 Mastery over vermin<#>Господство над паразитами
 Gain the ability to talk to those who are often left unseen.<#>Получите возможность разговаривать с теми, кто скрыт природой.
 Flesh puppetry<#>Марионетка из плоти
-Puppeteer severed limbs at your disposal to attack the enemy.\#You need sawed off limbs to do this.<#>Дёргайте нитками за отрубленные конечности, чтобы атаковать\#врага. Для этого вам нужны отрубленные конечности в инвентаре.
+Puppeteer severed limbs at your disposal to attack the enemy.\#You need sawed off limbs to do this.<#>Дёргайте за ниточки отрубленные конечности, чтобы атаковать\#врага. Для этого вам нужны отрубленные конечности в инвентаре.
 Mind read<#>Чтение мыслей
 A moon magic that reveal the inner thoughts of your\#fellow humans.<#>Лунная магия, раскрывающая сокровенные мысли людского бытия.
 Grasp of a giant<#>Хватка гиганта
@@ -182,20 +182,20 @@ Canister smash<#>Удар канистрой
 Gas is leaking from Vile's canister...<#>Из баллона Мерзости сочится газ...
 Doomsday trumpet<#>Труба судного дня
 Engrave<#>Выгравировать
-Engrave a sigil on a party member. The benefit of the sigil varies\#depeding on the god it belongs to. Historically sigils were carved\#on the body, but modern practition prefers face sigils.<#>Выгравируйте символ на коже одного из членов группы. Польза от\#символа варьируется в зависимости от бога, которому он\#принадлежит. Современники обычно вырезают символы на лице.
+Engrave a sigil on a party member. The benefit of the sigil varies\#depeding on the god it belongs to. Historically sigils were carved\#on the body, but modern practition prefers face sigils.<#>Выгравируйте символ на коже одного из членов группы. Польза\#символа варьируется в зависимости от бога, которому он\#принадлежит. Современники обычно вырезают символы на лице.
 Rampage<#>Буйство
 A vicious ramming attack.<#>Жестокая таранная атака.
 Advanced occultism<#>Продвинутый оккультизм
-Your advanced knowledge in occult arts enables you to start\#a battle with an extra Rev point. A passive skill.<#>Ваши продвинутые знания в оккультизме позволяют вам начать\#битву с дополнительным очком концентрации. Пассивный навык.
+Your advanced knowledge in occult arts enables you to start\#a battle with an extra Rev point. A passive skill.<#>Ваши продвинутые знания в оккультизме позволяют начать\#битву с дополнительным очком концентрации. Пассивный навык.
 Meditation<#>Медитация
 Reach a higher state of awareness. Meditate while guarding to gain\#extra Rev points on that turn.<#>Достигните просветления. Медитируйте во время защиты,\#чтобы получить дополнительные очки концентрации в\#следующем ходу.
-Mucus and slime drips from the trout...<#>С форели стекают мускус и слизь...
+Mucus and slime drips from the trout...<#>С хобота стекают мускус и слизь...
 Shoot<#>Выстрел
 Critical shot<#>Критический выстрел
 The rifleman is aiming wildly...<#>Стрелок небрежно целится...
 Hammerhead<#>Молоток
 Clawing<#>Разрывание
-The crimson father is focusing its attention...<#>Багровый отец сосредотачивает своё внимание...
+The crimson father is focusing its attention...<#>Багровый отец сосредотачивает внимание...
 Mind control<#>Контроль разума
 The crimson father began trembling furiously...<#>Багровый отец яростно дрожит...
 Tentacles<#>Щупальца
@@ -220,9 +220,9 @@ Use your imagination to craft unique weapons from different\#utility items. Used
 Short circuit<#>Короткое замыкание
 Short circuit an electric lock to open locked doors.\#Relatively simple in practice, but short circuiting the wrong\#conductors might lock the door for good.<#>Короткое замыкание электронных замков для открытия запертых\#дверей. На деле это довольно просто, но короткое замыкание\#не тех проводов может запереть дверь навсегда.
 Remedial poison<#>Исцеление яда
-Sacrifice a kidney to Vitruvia to cure poison.<#>Пожертвуйте Витрувии печень, чтобы излечить яд.
+Sacrifice a kidney to Vitruvia to cure poison.<#>Пожертвуйте Витрувии печень, чтобы излечить отравление ядом.
 Remedial toxic<#>Исцеление токсинов
-Sacrifice a liver to Vitruvia to cure toxic.<#>Пожертвуйте Витрувии печень, чтобы излечить отравление.
+Sacrifice a liver to Vitruvia to cure toxic.<#>Пожертвуйте Витрувии печень, чтобы излечить отравление токсинами.
 Remedial infection<#>Исцеление инфекции
 Sacrifice a thymus to Vitruvia to cure infections.<#>Пожертвуйте Витрувии тимус, чтобы излечить инфекцию.
 Remedial bleeding<#>Исцеление кровотечения
@@ -234,16 +234,16 @@ Sacrifice an eye to Vitruvia to cure blindness.<#>Пожертвуйте Вит�
 Greater analyze<#>Высший анализ
 Analyze the enemy behaviour and find the weak points. You can\#use the acquired information against similar type enemies.<#>Проанализируйте поведение противника и найдите слабые места.\#Вы можете использовать полученную информацию против подобных\#врагов.
 Wrench toss<#>Бросок разводного ключа
-Throw your pipe wrench at the enemy with devastating force.\#A chance of stun. Requires pipe wrench to be equipped first.<#>Бросьте свой разводной ключ во врага с огромной силой.\#Может вызвать оглушение. Разводной ключ должен быть\#экипирован.
+Throw your pipe wrench at the enemy with devastating force.\#A chance of stun. Requires pipe wrench to be equipped first.<#>Бросьте разводной ключ во врага с огромной силой.\#Может вызвать оглушение. Разводной ключ должен быть\#экипирован.
 Bulldozer<#>Сбивание с ног
 The pillarman starts to jog...<#>Столпник пускается в бег...
 The dysmorphia's arm is spasming violently...<#>Рука Дисморфии сильно дёргается...
 The dysmorphia is radiating!<#>Дисморфия сияет!
-Needles readies his syringe...<#>Нидлз готовит свой шприц...
-The platoon is aiming its canon...<#>Взвод наводит свою пушку...
-Distraught melody<#>Обезумевшая мелодия
-The Neighbour whips its tongue out<#>Сосед высовывает свой язык
-The Neighbour is smelling the air with its tongue...<#>Сосед щупает воздух своим языком...
+Needles readies his syringe...<#>Нидлз готовит шприц...
+The platoon is aiming its canon...<#>Взвод наводит пушку...
+Distraught melody<#>Мелодия безумия
+The Neighbour whips its tongue out<#>Сосед высовывает язык
+The Neighbour is smelling the air with its tongue...<#>Сосед пробует воздух языком...
 Suction tongue<#>Всасывающий язык
 Spear poke<#>Удар копьём
 Javelin<#>Метание копья
@@ -251,7 +251,7 @@ Choke<#>Удушение
 Harden<#>Затвердевание
 The soldier is swinging his pistol wildly<#>Солдат безумно размахивает пистолетом
 Judgement bell<#>Судный колокол
-The inquisitor is chanting blood magic...<#>Инквизитор призывает магию крови...
+The inquisitor is chanting blood magic...<#>Инквизитор напевает магию крови...
 Revel in feces<#>Упивание фекалиями
 Infected bite<#>Инфицированный укус
 Stinger top<#>Жало
@@ -264,17 +264,17 @@ Body throw<#>Бросок тела
 Bribe<#>Подкуп
 The mallet is hanging loose...<#>Молоток болтается...
 Greater occultism<#>Высший оккультизм
-Your greater knowledge in occult arts enables you to start\#a battle with 2 extra Rev points. A passive skill.<#>Ваши более глубокие знания в оккультизме позволяют вам\#начать битву с двумя дополнительными очками концентрации.\#Пассивный навык.
+Your greater knowledge in occult arts enables you to start\#a battle with 2 extra Rev points. A passive skill.<#>Ваши глубокие познания в оккультизме позволяют\#начать битву с двумя дополнительными очками концентрации.\#Пассивный навык.
 Warding sigil<#>Защитный круг
 Draw a warding sigil on the ground to fend off malice and\#creatures with ill intent. Originally created by the Virgin\#Mages of the Eastern Sanctuaries.<#>Нарисуйте на земле защитный круг, чтобы отогнать зло и\#существ со злыми намерениями. Изначально создан\#непорочными магами Восточных Святилищ.
 La Danse Macabre<#>Танец смерти
 A ritual dance used to channel otherwordly powers to be used\#by the performer. Raises otherwordly powers gradually over the\#course of a fight. A passive skill.<#>Ритуальный танец, используемый для связи с потусторонними\#силами. Постепенно усиливает магические силы танцующего в\#ходе боя. Пассивный навык.
-Premonitions<#>Предчувствия
+Premonitions<#>Предчувствие
 Greater meditation<#>Высшая медитация
 Reach a greater state of awareness. Meditate while guarding to gain\#even more Rev points on that turn.<#>Достигните высшего просветления. Медитируйте во время защиты,\#чтобы получить два очка концентрации в следующем ходу.
 Spice forge<#>Кузница специй
 Spice forges were widely used by magick practitioners of the\#Middle East back in the day. Spices make it possible to customize\#the properties of your otherwordly skills.<#>Кузницы специй широко использовались практикующими магию на\#Ближнем Востоке в былые времена. Специи позволяют\#улучшить ваши магические способности.
-Sacrifice your own blood for Gro-goroth, the god of destruction.\#A blood sacrifice will enhance your affinity with the said god.\#Sacrifices like these were everyday occurences back in the day.<#>Пожертвуйте своей собственной кровью ради Гро-горота,\#бога разрушения. Жертвоприношение усилит вашу близость\#с этим богом.
+Sacrifice your own blood for Gro-goroth, the god of destruction.\#A blood sacrifice will enhance your affinity with the said god.\#Sacrifices like these were everyday occurences back in the day.<#>Пожертвуйте собственной кровью ради Гро-горота,\#бога разрушения. Жертвоприношение усилит вашу близость\#с этим богом.
 Masturbation<#>Мастурбация
 An act of self-love enhances your affinity with Sylvian when\#performed on a ritual circle. This act is widely popular among\#the priests of Vatican when mixed with blood sacrifice.<#>Акт самоудовлетворения приблизит вас к Сильвиан, будучи\#совершённым в ритуальном круге. Этот акт широко популярен среди\#священников Ватикана в сочетании с пожертвованием кровью.
 Slow metabolism<#>Замедление метаболизма
@@ -284,13 +284,13 @@ Greater culinary skills enable you to cook meals that have\#special nutritional 
 Melee proficiency<#>Владение холодным оружием
 Proficiency with melee weapons gives you greater accuracy when\#fighting with a weapon you can swing. A passive skill.<#>Владение холодным оружием позволяет вам более точно поражать\#слабые точки противников при помощи холодного оружия.\#Пассивный навык.
 Toxicology<#>Токсикология
-The skill to condense the effective properties of different\#poisonous plants to maximize their potential. Teaches you the\#recipes for condensed nettle and condensed hemlock.<#>Умение концентрировать растения, чтобы улучшать их свойства.\#Даёт доступ к рецептам концентрата крапивы и концентрата\#болиголова.
+The skill to condense the effective properties of different\#poisonous plants to maximize their potential. Teaches you the\#recipes for condensed nettle and condensed hemlock.<#>Умение выжимать концентрат из растений, чтобы улучшать их свойства.\#Даёт доступ к рецептам концентрата крапивы и концентрата\#болиголова.
 Undergrowth awareness<#>Знания о природе
 You can harvest irritable and poisonous plants safely and also\#tell apart the plants that have potential use in your situation.\#A passive skill useful on the field.<#>Вы можете безопасно собирать вредные и ядовитые растения, а\#также разбираться, какие растения могут быть потенциально\#полезными. Полезный пассивный навык.
 Advanced botanism<#>Продвинутая ботаника
-The skill to condense the effective properties of herbs and\#plants to maximize their potential. Teaches you the recipes for\#condensed blue and green herbs as well as lavender.<#>Умение концентрировать растения, чтобы улучшить их свойства.\#Даёт доступ к концентратам синих/зелёных трав и концентрату\#лаванды.
+The skill to condense the effective properties of herbs and\#plants to maximize their potential. Teaches you the recipes for\#condensed blue and green herbs as well as lavender.<#>Умение выжимать концентрат из растений, чтобы улучшать их свойства.\#Даёт доступ к концентратам синих/зелёных трав и концентрату\#лаванды.
 Poison tip<#>Покрытие ядом
-Coat your weapon in poison extracted from the local plantlife.\#The poison tip takes a small toll on your sanity because of the\#constant stress of handling a poison coated weapon.<#>Покройте своё оружие ядом, добытым из местных растений.\#Покрытое ядом оружие действует на нервы, всё из-за\#стресса при обращении с подобным оружием.
+Coat your weapon in poison extracted from the local plantlife.\#The poison tip takes a small toll on your sanity because of the\#constant stress of handling a poison coated weapon.<#>Покройте своё оружие ядом, добытым из местных растений.\#Покрытое ядом оружие слегка воздействует на рассудок, всё из-за\#стресса при обращении с подобным оружием.
 Fast stance<#>Быстрая стойка
 Raise your speed with swift footwork. In most cases you get\#and extra turn between enemy attacks.<#>Работайте ногами и двигайтесь быстрее. В большинстве случаев,\#вы получите дополнительный ход между вражескими атаками.
 Bob and weave<#>Крен и проскальзывание
@@ -304,12 +304,12 @@ Proficiency with your bare fists gives you greater accuracy when\#fighting witho
 Intimidate<#>Запугивание
 Intimidation tactics in battle work on those mentally weak.\#The effects vary case by case. Used while initiating Talk\#during combat.<#>Тактика запугивания может подействовать в бою на психически\#слабого врага. Эффекты варьируются от человека к человеку.\#Используется пассивно с навыком разговора.
 Killing intent<#>Желание убивать
-You killing intent eminates strong. This will scare away the\#weaker opponent so you don't need to bother with them.<#>Ваше желание убивать испускает силу. Оно будет пугать слабых\#врагов, заставляя их убегать от вас.
+You killing intent eminates strong. This will scare away the\#weaker opponent so you don't need to bother with them.<#>От вас исходит острое желание убивать. Оно будет пугать слабых\#врагов, заставляя их убегать от вас.
 Explosives<#>Взрывчатка
 Getting creative in a wartorn times is a must. Craft explosives\#to be used in combat from simple everyday ingredients.<#>Творческий подход необходим в военном деле. Создавайте\#взрывчатку из обычного хлама для использования в бою.
 Try to pickpocket goods from your opponents. You never know\#what you might find.<#>Попробуйте украсть что-нибудь у противника.\#Никогда не знаешь, что можно получить.
 Bury the trauma<#>Заглушение боли
-Bury your trauma and fears. This reduces your sanity decline while\#exploring. You can deal with the psychiatric collapse and the combat\#fatigue once you're in a safer place. After all this...<#>Заглушите свою боль и страхи. Поможет сохранить разум по мере\#путешествия. Вы можете разобраться со сломанной психикой и\#боевыми травмами позже, после всего этого...
+Bury your trauma and fears. This reduces your sanity decline while\#exploring. You can deal with the psychiatric collapse and the combat\#fatigue once you're in a safer place. After all this...<#>Заглушите свои боль и страхи. Поможет сохранить рассудок по мере\#путешествия. Вы можете разобраться со сломанной психикой и\#боевыми травмами позже, после всего этого...
 Order, Charge!<#>Приказ, в атаку!
 Give orders to your team to charge and attack the enemy without\#wasting their turns.<#>Отдавайте приказы участникам своего отряда, не используя их ходы.
 Order, Defend!<#>Приказ, в защиту!
@@ -328,7 +328,7 @@ Rugged handsome looks<#>Суровый внешний вид
 The skill doesn't necessarily translate to everyone. Beauty is in\#the eye of beholder after all.<#>Этот навык не обязательно применим ко всем. В конце концов,\#красота - в глазах смотрящего.
 A barbaric trait of devouring the carcass of your opponents\#to ease hunger.<#>Варварская черта пожирания трупов противников для облегчения\#голода.
 Hype yourself into a state of aggression and trance. An old\#traditional Oldegårdian folk skill.<#>Введите себя в состояние агрессии и транса. Старинный\#народный ольдегардский навык.
-Provoke the enemy into attacking you only, leaving others\#alone.<#>Спровоцируйте врага на себя, чтобы остальные были\#невредимыми.
+Provoke the enemy into attacking you only, leaving others\#alone.<#>Спровоцируйте врага на себя, чтобы остальные были\#невредимы.
 Sisu<#>Сису
 Your will to live. You just grind your teeth together instead\#of dying. You're not ready just yet.<#>Ваша северная воля к жизни.\#Вы стискиваете зубы, вместо того, чтобы сдаться и умереть.\#Вы просто не готовы умирать.
 Black smog<#>Чёрный смог
@@ -348,22 +348,22 @@ Plant your personal seeds of brain flower to a fertile ground.\#Freshly deceased
 Heart flower<#>Сердцецвет
 Plant your personal seeds of heart flower to a fertile ground.\#Freshly deceased corpses being the most fertile of grounds. A heart\#flower replenishes body and wounds.<#>Посадите семена сердцецвета в плодородную среду.\#Свежеиспеченные трупы - самая плодородная почва.\#Сердцецвет восстанавливает тело и залечивает раны.
 Golden gates<#>Золотые врата
-A gift from the Moon God himself. Gain access to golden gates\#that lead you out from madness and world of deceit. A passive ability.<#>Дар самого Бога Луны. Получите доступ к золотым вратам, ведущим\#прочь от безумств измерения обмана. Пассивный навык.
+A gift from the Moon God himself. Gain access to golden gates\#that lead you out from madness and world of deceit. A passive ability.<#>Дар самого Лунного бога. Получите доступ к золотым вратам, ведущим\#прочь от безумств измерения обмана. Пассивный навык.\#
 Reveal aura<#>Поиск ауры
-Reveal positions of the other contestants through examining a\#map. To sense these positions, a spike of energy is required.\#You can't sense a person without this.<#>Показывает позиции участников фестиваля на карте.\#Чтобы найти чью-то ауру, нужен сильный всплеск лунной энергии.\#Если её не будет рядом с человеком, вы его не учуете.
+Reveal positions of the other contestants through examining a\#map. To sense these positions, a spike of energy is required.\#You can't sense a person without this.<#>Показывает позиции участников фестиваля на карте.\#Чтобы найти чью-то ауру, нужен сильный всплеск энергии.\#Без неё вы не учуете человека.
 Blood sword<#>Кровавый меч
 The blood of Alll-mer boils and rages even ages after his death.\#Just a drop sends swords to the heart of his enemies. Summon a\#blood sword to wield in battle.<#>Кровь Алл-мера кипит даже спустя века после его смерти. Лишь\#капли вашей крови достаточно, чтобы направить меч в ваших\#противников. Даёт возможность призвать кровавый меч в бою.
 Resurrection<#>Воскрешение
 Longinus<#>Лонгин
 The blood of Alll-mer boils and rages even ages after his death.\#Just a drop thrusts spears to the torso of his enemies. Summon a\#blood spear to wield in battle.<#>Кровь Алл-мера кипит даже спустя века после его смерти. Лишь\#капли вашей крови достаточно, чтобы направить Лонгин в ваших\#противников. Даёт возможность призвать кровавое копьё в бою.
 Inverse crown of thorns<#>Развёрнутый терновый венец
-A glimpse of the pain and suffering Alll-mer the ascended one\#endured on the cross. Can you feel closer to the god this way?<#>Венец боли и страданий, которые стерпел мученик Алл-мер при\#распятии. Вознесётесь ли вы к богам после них?
+A glimpse of the pain and suffering Alll-mer the ascended one\#endured on the cross. Can you feel closer to the god this way?<#>Венец боли и страданий, которые стерпел мученик Алл-мер при\#распятии. Вознесётесь ли вы так к богам?
 Summon a mischief of rats to disrupt the enemy. Rats spread\#confusion and disease where ever they go.<#>Призовите толпу крыс, которые загрызут врага. Крысы оставляют за\#собой путаницу и болезни, где бы они не проходили.
 Mad sack smash<#>Безумный удар мешком
 Sack smash<#>Удар мешком
 Double sack smash<#>Двойной удар мешком
 Cane smash<#>Удар тростью
-The ratkin is scratching itself<#>Раткин чешет себя
+The ratkin is scratching itself<#>Крысолюд чешется
 Rat bite<#>Укус крысы
 Summon a rat<#>Призыв крысы
 Knife stab<#>Удар ножом
@@ -378,14 +378,14 @@ Suitcase smash<#>Удар чемоданом
 Rev up<#>Поднажать
 Flimsy kick<#>Вялый пинок
 Vent out<#>Выпускание пара
-The stage is engulfed with gas<#>Воздух заполнен газом...
-A nice rubbing<#>Приятное дёргание
+The stage is engulfed with gas<#>Воздух заполняется газом...
+A nice rubbing<#>Приятное поглаживание
 Gentle dismember<#>Аккуратное расчленение
 Scalpel balette<#>Балет со скальпелем
 Precision cut<#>Точный надрез
-O'saa makes magical sigils with his hand...<#>О'саа формирует магические знаки своей рукой...
-O'saa continues his ritual dance...<#>О'саа продолжает свой ритуальный танец...
-Mastermind makes magical sigils with his hand...<#>Высший разум формирует магические знаки своей рукой...
+O'saa makes magical sigils with his hand...<#>О'саа формирует магические знаки рукой...
+O'saa continues his ritual dance...<#>О'саа продолжает ритуальный танец...
+Mastermind makes magical sigils with his hand...<#>Высший разум формирует магические знаки рукой...
 Rapid fire<#>Беглый огонь
 The weeping scope is weeping...<#>Плачущий прицел рыдает...
 Wire trap<#>Проволочная ловушка
@@ -410,11 +410,11 @@ Helm splitter<#>Рассечение головы
 Arrow<#>Стрела
 August takes a careful aim...<#>Август тщательно прицеливается...
 Bayonet<#>Штык
-The elite trooper raises his shield for defence<#>Элитный солдат поднимает свой щит.
+The elite trooper raises his shield for defence<#>Элитный солдат поднимает щит.
 The trooper's arm twitches...<#>Рука солдата дёргается...
 The elite trooper lifts his rifle with a steady hand...<#>Элитный солдат уверенным движением поднимает винтовку...
 Flamethrower<#>Огнемёт
-The flame trooper readies his flamethrower...<#>Огнемётчик готовит свой огнёмет...
+The flame trooper readies his flamethrower...<#>Огнемётчик готовит огнемёт...
 Low bayonet<#>Удар штыком
 Guard+<#>Защита+
 Perfect guard<#>Идеальная защита
@@ -450,7 +450,7 @@ The hand of creation appears...<#>Появляется рука сотворен
 First hurting<#>Начальные раны
 First black smog<#>Начальный чёрный смог
 First blood golem<#>Начальный кровавый голем
-Sacrifice blood to summon a golem that fights by your side\#temporarily. The golem only takes orders from the one that\#gave birth to it.<#>Пожертвуйте кровью, чтобы призвать голема, который будет\#временно сражаться на вашей стороне. Голем слушается\#только того, кто создал его.
+Sacrifice blood to summon a golem that fights by your side\#temporarily. The golem only takes orders from the one that\#gave birth to it.<#>Пожертвуйте кровью, чтобы призвать голема, который будет\#временно сражаться на вашей стороне. Голем слушается\#только своего создателя.
 First black orb<#>Начальная сфера тьмы
 First scorched earth<#>Начальная выжженная земля
 First roots that reap<#>Начальные пожинающие корни
@@ -466,7 +466,7 @@ First pheromones<#>Начальные феромоны
 First loving whispers<#>Начальный шёпот любви
 First healing whispers<#>Начальный шёпот исцеления
 Double hurting<#>Двойные раны
-Double black smog<#>Двойной чёрный дым
+Double black smog<#>Двойной чёрный смог
 Double blood golem<#>Двойной кровавый голем
 Double black orb<#>Двойная сфера тьмы
 Double scorched earth<#>Двойная выжженная земля
@@ -503,7 +503,7 @@ Greater mischief of rats<#>Высшие крысиные проказы
 Greater pheromones<#>Высшие феромоны
 Greater loving whispers<#>Высший шёпот любви
 Greater healing whispers<#>Высший шёпот исцеления
-Coat your weapon in poison extracted from the local plantlife.\#Gives you 50% chance of inflicting the poison on your enemies when\#attacking. A passive skill initiated at the start of an encounter.<#>Нанесите на своё оружие яд, добытый из местных растений.\#Даёт возможность отравить врага ядом с 50%-ным шансом.
+Coat your weapon in poison extracted from the local plantlife.\#Gives you 50% chance of inflicting the poison on your enemies when\#attacking. A passive skill initiated at the start of an encounter.<#>Нанесите на своё оружие яд, добытый из местных растений.\#Даёт возможность отравить врага ядом с 50%-ым шансом.
 The owl sprite takes a step forward...<#>Дух совы делает шаг вперёд...
 Poison dart<#>Ядовитый дротик
 The owl cultist is tilting its head...<#>Культист совы наклоняет голову...
@@ -511,7 +511,7 @@ The owl sprite is tilting its head...<#>Дух совы наклоняет го�
 Double scratch<#>Двойное царапание
 Bone pike<#>Костное копьё
 Rat scratch fever<#>Лихорадка от крысиных царапин
-Moonscorch<#>Лунный ожог
+Moonscorch<#>Опаление луной
 Dreamscape<#>Пейзаж мечты
 Lunar storm<#>Лунный шторм
 Gentle beheading<#>Аккуратное обезглавливание
@@ -527,7 +527,7 @@ Shivers 1<#>Дрожь 1
 Shivers 2<#>Дрожь 2
 High priest's fingers are twitching...<#>Пальцы верховного жреца подёргиваются...
 Killing frenzy<#>Убийственное безумие
-The sergal lowers his stance...<#>Сергал встаёт в готовность...
+The sergal lowers his stance...<#>Сергал встаёт в позу готовности...
 Slasher<#>Разрубание
 Death gurgle<#>Насмешка
 Meat grinder<#>Мясорубка
@@ -540,10 +540,10 @@ Ejaculate<#>Эякуляция
 The ejaculation burns!<#>Эякуляция жжёт!
 The priest reaches out for you...<#>Священник тянется к вам...
 Pocketcat's eyes light up...<#>Глаза Покеткэта загораются...
-Strike your enemy with a concentrated bolt of electricity\#that will stun weaker foes.<#>Поразите своего врага концентрированным разрядом электричества,\#который оглушит слабых противников.
-Summon the chains that tormented Chambara the Tormented One\#for hundreds of years. Requires 2 Rev Points.<#>Призовите цепи, которые мучили Чамбару, Измученного, сотни лет.\#Требуется 2 очка концентрации.
+Strike your enemy with a concentrated bolt of electricity\#that will stun weaker foes.<#>Поразите своего врага концентрированным разрядом электричества,\#который оглушает слабых противников.
+Summon the chains that tormented Chambara the Tormented One\#for hundreds of years. Requires 2 Rev Points.<#>Призовите цепи, которые мучили Чамбару Измученного, сотни лет.\#Требуется 2 очка концентрации.
 Moth swarm<#>Рой мотыльков
-Summon a swarm of moths to aid you in combat. The moths are the\#very same that leaked from the paradise, the artificial green, when\#the door between the two worlds opened. Requires 1 Rev Point.<#>Призовите рой мотыльков, которые помогут вам в бою. Мотыльки\#просочились в этот из рая, из зелёного света, когда была\#открыта дверь между мирами. Требуется 1 очко концентрации.
+Summon a swarm of moths to aid you in combat. The moths are the\#very same that leaked from the paradise, the artificial green, when\#the door between the two worlds opened. Requires 1 Rev Point.<#>Призовите рой мотыльков, которые помогут вам в бою. Мотыльки\#просочились из рая, из зелёного света, когда была\#открыта дверь между мирами. Требуется 1 очко концентрации.
 Healing Link<#>Исцеляющая связь
 Requires 2 Rev Points.<#>Требуется 2 очка концентрации.
 Left slam<#>Левый удар
