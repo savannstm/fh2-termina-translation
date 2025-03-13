@@ -420,7 +420,7 @@ You find a \c[2]Ballistic shield\c[0]!<#>Вы нашли \c[2]баллистич
 "Even if Willem was well hidden behind the leaves - slowly\#the cat turned it's eyes towards him."<#>«И хотя листья хорошо скрывали Уиллема,\#кот медленно повернул глаза точно в его сторону.»
 "In terror Willem ran as fast as he could towards his home!"<#>«В ужасе, Уиллем побежал к своему дому так быстро, как только мог!»
 "The two glowing yellow eyes of the cat haunted him all the\#way to his home gates."<#>«Два светящихся жёлтых кошачьих глаза преследовали его всю\#дорогу до ворот его дома.»
-"His mother was there to meet him by the front door.\#'So you just had to go to the woods, did you?' - said\#his mother."<#>«Его мать ждала на пороге дома.\#„Значит, ты пошел именно в лес, да?“ - сказала она.»
+"His mother was there to meet him by the front door.\#'So you just had to go to the woods, did you?' - said\#his mother."<#>«Его мать ждала на пороге дома.\#„Значит, ты пошел прямиком в лес, да?“ - сказала она.»
 "'You saw something you shouldn't have, right!?' - questioned\#his mother. 'And how do I know this?'"<#>«„И видел то, чего не должен был видеть, верно?!“ - спросила\#мать. - „Откуда я это знаю?“»
 "Willem's mother would go inside to get a little parcel with\#decorated wrappings."<#>«Мать Уиллема зашла внутрь и взяла маленькую посылку в\#красивой обертке.»
 "'This appeared on the front door just before you came.\#It was directed to young mister Willem.'"<#>«„Я нашла это у входной двери прямо перед тем, как ты пришёл.\#Оно адресовано юному мистеру Уиллему.“»
@@ -488,7 +488,7 @@ Black Kalev stares right through you. In his world, you are\#nothing but an ant 
 \>\i[67]\}AAN\{\<\#"I can still go on for a day or two or three..."<#>\>\}\i[372]ААН\{\<\#«Я ещё смогу продержаться день, два или три...»
 \>\i[64]\}BELLE\{\<\#"Härregud..."<#>\>\}\i[368]БЕЛЛА\{\<\#«Härregud...»
 \>\i[64]\}BELLE\{\<\#"I don't even want to guess... Frankly I have no idea."<#>\>\}\i[368]БЕЛЛА\{\<\#«Я даже не хочу гадать... Честно говоря, я понятия не имею.»
-\>\i[64]\}BELLE\{\<\#"We can rest in the retirement home... As if we'd ever make\#it there at this rate."<#>\>\}\i[368]БЕЛЛА\{\<\#«Отдохнём, когда состаримся... Если такими темпами\#мы вообще до такого доживём.»
+\>\i[64]\}BELLE\{\<\#"We can rest in the retirement home... As if we'd ever make\#it there at this rate."<#>\>\}\i[368]БЕЛЛА\{\<\#«Отдохнём, когда состаримся... Если такими темпами\#мы вообще до старости доживём.»
 <!-- Event Name: Demon Baby_GROWING --><#>
 <!-- Event Name: Is baby conceived? --><#>
 <!-- Event Name: Empty scroll --><#>
@@ -542,7 +542,7 @@ GabText \N[3] is starting to feel hungry...<#>GabText \N[3] начинает ч�
 GabText \N[3] is weak from hunger.<#>GabText \N[3] слаба от голода.
 GabText \N[3] is ill from hunger.<#>GabText \N[3] больна от голода.
 GabText Hunger is driving \N[3] mad.<#>GabText \N[3] сходит с ума от голода.
-GabText Hunger is crippling \N[3].<#>GabText \N[3] покалечена голодом.
+GabText Hunger is crippling \N[3].<#>GabText Голод калечит \D2[3].
 GabText \N[3] is blind from hunger.<#>GabText \N[3] ослепла от голода.
 GabText \N[3] feels dizzy...<#>GabText \N[3] чувствует головокружение...
 <!-- Event Name: HUNGER_of_MERCENARY --><#>
@@ -558,7 +558,7 @@ GabText \N[4] is starting to feel hungry...<#>GabText \N[4] начинает ч�
 GabText \N[4] is weak from hunger.<#>GabText \N[4] слаб от голода.
 GabText \N[4] is ill from hunger.<#>GabText \N[4] болен от голода.
 GabText Hunger is driving \N[4] mad.<#>GabText \N[4] сходит с ума от голода.
-GabText Hunger is crippling \N[4].<#>GabText \N[4] покалечен голодом.
+GabText Hunger is crippling \N[4].<#>GabText Голод калечит \D2[4].
 GabText \N[4] is blind from hunger.<#>GabText \N[4] ослеп от голода.
 GabText \N[4] feels dizzy...<#>GabText \N[4] чувствует головокружение...
 <!-- Event Name: HUNGER_of_MECHANIC --><#>
@@ -566,7 +566,7 @@ GabText \N[5] is starting to feel hungry...<#>GabText \N[5] начинает ч�
 GabText \N[5] is weak from hunger.<#>GabText \N[5] слаба от голода.
 GabText \N[5] is ill from hunger.<#>GabText \N[5] больна от голода.
 GabText Hunger is driving \N[5] mad.<#>GabText \N[5] сходит с ума от голода.
-GabText Hunger is crippling \N[5].<#>GabText \N[5] покалечена голодом.
+GabText Hunger is crippling \N[5].<#>GabText Голод калечит \D2[5].
 GabText \N[5] is blind from hunger.<#>GabText \N[5] ослепла от голода.
 GabText \N[5] feels dizzy...<#>GabText \N[5] чувствует головокружение...
 <!-- Event Name: HUNGER_of_YELLOW_PRIEST --><#>
@@ -574,7 +574,7 @@ GabText \N[6] is starting to feel hungry...<#>GabText \N[6] начинает ч�
 GabText \N[6] is weak from hunger.<#>GabText \N[6] слаб от голода.
 GabText \N[6] is ill from hunger.<#>GabText \N[6] болен от голода.
 GabText Hunger is driving \N[6] mad.<#>GabText \N[6] сходит с ума от голода.
-GabText Hunger is crippling \N[6].<#>GabText \N[6] покалечен голодом.
+GabText Hunger is crippling \N[6].<#>GabText Голод калечит \D2[6].
 GabText \N[6] is blind from hunger.<#>GabText \N[6] ослеп от голода.
 GabText \N[6] feels dizzy...<#>GabText \N[6] чувствует головокружение...
 <!-- Event Name: HUNGER_of_BLACK_KALEV --><#>
@@ -582,7 +582,7 @@ GabText \N[7] is starting to feel hungry...<#>GabText \N[7] начинает ч�
 GabText \N[7] is weak from hunger.<#>GabText \N[7] слаб от голода.
 GabText \N[7] is ill from hunger.<#>GabText \N[7] болен от голода.
 GabText Hunger is driving \N[7] mad.<#>GabText \N[7] сходит с ума от голода.
-GabText Hunger is crippling \N[7].<#>GabText \N[7] покалечен голодом.
+GabText Hunger is crippling \N[7].<#>GabText Голод калечит \D2[7].
 GabText \N[7] is blind from hunger.<#>GabText \N[7] ослеп от голода.
 GabText \N[7] feels dizzy...<#>GabText \N[7] чувствует головокружение...
 <!-- Event Name: HUNGER_of_KIDDEMON --><#>
@@ -594,7 +594,7 @@ GabText \N[16] is starting to feel hungry...<#>GabText \N[16] начинает �
 GabText \N[16] is weak from hunger.<#>GabText \N[16] слаб от голода.
 GabText \N[16] is ill from hunger.<#>GabText \N[16] болен от голода.
 GabText Hunger is driving \N[16] mad.<#>GabText \N[16] сходит с ума от голода.
-GabText Hunger is crippling \N[16].<#>GabText \N[16] покалечен голодом.
+GabText Hunger is crippling \N[16].<#>GabText Голод калечит \D2[16].
 GabText \N[16] is blind from hunger.<#>GabText \N[16] ослеп от голода.
 GabText \N[16] feels dizzy...<#>GabText \N[16] чувствует головокружение...
 <!-- Event Name: HUNGER_of_Ghoul2 --><#>
@@ -602,7 +602,7 @@ GabText \N[17] is starting to feel hungry...<#>GabText \N[17] начинает �
 GabText \N[17] is weak from hunger.<#>GabText \N[17] слаб от голода.
 GabText \N[17] is ill from hunger.<#>GabText \N[17] болен от голода.
 GabText Hunger is driving \N[17] mad.<#>GabText \N[17] сходит с ума от голода.
-GabText Hunger is crippling \N[17].<#>GabText \N[17] покалечен голодом.
+GabText Hunger is crippling \N[17].<#>GabText Голод калечит \D2[17].
 GabText \N[17] is blind from hunger.<#>GabText \N[17] ослеп от голода.
 GabText \N[17] feels dizzy...<#>GabText \N[17] чувствует головокружение...
 <!-- Event Name: HUNGER_of_Ghoul3 --><#>
@@ -610,7 +610,7 @@ GabText \N[18] is starting to feel hungry...<#>GabText \N[18] начинает �
 GabText \N[18] is weak from hunger.<#>GabText \N[18] слаб от голода.
 GabText \N[18] is ill from hunger.<#>GabText \N[18] болен от голода.
 GabText Hunger is driving \N[18] mad.<#>GabText \N[18] сходит с ума от голода.
-GabText Hunger is crippling \N[18].<#>GabText \N[18] покалечен голодом.
+GabText Hunger is crippling \N[18].<#>GabText Голод калечит \D2[18].
 GabText \N[18] is blind from hunger.<#>GabText \N[18] ослеп от голода.
 GabText \N[18] feels dizzy...<#>GabText \N[18] чувствует головокружение...
 <!-- Event Name: Counter-magic --><#>
@@ -619,22 +619,22 @@ GabText \N[18] feels dizzy...<#>GabText \N[18] чувствует головок
 "Nosophobia - Fear of disease and contamination\#Phasmophobia - Fear of ghosts and ghastly figures\#Rhabdophobia - Fear of magic and otherworldly powers."<#>«Нозофобия - боязнь болезней и заражения\#Фазмофобия - боязнь призраков и призрачных фигур\#Рабдофобия - боязнь магии и потусторонних сил.»
 "Erotophobia - Fear of sex and genitals\#Zoophobia - Fear of animals and beasts\#Teratophobia - Fear of monsters and malformations."<#>«Эротофобия - боязнь секса и гениталий\#Зоофобия - боязнь животных и зверей\#Тератофобия - боязнь монстров и уродств.»
 <!-- Event Name: PANOPHOBIA --><#>
-GabText \N[1] is at the edge of his sanity...<#>GabText \N[1] находится на грани своего рассудка...
-GabText \N[1] has formed a panophobia. A fear of everything.<#>GabText \N[1] развивает панофобию. Страх всего на свете.
-GabText \N[3] is at the edge of her sanity...<#>GabText \N[3] находится на грани своего рассудка...
-GabText \N[3] has formed a panophobia. A fear of everything.<#>GabText \N[3] развивает панофобию. Страх всего на свете.
-GabText \N[4] is at the edge of his sanity...<#>GabText \N[4] находится на грани своего рассудка...
-GabText \N[4] has formed a panophobia. A fear of everything.<#>GabText \N[4] развивает панофобию. Страх всего на свете.
-GabText \N[5] is at the edge of her sanity...<#>GabText \N[5] находится на грани своего рассудка...
-GabText \N[5] has formed a panophobia. A fear of everything.<#>GabText \N[5] развивает панофобию. Страх всего на свете.
-GabText \N[6] is at the edge of his sanity...<#>GabText \N[6] находится на грани своего рассудка...
-GabText \N[6] has formed a panophobia. A fear of everything.<#>GabText \N[6] развивает панофобию. Страх всего на свете.
-GabText \N[15] is at the edge of her sanity...<#>GabText \N[15] находится на грани своего рассудка...
-GabText \N[15] has formed a panophobia. A fear of everything.<#>GabText \N[15] развивает панофобию. Страх всего на свете.
-GabText \N[14] is at the edge of her sanity...<#>GabText \N[14] находится на грани своего рассудка...
-GabText \N[14] has formed a panophobia. A fear of everything.<#>GabText \N[14] развивает панофобию. Страх всего на свете.
-GabText \N[13] is at the edge of his sanity...<#>GabText \N[13] находится на грани своего рассудка...
-GabText \N[13] has formed a panophobia. A fear of everything.<#>GabText \N[13] развивает панофобию. Страх всего на свете.
+GabText \N[1] is at the edge of his sanity...<#>GabText \N[1] находится на грани рассудка...
+GabText \N[1] has formed a panophobia. A fear of everything.<#>GabText У \D2[1] развивается панофобия, страх всего на свете.
+GabText \N[3] is at the edge of her sanity...<#>GabText \N[3] находится на грани рассудка...
+GabText \N[3] has formed a panophobia. A fear of everything.<#>GabText У \D2[3] развивается панофобия, страх всего на свете.
+GabText \N[4] is at the edge of his sanity...<#>GabText \N[4] находится на грани рассудка...
+GabText \N[4] has formed a panophobia. A fear of everything.<#>GabText У \D2[4] развивается панофобия, страх всего на свете.
+GabText \N[5] is at the edge of her sanity...<#>GabText \N[5] находится на грани рассудка...
+GabText \N[5] has formed a panophobia. A fear of everything.<#>GabText У \D2[5] развивается панофобия, страх всего на свете.
+GabText \N[6] is at the edge of his sanity...<#>GabText \N[6] находится на грани рассудка...
+GabText \N[6] has formed a panophobia. A fear of everything.<#>GabText У \D2[6] развивается панофобия, страх всего на свете.
+GabText \N[15] is at the edge of her sanity...<#>GabText \N[15] находится на грани рассудка...
+GabText \N[15] has formed a panophobia. A fear of everything.<#>GabText У \D2[15] развивается панофобия, страх всего на свете.
+GabText \N[14] is at the edge of her sanity...<#>GabText \N[14] находится на грани рассудка...
+GabText \N[14] has formed a panophobia. A fear of everything.<#>GabText У \D2[14] развивается панофобия, страх всего на свете.
+GabText \N[13] is at the edge of his sanity...<#>GabText \N[13] находится на грани рассудка...
+GabText \N[13] has formed a panophobia. A fear of everything.<#>GabText У \D2[13] развивается панофобия, страх всего на свете.
 <!-- Event Name: RANDOM GOOD ARMOR --><#>
 <!-- Event Name: The Passages of Ma'habre2 --><#>
 <!-- Event Name: Black vial --><#>
@@ -669,86 +669,86 @@ GabText The potion causes burning sensation the moment it is drank.<#>GabText З
 <!-- Event Name: The Fellowship ch.2(OG) --><#>
 <!-- Event Name: The Fellowship ch.1(OG) --><#>
 <!-- Event Name: BONESAW --><#>
-What do you want to saw off from \N[1]?<#>Что вы хотите отпилить у \N[1]?
+What do you want to saw off from \N[1]?<#>Что вы хотите отпилить у \D2[1]?
 Saw off an arm<#>Отпилить руку
 Saw off a leg<#>Отпилить ногу
-Unfortunately \N[1] has no arms left to saw.<#>К сожалению, \N[1] не имеет рук, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[1]'s other\#arm and he cannot do it himself.<#>К сожалению, некому отпилить вторую руку, и \N[1] не может\#сделать это сам.
-Unfortunately \N[1] has no legs left to saw.<#>К сожалению, \N[1] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[1]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \N[1] не может\#сделать это сам.
-What do you want to saw off from \N[5]?<#>Что вы хотите отпилить у \N[5]?
-Unfortunately \N[5] has no arms left to saw.<#>К сожалению, \N[5] не имеет рук, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[5]'s other\#arm and she cannot do it herself.<#>К сожалению, некому отпилить вторую руку, и \N[5] не может\#сделать это сама.
-Unfortunately \N[5] has no legs left to saw.<#>К сожалению, \N[5] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[5]'s legs\#and she cannot do it herself.<#>К сожалению, некому отпилить ноги, и \N[5] не может\#сделать это сама.
-What do you want to saw off from \N[3]?<#>Что вы хотите отпилить у \N[3]?
-Unfortunately \N[3] has no arms left to saw.<#>К сожалению, \N[3] не имеет рук, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[3]'s other\#arm and she cannot do it herself.<#>К сожалению, некому отпилить вторую руку, и \N[3] не может\#сделать это сама.
-Unfortunately \N[3] has no legs left to saw.<#>К сожалению, \N[3] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[3]'s legs\#and she cannot do it herself.<#>К сожалению, некому отпилить ноги, и \N[3] не может\#сделать это сама.
+Unfortunately \N[1] has no arms left to saw.<#>К сожалению, у \D2[1] нет рук, чтобы отпилить.
+Unfortunately there is no one to saw off \N[1]'s other\#arm and he cannot do it himself.<#>К сожалению, некому отпилить вторую руку \D2[1], и она не может сделать это сама.
+Unfortunately \N[1] has no legs left to saw.<#>К сожалению, у \D2[1] нет ног, чтобы отпилить.
+Unfortunately there is no one to saw off \N[1]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги \D2[1], и он не может сделать это сам.
+What do you want to saw off from \N[5]?<#>Что вы хотите отпилить у \D2[5]?
+Unfortunately \N[5] has no arms left to saw.<#>К сожалению, у \D2[5] нет рук, чтобы отпилить.
+Unfortunately there is no one to saw off \N[5]'s other\#arm and she cannot do it herself.<#>К сожалению, некому отпилить вторую руку \D2[5], и она не может сделать это сама.
+Unfortunately \N[5] has no legs left to saw.<#>К сожалению, у \D2[5] нет ног, чтобы отпилить.
+Unfortunately there is no one to saw off \N[5]'s legs\#and she cannot do it herself.<#>К сожалению, некому отпилить ноги \D2[5], и она не может сделать это сама.
+What do you want to saw off from \N[3]?<#>Что вы хотите отпилить у \D2[3]?
+Unfortunately \N[3] has no arms left to saw.<#>К сожалению, у \D2[3] нет рук, чтобы отпилить.
+Unfortunately there is no one to saw off \N[3]'s other\#arm and she cannot do it herself.<#>К сожалению, некому отпилить вторую руку \D2[3], и она не может сделать это сама.
+Unfortunately \N[3] has no legs left to saw.<#>К сожалению, у \D2[3] нет ног, чтобы отпилить.
+Unfortunately there is no one to saw off \N[3]'s legs\#and she cannot do it herself.<#>К сожалению, некому отпилить ноги \D2[3], и она не может сделать это сама.
 <!-- Event Name: BONESAW2 --><#>
-What do you want to saw off from \N[22]?<#>Что вы хотите отпилить у \N[22]?
-Unfortunately \N[22] has no arms left to saw.<#>К сожалению, \N[22] не имеет рук, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[22]'s arm\#and he cannot do it himself.<#>К сожалению, некому отпилить руку, и \N[22] не может\#сделать это сам.
-Unfortunately \N[22] has no legs left to saw.<#>К сожалению, \N[22] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[22]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \N[22] не может\#сделать это сам.
-What do you want to saw off from \N[28]?<#>Что вы хотите отпилить у \N[28]?
-Unfortunately \N[28] has no arms left to saw.<#>К сожалению, \N[28] не имеет рук, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[28]'s arm\#and he cannot do it himself.<#>К сожалению, некому отпилить руку, и \N[28] не может\#сделать это сам.
-Unfortunately \N[28] has no legs left to saw.<#>К сожалению, \N[28] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[28]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \N[28] не может\#сделать это сам.
-What do you want to saw off from \N[29]?<#>Что вы хотите отпилить у \N[29]?
-Unfortunately \N[29] has no arms left to saw.<#>К сожалению, \N[29] не имеет рук, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[29]'s arm\#and he cannot do it himself.<#>К сожалению, некому отпилить руку, и \N[29] не может\#сделать это сам.
-Unfortunately \N[29] has no legs left to saw.<#>К сожалению, \N[29] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[29]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \N[29] не может\#сделать это сам.
+What do you want to saw off from \N[22]?<#>Что вы хотите отпилить у \D2[22]?
+Unfortunately \N[22] has no arms left to saw.<#>К сожалению, у жителя нет рук, чтобы отпилить.
+Unfortunately there is no one to saw off \N[22]'s arm\#and he cannot do it himself.<#>К сожалению, некому отпилить руку жителя, и он не может сделать это сам.
+Unfortunately \N[22] has no legs left to saw.<#>К сожалению, у жителя нет ног, чтобы отпилить.
+Unfortunately there is no one to saw off \N[22]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги жителя, и он не может сделать это сам.
+What do you want to saw off from \N[28]?<#>Что вы хотите отпилить у \D2[28]?
+Unfortunately \N[28] has no arms left to saw.<#>К сожалению, у жителя нет рук, чтобы отпилить.
+Unfortunately there is no one to saw off \N[28]'s arm\#and he cannot do it himself.<#>К сожалению, некому отпилить руку жителя, и он не может сделать это сам.
+Unfortunately \N[28] has no legs left to saw.<#>К сожалению, у жителя нет ног, чтобы отпилить.
+Unfortunately there is no one to saw off \N[28]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги жителя, и он не может сделать это сам.
+What do you want to saw off from \N[29]?<#>Что вы хотите отпилить у \D2[29]?
+Unfortunately \N[29] has no arms left to saw.<#>К сожалению, у жителя нет рук, чтобы отпилить.
+Unfortunately there is no one to saw off \N[29]'s arm\#and he cannot do it himself.<#>К сожалению, некому отпилить руку жителя, и он не может сделать это сам.
+Unfortunately \N[29] has no legs left to saw.<#>К сожалению, у жителя нет ног, чтобы отпилить.
+Unfortunately there is no one to saw off \N[29]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги жителя, и он не может сделать это сам.
 What do you want to saw off from \N[16]?<#>Что вы хотите отпилить у гуля?
-Unfortunately \N[16] has no arms left to saw.<#>К сожалению, \N[16] не имеет рук, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[16]'s arm\#and he cannot do it himself.<#>К сожалению, некому отпилить руку, и \N[16] не может\#сделать это сам.
-Unfortunately \N[16] has no legs left to saw.<#>К сожалению, \N[16] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[16]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \N[16] не может\#сделать это сам.
+Unfortunately \N[16] has no arms left to saw.<#>К сожалению, у гуля нет рук, чтобы отпилить.
+Unfortunately there is no one to saw off \N[16]'s arm\#and he cannot do it himself.<#>К сожалению, некому отпилить руку \D2[16], и она не может сделать это сама.
+Unfortunately \N[16] has no legs left to saw.<#>К сожалению, у гуля нет ног, чтобы отпилить.
+Unfortunately there is no one to saw off \N[16]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги гуля, и он не может сделать это сам.
 What do you want to saw off from \N[17]?<#>Что вы хотите отпилить у гуля?
-Unfortunately \N[17] has no arms left to saw.<#>К сожалению, \N[17] не имеет рук, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[17]'s arm\#and he cannot do it himself.<#>К сожалению, некому отпилить руку, и \N[17] не может\#сделать это сам.
-Unfortunately \N[17] has no legs left to saw.<#>К сожалению, \N[17] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[17]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \N[17] не может\#сделать это сам.
+Unfortunately \N[17] has no arms left to saw.<#>К сожалению, у гуля нет рук, чтобы отпилить.
+Unfortunately there is no one to saw off \N[17]'s arm\#and he cannot do it himself.<#>К сожалению, некому отпилить руку гуля, и он не может сделать это сам.
+Unfortunately \N[17] has no legs left to saw.<#>К сожалению, у гуля нет ног, чтобы отпилить.
+Unfortunately there is no one to saw off \N[17]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги \D2[17], и она не может сделать это сама.
 What do you want to saw off from \N[18]?<#>Что вы хотите отпилить у гуля?
-Unfortunately \N[18] has no arms left to saw.<#>К сожалению, \N[18] не имеет рук, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[18]'s arm\#and he cannot do it himself.<#>К сожалению, некому отпилить руку, и \N[18] не может\#сделать это сам.
-Unfortunately \N[18] has no legs left to saw.<#>К сожалению, \N[18] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[18]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \N[18] не может\#сделать это сам.
+Unfortunately \N[18] has no arms left to saw.<#>К сожалению, у гуля нет рук, чтобы отпилить.
+Unfortunately there is no one to saw off \N[18]'s arm\#and he cannot do it himself.<#>К сожалению, некому отпилить руку гуля, и он не может сделать это сам.
+Unfortunately \N[18] has no legs left to saw.<#>К сожалению, у гуля нет ног, чтобы отпилить.
+Unfortunately there is no one to saw off \N[18]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги гуля, и он не может сделать это сам.
 <!-- Event Name: Just Guard_BATTLE_knight --><#>
 <!-- Event Name: BONESAW3 --><#>
-What do you want to saw off from \N[4]?<#>Что вы хотите отпилить у \N[4]?
-Unfortunately \N[4] has no arms left to saw.<#>К сожалению, \N[4] не имеет рук, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[4]'s other\#arm and he cannot do it himself.<#>К сожалению, некому отпилить вторую руку, и \N[4] не может\#сделать это сам.
-Unfortunately \N[4] has no legs left to saw.<#>К сожалению, \N[4] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[4]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \N[4] не может\#сделать это сам.
-What do you want to saw off from \N[6]?<#>Что вы хотите отпилить у \N[6]?
-Unfortunately \N[6] has no arms left to saw.<#>К сожалению, \N[6] не имеет рук, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[6]'s other\#arm and he cannot do it himself.<#>К сожалению, некому отпилить вторую руку, и \N[6] не может\#сделать это сам.
-Unfortunately \N[6] has no legs left to saw.<#>К сожалению, \N[6] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[6]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \N[6] не может\#сделать это сам.
+What do you want to saw off from \N[4]?<#>Что вы хотите отпилить у \D2[4]?
+Unfortunately \N[4] has no arms left to saw.<#>К сожалению, у \D2[4] нет рук, чтобы отпилить.
+Unfortunately there is no one to saw off \N[4]'s other\#arm and he cannot do it himself.<#>К сожалению, некому отпилить вторую руку \D2[4], и он не может сделать это сам.
+Unfortunately \N[4] has no legs left to saw.<#>К сожалению, у \D2[4] нет ног, чтобы отпилить.
+Unfortunately there is no one to saw off \N[4]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги \D2[4], и он не может сделать это сам.
+What do you want to saw off from \N[6]?<#>Что вы хотите отпилить у \D2[6]?
+Unfortunately \N[6] has no arms left to saw.<#>К сожалению, у \D2[6] нет рук, чтобы отпилить.
+Unfortunately there is no one to saw off \N[6]'s other\#arm and he cannot do it himself.<#>К сожалению, некому отпилить вторую руку \D2[6], и он не может сделать это сам.
+Unfortunately \N[6] has no legs left to saw.<#>К сожалению, у \D2[6] нет ног, чтобы отпилить.
+Unfortunately there is no one to saw off \N[6]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги \D2[6], и он не может сделать это сам.
 <!-- Event Name: BONESAW4 --><#>
-What do you want to saw off from \N[15]?<#>Что вы хотите отпилить у \N[15]?
-Unfortunately \N[15] has no arms left to saw.<#>К сожалению, \N[15] не имеет рук, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[15]'s other\#arm and she cannot do it herself.<#>К сожалению, некому отпилить вторую руку, и \N[15] не может\#сделать это сама.
-Unfortunately \N[15] has no legs left to saw.<#>К сожалению, \N[15] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[15]'s legs\#and she cannot do it herself.<#>К сожалению, некому отпилить ноги, и \N[15] не может\#сделать это сама.
-What do you want to saw off from \N[13]?<#>Что вы хотите отпилить у \N[13]?
-Unfortunately \N[13] has no arms left to saw.<#>К сожалению, \N[13] не имеет рук, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[13]'s other\#arm and he cannot do it himself.<#>К сожалению, некому отпилить вторую руку, и \N[13] не может\#сделать это сам.
-Unfortunately \N[13] has no legs left to saw.<#>К сожалению, \N[13] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[13]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \N[13] не может\#сделать это сам.
-What do you want to saw off from \N[7]?<#>Что вы хотите отпилить у \N[7]?
+What do you want to saw off from \N[15]?<#>Что вы хотите отпилить у \D2[15]?
+Unfortunately \N[15] has no arms left to saw.<#>К сожалению, у \D2[15] нет рук, чтобы отпилить.
+Unfortunately there is no one to saw off \N[15]'s other\#arm and she cannot do it herself.<#>К сожалению, некому отпилить вторую руку \D2[15], и она не может сделать это сама.
+Unfortunately \N[15] has no legs left to saw.<#>К сожалению, у \D2[15] нет ног, чтобы отпилить.
+Unfortunately there is no one to saw off \N[15]'s legs\#and she cannot do it herself.<#>К сожалению, некому отпилить ноги \D2[15], и она не может сделать это сама.
+What do you want to saw off from \N[13]?<#>Что вы хотите отпилить у \D2[13]?
+Unfortunately \N[13] has no arms left to saw.<#>К сожалению, у \D2[13] нет рук, чтобы отпилить.
+Unfortunately there is no one to saw off \N[13]'s other\#arm and he cannot do it himself.<#>К сожалению, некому отпилить вторую руку \D2[13], и он не может сделать это сам.
+Unfortunately \N[13] has no legs left to saw.<#>К сожалению, у \D2[13] нет ног, чтобы отпилить.
+Unfortunately there is no one to saw off \N[13]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги \D2[13], и он не может сделать это сам.
+What do you want to saw off from \N[7]?<#>Что вы хотите отпилить у \D2[7]?
 Saw off a paw<#>Отпилить ногу
-Unfortunately \N[7] has no paws left to saw.<#>К сожалению, \N[7] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[7]'s\#hoofs and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \N[7] не может\#сделать это сам.
-What do you want to saw off from \N[14]?<#>Что вы хотите отпилить у \N[14]?
-Unfortunately \N[14] has no arms left to saw.<#>К сожалению, \N[14] не имеет рук, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[14]'s other\#arm and she cannot do it herself.<#>К сожалению, некому отпилить вторую руку, и \N[14] не может\#сделать это сама.
-Unfortunately \N[14] has no legs left to saw.<#>К сожалению, \N[14] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[14]'s legs\#and she cannot do it herself.<#>К сожалению, некому отпилить ноги, и \N[14] не может\#сделать это сама.
+Unfortunately \N[7] has no paws left to saw.<#>К сожалению, у \D2[7] нет ног, чтобы отпилить.
+Unfortunately there is no one to saw off \N[7]'s\#hoofs and he cannot do it himself.<#>К сожалению, некому отпилить ноги \D2[7], и она не может сделать это сама.
+What do you want to saw off from \N[14]?<#>Что вы хотите отпилить у \D2[14]?
+Unfortunately \N[14] has no arms left to saw.<#>К сожалению, у \D2[14] нет рук, чтобы отпилить.
+Unfortunately there is no one to saw off \N[14]'s other\#arm and she cannot do it herself.<#>К сожалению, некому отпилить вторую руку \D2[14], и она не может сделать это сама.
+Unfortunately \N[14] has no legs left to saw.<#>К сожалению, у \D2[14] нет ног, чтобы отпилить.
+Unfortunately there is no one to saw off \N[14]'s legs\#and she cannot do it herself.<#>К сожалению, некому отпилить ноги \D2[14], и она не может сделать это сама.
 <!-- Event Name: CUBEOFDEPTHS --><#>
 <!-- Event Name: MELTING WEAPONS --><#>
 <!-- Event Name: MELTING WEAPONS 2 --><#>
@@ -770,7 +770,7 @@ You find a \c[2]Anathomia\c[0]!<#>Вы нашли \c[2]Анатомию\c[0]!
 \N[5] assists in this task.<#>\N[5] помогает в выполнении этой задачи.
 \>\i[64]\}BELLA\{\<\#"No use delaying the inevitable. We have to do this."<#>\>\}\i[368]БЕЛЛА\{\<\#«Нет смысла откладывать неизбежное. Мы должны сделать это.»
 \N[6] assists in this task.<#>\N[6] помогает в выполнении этой задачи.
-\>\i[78]\}'SAA\{\<\#"Just give me the saw. I'll do this."<#>\>\}\i[380]'САА\{\<\#«Просто дай пилу. Я всё сделаю.»
+\>\i[78]\}'SAA\{\<\#"Just give me the saw. I'll do this."<#>\>\}\i[380]'САА\{\<\#«Просто дай мне пилу. Я всё сделаю.»
 \N[15] assists in this task.<#>\N[15] помогает в выполнении этой задачи.
 \>\i[78]\}LIVIA\{\<\#"Ummm... I'm so sorry, but there isn't any other way..."<#>\>\}\i[380]ЛИВИЯ\{\<\#«Ммм... Мне так жаль, но другого выхода нет...»
 \N[13] assists in this task.<#>\N[13] помогает в выполнении этой задачи.
@@ -801,7 +801,7 @@ GabText \N[6] is feeling terrible because of the infection...<#>GabText \N[6] ч
 \N[6] died because of his infected wound.<#>\N[6] погиб из-за инфекции в ране.
 GabText The infection on \N[7]'s arm is looking bad...<#>GabText Инфекция на руке \N[7] выглядит плачевно...
 GabText \N[7] is feeling terrible because of the infection...<#>GabText \N[7] чувствует себя ужасно из-за инфекции...
-\N[7] died because of her infected wound.<#>\N[7] погибл из-за инфекции в ране.
+\N[7] died because of her infected wound.<#>\N[7] погиб из-за инфекции в ране.
 GabText The infection on \N[1]'s leg is looking bad...<#>GabText Инфекция на ноге \N[1] выглядит плачевно...
 <!-- Event Name: CURSE WEAPONS --><#>
 <!-- Event Name: Walk_on_waterOK? --><#>
@@ -1547,7 +1547,7 @@ GabText \N[13] is starting to feel hungry...<#>GabText \N[13] начинает �
 GabText \N[13] is weak from hunger.<#>GabText \N[13] слаб от голода.
 GabText \N[13] is ill from hunger.<#>GabText \N[13] болен от голода.
 GabText Hunger is driving \N[13] mad.<#>GabText \N[13] сходит с ума от голода.
-GabText Hunger is crippling \N[13].<#>GabText \N[13] покалечен голодом.
+GabText Hunger is crippling \N[13].<#>GabText Голод калечит \D2[13].
 GabText \N[13] is blind from hunger.<#>GabText \N[13] ослеп от голода.
 GabText \N[13] feels dizzy...<#>GabText \N[13] чувствует головокружение...
 <!-- Event Name: HUNGER LEVELS_JOURNALIST --><#>
@@ -1556,7 +1556,7 @@ GabText \N[14] is starting to feel hungry...<#>GabText \N[14] начинает �
 GabText \N[14] is weak from hunger.<#>GabText \N[14] слаба от голода.
 GabText \N[14] is ill from hunger.<#>GabText \N[14] больна от голода.
 GabText Hunger is driving \N[14] mad.<#>GabText \N[14] сходит с ума от голода.
-GabText Hunger is crippling \N[14].<#>GabText \N[14] покалечена голодом.
+GabText Hunger is crippling \N[14].<#>GabText Голод калечит \D2[14].
 GabText \N[14] is blind from hunger.<#>GabText \N[14] ослепла от голода.
 GabText \N[14] feels dizzy...<#>GabText \N[14] чувствует головокружение...
 <!-- Event Name: HUNGER LEVELS_BOTANIST --><#>
@@ -1565,7 +1565,7 @@ GabText \N[15] is starting to feel hungry...<#>GabText \N[15] начинает �
 GabText \N[15] is weak from hunger.<#>GabText \N[15] слаба от голода.
 GabText \N[15] is ill from hunger.<#>GabText \N[15] больна от голода.
 GabText Hunger is driving \N[15] mad.<#>GabText \N[15] сходит с ума от голода.
-GabText Hunger is crippling \N[15].<#>GabText \N[15] покалечена голодом.
+GabText Hunger is crippling \N[15].<#>GabText Голод калечит \D2[15].
 GabText \N[15] is blind from hunger.<#>GabText \N[15] ослепла от голода.
 GabText \N[15] feels dizzy...<#>GabText \N[15] чувствует головокружение...
 <!-- Event Name: HUNGER LEVELS_Villager1 --><#>
@@ -1574,7 +1574,7 @@ GabText \N[22] is starting to feel hungry...<#>GabText \N[22] начинает �
 GabText \N[22] is weak from hunger.<#>GabText \N[22] слаб от голода.
 GabText \N[22] is ill from hunger.<#>GabText \N[22] болен от голода.
 GabText Hunger is driving \N[22] mad.<#>GabText \N[22] сходит с ума от голода.
-GabText Hunger is crippling \N[22].<#>GabText \N[22] покалечен голодом.
+GabText Hunger is crippling \N[22].<#>GabText Голод калечит \D2[22].
 GabText \N[22] is blind from hunger.<#>GabText \N[22] ослеп от голода.
 GabText \N[22] feels dizzy...<#>GabText \N[22] чувствует головокружение...
 <!-- Event Name: HUNGER LEVELS_Villager2 --><#>
@@ -1583,7 +1583,7 @@ GabText \N[28] is starting to feel hungry...<#>GabText \N[28] начинает �
 GabText \N[28] is weak from hunger.<#>GabText \N[28] слаб от голода.
 GabText \N[28] is ill from hunger.<#>GabText \N[28] болен от голода.
 GabText Hunger is driving \N[28] mad.<#>GabText \N[28] сходит с ума от голода.
-GabText Hunger is crippling \N[28].<#>GabText \N[28] покалечен голодом.
+GabText Hunger is crippling \N[28].<#>GabText Голод калечит \D2[28].
 GabText \N[28] is blind from hunger.<#>GabText \N[28] ослеп от голода.
 GabText \N[28] feels dizzy...<#>GabText \N[28] чувствует головокружение...
 <!-- Event Name: HUNGER LEVELS_Villager3 --><#>
@@ -1592,7 +1592,7 @@ GabText \N[29] is starting to feel hungry...<#>GabText \N[29] начинает �
 GabText \N[29] is weak from hunger.<#>GabText \N[29] слаб от голода.
 GabText \N[29] is ill from hunger.<#>GabText \N[29] болен от голода.
 GabText Hunger is driving \N[29] mad.<#>GabText \N[29] сходит с ума от голода.
-GabText Hunger is crippling \N[29].<#>GabText \N[29] покалечен голодом.
+GabText Hunger is crippling \N[29].<#>GabText Голод калечит \D2[29].
 GabText \N[29] is blind from hunger.<#>GabText \N[29] ослеп от голода.
 GabText \N[29] feels dizzy...<#>GabText \N[29] чувствует головокружение...
 <!-- Event Name: Pig_Alarm --><#>
@@ -1798,7 +1798,7 @@ GabText \N[15] summons the Longinus, but she cannot wield it!<#>GabText \N[15] �
 \>\i[78]\}'SAA\{\<\#"I have no interest in your quarrel."<#>\>\}\i[380]'САА\{\<\#«Меня не интересует ваш конфликт.»
 <!-- Event Name: Phobia_battle --><#>
 <!-- Event Name: orders_of_vatican --><#>
-"It has come to our knowledge that there are sinister forces at play\#and they have their eyes set on Prehevil, Bohemia for whatever wicked \#reason."<#>«Нам стало известно, что в игре замешаны зловещие силы, и они\#положили глаз на Прехевил, город в Богемии, по какой-то злой\#причине.»
+"It has come to our knowledge that there are sinister forces at play\#and they have their eyes set on Prehevil, Bohemia for whatever wicked\#reason."<#>«Нам стало известно, что в игре замешаны зловещие силы, и они\#положили глаз на Прехевил, город в Богемии, по какой-то злой\#причине.»
 <!-- Event Name: inverse_crown_of_thorns --><#>
 <!-- Event Name: spontaneous_combustion --><#>
 GabText IT BURNS!<#>GabText ЖЖЁТ!
@@ -1808,17 +1808,17 @@ GabText The pain is maddening!<#>GabText Боль ужасающая!
 <!-- Event Name: *SKILLS_SCORCHED --><#>
 <!-- Event Name: *SKILLS_GREATER_MEDICINAL --><#>
 <!-- Event Name: Greater_medicinal --><#>
-What do you want to sacrifice to resurrect \N[1]?<#>Чем вы хотите пожертвовать, чтобы воскресить \N[1]?
+What do you want to sacrifice to resurrect \N[1]?<#>Чем вы хотите пожертвовать, чтобы воскресить \D4[1]?
 Sacrifice an arm<#>Пожертвовать рукой
 Sacrifice a leg<#>Пожертвовать ногой
-What do you want to sacrifice to resurrect \N[3]?<#>Чем вы хотите пожертвовать, чтобы воскресить \N[3]?
-What do you want to sacrifice to resurrect \N[4]?<#>Чем вы хотите пожертвовать, чтобы воскресить \N[4]?
-What do you want to sacrifice to resurrect \N[5]?<#>Чем вы хотите пожертвовать, чтобы воскресить \N[5]?
-What do you want to sacrifice to resurrect \N[6]?<#>Чем вы хотите пожертвовать, чтобы воскресить \N[6]?
-What do you want to sacrifice to resurrect \N[13]?<#>Чем вы хотите пожертвовать, чтобы воскресить \N[13]?
-What do you want to sacrifice to resurrect \N[14]?<#>Чем вы хотите пожертвовать, чтобы воскресить \N[14]?
-What do you want to sacrifice to resurrect \N[15]?<#>Чем вы хотите пожертвовать, чтобы воскресить \N[15]?
-What do you want to sacrifice to resurrect \N[7]?<#>Чем вы хотите пожертвовать, чтобы воскресить \N[7]?
+What do you want to sacrifice to resurrect \N[3]?<#>Чем вы хотите пожертвовать, чтобы воскресить \D4[3]?
+What do you want to sacrifice to resurrect \N[4]?<#>Чем вы хотите пожертвовать, чтобы воскресить \D4[4]?
+What do you want to sacrifice to resurrect \N[5]?<#>Чем вы хотите пожертвовать, чтобы воскресить \D4[5]?
+What do you want to sacrifice to resurrect \N[6]?<#>Чем вы хотите пожертвовать, чтобы воскресить \D4[6]?
+What do you want to sacrifice to resurrect \N[13]?<#>Чем вы хотите пожертвовать, чтобы воскресить \D4[13]?
+What do you want to sacrifice to resurrect \N[14]?<#>Чем вы хотите пожертвовать, чтобы воскресить \D4[14]?
+What do you want to sacrifice to resurrect \N[15]?<#>Чем вы хотите пожертвовать, чтобы воскресить \D4[15]?
+What do you want to sacrifice to resurrect \N[7]?<#>Чем вы хотите пожертвовать, чтобы воскресить \D4[7]?
 <!-- Event Name: Lose_arm --><#>
 <!-- Event Name: Lose_leg --><#>
 <!-- Event Name: Greater_medicinal_doctor --><#>
