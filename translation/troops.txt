@@ -1286,7 +1286,7 @@ GabText You stole 10 \c[2].303 Ammo\c[0]!<#>GabText Вы украли 10 \c[2]п
 \>\i[75]\}EVI\{\<\#"I can't let you go... Not anymore."<#>\>\}\i[377]ЕВИ\{\<\#«Я не могу позволить тебе уйти...»
 GabText Levi loses his balance!<#>GabText Леви теряет равновесие!
 GabText Levi is blinded! His eyes are bleeding!<#>GabText Леви ослеп! Его глаза кровоточат!
-GabText Levi takes a low stance with his rifle...<#>GabText Леви принимает низкую стойку, сжимая винтовку...
+GabText Levi takes a low stance with his rifle...<#>GabText Леви встаёт наизготовку, сжимая винтовку...
 GabText Levi loses his balance.<#>GabText Леви теряет равновесие.
 <!-- Event Name: O'saa --><#>
 choice_text 1 \}[PERSUADE]\{ "A mage like you don't need to bother with nobodies like me!"<#>choice_text 1 \}[УБЕДИТЬ]\{ «Такому магу, как ты, не стоит беспокоиться о ничтожествах вроде меня!»
