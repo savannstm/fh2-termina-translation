@@ -762,7 +762,7 @@ choice_text 3 \}[INTIMIDATE]\{ "I hope you're ready for the execution row, soldi
 \>\i[81]\}OLDIER\{\<\#"To secure the city... There is something brewing under the\#ground..."<#>\>\}\i[383]ОЛДАТ\{\<\#«Чтобы обезопасить город... Под землёй что-то назревает...»
 \>\i[81]\}OLDIER\{\<\#"I'm not. My superiors are no where to be found..."<#>\>\}\i[383]ОЛДАТ\{\<\#«Я не сражаюсь. Моего начальства нигде не найти...»
 \>\i[81]\}OLDIER\{\<\#"We are participants in the festival... This must be done."<#>\>\}\i[383]ОЛДАТ\{\<\#«Мы являемся участниками фестиваля... Это должно быть сделано.»
-"But aren't you just following the orders of the moon then?"<#>«Но, получается, ты просто следуешь приказам Луны?»
+"But aren't you just following the orders of the moon then?"<#>«Но, получается, ты просто следуешь приказам луны?»
 "What would your superiors say about that?"<#>«Что бы сказало по этому поводу твоё начальство?»
 \>\i[81]\}OLDIER\{\<\#"..."<#>\>\}\i[383]ОЛДАТ\{\<\#«...»
 \>\i[81]\}OLDIER\{\<\#"No... This is my choice..."<#>\>\}\i[383]ОЛДАТ\{\<\#«Нет... Это мой выбор...»
@@ -1661,7 +1661,7 @@ GabText The cocoon dies, but the host body keeps on going!<#>GabText Кокон 
 GabText A cocoon slowly drags itself towards you...<#>GabText Кокон медленно подтягивается к вам...
 GabText The host body engraved sigils of Gro-goroth on the cocoon.<#>GabText Носитель выгравировал на коконе символы Гро-горота.
 GabText The host body engraved sigils of Vinushka on the cocoon.<#>GabText Носитель выгравировал на коконе символы Винушки.
-GabText The host body engraved sigils of Fear and Hunger on the cocoon.<#>GabText Носитель выгравировал на коконе символы Страха и Голода.
+GabText The host body engraved sigils of Fear and Hunger on the cocoon.<#>GabText Носитель выгравировал на коконе символы страха и голода.
 <!-- Event Name: Valkyrie --><#>
 \>\i[84]\}ALKYRIE\{\<\#"Kaaaa... Join... The flight of the valkyrie..."<#>\>\}\i[370]АЛЬКИРИЯ\{\<\#«Каааа... Присоединяйтесь... К полету валькирии...»
 "You can actually talk?"<#>«Ты можешь говорить по-человечески?»

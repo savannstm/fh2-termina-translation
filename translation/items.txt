@@ -380,8 +380,8 @@ Flame trooper head<#>Голова огнемётчика
 The severed head of a flame trooper.<#>Отрубленная голова огнемётчика.
 Skin bible - Vinushka (unedited)<#>Кожаная библия - Винушка (неотредактированная)
 A strong occult book written in the medieval times by Enki\#Ankarian. The chapter explains the older god Vinushka. This\#particular version hasn't been tampered and edited by the Vatican.<#>Мрачная оккультная книга, написанная в средние века Энки\#Анкарианом. Этот том рассказывает о древнем боге Винушке.\#Конкретно эта версия не цензурировалась Ватиканом.
-Skin bible - God of Fear and Hunger<#>Кожаная библия - Бог Страха и Голода
-A strong occult book written in the medieval times by Enki\#Ankarian. The chapter explains the god of fear and hunger.<#>Мрачная оккультная книга, написанная в средние века Энки\#Анкарианом. Этот том рассказывает о Боге Страха и Голода.
+Skin bible - God of Fear and Hunger<#>Кожаная библия - Бог страха и голода
+A strong occult book written in the medieval times by Enki\#Ankarian. The chapter explains the god of fear and hunger.<#>Мрачная оккультная книга, написанная в средние века Энки\#Анкарианом. Этот том рассказывает о Боге страха и голода.
 Skin bible - Vinushka<#>Кожаная библия - Винушка
 A strong occult book written in the medieval times by Enki\#Ankarian. The chapter explains the older god Vinushka.<#>Мрачная оккультная книга, написанная в средние века Энки\#Анкарианом. Этот том рассказывает о древнем боге Винушке.
 Skin bible - Sylvian<#>Кожаная библия - Сильвиан
