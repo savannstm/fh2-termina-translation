@@ -182,11 +182,11 @@ async function replaceLeviGodChoicesLines() {
                     case "Алл-мер":
                         map019JSON.events[224].pages[1].list[i].parameters[j] = "Алл-меру";
                         break;
-                    case "Бог Луны":
-                        map019JSON.events[224].pages[1].list[i].parameters[j] = "Богу Луны";
+                    case "Бог луны":
+                        map019JSON.events[224].pages[1].list[i].parameters[j] = "Богу луны";
                         break;
-                    case "Бог Страха и Голода":
-                        map019JSON.events[224].pages[1].list[i].parameters[j] = "Богу Страха и Голода";
+                    case "Бог страха и голода":
+                        map019JSON.events[224].pages[1].list[i].parameters[j] = "Богу страха и голода";
                         break;
                 }
             }
@@ -202,11 +202,11 @@ async function replaceLeviGodChoicesLines() {
                     case "Алл-мер":
                         map019JSON.events[224].pages[1].list[i].parameters[0][j] = "Алл-меру";
                         break;
-                    case "Бог Луны":
-                        map019JSON.events[224].pages[1].list[i].parameters[0][j] = "Богу Луны";
+                    case "Бог луны":
+                        map019JSON.events[224].pages[1].list[i].parameters[0][j] = "Богу луны";
                         break;
-                    case "Бог Страха и Голода":
-                        map019JSON.events[224].pages[1].list[i].parameters[0][j] = "Богу Страха и Голода";
+                    case "Бог страха и голода":
+                        map019JSON.events[224].pages[1].list[i].parameters[0][j] = "Богу страха и голода";
                         break;
                 }
             }

@@ -757,12 +757,12 @@ choice_text 3 \}[INTIMIDATE]\{ "I hope you're ready for the execution row, soldi
 "Why did you come here?"<#>«Зачем ты пришёл сюда?»
 \>\i[81]\}OLDIER\{\<\#"You must have seen the residents of this godforsaken place."<#>\>\}\i[383]ОЛДАТ\{\<\#«Ты ведь уже видел\x[|а] жителей этого богом забытого\#места.»
 \>\i[81]\}OLDIER\{\<\#"That fate awaits us all... My comrades already succumbed to the\#chaos."<#>\>\}\i[383]ОЛДАТ\{\<\#«Такая судьба ожидает всех нас... Мои товарищи уже поддались\#хаосу.»
-\>\i[81]\}OLDIER\{\<\#"My skin is still pretty, but... My mind is deteriorating at\#a rapid rate."<#>\>\}\i[383]ОЛДАТ\{\<\#«Моя кожа всё ещё в форме, но... Мой разум разрушается\#стремительным темпом.»
+\>\i[81]\}OLDIER\{\<\#"My skin is still pretty, but... My mind is deteriorating at\#a rapid rate."<#>\>\}\i[383]ОЛДАТ\{\<\#«Моя кожа всё ещё в форме, но... Мой рассудок разрушается\#стремительным темпом.»
 \>\i[81]\}OLDIER\{\<\#"Three days is the limit... Just like what 'he' said."<#>\>\}\i[383]ОЛДАТ\{\<\#«Три дня - это предел... Прямо так, как „он“ и сказал.»
 \>\i[81]\}OLDIER\{\<\#"To secure the city... There is something brewing under the\#ground..."<#>\>\}\i[383]ОЛДАТ\{\<\#«Чтобы обезопасить город... Под землёй что-то назревает...»
 \>\i[81]\}OLDIER\{\<\#"I'm not. My superiors are no where to be found..."<#>\>\}\i[383]ОЛДАТ\{\<\#«Я не сражаюсь. Моего начальства нигде не найти...»
 \>\i[81]\}OLDIER\{\<\#"We are participants in the festival... This must be done."<#>\>\}\i[383]ОЛДАТ\{\<\#«Мы являемся участниками фестиваля... Это должно быть сделано.»
-"But aren't you just following the orders of the moon then?"<#>«Но, получается, ты просто следуешь приказам Луны?»
+"But aren't you just following the orders of the moon then?"<#>«Но, получается, ты просто следуешь приказам луны?»
 "What would your superiors say about that?"<#>«Что бы сказало по этому поводу твоё начальство?»
 \>\i[81]\}OLDIER\{\<\#"..."<#>\>\}\i[383]ОЛДАТ\{\<\#«...»
 \>\i[81]\}OLDIER\{\<\#"No... This is my choice..."<#>\>\}\i[383]ОЛДАТ\{\<\#«Нет... Это мой выбор...»
@@ -1286,7 +1286,7 @@ GabText You stole 10 \c[2].303 Ammo\c[0]!<#>GabText Вы украли 10 \c[2]п
 \>\i[75]\}EVI\{\<\#"I can't let you go... Not anymore."<#>\>\}\i[377]ЕВИ\{\<\#«Я не могу позволить тебе уйти...»
 GabText Levi loses his balance!<#>GabText Леви теряет равновесие!
 GabText Levi is blinded! His eyes are bleeding!<#>GabText Леви ослеп! Его глаза кровоточат!
-GabText Levi takes a low stance with his rifle...<#>GabText Леви принимает низкую стойку, сжимая винтовку...
+GabText Levi takes a low stance with his rifle...<#>GabText Леви встаёт наизготовку, сжимая винтовку...
 GabText Levi loses his balance.<#>GabText Леви теряет равновесие.
 <!-- Event Name: O'saa --><#>
 choice_text 1 \}[PERSUADE]\{ "A mage like you don't need to bother with nobodies like me!"<#>choice_text 1 \}[УБЕДИТЬ]\{ «Такому магу, как ты, не стоит беспокоиться о ничтожествах вроде меня!»
@@ -1661,7 +1661,7 @@ GabText The cocoon dies, but the host body keeps on going!<#>GabText Кокон 
 GabText A cocoon slowly drags itself towards you...<#>GabText Кокон медленно подтягивается к вам...
 GabText The host body engraved sigils of Gro-goroth on the cocoon.<#>GabText Носитель выгравировал на коконе символы Гро-горота.
 GabText The host body engraved sigils of Vinushka on the cocoon.<#>GabText Носитель выгравировал на коконе символы Винушки.
-GabText The host body engraved sigils of Fear and Hunger on the cocoon.<#>GabText Носитель выгравировал на коконе символы Страха и Голода.
+GabText The host body engraved sigils of Fear and Hunger on the cocoon.<#>GabText Носитель выгравировал на коконе символы страха и голода.
 <!-- Event Name: Valkyrie --><#>
 \>\i[84]\}ALKYRIE\{\<\#"Kaaaa... Join... The flight of the valkyrie..."<#>\>\}\i[370]АЛЬКИРИЯ\{\<\#«Каааа... Присоединяйтесь... К полету валькирии...»
 "You can actually talk?"<#>«Ты можешь говорить по-человечески?»

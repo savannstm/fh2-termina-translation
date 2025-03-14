@@ -24,6 +24,8 @@
             }
 
             switch (actor.actorId()) {
+                case 1:
+                    return "Леви";
                 case 3:
                     switch (grammaticalCase) {
                         case 1:
@@ -69,6 +71,8 @@
                         case 6:
                             return "Абелле";
                     }
+                case 6:
+                    return "О'саа";
                 case 7:
                     switch (grammaticalCase) {
                         case 1:
@@ -84,6 +88,10 @@
                         case 6:
                             return "Чёрном Калеве";
                     }
+                case 13:
+                    return "Марко";
+                case 14:
+                    return "Карин";
                 case 15:
                     switch (grammaticalCase) {
                         case 1:
@@ -104,34 +112,34 @@
                 case 18:
                     switch (grammaticalCase) {
                         case 1:
-                            return "Гуль";
+                            return "гуль";
                         case 2:
-                            return "Гуля";
+                            return "гуля";
                         case 3:
-                            return "Гулю";
+                            return "гулю";
                         case 4:
-                            return "Гуля";
+                            return "гуля";
                         case 5:
-                            return "Гулём";
+                            return "гулём";
                         case 6:
-                            return "Гуле";
+                            return "гуле";
                     }
                 case 22:
                 case 28:
                 case 29:
                     switch (grammaticalCase) {
                         case 1:
-                            return "Житель";
+                            return "житель";
                         case 2:
-                            return "Жителя";
+                            return "жителя";
                         case 3:
-                            return "Жителю";
+                            return "жителю";
                         case 4:
-                            return "Жителя";
+                            return "жителя";
                         case 5:
-                            return "Жителем";
+                            return "жителем";
                         case 6:
-                            return "Жителе";
+                            return "жителе";
                     }
             }
         });

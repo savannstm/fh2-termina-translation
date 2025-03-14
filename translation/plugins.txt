@@ -1,5 +1,5 @@
 Item: 1, Equip: 2, Synthesis: 3, kill: 4, St: 5, Options: 7, uit Game: 6<#>Предметы: 1, Экипировка: 2, Synthesis: 3, kill: 4, St: 5, Настройки: 7, uit Game: 6
-User<#>Использующий
+User<#>Использует
 Ally<#>Союзник
 Allies<#>союзники
 Enemy<#>Противник
@@ -39,9 +39,9 @@ Finish Configuration<#>Завершить настройку
 Are you done configuring your keyboard?<#>Вы закончили настраивать раскладку?
 Clear<#>Очистить
 OK<#>ОК
-OK / Interact<#>ОК / Взаимодействие
+OK / Interact<#>ОК/Взаимодействие
 X<#>X
-Cancel / Menu<#>Отменить / Меню
+Cancel / Menu<#>Отменить/Меню
 Cancel<#>Отменить
 Cancel<#>Отменить
 Shoot/Run<#>Стрельба/Бег
@@ -62,7 +62,7 @@ Yes<#>Да
 No<#>Нет
 Finish<#>Завершить
 Remove<#>Удалить
-Synthesis<#>Synthesis
+Synthesis<#>Синтез
 Craft Item<#>Создать предмет
 Craft Weapon<#>Создать оружие
 Craft Armor<#>Создать броню
@@ -72,7 +72,7 @@ Crafted Items<#>Созданных предметов
 Crafted Weapons<#>Созданного оружия
 Crafted Armors<#>Созданной брони
 This item has not been crafted yet.<#>Этот предмет ещё не был создан.
-Ingredients<#>Ингридиенты
+Ingredients<#>Ингредиенты
 Quantity<#>Количество
 Item: 1, quip: 2, Synthesis: 3, kill: 4, St: 5, Options: 7, uit Game: 6<#>Предметы: 1, quip: 2, Synthesis: 3, kill: 4, St: 5, Настройки: 7, uit Game: 6
 Rev up<#>Поднажать
