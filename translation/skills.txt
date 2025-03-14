@@ -344,7 +344,7 @@ Photosynthesis<#>Фотосинтез
 The process in which you use sunlight to create oxygen and\#energy to replenish your health gradually over time. Requires\#sunlight obviously. A passive skill.<#>Процесс, при котором ваше тело может использовать солнечный\#свет для восстановления жизненных сил. Очевидно, требует\#солнечного света. Пассивный навык.
 Greater photosynthesis<#>Высший фотосинтез
 Brain flower<#>Мозгоцвет
-Plant your personal seeds of brain flower to a fertile ground.\#Freshly deceased corpses being the most fertile of grounds. A brain\#flower replenishes sanity and mind.<#>Посадите семена мозгоцвета в плодородную среду.\#Свежеиспеченные трупы - самая плодородная почва.\#Мозгоцвет восстанавливает рассудок и помогает разуму.
+Plant your personal seeds of brain flower to a fertile ground.\#Freshly deceased corpses being the most fertile of grounds. A brain\#flower replenishes sanity and mind.<#>Посадите семена мозгоцвета в плодородную среду.\#Свежеиспеченные трупы - самая плодородная почва.\#Мозгоцвет восстанавливает рассудок.
 Heart flower<#>Сердцецвет
 Plant your personal seeds of heart flower to a fertile ground.\#Freshly deceased corpses being the most fertile of grounds. A heart\#flower replenishes body and wounds.<#>Посадите семена сердцецвета в плодородную среду.\#Свежеиспеченные трупы - самая плодородная почва.\#Сердцецвет восстанавливает тело и залечивает раны.
 Golden gates<#>Золотые врата

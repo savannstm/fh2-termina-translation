@@ -53,7 +53,7 @@ The text includes the sigil of the Gro-goroth and instructions\#on how to use it
 "It can be debated whether his version of the truth is more accurate\#than that of the human filth."<#>«Можно вести споры о том, является ли его истина более\#верной, чем истина человеческого гнуса.»
 "Unlike many of the other older gods, Rher's part in the greater\#scheme of things remains a mystery."<#>«В отличие от многих других древних богов, роль Рхера в великом\#замысле остаётся загадкой.»
 "Just looking at the night sky, you can see his presence, in an\#eternal slumber. This makes his secrecy even more infuriating, he\#is literally hiding in plain sight."<#>«Лишь взглянув на ночное небо, вы можете заметить его присутствие,\#пребывающее в вечной спячке. Его нераскрытые тайны вызывают у\#многих ярость, ведь он умудряется скрывать их, будучи у всех на виду.»
-"The Mark of Rher raises the maximum capacity of the mind."<#>«Метка Рхера повышает максимальный объем разума её носителя.»
+"The Mark of Rher raises the maximum capacity of the mind."<#>«Метка Рхера повышает максимальную выносливость рассудка её носителя.»
 The text includes the sigil of the Rher and instructions on how\#to use it.<#>Текст включает в себя символ Рхера и инструкцию,\#как его использовать.
 <!-- Event Name: Alchemillia vol.2 --><#>
 "The Intermediate Level of Alchemy - Alchemillia vol.2"<#>«Средний уровень алхимии - Алхемилия, том 2»

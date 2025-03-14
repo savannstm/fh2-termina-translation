@@ -757,7 +757,7 @@ choice_text 3 \}[INTIMIDATE]\{ "I hope you're ready for the execution row, soldi
 "Why did you come here?"<#>«Зачем ты пришёл сюда?»
 \>\i[81]\}OLDIER\{\<\#"You must have seen the residents of this godforsaken place."<#>\>\}\i[383]ОЛДАТ\{\<\#«Ты ведь уже видел\x[|а] жителей этого богом забытого\#места.»
 \>\i[81]\}OLDIER\{\<\#"That fate awaits us all... My comrades already succumbed to the\#chaos."<#>\>\}\i[383]ОЛДАТ\{\<\#«Такая судьба ожидает всех нас... Мои товарищи уже поддались\#хаосу.»
-\>\i[81]\}OLDIER\{\<\#"My skin is still pretty, but... My mind is deteriorating at\#a rapid rate."<#>\>\}\i[383]ОЛДАТ\{\<\#«Моя кожа всё ещё в форме, но... Мой разум разрушается\#стремительным темпом.»
+\>\i[81]\}OLDIER\{\<\#"My skin is still pretty, but... My mind is deteriorating at\#a rapid rate."<#>\>\}\i[383]ОЛДАТ\{\<\#«Моя кожа всё ещё в форме, но... Мой рассудок разрушается\#стремительным темпом.»
 \>\i[81]\}OLDIER\{\<\#"Three days is the limit... Just like what 'he' said."<#>\>\}\i[383]ОЛДАТ\{\<\#«Три дня - это предел... Прямо так, как „он“ и сказал.»
 \>\i[81]\}OLDIER\{\<\#"To secure the city... There is something brewing under the\#ground..."<#>\>\}\i[383]ОЛДАТ\{\<\#«Чтобы обезопасить город... Под землёй что-то назревает...»
 \>\i[81]\}OLDIER\{\<\#"I'm not. My superiors are no where to be found..."<#>\>\}\i[383]ОЛДАТ\{\<\#«Я не сражаюсь. Моего начальства нигде не найти...»
