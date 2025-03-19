@@ -54,7 +54,7 @@ Rock smash<#>Удар камнем
 Smash<#>Разгромить
 Snatch<#>Украсть
 Lockpicking<#>Взлом
-Blood sacrifice<#>Жертва кровью
+Blood sacrifice<#>Пожертвование кровью
 Devour<#>Пожирание
 Marksmanship<#>Снайпер
 Bloodlust<#>Жажда крови

@@ -34,7 +34,7 @@ Max Mind<#>Макс. рассудок
 Defense<#>Защита
 M.Attack<#>Маг. атака
 M.Defense<#>Маг. защита
-Agility<#>Ловкость
+Agility<#>Скорость
 Luck<#>Удача
 Accuracy<#>Точность
 Evasion<#>Уклонение

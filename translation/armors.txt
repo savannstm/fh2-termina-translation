@@ -60,11 +60,11 @@ A cameo carving of a beautiful woman from a bygone era.\#The jewel emits strange
 Hardened heart<#>Затвердевшее сердце
 A crystalized and hardened heart that has seen its share of pain\#and suffering. It now offers a glimpse of the same determination\#its previous owner had to its new master.<#>Затвердевшее сердце, повидавшее боль и страдания.\#Даёт своему новому носителю частицу решимости\#прошлого владельца.
 Small thing's amulet<#>Амулет маленького существа
-A crudely shaped amulet representing a rat deity. The peculiar\#thing is imbued with prayers of the ratkin that grant its wearer\#a small boost in agility to help evade possible dangers.<#>Грубо выделанный амулет, изображающий крысиное божество.\#Эта необычная реликвия впитала в себя молитвы крысолюдов.\#Дарует владельцу ловкость, помогая избежать возможные опасности.
+A crudely shaped amulet representing a rat deity. The peculiar\#thing is imbued with prayers of the ratkin that grant its wearer\#a small boost in agility to help evade possible dangers.<#>Грубо выделанный амулет, изображающий крысиное божество.\#Эта необычная реликвия впитала в себя молитвы крысолюдов.\#Дарует владельцу скорость, помогая избежать возможные опасности.
 Salmonsnake rune<#>Руна морского дракона
 An old relic from northern warrior tribes of Oldegård. The rune is said\#to contain a soul of a Salmonsnake that gives its owner a hardened skin\#that prevents limb losses, burns and bleeding.<#>Древняя реликвия северных воинских племен Ольдегарда.\#Содержит душу морского дракона, которая укрепляет кожу,\#предотвращая потерю конечностей, ожоги и кровотечения.
 Ring of wraiths<#>Кольцо духов
-A ring with a blood diamond embedded on it. The diamond has seen\#so much death that life force is leaking from it. The priests of Rondon\#have slaves digging these diamonds no matter the cost.<#>Кольцо с вкрапленным кровавым алмазом. Оно повидало так много\#смертей, что стало испускать жизненную силу. Священники Рондона\#заставляют рабов копать эти алмазы днем и ночью.
+A ring with a blood diamond embedded on it. The diamond has seen\#so much death that life force is leaking from it. The priests of Rondon\#have slaves digging these diamonds no matter the cost.<#>Кольцо с вкрапленным кровавым алмазом. Оно повидало так много\#смертей, что стало испускать жизненную силу. Священники Рондона\#заставляют рабов копать эти алмазы днём и ночью.
 Thorned ring<#>Кольцо с шипами
 A ring with thorns that emit steady flow of poison to its wearer.\#Steady flow makes one immune to more potent toxins.<#>Кольцо с шипами, из которого небольшими дозами сочится\#яд в тело носителя. Эти небольшие дозы вырабатывают\#иммунитет к более мощным ядам.
 Foldable wheelchair<#>Складная инвалидная коляска
@@ -76,7 +76,7 @@ A military-issue combat jacket that has become popular with\#civilians as well.\
 Gentleman's hat<#>Шляпа джентльмена
 A fine looking gentleman's hat. It's a little bit old fashioned\#but some things are timeless.\#Otherworldly 99%<#>Симпатичная джентльменская шляпа. Немного старомодна, но\#некоторые вещи неподвластны времени.\#Магия 99%
 Kashmir suit<#>Костюм из кашемира
-A natural white kashmir suit.\#You feel especially confident in such a fine suit and thus your\#hit, evasion and critical rates are all boosted.<#>Костюм из натурального белого кашемира. Вы чувствуете себя\#в нём особенно уверенно, и получаете бонус к шансу попадания,\#уклонению и шансу крит. удара.
+A natural white kashmir suit.\#You feel especially confident in such a fine suit and thus your\#hit, evasion and critical rates are all boosted.<#>Костюм из натурального белого кашемира. Вы чувствуете себя\#в нём особенно уверенно и получаете бонус к шансу попадания,\#уклонению и шансу крит. удара.
 Pilot jacket<#>Куртка-авиатор
 A pilot jacket.\#Slash 93%  Pierce 93%  Fire 85%  Otherworldly 93%<#>Куртка в стиле «авиатор».\#Реж. 93% Кол. 93% Огонь 85% Магия 93%
 Yellow mage robes<#>Мантия жёлтого мага
@@ -109,7 +109,7 @@ There are rumours that Bremen experimented with creating artificial\#souls to po
 Eye of Sylvian<#>Око Сильвиан
 Said to be an eye of the older god Sylvian herself. How it could\#have ended up here is a mystery. You have your doubts. It does\#seem to boost the recovery effect of healing items and magic...<#>Говорят, что это - око древней богини Сильвиан. Как оно попало\#сюда - неизвестно. У вас есть сомнения по поводу него. Похоже,\#что оно действительно усиливает эффекты исцеления...
 Leather armor<#>Кожаная броня
-Simple armor made from hardened leather. Offers decent protection\#and it's not too heavy.\#Slash 87%  Pierce 75%  Blunt 90%  Fire 93%<#>Простой доспех из выдубленной кожи. Обеспечивает неплохую\#защиту и довольно легок.\#Реж. 87% Кол. 75% Дроб. 90% Огонь 93%
+Simple armor made from hardened leather. Offers decent protection\#and it's not too heavy.\#Slash 87%  Pierce 75%  Blunt 90%  Fire 93%<#>Простой доспех из выдубленной кожи. Обеспечивает неплохую\#защиту и довольно лёгок.\#Реж. 87% Кол. 75% Дроб. 90% Огонь 93%
 Makeshift armor<#>Самодельная броня
 A makeshift armor made from random kitchenware. The breastplate\#is an old stove lid. Desperate times breed creativity.\#Slash 68%  Pierce 69%  Blunt 79%  Fire 95%<#>Импровизированная броня из кухонного хлама. В качестве\#нагрудника - старый корпус от духовки. Отчаянные времена\#требуют творческих мер. Реж. 68% Кол. 69% Дроб. 79% Огонь 95%
 99 eyes mask<#>Маска 99-ти глаз

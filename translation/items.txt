@@ -5,7 +5,7 @@
 Prehevil map<#>Карта Прехевила
 A map of Prehevil.<#>Карта Прехевила.
 Photo album<#>Фотоальбом
-A humble little album containing all the photos you've collected\#through the years.<#>Скромный маленький альбом, содержащий все фотографии, которые\#вы собирали на протяжении многих лет.
+A humble little album containing all the photos you've collected\#through the years.<#>Скромный маленький альбом, содержащий все фотографии, которые\#вы собрали за множество лет.
 Recipes of the 15th Century vol.1<#>Рецепты 15-го века, том 1
 The first volume of the cook book series. Contains recipes\#for the meat and vegetable pies.<#>Первый том серии кулинарных книг. Содержит рецепты мясного\#и овощного пирогов.
 The Four Ages of History<#>Четыре эпохи истории
@@ -57,7 +57,7 @@ An old dried up cheese. It has a pretty bad smell to it.<#>Старый засо
 Beer<#>Пиво
 A bottle of beer. The beer inside is murky. Helps you stay\#sane in the ever-pressing darkness.<#>Бутылка пива. Пиво внутри мутное. Поможет остаться в здравом\#уме даже в вечно давящей темноте.
 Book of enlightenment<#>Книга просветления
-A mysterious ancient book radiating warm light. It's said\#to be written by the monks beyond the Eastern Sanctuaries.<#>Таинственная древняя книга, излучающая теплый свет.\#Надпись гласит, что книга написана монахами из Восточных\#Святилищ.
+A mysterious ancient book radiating warm light. It's said\#to be written by the monks beyond the Eastern Sanctuaries.<#>Таинственная древняя книга, излучающая тёплый свет.\#Надпись гласит, что книга написана монахами из Восточных\#Святилищ.
 Vegetable pie<#>Овощной пирог
 Old fashioned pie made from various vegetables.<#>Старомодный пирог из различных овощей.
 Carrot<#>Морковь
@@ -168,7 +168,7 @@ A leg that's still relatively fresh.<#>Нога, которая ещё отно�
 Goat hoof<#>Козье копыто
 A hoof of a goat. It's still relatively fresh.<#>Копыто козы. Относительно свежо.
 Purifying talisman<#>Талисман очищения
-A paper talisman with markings that originate from\#Eastern Sanctuaries.<#>Бумажный талисман с отметками, родом из Восточных\#Святилищ.
+A paper talisman with markings that originate from\#Eastern Sanctuaries.<#>Бумажный талисман с отметками родом из Восточных\#Святилищ.
 Raw meat<#>Сырое мясо
 A piece of raw meat. It's huge junk, but you don't know\#if it's healthy to eat it raw...<#>Кусок сырого мяса. Оно явно вредное, и вы не знаете, стоит\#ли есть его сырым...
 Grilled meat<#>Жареное мясо
@@ -211,7 +211,7 @@ A strong occult book written in the medieval times by Enki\#Ankarian. The chapte
 Combat manual<#>Боевое руководство
 A beginner's guide to survival and combat on a battlefield.<#>Руководство по выживанию и бою для начинающих.
 Black matter<#>Чёрная материя
-You cannot quite tell what you are looking at. You can\#recognize pasta in there. It might be edible?<#>Вы не можете точно сказать, на что вы смотрите.\#Напоминает пасту. Может, оно съедобно?
+You cannot quite tell what you are looking at. You can\#recognize pasta in there. It might be edible?<#>Вы не можете точно сказать, на что вы смотрите.\#Вам это напоминает пасту. Может, оно съедобно?
 Newspaper article<#>Газетная статья
 An article about the end of the Great War II.<#>Статья об окончании Второй мировой войны.
 Penny bun<#>Белый гриб
@@ -387,10 +387,10 @@ A strong occult book written in the medieval times by Enki\#Ankarian. The chapte
 Skin bible - Sylvian<#>Кожаная библия - Сильвиан
 A strong occult book written in the medieval times by Enki\#Ankarian. The chapter explains the older god Sylvian.<#>Мрачная оккультная книга, написанная в средние века Энки\#Анкарианом. Этот том рассказывает о древней богине Сильвиан.
 Prehevil document<#>Документ из Прехевила
-The truth under the moonlight<#>Истина под лунным светом
-NLU Reconnaissance Report #1<#>Разведывательный отчёт ПБС №1
+The truth under the moonlight<#>Истина в свете луны
+NLU Reconnaissance Report #1<#>Отчёт о разведке ПБС №1
 A brief report about a partisan organization called NLU - Nameless\#Liberty Underground. Distributed to all mid-level Bremen officers\#assigned to Bohemia.<#>Краткий отчёт о партизанской организации ПБС - Подполье\#Безымянной Свободы. Выдаётся всем бременским офицерам,\#назначенным в Богемии.
-NLU Reconnaissance Report #2<#>Разведывательный отчёт ПБС №2
+NLU Reconnaissance Report #2<#>Отчёт о разведке ПБС №2
 A brief report about NLU member Haas Reila Audrey. Distributed to\#all mid-level Bremen officers assigned to Bohemia.<#>Краткий отчёт о члене ПБС - Хаас Рейле Одри.\#Выдаётся всем бременским офицерам, назначенным\#в Богемии.
 Telelectroscope and Logic<#>Телеэлектроскоп и Логика
 A document giving you broad overview on Telelectroscope and Logic.<#>Документ, дающий общее представление о Телеэлектроскопах и Логике.
@@ -404,11 +404,11 @@ Kaiser's head<#>Голова Кайзера
 The severed head of the Kaiser.<#>Отрубленная голова Кайзера.
 Head of the Heartless one<#>Голова Бессердечной
 The severed head of the Heartless one.<#>Отрубленная голова Бессердечной.
-Condensed blue<#>Концентрированная синяя трава
+Condensed blue<#>Синий концентрат
 A condensed ball of blue herbs. Recovers great amount of\#health when digested.<#>Концентрированный шарик из синей травы.\#Восстанавливает большое количество здоровья.
-Condensed green<#>Концентрированная зелёная трава
-A condensed ball of green herbs. Offer protection against infections,\#poisoning and other mild status ailments in advance. The effect\#doesn't last long though.<#>Концентрированный шарик из зелёной травы. Заранее защищает от\#инфекций, отравления и других состоянии.\#К сожалению, эффект длится недолго.
-Condensed lavender<#>Концентрированная лаванда
+Condensed green<#>Зелёный концентрат
+A condensed ball of green herbs. Offer protection against infections,\#poisoning and other mild status ailments in advance. The effect\#doesn't last long though.<#>Концентрированный шарик из зелёной травы. Предупреждает\#инфекции, отравления и другие состояния.\#К сожалению, эффект длится недолго.
+Condensed lavender<#>Концентрат лаванды
 A condensed ball of lavender. Recovers great amount of sanity\#when digested.<#>Концентрированный шарик из лаванды.\#Восстанавливает большое количество рассудка.
 Bench grinder<#>Шлифовальный станок
 A grinding machine used to drive abrasive wheels. Commonly used\#to hand grind various tools and perform other rough grinding.\#It's very heavy and you wonder if it's worth carrying around.<#>Шлифовальный станок под абразивные колёса.\#Часто используется для ручной шлифовки инструментов и прочих\#шлифовальных работ. Очень тяжёлый. Стоит ли его таскать?
@@ -419,8 +419,8 @@ A condensed ball of poison hemlock. Even just a small amount\#of any part of the
 The Logic document<#>Документация на Логику
 Portrait of a young man<#>Портрет молодого человека
 An old portrait photograph of a young man. It looks like the photo\#was taken in the late-1800s. The person's face has been scratched\#over and is beyond recognition.<#>Старый потрет молодого человека. Выглядит так, будто фото было\#сделано где-то в конце 1800-х. Фотография расцарапана, и лицо\#человека невозможно узнать.
-Rancid head<#>Прокаженная голова
-The severed head of the Rancid sergal.<#>Отрубленная голова прокаженного сергала.
+Rancid head<#>Прокажённая голова
+The severed head of the Rancid sergal.<#>Отрубленная голова прокажённого сергала.
 Heart-shaped lock<#>Замок в форме сердца
 Rusty key<#>Ржавый ключ
 Meatpie+<#>Мясной пирог+
