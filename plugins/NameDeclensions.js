@@ -88,6 +88,21 @@
                         case 6:
                             return "Чёрном Калеве";
                     }
+                case 10:
+                    switch (grammaticalCase) {
+                        case 1:
+                            return "Кровавый голем";
+                        case 2:
+                            return "кровавого голема";
+                        case 3:
+                            return "кровавому голему";
+                        case 4:
+                            return "кровавого голема";
+                        case 5:
+                            return "кровавым големом";
+                        case 6:
+                            return "кровавом големе";
+                    }
                 case 13:
                     return "Марко";
                 case 14:
@@ -112,7 +127,7 @@
                 case 18:
                     switch (grammaticalCase) {
                         case 1:
-                            return "гуль";
+                            return "Гуль";
                         case 2:
                             return "гуля";
                         case 3:
@@ -129,7 +144,7 @@
                 case 29:
                     switch (grammaticalCase) {
                         case 1:
-                            return "житель";
+                            return "Житель";
                         case 2:
                             return "жителя";
                         case 3:
