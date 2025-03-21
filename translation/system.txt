@@ -24,7 +24,7 @@ Books<#>Книги
 Optimize<#>Оптимизировать
 Clear<#>Очистить
 New Game<#>Новая игра
-Continue<#>Продолжить
+ Continue<#>Продолжить
 To Title<#>В меню
 Cancel<#>Отмена
 Buy<#>Купить
