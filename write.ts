@@ -298,12 +298,19 @@ async function zipDirectory(sourceDir: string, outputPath: string) {
     await Bun.write(outputPath, zipBlob);
 }
 
+async function movePlugins() {
+    for (const file of await readdir("./plugins")) {
+        await copyFile(`./plugins/${file}`, `./output/js/plugins/${file}`);
+    }
+}
+
 await Bun.spawn(["rvpacker-txt-rs", "write"], { stdout: "inherit" }).exited;
 await replaceAugustWhatBringsYouHereLine();
 await replaceMoonscorchedFemaleLines();
 await replaceVillagerFemaleLines();
 await replaceIncorrectNeedlesLosesBalanceLine();
 await replaceLeviGodChoicesLines();
+await movePlugins();
 
 await exportPNG();
 
