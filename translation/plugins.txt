@@ -1,5 +1,5 @@
 Item: 1, Equip: 2, Synthesis: 3, kill: 4, St: 5, Options: 7, uit Game: 6<#>Предметы: 1, Экипировка: 2, Synthesis: 3, kill: 4, St: 5, Настройки: 7, uit Game: 6
-User<#>Использующий
+User<#>На себя
 Ally<#>Союзник
 Allies<#>союзники
 Enemy<#>Противник

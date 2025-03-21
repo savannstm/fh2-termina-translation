@@ -344,7 +344,7 @@ Attack her<#>Напасть на неё
 \>\i[64]\}BELLA\{\<\#"What's this!?"<#>\>\}\i[368]БЕЛЛА\{\<\#«Что?!»
 You absorbed the \c[2]Caressing soul\c[0].<#>Вы поглотили \c[2]заботливую душу\c[0].
 \>\i[80]\}ED-HAIRED MECHANIC\{\<\#"Oh, hi."<#>\>\}\i[382]ЫЖЕВОЛОСЫЙ МЕХАНИК\{\<\#«О, привет.»
-\>\i[80]\}ED-HAIRED MECHANIC\{\<\#"We weren't introduced before, I'm Abella, nice to meet you!"<#>\>\}\i[382]ЫЖЕВОЛОСЫЙ МЕХАНИК\{\<\#«Мы не успели познакомиться, я Абелла, приятно!»
+\>\i[80]\}ED-HAIRED MECHANIC\{\<\#"We weren't introduced before, I'm Abella, nice to meet you!"<#>\>\}\i[382]ЫЖЕВОЛОСЫЙ МЕХАНИК\{\<\#«Мы не успели познакомиться, я Абелла, очень приятно!»
 \>\i[64]\}BELLA\{\<\#"It's not just that the train stopped, but for some reason\#it won't start up either."<#>\>\}\i[368]БЕЛЛА\{\<\#«Поезд не только остановился, но и почему-то не заводится...»
 You read her mind...\#\c[1]"I don't get this. I don't get this."\c[0]<#>Вы читаете её мысли...\#\c[1]«Я не понимаю. Не понимаю.»\c[0]
 You read her mind...\#\c[1]"Steam pipe seems to be just fine, which in turn means that\#cyllinders shouldn't be short on steam..."\c[0]<#>Вы читаете её мысли...\#\c[1]«С паровой трубой всё в порядке, что, в свою очередь,\#означает, что цилиндрам должно хватать пара...»\c[0]
@@ -1291,7 +1291,7 @@ A mysterious person greets you in a monotonous voice.<#>Таинственный
 \>\i[144]\}ER'KELE\{\<\#"I will gladly answer questions once you get there."<#>\>\}\i[381]ЕР'КЕЛЕ\{\<\#«Я с удовольствием отвечу на вопросы, как только вы туда\#доберётесь.»
 \>\i[144]\}ER'KELE\{\<\#"But until that,\. let us meet again under the moonlight."<#>\>\}\i[381]ЕР'КЕЛЕ\{\<\#«Но перед этим,\. встретимся снова, в свете луны.»
 The moon... It must be THE moon god, you ponder. You've read\#some vague tales about it during your time at the Amon libraries.<#>Луна... Должно быть, это Лунный бог - думаете вы. Вы читали\#некоторые смутные рассказы о нём во время пребывания\#в библиотеках Амона.
-\>\i[76]\}YSTERIOUS PERSON\{\<\#"Now you are safe under the beautiful green hue of the moon."<#>\>\}\i[384]АИНСТВЕННЫЙ ЧЕЛОВЕК\{\<\#«Теперь вы в безопасности, под в свете прекрасного зелёного оттенка\#луны.»
+\>\i[76]\}YSTERIOUS PERSON\{\<\#"Now you are safe under the beautiful green hue of the moon."<#>\>\}\i[384]АИНСТВЕННЫЙ ЧЕЛОВЕК\{\<\#«Теперь вы в безопасности, в свете прекрасного зелёного оттенка\#луны.»
 "Thank you.."<#>«Спасибо тебе...»
 "Is this real or just a nightmare?"<#>«Это правда, или я сейчас сплю?»
 You knew it.<#>Вы знали это.
@@ -1471,7 +1471,7 @@ You put the offering on the center of the circle...<#>Вы кладете под
 The air cools down and becomes thicker. It feels heavy just to\#breath.<#>Воздух холодеет и становится гуще. Становится тяжело дышать.
 Offer the \c[2]Portrait of a young man\c[0]?<#>Предложить \c[2]портрет юноши\c[0]?
 Offer the \c[2]Dead crow\c[0]?<#>Предложить \c[2]мёртвого ворона\c[0]?
-You have \c[2]\v[396] severed heads\c[0] in your possession. \c[2]\v[1830]\c[0] of which\#are non-contestant heads. Do you want to sacrifice them all?<#>В вашем распоряжении есть \c[2]\v[396] \d396[отрубленная голова|отрубленных головы|отрубленных голов]\c[0].\#\c[2]\v[1830]\c[0] из которых не \N830[принадлежит|принадлежат|принадлежат] участникам фестиваля.\#Вы хотите пожертвовать ими всеми?
+You have \c[2]\v[396] severed heads\c[0] in your possession. \c[2]\v[1830]\c[0] of which\#are non-contestant heads. Do you want to sacrifice them all?<#>В вашем распоряжении есть \c[2]\v[396] \d396[отрубленная голова|отрубленных головы|отрубленных голов]\c[0].\#\c[2]\v[1830]\c[0] из которых не \d1830[принадлежит|принадлежат|принадлежат] участникам фестиваля.\#Вы хотите пожертвовать ими всеми?
 Sacrifice all<#>Пожертвовать всеми
 Sacrifice all non-contestant heads<#>Пожертвовать только головами не участвующих
 You have \c[2]\v[396] severed heads\c[0] in your possession.\#Do you want to sacrifice them all?<#>В вашем распоряжении есть \c[2]\v[396] \d396[отрубленная голова|отрубленных головы|отрубленных голов]\c[0].\#Вы хотите пожертвовать ими всеми?
@@ -11973,7 +11973,7 @@ You hear voices echoing from the beheaded wizard...\#\c[7]"We need to rip this y
 \>\i[74]\}AISER\{\<\#"Since the dawn of man, we have strived for a power that would\#rival the very gods we worshipped..."<#>\>\}\i[376]АЙЗЕР\{\<\#«С самого зарождения человечества, мы стремились к силе,\#которая сможет соперничать с теми богами, которым мы\#поклоняемся...»
 \>\i[74]\}AISER\{\<\#"There has always been kings and sultans who pursued that strength\#to no ends."<#>\>\}\i[376]АЙЗЕР\{\<\#«Всегда были короли и султаны, преследующие эту силу без конца.»
 \>\i[74]\}AISER\{\<\#"Even I fell into that trap at one point in time. It is but a\#never-ending cycle that only feeds itself but leads to nowhere."<#>\>\}\i[376]АЙЗЕР\{\<\#«Даже я однажды попал в эту ловушку. Это лишь нескончаемый\#цикл, питающий сам себя и ведущий в пустоту.»
-\>\i[74]\}AISER\{\<\#"If we chase that power, we are always looking at the big picture\#from behind. We cannot see the forest for the trees."<#>\>\}\i[376]АЙЗЕР\{\<\#«Когда мы гонимся за этой силой, то всегда глядим на общую\#картину с наизнанки. Мы не видим лес за деревьями.»
+\>\i[74]\}AISER\{\<\#"If we chase that power, we are always looking at the big picture\#from behind. We cannot see the forest for the trees."<#>\>\}\i[376]АЙЗЕР\{\<\#«Когда мы гонимся за этой силой, то всегда глядим на общую\#картину с изнанки. Мы не видим лес за деревьями.»
 \>\i[74]\}AISER\{\<\#"Instead we needed to birth something new."<#>\>\}\i[376]АЙЗЕР\{\<\#«Вместо этого нам нужно создать нечто новое.»
 \>\i[74]\}AISER\{\<\#"That time has finally come. The true unity of mankind is before\#us. A true god born from humanity, not from the old world."<#>\>\}\i[376]АЙЗЕР\{\<\#«Это время наконец настало. Истинное единство человечества\#перед нами. Истинный бог, рождённый человечеством, а не\#древним миром.»
 \>\i[74]\}AISER\{\<\#"A god that is not born from the powers borrowed, but from our\#own strength. This is the moment in time our whole existence has\#strived for."<#>\>\}\i[376]АЙЗЕР\{\<\#«Бог, рождённый не от заимствованных сил, а от наших собственных.\#Настало время, к которому мы стремились всё своё существование.»
@@ -12545,7 +12545,7 @@ You find a \c[2]Soul stone\c[0]!<#>Вы нашли \c[2]камень душ\c[0]
 <!-- Map --><#>165
 <!-- Map Name: Elevator_shaft1 --><#>
 <!-- Order --><#>32
-The cable ends here. The drop doesn't look too bad. You could\#jump down, but there would be no way back up from here...<#>Кабель кончается здесь. Высота кажется не слишком большой.\#Вы можете спрыгнуть, но пути назад может и не быть...
+The cable ends here. The drop doesn't look too bad. You could\#jump down, but there would be no way back up from here...<#>Кабель кончается здесь. Кажется, тут не слишком высоко.\#Вы можете спрыгнуть, но пути назад может и не быть...
 Go back<#>Вернуться
 <!-- Map --><#>166
 <!-- Map Name: Cavern_ladders --><#>
