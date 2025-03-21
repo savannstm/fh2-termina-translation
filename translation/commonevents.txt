@@ -118,51 +118,51 @@ You find the \c[2]'Man in dreams' flyer\c[0]!<#>Вы нашли листовку
 You find the \c[2]The Tale of the Pocketcat Ch. 2\c[0]!<#>Вы нашли \c[2]сказку о Покеткэте, главу 2\c[0]!
 You find the \c[2]The Tale of the Pocketcat Ch. 1\c[0]!<#>Вы нашли \c[2]сказку о Покеткэте, главу 1\c[0]!
 You have already learned everything Gro-goroth has to\#offer at the moment...<#>Вы уже узнали всё, что Гро-горот вам может предложить\#на данный момент...
-GabText \N[1] feels a little less hungry.<#>GabText \D1[1] чувствует себя немного менее голодным.
-GabText \N[3] feels a little less hungry.<#>GabText \D1[3] чувствует себя немного менее голодной.
-GabText \N[4] feels a little less hungry.<#>GabText \D1[4] чувствует себя немного менее голодным.
-GabText \N[5] feels a little less hungry.<#>GabText \D1[5] чувствует себя немного менее голодной.
-GabText \N[6] feels a little less hungry.<#>GabText \D1[6] чувствует себя немного менее голодным.
-GabText \N[7] feels a little less hungry.<#>GabText \D1[7] чувствует себя немного менее голодным.
-GabText \N[16] feels a little less hungry.<#>GabText \D1[16] чувствует себя немного менее голодным.
-GabText \N[17] feels a little less hungry.<#>GabText \D1[17] чувствует себя немного менее голодным.
-GabText \N[18] feels a little less hungry.<#>GabText \D1[18] чувствует себя немного менее голодным.
-GabText \N[13] feels a little less hungry.<#>GabText \D1[13] чувствует себя немного менее голодным.
-GabText \N[14] feels a little less hungry.<#>GabText \D1[14] чувствует себя немного менее голодной.
-GabText \N[15] feels a little less hungry.<#>GabText \D1[15] чувствует себя немного менее голодной.
-GabText \N[22] feels a little less hungry.<#>GabText \D1[22] чувствует себя немного менее голодным.
-GabText \N[28] feels a little less hungry.<#>GabText \D1[28] чувствует себя немного менее голодным.
-GabText \N[29] feels a little less hungry.<#>GabText \D1[29] чувствует себя немного менее голодным.
-GabText \N[1] feels less hungry.<#>GabText \D1[1] чувствует себя менее голодным.
-GabText \N[3] feels less hungry.<#>GabText \D1[3] чувствует себя менее голодной.
-GabText \N[4] feels less hungry.<#>GabText \D1[4] чувствует себя менее голодным.
-GabText \N[5] feels less hungry.<#>GabText \D1[5] чувствует себя менее голодной.
-GabText \N[6] feels less hungry.<#>GabText \D1[6] чувствует себя менее голодным.
-GabText \N[7] feels less hungry.<#>GabText \D1[7] чувствует себя менее голодным.
-GabText \N[16] feels less hungry.<#>GabText \D1[16] чувствует себя менее голодным.
-GabText \N[17] feels less hungry.<#>GabText \D1[17] чувствует себя менее голодным.
-GabText \N[18] feels less hungry.<#>GabText \D1[18] чувствует себя менее голодным.
-GabText \N[13] feels less hungry.<#>GabText \D1[13] чувствует себя менее голодным.
-GabText \N[14] feels less hungry.<#>GabText \D1[14] чувствует себя менее голодной.
-GabText \N[15] feels less hungry.<#>GabText \D1[15] чувствует себя менее голодной.
-GabText \N[22] feels less hungry.<#>GabText \D1[22] чувствует себя менее голодным.
-GabText \N[28] feels less hungry.<#>GabText \D1[28] чувствует себя менее голодным.
-GabText \N[29] feels less hungry.<#>GabText \D1[29] чувствует себя менее голодным.
-GabText \N[1] feels a lot less hungry.<#>GabText \D1[1] чувствует себя намного менее голодным.
-GabText \N[3] feels a lot less hungry.<#>GabText \D1[3] чувствует себя намного менее голодной.
-GabText \N[4] feels a lot less hungry.<#>GabText \D1[4] чувствует себя намного менее голодным.
-GabText \N[5] feels a lot less hungry.<#>GabText \D1[5] чувствует себя намного менее голодной.
-GabText \N[6] feels a lot less hungry.<#>GabText \D1[6] чувствует себя намного менее голодным.
-GabText \N[7] feels a lot less hungry.<#>GabText \D1[7] чувствует себя намного менее голодным.
-GabText \N[16] feels a lot less hungry.<#>GabText \D1[16] чувствует себя намного менее голодным.
-GabText \N[17] feels a lot less hungry.<#>GabText \D1[17] чувствует себя намного менее голодным.
-GabText \N[18] feels a lot less hungry.<#>GabText \D1[18] чувствует себя намного менее голодным.
-GabText \N[13] feels a lot less hungry.<#>GabText \D1[13] чувствует себя намного менее голодным.
-GabText \N[14] feels a lot less hungry.<#>GabText \D1[14] чувствует себя намного менее голодной.
-GabText \N[15] feels a lot less hungry.<#>GabText \D1[15] чувствует себя намного менее голодной.
-GabText \N[22] feels a lot less hungry.<#>GabText \D1[22] чувствует себя намного менее голодным.
-GabText \N[28] feels a lot less hungry.<#>GabText \D1[28] чувствует себя намного менее голодным.
-GabText \N[29] feels a lot less hungry.<#>GabText \D1[29] чувствует себя намного менее голодным.
+GabText \N[1] feels a little less hungry.<#>GabText \N[1] чувствует себя немного менее голодным.
+GabText \N[3] feels a little less hungry.<#>GabText \N[3] чувствует себя немного менее голодной.
+GabText \N[4] feels a little less hungry.<#>GabText \N[4] чувствует себя немного менее голодным.
+GabText \N[5] feels a little less hungry.<#>GabText \N[5] чувствует себя немного менее голодной.
+GabText \N[6] feels a little less hungry.<#>GabText \N[6] чувствует себя немного менее голодным.
+GabText \N[7] feels a little less hungry.<#>GabText \N[7] чувствует себя немного менее голодным.
+GabText \N[16] feels a little less hungry.<#>GabText \N[16] чувствует себя немного менее голодным.
+GabText \N[17] feels a little less hungry.<#>GabText \N[17] чувствует себя немного менее голодным.
+GabText \N[18] feels a little less hungry.<#>GabText \N[18] чувствует себя немного менее голодным.
+GabText \N[13] feels a little less hungry.<#>GabText \N[13] чувствует себя немного менее голодным.
+GabText \N[14] feels a little less hungry.<#>GabText \N[14] чувствует себя немного менее голодной.
+GabText \N[15] feels a little less hungry.<#>GabText \N[15] чувствует себя немного менее голодной.
+GabText \N[22] feels a little less hungry.<#>GabText \N[22] чувствует себя немного менее голодным.
+GabText \N[28] feels a little less hungry.<#>GabText \N[28] чувствует себя немного менее голодным.
+GabText \N[29] feels a little less hungry.<#>GabText \N[29] чувствует себя немного менее голодным.
+GabText \N[1] feels less hungry.<#>GabText \N[1] чувствует себя менее голодным.
+GabText \N[3] feels less hungry.<#>GabText \N[3] чувствует себя менее голодной.
+GabText \N[4] feels less hungry.<#>GabText \N[4] чувствует себя менее голодным.
+GabText \N[5] feels less hungry.<#>GabText \N[5] чувствует себя менее голодной.
+GabText \N[6] feels less hungry.<#>GabText \N[6] чувствует себя менее голодным.
+GabText \N[7] feels less hungry.<#>GabText \N[7] чувствует себя менее голодным.
+GabText \N[16] feels less hungry.<#>GabText \N[16] чувствует себя менее голодным.
+GabText \N[17] feels less hungry.<#>GabText \N[17] чувствует себя менее голодным.
+GabText \N[18] feels less hungry.<#>GabText \N[18] чувствует себя менее голодным.
+GabText \N[13] feels less hungry.<#>GabText \N[13] чувствует себя менее голодным.
+GabText \N[14] feels less hungry.<#>GabText \N[14] чувствует себя менее голодной.
+GabText \N[15] feels less hungry.<#>GabText \N[15] чувствует себя менее голодной.
+GabText \N[22] feels less hungry.<#>GabText \N[22] чувствует себя менее голодным.
+GabText \N[28] feels less hungry.<#>GabText \N[28] чувствует себя менее голодным.
+GabText \N[29] feels less hungry.<#>GabText \N[29] чувствует себя менее голодным.
+GabText \N[1] feels a lot less hungry.<#>GabText \N[1] чувствует себя намного менее голодным.
+GabText \N[3] feels a lot less hungry.<#>GabText \N[3] чувствует себя намного менее голодной.
+GabText \N[4] feels a lot less hungry.<#>GabText \N[4] чувствует себя намного менее голодным.
+GabText \N[5] feels a lot less hungry.<#>GabText \N[5] чувствует себя намного менее голодной.
+GabText \N[6] feels a lot less hungry.<#>GabText \N[6] чувствует себя намного менее голодным.
+GabText \N[7] feels a lot less hungry.<#>GabText \N[7] чувствует себя намного менее голодным.
+GabText \N[16] feels a lot less hungry.<#>GabText \N[16] чувствует себя намного менее голодным.
+GabText \N[17] feels a lot less hungry.<#>GabText \N[17] чувствует себя намного менее голодным.
+GabText \N[18] feels a lot less hungry.<#>GabText \N[18] чувствует себя намного менее голодным.
+GabText \N[13] feels a lot less hungry.<#>GabText \N[13] чувствует себя намного менее голодным.
+GabText \N[14] feels a lot less hungry.<#>GabText \N[14] чувствует себя намного менее голодной.
+GabText \N[15] feels a lot less hungry.<#>GabText \N[15] чувствует себя намного менее голодной.
+GabText \N[22] feels a lot less hungry.<#>GabText \N[22] чувствует себя намного менее голодным.
+GabText \N[28] feels a lot less hungry.<#>GabText \N[28] чувствует себя намного менее голодным.
+GabText \N[29] feels a lot less hungry.<#>GabText \N[29] чувствует себя намного менее голодным.
 GabText Fear is getting a hold of you...<#>GabText Страх овладевает вами...
 GabText Suicide is always an option.<#>GabText Самоубийство - это всегда выход.
 GabText You are getting scared.<#>GabText Вам становится страшно.
@@ -175,67 +175,67 @@ No<#>Нет
 Take your own life?<#>Лишить себя жизни?
 Unfortunately you don't have arms to perform such acts.<#>К сожалению, у вас нет рук для этого.
 You keep on going for now...<#>Вы пока что продолжаете жить...
-\N[1] cannot hold weapons without arms!<#>\D1[1] не может держать оружие без рук!
+\N[1] cannot hold weapons without arms!<#>\N[1] не может держать оружие без рук!
 The cold pistol grip feels familiar in your hands. You didn't think\#you'd be grasping to one so soon after leaving the frontlines...<#>Холодная пистолетная рукоятка лежит знакомо в ваших руках. Вы\#не думали, что так скоро ухватитесь за неё, покинув линию фронта...
 You wonder if you'll ever be able to leave that past behind.<#>Вы задаётесь вопросом - сможете ли вы когда-нибудь оставить это\#прошлое позади?
-\N[1] is out of ammo, so he continues unarmed.<#>\D1[1] потратил все боеприпасы и убирает оружие.
-\N[1] cannot hold \c[2]Mauler\c[0] with just one arm!<#>\D1[1] не может держать \c[2]истязатель\c[0] одной рукой!
-\N[1] cannot hold \c[2]Bayonet\c[0] with just one arm!<#>\D1[1] не может держать \c[2]винтовку со штыком\c[0] одной рукой!
-\N[1] cannot hold \c[2]Rifle\c[0] with just one arm!<#>\D1[1] не может держать \c[2]винтовку\c[0] одной рукой!
-\N[1] cannot hold \c[2]Trenchgun\c[0] with just one arm!<#>\D1[1] не может держать \c[2]дробовик\c[0] одной рукой!
-\N[1] cannot hold \c[2]Reaper's rake\c[0] with just one arm!<#>\D1[1] не может держать \c[2]грабли жнеца\c[0] одной рукой!
-\N[1] cannot hold \c[2]Lantern flail\c[0] with just one arm!<#>\D1[1] не может держать \c[2]цепной фонарь\c[0] одной рукой!
-\N[1] cannot hold \c[2]Meat grinder\c[0] with just one arm!<#>\D1[1] не может держать \c[2]мясорубку\c[0] одной рукой!
-\N[1] cannot hold \c[2]Gaelian greatsword\c[0] with just one arm!<#>\D1[1] не может держать \c[2]гаэлийский двуручный меч\c[0] одной рукой!
-\N[1] cannot hold \c[2]Iron spear\c[0] with just one arm!<#>\D1[1] не может держать \c[2]железное копьё\c[0] одной рукой!
-\N[1] cannot hold \c[2]Sergal spear\c[0] with just one arm!<#>\D1[1] не может держать \c[2]копьё сергала\c[0] одной рукой!
+\N[1] is out of ammo, so he continues unarmed.<#>\N[1] потратил все боеприпасы и убирает оружие.
+\N[1] cannot hold \c[2]Mauler\c[0] with just one arm!<#>\N[1] не может держать \c[2]истязатель\c[0] одной рукой!
+\N[1] cannot hold \c[2]Bayonet\c[0] with just one arm!<#>\N[1] не может держать \c[2]винтовку со штыком\c[0] одной рукой!
+\N[1] cannot hold \c[2]Rifle\c[0] with just one arm!<#>\N[1] не может держать \c[2]винтовку\c[0] одной рукой!
+\N[1] cannot hold \c[2]Trenchgun\c[0] with just one arm!<#>\N[1] не может держать \c[2]дробовик\c[0] одной рукой!
+\N[1] cannot hold \c[2]Reaper's rake\c[0] with just one arm!<#>\N[1] не может держать \c[2]грабли жнеца\c[0] одной рукой!
+\N[1] cannot hold \c[2]Lantern flail\c[0] with just one arm!<#>\N[1] не может держать \c[2]цепной фонарь\c[0] одной рукой!
+\N[1] cannot hold \c[2]Meat grinder\c[0] with just one arm!<#>\N[1] не может держать \c[2]мясорубку\c[0] одной рукой!
+\N[1] cannot hold \c[2]Gaelian greatsword\c[0] with just one arm!<#>\N[1] не может держать \c[2]гаэлийский двуручный меч\c[0] одной рукой!
+\N[1] cannot hold \c[2]Iron spear\c[0] with just one arm!<#>\N[1] не может держать \c[2]железное копьё\c[0] одной рукой!
+\N[1] cannot hold \c[2]Sergal spear\c[0] with just one arm!<#>\N[1] не может держать \c[2]копьё сергала\c[0] одной рукой!
 You check the functionality of the rifle without even thinking about\#it. Your old habits are kicking in. The rifle creates a familiar\#feeling of safety.<#>Вы проверяете функциональность винтовки, даже не задумываясь.\#Ваши старые привычки дают о себе знать. Винтовка даёт\#знакомое ощущение безопасности.
 You check the functionality of the trenchgun without even thinking\#about it. Your old habits are kicking in. The gun creates a familiar\#feeling of safety.<#>Вы проверяете функциональность дробовика, даже не задумываясь.\#Ваши старые привычки дают о себе знать. Дробовик даёт\#знакомое ощущение безопасности.
-\N[16] cannot hold weapons without arms!<#>\D1[16] не может держать оружие без рук!
-\N[17] cannot hold weapons without arms!<#>\D1[17] не может держать оружие без рук!
-\N[18] cannot hold weapons without arms!<#>\D1[18] не может держать оружие без рук!
-\N[22] cannot hold weapons without arms!<#>\D1[22] не может держать оружие без рук!
-\N[28] cannot hold weapons without arms!<#>\D1[28] не может держать оружие без рук!
-\N[29] cannot hold weapons without arms!<#>\D1[29] не может держать оружие без рук!
-\N[3] cannot hold weapons without arms!<#>\D1[3] не может держать оружие без рук!
+\N[16] cannot hold weapons without arms!<#>\N[16] не может держать оружие без рук!
+\N[17] cannot hold weapons without arms!<#>\N[17] не может держать оружие без рук!
+\N[18] cannot hold weapons without arms!<#>\N[18] не может держать оружие без рук!
+\N[22] cannot hold weapons without arms!<#>\N[22] не может держать оружие без рук!
+\N[28] cannot hold weapons without arms!<#>\N[28] не может держать оружие без рук!
+\N[29] cannot hold weapons without arms!<#>\N[29] не может держать оружие без рук!
+\N[3] cannot hold weapons without arms!<#>\N[3] не может держать оружие без рук!
 The firearm feels oddly heavy in your hands. You didn't think it\#would feel like this. You realize that you're carrying a tool meant\#for killing and this just adds to the burden.<#>Огнестрельное оружие удивительно тяжело лежит у вас в руках.\#Вы не думали, что оно будет так ощущаться. Вы держите\#инструмент, предназначенный для убийства, и это только\#утяжеляет бремя.
 It's a surreal feeling. Nervously you take a firmer grasp on the\#pistol grip and aim down its iron sights.<#>Ощущается нереально. Нервничая, вы крепче сжимаете\#рукоятку пистолета и смотрите в его механический прицел.
-\N[3] is out of ammo, so she continues unarmed.<#>\D1[3] потратила все боеприпасы и убирает оружие.
-\N[3] cannot hold \c[2]Rifle\c[0] with just one arm!<#>\D1[3] не может держать \c[2]винтовку\c[0] одной рукой!
-\N[3] cannot hold \c[2]Trenchgun\c[0] with just one arm!<#>\D1[3] не может держать \c[2]дробовик\c[0] одной рукой!
-\N[3] cannot hold \c[2]Reaper's rake\c[0] with just one arm!<#>\D1[3] не может держать \c[2]грабли жнеца\c[0] одной рукой!
+\N[3] is out of ammo, so she continues unarmed.<#>\N[3] потратила все боеприпасы и убирает оружие.
+\N[3] cannot hold \c[2]Rifle\c[0] with just one arm!<#>\N[3] не может держать \c[2]винтовку\c[0] одной рукой!
+\N[3] cannot hold \c[2]Trenchgun\c[0] with just one arm!<#>\N[3] не может держать \c[2]дробовик\c[0] одной рукой!
+\N[3] cannot hold \c[2]Reaper's rake\c[0] with just one arm!<#>\N[3] не может держать \c[2]грабли жнеца\c[0] одной рукой!
 The firearm feels unwieldy and a bit clumsy. You've seen soldiers\#carrying one, you've seen movies where people use one. Now it has\#come down to you using one.<#>Оружие кажется громоздким и неудобным.\#Вы видели солдат с оружием в руках, видели, как стреляют в кино.\#Всё свелось к тому, что теперь - ваша очередь.
 It feels surreal that you're carrying a tool meant for killing. You\#don't really like the burden.<#>Держать инструмент, предназначенный для убийства,\#кажется нереальным. Вам не нравится это бремя.
-\N[4] cannot hold weapons without arms!<#>\D1[4] не может держать оружие без рук!
+\N[4] cannot hold weapons without arms!<#>\N[4] не может держать оружие без рук!
 The pistol grip doesn't feel right in your hands. You've used one\#many times before, but still the feeling doesn't go away.<#>Пистолетная рукоятка лежит неудобно в ваших руках. Вы использовали\#его уже много раз, но чувство так и не проходит.
 But under the mysterious circumstances it's best to grasp to any\#straw given to you.<#>Но при текущих обстоятельствах лучше всего хвататься за любую\#предоставленную соломинку.
-\N[4] is out of ammo, so he continues unarmed.<#>\D1[4] потратил все боеприпасы и убирает оружие.
-\N[4] cannot hold \c[2]Mauler\c[0] with just one arm!<#>\D1[4] не может держать \c[2]истязатель\c[0] одной рукой!
-\N[4] cannot hold \c[2]Bayonet\c[0] with just one arm!<#>\D1[4] не может держать \c[2]винтовку со штыком\c[0] одной рукой!
-\N[4] cannot hold \c[2]Rifle\c[0] with just one arm!<#>\D1[4] не может держать \c[2]винтовку\c[0] одной рукой!
-\N[4] cannot hold \c[2]Trenchgun\c[0] with just one arm!<#>\D1[4] не может держать \c[2]дробовик\c[0] одной рукой!
-\N[4] cannot hold \c[2]Reaper's rake\c[0] with just one arm!<#>\D1[4] не может держать \c[2]грабли жнеца\c[0] одной рукой!
-\N[4] cannot hold \c[2]Meat grinder\c[0] with just one arm!<#>\D1[4] не может держать \c[2]мясорубку\c[0] одной рукой!
-\N[4] cannot hold \c[2]Lantern flail\c[0] with just one arm!<#>\D1[4] не может держать \c[2]цепной фонарь\c[0] одной рукой!
-\N[4] cannot hold \c[2]Iron spear\c[0] with just one arm!<#>\D1[4] не может держать \c[2]железное копьё\c[0] одной рукой!
-\N[4] cannot hold \c[2]Sergal spear\c[0] with just one arm!<#>\D1[4] не может держать \c[2]копьё сергала\c[0] одной рукой!
+\N[4] is out of ammo, so he continues unarmed.<#>\N[4] потратил все боеприпасы и убирает оружие.
+\N[4] cannot hold \c[2]Mauler\c[0] with just one arm!<#>\N[4] не может держать \c[2]истязатель\c[0] одной рукой!
+\N[4] cannot hold \c[2]Bayonet\c[0] with just one arm!<#>\N[4] не может держать \c[2]винтовку со штыком\c[0] одной рукой!
+\N[4] cannot hold \c[2]Rifle\c[0] with just one arm!<#>\N[4] не может держать \c[2]винтовку\c[0] одной рукой!
+\N[4] cannot hold \c[2]Trenchgun\c[0] with just one arm!<#>\N[4] не может держать \c[2]дробовик\c[0] одной рукой!
+\N[4] cannot hold \c[2]Reaper's rake\c[0] with just one arm!<#>\N[4] не может держать \c[2]грабли жнеца\c[0] одной рукой!
+\N[4] cannot hold \c[2]Meat grinder\c[0] with just one arm!<#>\N[4] не может держать \c[2]мясорубку\c[0] одной рукой!
+\N[4] cannot hold \c[2]Lantern flail\c[0] with just one arm!<#>\N[4] не может держать \c[2]цепной фонарь\c[0] одной рукой!
+\N[4] cannot hold \c[2]Iron spear\c[0] with just one arm!<#>\N[4] не может держать \c[2]железное копьё\c[0] одной рукой!
+\N[4] cannot hold \c[2]Sergal spear\c[0] with just one arm!<#>\N[4] не может держать \c[2]копьё сергала\c[0] одной рукой!
 You check if the rifle functions well. It does. You remember how as\#a child seeing a firearm created excitement and sense of respect in\#you. But now these things have become mundane.<#>Вы проверяете, работает ли винтовка. Она в хорошем состоянии.\#Вы помните, как в детстве вид огнестрельного оружия вызывал\#у вас волнение и уважение. Теперь оно стало обыденностью.
 You're too used to their presence in the times of war. You figure\#that it is what it is. No use making a big deal out of it.<#>Вы слишком привыкли к существованию огнестрела во время войны.\#Всё так, как есть. Нет смысла раздувать из мухи слона.
 You check if the gun functions well. It does. You remember how as a\#child seeing a firearm created excitement and sense of respect in\#you. But now these things have become mundane.<#>Вы проверяете, работает ли пистолет. Он в хорошем состоянии.\#Вы помните, как в детстве вид огнестрельного оружия вызывал\#у вас волнение и уважение. Теперь оно стало обыденностью.
-\N[5] cannot hold weapons without arms!<#>\D1[5] не может держать оружие без рук!
+\N[5] cannot hold weapons without arms!<#>\N[5] не может держать оружие без рук!
 You examine the pistol. It feels crazy to you that such a small\#apparatus can have such a big impact to the world.<#>Вы изучаете пистолет. Вам кажется безумным, что такая\#маленькая вещь оказывает такое влияние на мир.
 You've seen these things create destruction around the world and\#you've created a great disdain over them over time. Having one in\#this situation however creates a sense of safety.<#>Вы видели, как подобные вещи сеют разрушение по всему миру,\#и со временем вы прониклись к ним презрением. Однако наличие\#оружия в подобной ситуации создаёт чувство безопасности.
 You're not very familiar with one, but you figure that plenty of\#dull-witted people have managed to use one, so why not you?<#>Вы не очень хорошо знакомы с огнестрелом, но полагаете, что им\#пользовались люди и поглупее, так почему же вы не сможете?
-\N[5] is out of ammo, so she continues unarmed.<#>\D1[5] потратила все боеприпасы и убирает оружие.
-\N[5] cannot hold \c[2]Mauler\c[0] with just one arm!<#>\D1[5] не может держать \c[2]истязатель\c[0] одной рукой!
-\N[5] cannot hold \c[2]Bayonet\c[0] with just one arm!<#>\D1[5] не может держать \c[2]винтовку со штыком\c[0] одной рукой!
-\N[5] cannot hold \c[2]Rifle\c[0] with just one arm!<#>\D1[5] не может держать \c[2]винтовку\c[0] одной рукой!
-\N[5] cannot hold \c[2]Trenchgun\c[0] with just one arm!<#>\D1[5] не может держать \c[2]дробовик\c[0] одной рукой!
-\N[5] cannot hold \c[2]Reaper's rake\c[0] with just one arm!<#>\D1[5] не может держать \c[2]грабли жнеца\c[0] одной рукой!
-\N[5] cannot hold \c[2]Meat grinder\c[0] with just one arm!<#>\D1[5] не может держать \c[2]мясорубку\c[0] одной рукой!
-\N[5] cannot hold \c[2]Lantern flail\c[0] with just one arm!<#>\D1[5] не может держать \c[2]цепной фонарь\c[0] одной рукой!
-\N[5] cannot hold \c[2]Iron spear\c[0] with just one arm!<#>\D1[5] не может держать \c[2]железное копьё\c[0] одной рукой!
-\N[5] cannot hold \c[2]Sergal spear\c[0] with just one arm!<#>\D1[5] не может держать \c[2]копьё сергала\c[0] одной рукой!
+\N[5] is out of ammo, so she continues unarmed.<#>\N[5] потратила все боеприпасы и убирает оружие.
+\N[5] cannot hold \c[2]Mauler\c[0] with just one arm!<#>\N[5] не может держать \c[2]истязатель\c[0] одной рукой!
+\N[5] cannot hold \c[2]Bayonet\c[0] with just one arm!<#>\N[5] не может держать \c[2]винтовку со штыком\c[0] одной рукой!
+\N[5] cannot hold \c[2]Rifle\c[0] with just one arm!<#>\N[5] не может держать \c[2]винтовку\c[0] одной рукой!
+\N[5] cannot hold \c[2]Trenchgun\c[0] with just one arm!<#>\N[5] не может держать \c[2]дробовик\c[0] одной рукой!
+\N[5] cannot hold \c[2]Reaper's rake\c[0] with just one arm!<#>\N[5] не может держать \c[2]грабли жнеца\c[0] одной рукой!
+\N[5] cannot hold \c[2]Meat grinder\c[0] with just one arm!<#>\N[5] не может держать \c[2]мясорубку\c[0] одной рукой!
+\N[5] cannot hold \c[2]Lantern flail\c[0] with just one arm!<#>\N[5] не может держать \c[2]цепной фонарь\c[0] одной рукой!
+\N[5] cannot hold \c[2]Iron spear\c[0] with just one arm!<#>\N[5] не может держать \c[2]железное копьё\c[0] одной рукой!
+\N[5] cannot hold \c[2]Sergal spear\c[0] with just one arm!<#>\N[5] не может держать \c[2]копьё сергала\c[0] одной рукой!
 You examine the rifle. It feels crazy to you that such a simple\#apparatus can have such a big impact to the world.<#>Вы проверяете винтовку. Вам кажется безумным то, что такая\#простая вещь оказывает такое влияние на мир.
 You examine the trenchgun. It feels crazy to you that such a simple\#apparatus can have such a big impact to the world.<#>Вы проверяете дробовик. Вам кажется безумным то, что такая\#простая вещь оказывает такое влияние на мир.
 What do you want to smoke?<#>Что вы хотите выкурить?
@@ -243,38 +243,38 @@ What do you want to smoke?<#>Что вы хотите выкурить?
 \c[2]Tobacco\c[0]<#>\c[2]Табак\c[0]
 Nevermind<#>Неважно
 Who will smoke the \c[2]Wild dagga\c[0]?<#>Кто будет курить \c[2]дикую даггу\c[0]?
-GabText \N[1] feels tranquil and good...<#>GabText \D1[1] чувствует себя спокойно и хорошо...
+GabText \N[1] feels tranquil and good...<#>GabText \N[1] чувствует себя спокойно и хорошо...
 GabText Fear seems like such a distant emotion.<#>GabText Страх кажется такой далекой эмоцией.
-GabText \N[3] feels tranquil and good...<#>GabText \D1[3] чувствует себя спокойно и хорошо...
-GabText \N[4] feels tranquil and good...<#>GabText \D1[4] чувствует себя спокойно и хорошо...
-GabText \N[5] feels tranquil and good...<#>GabText \D1[5] чувствует себя спокойно и хорошо...
-GabText \N[6] feels tranquil and good...<#>GabText \D1[6] чувствует себя спокойно и хорошо...
-GabText \N[7] feels tranquil and good...<#>GabText \D1[7] чувствует себя спокойно и хорошо...
-GabText \N[13] feels tranquil and good...<#>GabText \D1[13] чувствует себя спокойно и хорошо...
-GabText \N[14] feels tranquil and good...<#>GabText \D1[14] чувствует себя спокойно и хорошо...
-GabText \N[15] feels tranquil and good...<#>GabText \D1[15] чувствует себя спокойно и хорошо...
-GabText \N[16] feels tranquil and good...<#>GabText \D1[16] чувствует себя спокойно и хорошо...
-GabText \N[17] feels tranquil and good...<#>GabText \D1[17] чувствует себя спокойно и хорошо...
-GabText \N[18] feels tranquil and good...<#>GabText \D1[18] чувствует себя спокойно и хорошо...
-GabText \N[22] feels tranquil and good...<#>GabText \D1[22] чувствует себя спокойно и хорошо...
-GabText \N[28] feels tranquil and good...<#>GabText \D1[28] чувствует себя спокойно и хорошо...
-GabText \N[29] feels tranquil and good...<#>GabText \D1[29] чувствует себя спокойно и хорошо...
+GabText \N[3] feels tranquil and good...<#>GabText \N[3] чувствует себя спокойно и хорошо...
+GabText \N[4] feels tranquil and good...<#>GabText \N[4] чувствует себя спокойно и хорошо...
+GabText \N[5] feels tranquil and good...<#>GabText \N[5] чувствует себя спокойно и хорошо...
+GabText \N[6] feels tranquil and good...<#>GabText \N[6] чувствует себя спокойно и хорошо...
+GabText \N[7] feels tranquil and good...<#>GabText \N[7] чувствует себя спокойно и хорошо...
+GabText \N[13] feels tranquil and good...<#>GabText \N[13] чувствует себя спокойно и хорошо...
+GabText \N[14] feels tranquil and good...<#>GabText \N[14] чувствует себя спокойно и хорошо...
+GabText \N[15] feels tranquil and good...<#>GabText \N[15] чувствует себя спокойно и хорошо...
+GabText \N[16] feels tranquil and good...<#>GabText \N[16] чувствует себя спокойно и хорошо...
+GabText \N[17] feels tranquil and good...<#>GabText \N[17] чувствует себя спокойно и хорошо...
+GabText \N[18] feels tranquil and good...<#>GabText \N[18] чувствует себя спокойно и хорошо...
+GabText \N[22] feels tranquil and good...<#>GabText \N[22] чувствует себя спокойно и хорошо...
+GabText \N[28] feels tranquil and good...<#>GabText \N[28] чувствует себя спокойно и хорошо...
+GabText \N[29] feels tranquil and good...<#>GabText \N[29] чувствует себя спокойно и хорошо...
 Who will smoke the \c[2]Tobacco\c[0]?<#>Кто будет курить \c[2]табак\c[0]?
-GabText Tobacco calms \N[1] a little.<#>GabText \D1[1] немного успокаивается после табака.
-GabText Tobacco calms \N[3] a little.<#>GabText \D1[3] немного успокаивается после табака.
-GabText Tobacco calms \N[4] a little.<#>GabText \D1[4] немного успокаивается после табака.
-GabText Tobacco calms \N[5] a little.<#>GabText \D1[5] немного успокаивается после табака.
-GabText Tobacco calms \N[6] a little.<#>GabText \D1[6] немного успокаивается после табака.
-GabText Tobacco calms \N[7] a little.<#>GabText \D1[7] немного успокаивается после табака.
-GabText Tobacco calms \N[13] a little.<#>GabText \D1[13] немного успокаивается после табака.
-GabText Tobacco calms \N[14] a little.<#>GabText \D1[14] немного успокаивается после табака.
-GabText Tobacco calms \N[15] a little.<#>GabText \D1[15] немного успокаивается после табака.
-GabText Tobacco calms \N[16] a little.<#>GabText \D1[16] немного успокаивается после табака.
-GabText Tobacco calms \N[17] a little.<#>GabText \D1[17] немного успокаивается после табака.
-GabText Tobacco calms \N[18] a little.<#>GabText \D1[18] немного успокаивается после табака.
-GabText Tobacco calms \N[22] a little.<#>GabText \D1[22] немного успокаивается после табака.
-GabText Tobacco calms \N[28] a little.<#>GabText \D1[28] немного успокаивается после табака.
-GabText Tobacco calms \N[29] a little.<#>GabText \D1[29] немного успокаивается после табака.
+GabText Tobacco calms \N[1] a little.<#>GabText \N[1] немного успокаивается после табака.
+GabText Tobacco calms \N[3] a little.<#>GabText \N[3] немного успокаивается после табака.
+GabText Tobacco calms \N[4] a little.<#>GabText \N[4] немного успокаивается после табака.
+GabText Tobacco calms \N[5] a little.<#>GabText \N[5] немного успокаивается после табака.
+GabText Tobacco calms \N[6] a little.<#>GabText \N[6] немного успокаивается после табака.
+GabText Tobacco calms \N[7] a little.<#>GabText \N[7] немного успокаивается после табака.
+GabText Tobacco calms \N[13] a little.<#>GabText \N[13] немного успокаивается после табака.
+GabText Tobacco calms \N[14] a little.<#>GabText \N[14] немного успокаивается после табака.
+GabText Tobacco calms \N[15] a little.<#>GabText \N[15] немного успокаивается после табака.
+GabText Tobacco calms \N[16] a little.<#>GabText \N[16] немного успокаивается после табака.
+GabText Tobacco calms \N[17] a little.<#>GabText \N[17] немного успокаивается после табака.
+GabText Tobacco calms \N[18] a little.<#>GabText \N[18] немного успокаивается после табака.
+GabText Tobacco calms \N[22] a little.<#>GabText \N[22] немного успокаивается после табака.
+GabText Tobacco calms \N[28] a little.<#>GabText \N[28] немного успокаивается после табака.
+GabText Tobacco calms \N[29] a little.<#>GabText \N[29] немного успокаивается после табака.
 Smoke \c[2]Wild dagga\c[0]?<#>Выкурить \c[2]дикую даггу\c[0]?
 Smoke \c[2]Tobacco\c[0]?<#>Выкурить \c[2]табак\c[0]?
 Unfortunately you have nothing to smoke with the pipe...<#>К сожалению, вам нечего курить...
@@ -427,88 +427,88 @@ GabText You can feel someone or something following you...<#>GabText Вы чув
 GabText It's as if someone is staring at you from distance...<#>GabText Как будто на вас кто-то смотрит издалека...
 GabText Did something just move in the corner of your eye?<#>GabText Что-то только что шевельнулось в периферии?
 GabText You have an ominous feeling about this place...<#>GabText У вас зловещее предчувствие относительно этого места...
-GabText \N[3] is starting to feel hungry...<#>GabText \D1[3] начинает чувствовать голод...
-GabText \N[3] is weak from hunger.<#>GabText \D1[3] слаба от голода.
-GabText \N[3] is ill from hunger.<#>GabText \D1[3] больна от голода.
-GabText Hunger is driving \N[3] mad.<#>GabText \D1[3] сходит с ума от голода.
+GabText \N[3] is starting to feel hungry...<#>GabText \N[3] начинает чувствовать голод...
+GabText \N[3] is weak from hunger.<#>GabText \N[3] слаба от голода.
+GabText \N[3] is ill from hunger.<#>GabText \N[3] больна от голода.
+GabText Hunger is driving \N[3] mad.<#>GabText \N[3] сходит с ума от голода.
 GabText Hunger is crippling \N[3].<#>GabText Голод калечит \D4[3].
-GabText \N[3] is blind from hunger.<#>GabText \D1[3] ослепла от голода.
-GabText \N[3] feels dizzy...<#>GabText \D1[3] чувствует головокружение...
-GabText \N[1] is starting to feel hungry...<#>GabText \D1[1] начинает чувствовать голод...
-GabText \N[1] is weak from hunger.<#>GabText \D1[1] слаб от голода.
-GabText \N[1] is ill from hunger.<#>GabText \D1[1] болен от голода.
-GabText Hunger is driving \N[1] mad.<#>GabText \D1[1] сходит с ума от голода.
-GabText Hunger is crippling \N[1].<#>GabText Голод калечит \D1[1].
-GabText \N[1] is blind from hunger.<#>GabText \D1[1] ослеп от голода.
-GabText \N[1] feels dizzy...<#>GabText \D1[1] чувствует головокружение...
-GabText \N[4] is starting to feel hungry...<#>GabText \D1[4] начинает чувствовать голод...
-GabText \N[4] is weak from hunger.<#>GabText \D1[4] слаб от голода.
-GabText \N[4] is ill from hunger.<#>GabText \D1[4] болен от голода.
-GabText Hunger is driving \N[4] mad.<#>GabText \D1[4] сходит с ума от голода.
+GabText \N[3] is blind from hunger.<#>GabText \N[3] ослепла от голода.
+GabText \N[3] feels dizzy...<#>GabText \N[3] чувствует головокружение...
+GabText \N[1] is starting to feel hungry...<#>GabText \N[1] начинает чувствовать голод...
+GabText \N[1] is weak from hunger.<#>GabText \N[1] слаб от голода.
+GabText \N[1] is ill from hunger.<#>GabText \N[1] болен от голода.
+GabText Hunger is driving \N[1] mad.<#>GabText \N[1] сходит с ума от голода.
+GabText Hunger is crippling \N[1].<#>GabText Голод калечит \N[1].
+GabText \N[1] is blind from hunger.<#>GabText \N[1] ослеп от голода.
+GabText \N[1] feels dizzy...<#>GabText \N[1] чувствует головокружение...
+GabText \N[4] is starting to feel hungry...<#>GabText \N[4] начинает чувствовать голод...
+GabText \N[4] is weak from hunger.<#>GabText \N[4] слаб от голода.
+GabText \N[4] is ill from hunger.<#>GabText \N[4] болен от голода.
+GabText Hunger is driving \N[4] mad.<#>GabText \N[4] сходит с ума от голода.
 GabText Hunger is crippling \N[4].<#>GabText Голод калечит \D4[4].
-GabText \N[4] is blind from hunger.<#>GabText \D1[4] ослеп от голода.
-GabText \N[4] feels dizzy...<#>GabText \D1[4] чувствует головокружение...
-GabText \N[5] is starting to feel hungry...<#>GabText \D1[5] начинает чувствовать голод...
-GabText \N[5] is weak from hunger.<#>GabText \D1[5] слаба от голода.
-GabText \N[5] is ill from hunger.<#>GabText \D1[5] больна от голода.
-GabText Hunger is driving \N[5] mad.<#>GabText \D1[5] сходит с ума от голода.
+GabText \N[4] is blind from hunger.<#>GabText \N[4] ослеп от голода.
+GabText \N[4] feels dizzy...<#>GabText \N[4] чувствует головокружение...
+GabText \N[5] is starting to feel hungry...<#>GabText \N[5] начинает чувствовать голод...
+GabText \N[5] is weak from hunger.<#>GabText \N[5] слаба от голода.
+GabText \N[5] is ill from hunger.<#>GabText \N[5] больна от голода.
+GabText Hunger is driving \N[5] mad.<#>GabText \N[5] сходит с ума от голода.
 GabText Hunger is crippling \N[5].<#>GabText Голод калечит \D4[5].
-GabText \N[5] is blind from hunger.<#>GabText \D1[5] ослепла от голода.
-GabText \N[5] feels dizzy...<#>GabText \D1[5] чувствует головокружение...
-GabText \N[6] is starting to feel hungry...<#>GabText \D1[6] начинает чувствовать голод...
-GabText \N[6] is weak from hunger.<#>GabText \D1[6] слаб от голода.
-GabText \N[6] is ill from hunger.<#>GabText \D1[6] болен от голода.
-GabText Hunger is driving \N[6] mad.<#>GabText \D1[6] сходит с ума от голода.
-GabText Hunger is crippling \N[6].<#>GabText \D1[6] покалечен голодом.
-GabText \N[6] is blind from hunger.<#>GabText \D1[6] ослеп от голода.
-GabText \N[6] feels dizzy...<#>GabText \D1[6] чувствует головокружение...
-GabText \N[7] is starting to feel hungry...<#>GabText \D1[7] начинает чувствовать голод...
-GabText \N[7] is weak from hunger.<#>GabText \D1[7] слаб от голода.
-GabText \N[7] is ill from hunger.<#>GabText \D1[7] болен от голода.
-GabText Hunger is driving \N[7] mad.<#>GabText \D1[7] сходит с ума от голода.
+GabText \N[5] is blind from hunger.<#>GabText \N[5] ослепла от голода.
+GabText \N[5] feels dizzy...<#>GabText \N[5] чувствует головокружение...
+GabText \N[6] is starting to feel hungry...<#>GabText \N[6] начинает чувствовать голод...
+GabText \N[6] is weak from hunger.<#>GabText \N[6] слаб от голода.
+GabText \N[6] is ill from hunger.<#>GabText \N[6] болен от голода.
+GabText Hunger is driving \N[6] mad.<#>GabText \N[6] сходит с ума от голода.
+GabText Hunger is crippling \N[6].<#>GabText \N[6] покалечен голодом.
+GabText \N[6] is blind from hunger.<#>GabText \N[6] ослеп от голода.
+GabText \N[6] feels dizzy...<#>GabText \N[6] чувствует головокружение...
+GabText \N[7] is starting to feel hungry...<#>GabText \N[7] начинает чувствовать голод...
+GabText \N[7] is weak from hunger.<#>GabText \N[7] слаб от голода.
+GabText \N[7] is ill from hunger.<#>GabText \N[7] болен от голода.
+GabText Hunger is driving \N[7] mad.<#>GabText \N[7] сходит с ума от голода.
 GabText Hunger is crippling \N[7].<#>GabText Голод калечит \D4[7].
-GabText \N[7] is blind from hunger.<#>GabText \D1[7] ослеп от голода.
-GabText \N[7] feels dizzy...<#>GabText \D1[7] чувствует головокружение...
-GabText \N[16] is starting to feel hungry...<#>GabText \D1[16] начинает чувствовать голод...
-GabText \N[16] is weak from hunger.<#>GabText \D1[16] слаб от голода.
-GabText \N[16] is ill from hunger.<#>GabText \D1[16] болен от голода.
-GabText Hunger is driving \N[16] mad.<#>GabText \D1[16] сходит с ума от голода.
+GabText \N[7] is blind from hunger.<#>GabText \N[7] ослеп от голода.
+GabText \N[7] feels dizzy...<#>GabText \N[7] чувствует головокружение...
+GabText \N[16] is starting to feel hungry...<#>GabText \N[16] начинает чувствовать голод...
+GabText \N[16] is weak from hunger.<#>GabText \N[16] слаб от голода.
+GabText \N[16] is ill from hunger.<#>GabText \N[16] болен от голода.
+GabText Hunger is driving \N[16] mad.<#>GabText \N[16] сходит с ума от голода.
 GabText Hunger is crippling \N[16].<#>GabText Голод калечит \D4[16].
-GabText \N[16] is blind from hunger.<#>GabText \D1[16] ослеп от голода.
-GabText \N[16] feels dizzy...<#>GabText \D1[16] чувствует головокружение...
-GabText \N[17] is starting to feel hungry...<#>GabText \D1[17] начинает чувствовать голод...
-GabText \N[17] is weak from hunger.<#>GabText \D1[17] слаб от голода.
-GabText \N[17] is ill from hunger.<#>GabText \D1[17] болен от голода.
-GabText Hunger is driving \N[17] mad.<#>GabText \D1[17] сходит с ума от голода.
+GabText \N[16] is blind from hunger.<#>GabText \N[16] ослеп от голода.
+GabText \N[16] feels dizzy...<#>GabText \N[16] чувствует головокружение...
+GabText \N[17] is starting to feel hungry...<#>GabText \N[17] начинает чувствовать голод...
+GabText \N[17] is weak from hunger.<#>GabText \N[17] слаб от голода.
+GabText \N[17] is ill from hunger.<#>GabText \N[17] болен от голода.
+GabText Hunger is driving \N[17] mad.<#>GabText \N[17] сходит с ума от голода.
 GabText Hunger is crippling \N[17].<#>GabText Голод калечит \D4[17].
-GabText \N[17] is blind from hunger.<#>GabText \D1[17] ослеп от голода.
-GabText \N[17] feels dizzy...<#>GabText \D1[17] чувствует головокружение...
-GabText \N[18] is starting to feel hungry...<#>GabText \D1[18] начинает чувствовать голод...
-GabText \N[18] is weak from hunger.<#>GabText \D1[18] слаб от голода.
-GabText \N[18] is ill from hunger.<#>GabText \D1[18] болен от голода.
-GabText Hunger is driving \N[18] mad.<#>GabText \D1[18] сходит с ума от голода.
+GabText \N[17] is blind from hunger.<#>GabText \N[17] ослеп от голода.
+GabText \N[17] feels dizzy...<#>GabText \N[17] чувствует головокружение...
+GabText \N[18] is starting to feel hungry...<#>GabText \N[18] начинает чувствовать голод...
+GabText \N[18] is weak from hunger.<#>GabText \N[18] слаб от голода.
+GabText \N[18] is ill from hunger.<#>GabText \N[18] болен от голода.
+GabText Hunger is driving \N[18] mad.<#>GabText \N[18] сходит с ума от голода.
 GabText Hunger is crippling \N[18].<#>GabText Голод калечит \D4[18].
-GabText \N[18] is blind from hunger.<#>GabText \D1[18] ослеп от голода.
-GabText \N[18] feels dizzy...<#>GabText \D1[18] чувствует головокружение...
+GabText \N[18] is blind from hunger.<#>GabText \N[18] ослеп от голода.
+GabText \N[18] feels dizzy...<#>GabText \N[18] чувствует головокружение...
 "The book of fears and phobias."<#>«Книга страхов и фобий.»
 "Nosophobia - Fear of disease and contamination\#Phasmophobia - Fear of ghosts and ghastly figures\#Rhabdophobia - Fear of magic and otherworldly powers."<#>«Нозофобия - боязнь болезней и заражения\#Фазмофобия - боязнь призраков и призрачных фигур\#Рабдофобия - боязнь магии и потусторонних сил.»
 "Erotophobia - Fear of sex and genitals\#Zoophobia - Fear of animals and beasts\#Teratophobia - Fear of monsters and malformations."<#>«Эротофобия - боязнь секса и гениталий\#Зоофобия - боязнь животных и зверей\#Тератофобия - боязнь монстров и уродств.»
-GabText \N[1] is at the edge of his sanity...<#>GabText \D1[1] находится на грани своего рассудка...
-GabText \N[1] has formed a panophobia. A fear of everything.<#>GabText \D1[1] развивает панофобию. Страх всего на свете.
-GabText \N[3] is at the edge of her sanity...<#>GabText \D1[3] находится на грани своего рассудка...
-GabText \N[3] has formed a panophobia. A fear of everything.<#>GabText \D1[3] развивает панофобию. Страх всего на свете.
-GabText \N[4] is at the edge of his sanity...<#>GabText \D1[4] находится на грани своего рассудка...
-GabText \N[4] has formed a panophobia. A fear of everything.<#>GabText \D1[4] развивает панофобию. Страх всего на свете.
-GabText \N[5] is at the edge of her sanity...<#>GabText \D1[5] находится на грани своего рассудка...
-GabText \N[5] has formed a panophobia. A fear of everything.<#>GabText \D1[5] развивает панофобию. Страх всего на свете.
-GabText \N[6] is at the edge of his sanity...<#>GabText \D1[6] находится на грани своего рассудка...
-GabText \N[6] has formed a panophobia. A fear of everything.<#>GabText \D1[6] развивает панофобию. Страх всего на свете.
-GabText \N[15] is at the edge of her sanity...<#>GabText \D1[15] находится на грани своего рассудка...
-GabText \N[15] has formed a panophobia. A fear of everything.<#>GabText \D1[15] развивает панофобию. Страх всего на свете.
-GabText \N[14] is at the edge of her sanity...<#>GabText \D1[14] находится на грани своего рассудка...
-GabText \N[14] has formed a panophobia. A fear of everything.<#>GabText \D1[14] развивает панофобию. Страх всего на свете.
-GabText \N[13] is at the edge of his sanity...<#>GabText \D1[13] находится на грани своего рассудка...
-GabText \N[13] has formed a panophobia. A fear of everything.<#>GabText \D1[13] развивает панофобию. Страх всего на свете.
+GabText \N[1] is at the edge of his sanity...<#>GabText \N[1] находится на грани своего рассудка...
+GabText \N[1] has formed a panophobia. A fear of everything.<#>GabText \N[1] развивает панофобию. Страх всего на свете.
+GabText \N[3] is at the edge of her sanity...<#>GabText \N[3] находится на грани своего рассудка...
+GabText \N[3] has formed a panophobia. A fear of everything.<#>GabText \N[3] развивает панофобию. Страх всего на свете.
+GabText \N[4] is at the edge of his sanity...<#>GabText \N[4] находится на грани своего рассудка...
+GabText \N[4] has formed a panophobia. A fear of everything.<#>GabText \N[4] развивает панофобию. Страх всего на свете.
+GabText \N[5] is at the edge of her sanity...<#>GabText \N[5] находится на грани своего рассудка...
+GabText \N[5] has formed a panophobia. A fear of everything.<#>GabText \N[5] развивает панофобию. Страх всего на свете.
+GabText \N[6] is at the edge of his sanity...<#>GabText \N[6] находится на грани своего рассудка...
+GabText \N[6] has formed a panophobia. A fear of everything.<#>GabText \N[6] развивает панофобию. Страх всего на свете.
+GabText \N[15] is at the edge of her sanity...<#>GabText \N[15] находится на грани своего рассудка...
+GabText \N[15] has formed a panophobia. A fear of everything.<#>GabText \N[15] развивает панофобию. Страх всего на свете.
+GabText \N[14] is at the edge of her sanity...<#>GabText \N[14] находится на грани своего рассудка...
+GabText \N[14] has formed a panophobia. A fear of everything.<#>GabText \N[14] развивает панофобию. Страх всего на свете.
+GabText \N[13] is at the edge of his sanity...<#>GabText \N[13] находится на грани своего рассудка...
+GabText \N[13] has formed a panophobia. A fear of everything.<#>GabText \N[13] развивает панофобию. Страх всего на свете.
 GabText The potion causes burning sensation the moment it is drank.<#>GabText Зелье жжёт, когда вы его пьёте.
 "The Basics of Alchemy - Alchemillia vol.1"<#>«Основы Алхимии - Алхемилия, том 1»
 "The effects of different herbs and plants are listed here:"<#>«В этой книге перечислены эффекты различных трав и растений:»
@@ -526,316 +526,316 @@ GabText The potion causes burning sensation the moment it is drank.<#>GabText З
 "Symptoms - Effects:\#\i[17] - Irritation\#\i[137] - Burn\#\i[119] - Temporary paralysis"<#>«Симптомы - последствия:\#\i[17] - Раздражение\#\i[137] - Ожог\#\i[119] - Временный паралич»
 "Symptoms - Effects:\#\i[147]-\i[151] - Different stages of hunger\#\i[131]-\i[135] - Different stages of fear"<#>«Симптомы - последствия:\#\i[147]-\i[151] - Различные стадии голода\#\i[131]-\i[135] - Различные стадии страха»
 "This book by no means covers everything under the sun and\#stars and thus it should only be used as a reference.<#>«Книга ни в коем случае не охватывает все возможные болезни и\#рекомендуется для использования лишь в качестве справочной\#информации.»
-What do you want to saw off from \N[1]?<#>Что вы хотите отпилить у \D1[1]?
+What do you want to saw off from \N[1]?<#>Что вы хотите отпилить у \N[1]?
 Saw off an arm<#>Отпилить руку
 Saw off a leg<#>Отпилить ногу
-Unfortunately \N[1] has no arms left to saw.<#>К сожалению, \D1[1] не имеет рук, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[1]'s other\#arm and he cannot do it himself.<#>К сожалению, некому отпилить вторую руку, и \D1[1] не может\#сделать это сам.
-Unfortunately \N[1] has no legs left to saw.<#>К сожалению, \D1[1] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[1]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \D1[1] не может\#сделать это сам.
+Unfortunately \N[1] has no arms left to saw.<#>К сожалению, \N[1] не имеет рук, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[1]'s other\#arm and he cannot do it himself.<#>К сожалению, некому отпилить вторую руку, и \N[1] не может\#сделать это сам.
+Unfortunately \N[1] has no legs left to saw.<#>К сожалению, \N[1] не имеет ног, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[1]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \N[1] не может\#сделать это сам.
 What do you want to saw off from \N[5]?<#>Что вы хотите отпилить у \D2[5]?
-Unfortunately \N[5] has no arms left to saw.<#>К сожалению, \D1[5] не имеет рук, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[5]'s other\#arm and she cannot do it herself.<#>К сожалению, некому отпилить вторую руку, и \D1[5] не может\#сделать это сама.
-Unfortunately \N[5] has no legs left to saw.<#>К сожалению, \D1[5] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[5]'s legs\#and she cannot do it herself.<#>К сожалению, некому отпилить ноги, и \D1[5] не может\#сделать это сама.
+Unfortunately \N[5] has no arms left to saw.<#>К сожалению, \N[5] не имеет рук, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[5]'s other\#arm and she cannot do it herself.<#>К сожалению, некому отпилить вторую руку, и \N[5] не может\#сделать это сама.
+Unfortunately \N[5] has no legs left to saw.<#>К сожалению, \N[5] не имеет ног, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[5]'s legs\#and she cannot do it herself.<#>К сожалению, некому отпилить ноги, и \N[5] не может\#сделать это сама.
 What do you want to saw off from \N[3]?<#>Что вы хотите отпилить у \D2[3]?
-Unfortunately \N[3] has no arms left to saw.<#>К сожалению, \D1[3] не имеет рук, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[3]'s other\#arm and she cannot do it herself.<#>К сожалению, некому отпилить вторую руку, и \D1[3] не может\#сделать это сама.
-Unfortunately \N[3] has no legs left to saw.<#>К сожалению, \D1[3] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[3]'s legs\#and she cannot do it herself.<#>К сожалению, некому отпилить ноги, и \D1[3] не может\#сделать это сама.
+Unfortunately \N[3] has no arms left to saw.<#>К сожалению, \N[3] не имеет рук, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[3]'s other\#arm and she cannot do it herself.<#>К сожалению, некому отпилить вторую руку, и \N[3] не может\#сделать это сама.
+Unfortunately \N[3] has no legs left to saw.<#>К сожалению, \N[3] не имеет ног, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[3]'s legs\#and she cannot do it herself.<#>К сожалению, некому отпилить ноги, и \N[3] не может\#сделать это сама.
 What do you want to saw off from \N[22]?<#>Что вы хотите отпилить у \D2[22]?
-Unfortunately \N[22] has no arms left to saw.<#>К сожалению, \D1[22] не имеет рук, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[22]'s arm\#and he cannot do it himself.<#>К сожалению, некому отпилить руку, и \D1[22] не может\#сделать это сам.
-Unfortunately \N[22] has no legs left to saw.<#>К сожалению, \D1[22] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[22]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \D1[22] не может\#сделать это сам.
+Unfortunately \N[22] has no arms left to saw.<#>К сожалению, \N[22] не имеет рук, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[22]'s arm\#and he cannot do it himself.<#>К сожалению, некому отпилить руку, и \N[22] не может\#сделать это сам.
+Unfortunately \N[22] has no legs left to saw.<#>К сожалению, \N[22] не имеет ног, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[22]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \N[22] не может\#сделать это сам.
 What do you want to saw off from \N[28]?<#>Что вы хотите отпилить у \D2[28]?
-Unfortunately \N[28] has no arms left to saw.<#>К сожалению, \D1[28] не имеет рук, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[28]'s arm\#and he cannot do it himself.<#>К сожалению, некому отпилить руку, и \D1[28] не может\#сделать это сам.
-Unfortunately \N[28] has no legs left to saw.<#>К сожалению, \D1[28] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[28]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \D1[28] не может\#сделать это сам.
+Unfortunately \N[28] has no arms left to saw.<#>К сожалению, \N[28] не имеет рук, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[28]'s arm\#and he cannot do it himself.<#>К сожалению, некому отпилить руку, и \N[28] не может\#сделать это сам.
+Unfortunately \N[28] has no legs left to saw.<#>К сожалению, \N[28] не имеет ног, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[28]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \N[28] не может\#сделать это сам.
 What do you want to saw off from \N[29]?<#>Что вы хотите отпилить у \D2[29]?
-Unfortunately \N[29] has no arms left to saw.<#>К сожалению, \D1[29] не имеет рук, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[29]'s arm\#and he cannot do it himself.<#>К сожалению, некому отпилить руку, и \D1[29] не может\#сделать это сам.
-Unfortunately \N[29] has no legs left to saw.<#>К сожалению, \D1[29] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[29]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \D1[29] не может\#сделать это сам.
+Unfortunately \N[29] has no arms left to saw.<#>К сожалению, \N[29] не имеет рук, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[29]'s arm\#and he cannot do it himself.<#>К сожалению, некому отпилить руку, и \N[29] не может\#сделать это сам.
+Unfortunately \N[29] has no legs left to saw.<#>К сожалению, \N[29] не имеет ног, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[29]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \N[29] не может\#сделать это сам.
 What do you want to saw off from \N[16]?<#>Что вы хотите отпилить у гуля?
-Unfortunately \N[16] has no arms left to saw.<#>К сожалению, \D1[16] не имеет рук, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[16]'s arm\#and he cannot do it himself.<#>К сожалению, некому отпилить руку, и \D1[16] не может\#сделать это сам.
-Unfortunately \N[16] has no legs left to saw.<#>К сожалению, \D1[16] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[16]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \D1[16] не может\#сделать это сам.
+Unfortunately \N[16] has no arms left to saw.<#>К сожалению, \N[16] не имеет рук, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[16]'s arm\#and he cannot do it himself.<#>К сожалению, некому отпилить руку, и \N[16] не может\#сделать это сам.
+Unfortunately \N[16] has no legs left to saw.<#>К сожалению, \N[16] не имеет ног, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[16]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \N[16] не может\#сделать это сам.
 What do you want to saw off from \N[17]?<#>Что вы хотите отпилить у гуля?
-Unfortunately \N[17] has no arms left to saw.<#>К сожалению, \D1[17] не имеет рук, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[17]'s arm\#and he cannot do it himself.<#>К сожалению, некому отпилить руку, и \D1[17] не может\#сделать это сам.
-Unfortunately \N[17] has no legs left to saw.<#>К сожалению, \D1[17] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[17]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \D1[17] не может\#сделать это сам.
+Unfortunately \N[17] has no arms left to saw.<#>К сожалению, \N[17] не имеет рук, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[17]'s arm\#and he cannot do it himself.<#>К сожалению, некому отпилить руку, и \N[17] не может\#сделать это сам.
+Unfortunately \N[17] has no legs left to saw.<#>К сожалению, \N[17] не имеет ног, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[17]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \N[17] не может\#сделать это сам.
 What do you want to saw off from \N[18]?<#>Что вы хотите отпилить у гуля?
-Unfortunately \N[18] has no arms left to saw.<#>К сожалению, \D1[18] не имеет рук, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[18]'s arm\#and he cannot do it himself.<#>К сожалению, некому отпилить руку, и \D1[18] не может\#сделать это сам.
-Unfortunately \N[18] has no legs left to saw.<#>К сожалению, \D1[18] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[18]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \D1[18] не может\#сделать это сам.
+Unfortunately \N[18] has no arms left to saw.<#>К сожалению, \N[18] не имеет рук, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[18]'s arm\#and he cannot do it himself.<#>К сожалению, некому отпилить руку, и \N[18] не может\#сделать это сам.
+Unfortunately \N[18] has no legs left to saw.<#>К сожалению, \N[18] не имеет ног, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[18]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \N[18] не может\#сделать это сам.
 What do you want to saw off from \N[4]?<#>Что вы хотите отпилить у \D2[4]?
-Unfortunately \N[4] has no arms left to saw.<#>К сожалению, \D1[4] не имеет рук, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[4]'s other\#arm and he cannot do it himself.<#>К сожалению, некому отпилить вторую руку, и \D1[4] не может\#сделать это сам.
-Unfortunately \N[4] has no legs left to saw.<#>К сожалению, \D1[4] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[4]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \D1[4] не может\#сделать это сам.
-What do you want to saw off from \N[6]?<#>Что вы хотите отпилить у \D1[6]?
-Unfortunately \N[6] has no arms left to saw.<#>К сожалению, \D1[6] не имеет рук, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[6]'s other\#arm and he cannot do it himself.<#>К сожалению, некому отпилить вторую руку, и \D1[6] не может\#сделать это сам.
-Unfortunately \N[6] has no legs left to saw.<#>К сожалению, \D1[6] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[6]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \D1[6] не может\#сделать это сам.
+Unfortunately \N[4] has no arms left to saw.<#>К сожалению, \N[4] не имеет рук, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[4]'s other\#arm and he cannot do it himself.<#>К сожалению, некому отпилить вторую руку, и \N[4] не может\#сделать это сам.
+Unfortunately \N[4] has no legs left to saw.<#>К сожалению, \N[4] не имеет ног, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[4]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \N[4] не может\#сделать это сам.
+What do you want to saw off from \N[6]?<#>Что вы хотите отпилить у \N[6]?
+Unfortunately \N[6] has no arms left to saw.<#>К сожалению, \N[6] не имеет рук, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[6]'s other\#arm and he cannot do it himself.<#>К сожалению, некому отпилить вторую руку, и \N[6] не может\#сделать это сам.
+Unfortunately \N[6] has no legs left to saw.<#>К сожалению, \N[6] не имеет ног, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[6]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \N[6] не может\#сделать это сам.
 What do you want to saw off from \N[15]?<#>Что вы хотите отпилить у \D2[15]?
-Unfortunately \N[15] has no arms left to saw.<#>К сожалению, \D1[15] не имеет рук, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[15]'s other\#arm and she cannot do it herself.<#>К сожалению, некому отпилить вторую руку, и \D1[15] не может\#сделать это сама.
-Unfortunately \N[15] has no legs left to saw.<#>К сожалению, \D1[15] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[15]'s legs\#and she cannot do it herself.<#>К сожалению, некому отпилить ноги, и \D1[15] не может\#сделать это сама.
-What do you want to saw off from \N[13]?<#>Что вы хотите отпилить у \D1[13]?
-Unfortunately \N[13] has no arms left to saw.<#>К сожалению, \D1[13] не имеет рук, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[13]'s other\#arm and he cannot do it himself.<#>К сожалению, некому отпилить вторую руку, и \D1[13] не может\#сделать это сам.
-Unfortunately \N[13] has no legs left to saw.<#>К сожалению, \D1[13] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[13]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \D1[13] не может\#сделать это сам.
+Unfortunately \N[15] has no arms left to saw.<#>К сожалению, \N[15] не имеет рук, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[15]'s other\#arm and she cannot do it herself.<#>К сожалению, некому отпилить вторую руку, и \N[15] не может\#сделать это сама.
+Unfortunately \N[15] has no legs left to saw.<#>К сожалению, \N[15] не имеет ног, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[15]'s legs\#and she cannot do it herself.<#>К сожалению, некому отпилить ноги, и \N[15] не может\#сделать это сама.
+What do you want to saw off from \N[13]?<#>Что вы хотите отпилить у \N[13]?
+Unfortunately \N[13] has no arms left to saw.<#>К сожалению, \N[13] не имеет рук, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[13]'s other\#arm and he cannot do it himself.<#>К сожалению, некому отпилить вторую руку, и \N[13] не может\#сделать это сам.
+Unfortunately \N[13] has no legs left to saw.<#>К сожалению, \N[13] не имеет ног, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[13]'s legs\#and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \N[13] не может\#сделать это сам.
 What do you want to saw off from \N[7]?<#>Что вы хотите отпилить у \D2[7]?
 Saw off a paw<#>Отпилить ногу
-Unfortunately \N[7] has no paws left to saw.<#>К сожалению, \D1[7] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[7]'s\#hoofs and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \D1[7] не может\#сделать это сам.
-What do you want to saw off from \N[14]?<#>Что вы хотите отпилить у \D1[14]?
-Unfortunately \N[14] has no arms left to saw.<#>К сожалению, \D1[14] не имеет рук, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[14]'s other\#arm and she cannot do it herself.<#>К сожалению, некому отпилить вторую руку, и \D1[14] не может\#сделать это сама.
-Unfortunately \N[14] has no legs left to saw.<#>К сожалению, \D1[14] не имеет ног, которые можно было\#бы отпилить.
-Unfortunately there is no one to saw off \N[14]'s legs\#and she cannot do it herself.<#>К сожалению, некому отпилить ноги, и \D1[14] не может\#сделать это сама.
+Unfortunately \N[7] has no paws left to saw.<#>К сожалению, \N[7] не имеет ног, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[7]'s\#hoofs and he cannot do it himself.<#>К сожалению, некому отпилить ноги, и \N[7] не может\#сделать это сам.
+What do you want to saw off from \N[14]?<#>Что вы хотите отпилить у \N[14]?
+Unfortunately \N[14] has no arms left to saw.<#>К сожалению, \N[14] не имеет рук, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[14]'s other\#arm and she cannot do it herself.<#>К сожалению, некому отпилить вторую руку, и \N[14] не может\#сделать это сама.
+Unfortunately \N[14] has no legs left to saw.<#>К сожалению, \N[14] не имеет ног, которые можно было\#бы отпилить.
+Unfortunately there is no one to saw off \N[14]'s legs\#and she cannot do it herself.<#>К сожалению, некому отпилить ноги, и \N[14] не может\#сделать это сама.
 You find \c[2]Alchemillia vol. 1\c[0]!<#>Вы нашли \c[2]Алхемилию, том 1\c[0]!
 You find \c[2]Alchemillia vol. 2\c[0]!<#>Вы нашли \c[2]Алхемилию, том 2\c[0]!
 You find \c[2]Alchemillia vol. 3\c[0]!<#>Вы нашли \c[2]Алхемилию, том 3\c[0]!
 You find a \c[2]Anathomia\c[0]!<#>Вы нашли \c[2]Анатомию\c[0]!
-\N[1] assists in this task.<#>\D1[1] помогает в выполнении этой задачи.
+\N[1] assists in this task.<#>\N[1] помогает в выполнении этой задачи.
 \>\i[75]\}EVI\{\<\#"... I... I can do it. Just hold still..."<#>\>\}\i[377]ЕВИ\{\<\#«...Я... Я могу это сделать. Только не дёргайся...»
-\N[3] assists in this task.<#>\D1[3] помогает в выполнении этой задачи.
+\N[3] assists in this task.<#>\N[3] помогает в выполнении этой задачи.
 \>\i[76]\}ARINA\{\<\#"If there's no one else... I guess it'll have to be me. I'll help\#out..."<#>\>\}\i[378]АРИНА\{\<\#«Если больше никого нет... Думаю, придётся мне. Я помогу...»
-\N[4] assists in this task.<#>\D1[4] помогает в выполнении этой задачи.
+\N[4] assists in this task.<#>\N[4] помогает в выполнении этой задачи.
 \>\i[67]\}AAN\{\<\#"I'm not going to lie - This'll hurt. But don't worry, I've done\#this plenty of times before..."<#>\>\}\i[372]ААН\{\<\#«Не буду лгать - будет больно. Но не волнуйся, я часто\#занимался таким раньше...»
-\N[5] assists in this task.<#>\D1[5] помогает в выполнении этой задачи.
+\N[5] assists in this task.<#>\N[5] помогает в выполнении этой задачи.
 \>\i[64]\}BELLA\{\<\#"No use delaying the inevitable. We have to do this."<#>\>\}\i[368]БЕЛЛА\{\<\#«Нет смысла откладывать неизбежное. Мы должны сделать это.»
-\N[6] assists in this task.<#>\D1[6] помогает в выполнении этой задачи.
+\N[6] assists in this task.<#>\N[6] помогает в выполнении этой задачи.
 \>\i[78]\}'SAA\{\<\#"Just give me the saw. I'll do this."<#>\>\}\i[380]'САА\{\<\#«Просто дай пилу. Я всё сделаю.»
-\N[15] assists in this task.<#>\D1[15] помогает в выполнении этой задачи.
+\N[15] assists in this task.<#>\N[15] помогает в выполнении этой задачи.
 \>\i[78]\}LIVIA\{\<\#"Ummm... I'm so sorry, but there isn't any other way..."<#>\>\}\i[380]ЛИВИЯ\{\<\#«Ммм... Мне так жаль, но другого выхода нет...»
-\N[13] assists in this task.<#>\D1[13] помогает в выполнении этой задачи.
+\N[13] assists in this task.<#>\N[13] помогает в выполнении этой задачи.
 \>\i[76]\}ARCOH\{\<\#"... Sorry about this."<#>\>\}\i[378]АРКО\{\<\#«...Прости.»
 Marcoh just picks up the saw and goes for it.<#>Марко просто берёт пилу и делает дело.
-\N[14] assists in this task.<#>\D1[14] помогает в выполнении этой задачи.
+\N[14] assists in this task.<#>\N[14] помогает в выполнении этой задачи.
 \>\i[74]\}ARIN\{\<\#"Ah... Ummm... \.Just give me the saw. I guess there's no one else\#to do this!"<#>\>\}\i[376]АРИН\{\<\#«Ах... Ммм... \.Просто дай мне пилу. Похоже, что тут больше некому\#это сделать!»
-GabText The infection on \N[1]'s arm is looking bad...<#>GabText Инфекция на руке \D1[1] выглядит плачевно...
-GabText \N[1] is feeling terrible because of the infection...<#>GabText \D1[1] чувствует себя ужасно из-за инфекции...
+GabText The infection on \N[1]'s arm is looking bad...<#>GabText Инфекция на руке \N[1] выглядит плачевно...
+GabText \N[1] is feeling terrible because of the infection...<#>GabText \N[1] чувствует себя ужасно из-за инфекции...
 GabText You are feeling dizzy...<#>GabText Вы чувствуете головокружение...
 You died because of your infected wound.<#>Вы погибли из-за инфекции в ране.
-\N[1] died because of his infected wound.<#>\D1[1] погиб из-за инфекции в ране.
+\N[1] died because of his infected wound.<#>\N[1] погиб из-за инфекции в ране.
 GabText The infection on \N[3]'s arm is looking bad...<#>GabText Инфекция на руке \D2[3] выглядит плачевно...
-GabText \N[3] is feeling terrible because of the infection...<#>GabText \D1[3] чувствует себя ужасно из-за инфекции...
-\N[3] died because of her infected wound.<#>\D1[3] погибла из-за инфекции в ране.
+GabText \N[3] is feeling terrible because of the infection...<#>GabText \N[3] чувствует себя ужасно из-за инфекции...
+\N[3] died because of her infected wound.<#>\N[3] погибла из-за инфекции в ране.
 GabText The infection on \N[4]'s arm is looking bad...<#>GabText Инфекция на руке \D2[4] выглядит плачевно...
-GabText \N[4] is feeling terrible because of the infection...<#>GabText \D1[4] чувствует себя ужасно из-за инфекции...
-\N[4] died because of his infected wound.<#>\D1[4] погиб из-за инфекции в ране.
+GabText \N[4] is feeling terrible because of the infection...<#>GabText \N[4] чувствует себя ужасно из-за инфекции...
+\N[4] died because of his infected wound.<#>\N[4] погиб из-за инфекции в ране.
 GabText The infection on \N[5]'s arm is looking bad...<#>GabText Инфекция на руке \D2[5] выглядит плачевно...
-GabText \N[5] is feeling terrible because of the infection...<#>GabText \D1[5] чувствует себя ужасно из-за инфекции...
-\N[5] died because of her infected wound.<#>\D1[5] погибла из-за инфекции в ране.
-GabText The infection on \N[6]'s arm is looking bad...<#>GabText Инфекция на руке \D1[6] выглядит плачевно...
-GabText \N[6] is feeling terrible because of the infection...<#>GabText \D1[6] чувствует себя ужасно из-за инфекции...
-\N[6] died because of his infected wound.<#>\D1[6] погиб из-за инфекции в ране.
+GabText \N[5] is feeling terrible because of the infection...<#>GabText \N[5] чувствует себя ужасно из-за инфекции...
+\N[5] died because of her infected wound.<#>\N[5] погибла из-за инфекции в ране.
+GabText The infection on \N[6]'s arm is looking bad...<#>GabText Инфекция на руке \N[6] выглядит плачевно...
+GabText \N[6] is feeling terrible because of the infection...<#>GabText \N[6] чувствует себя ужасно из-за инфекции...
+\N[6] died because of his infected wound.<#>\N[6] погиб из-за инфекции в ране.
 GabText The infection on \N[7]'s arm is looking bad...<#>GabText Инфекция на ноге \D2[7] выглядит плачевно...
-GabText \N[7] is feeling terrible because of the infection...<#>GabText \D1[7] чувствует себя ужасно из-за инфекции...
-\N[7] died because of her infected wound.<#>\D1[7] погиб из-за инфекции в ране.
-GabText The infection on \N[1]'s leg is looking bad...<#>GabText Инфекция на ноге \D1[1] выглядит плачевно...
+GabText \N[7] is feeling terrible because of the infection...<#>GabText \N[7] чувствует себя ужасно из-за инфекции...
+\N[7] died because of her infected wound.<#>\N[7] погиб из-за инфекции в ране.
+GabText The infection on \N[1]'s leg is looking bad...<#>GabText Инфекция на ноге \N[1] выглядит плачевно...
 You find an \c[2]Iron spear\c[0]!<#>Вы нашли \c[2]железное копьё\c[0]!
-GabText \N[1] lost his left arm! It's bleeding heavily!<#>GabText \D1[1] потерял левую руку! Она сильно кровоточит!
-GabText \N[1] lost his another arm too!<#>GabText \D1[1] потерял и вторую руку!
-\N[1] has lost both legs and arms and is useless now.<#>\D1[1] потерял обе ноги и руки и теперь беспомощен.
-GabText \N[1] lost his left leg! It's bleeding heavily!<#>GabText \D1[1] потерял левую ногу! Она сильно кровоточит!
-GabText \N[1] lost his another leg too!<#>GabText \D1[1] потерял и вторую ногу!
-\N[1] cannot hold \c[2]Longinus\c[0] with just one arm!<#>\D1[1] не может держать \c[2]Лонгин\c[0] одной рукой!
+GabText \N[1] lost his left arm! It's bleeding heavily!<#>GabText \N[1] потерял левую руку! Она сильно кровоточит!
+GabText \N[1] lost his another arm too!<#>GabText \N[1] потерял и вторую руку!
+\N[1] has lost both legs and arms and is useless now.<#>\N[1] потерял обе ноги и руки и теперь беспомощен.
+GabText \N[1] lost his left leg! It's bleeding heavily!<#>GabText \N[1] потерял левую ногу! Она сильно кровоточит!
+GabText \N[1] lost his another leg too!<#>GabText \N[1] потерял и вторую ногу!
+\N[1] cannot hold \c[2]Longinus\c[0] with just one arm!<#>\N[1] не может держать \c[2]Лонгин\c[0] одной рукой!
 The cold pistol grip feels familiar in your hands. You didn't\#think you'd be grasping to one so soon after leaving the frontlines.<#>Холодная рукоятка в руках вызывает знакомое чувство. Вы не\#думали, что так скоро ухватитесь за неё, покинув линию фронта...
 You check the functionality of the rifle without even thinking\#about it. Your old habits are kicking in. The rifle creates\#a familiar feeling of safety.<#>Вы проверяете функциональность винтовки, даже не задумываясь.\#Ваши старые привычки дают о себе знать. Огнестрел создаёт знакомое\#ощущение безопасности.
 You check the functionality of the trenchgun without even\#thinking about it. Your old habits are kicking in. The gun\#creates a familiar feeling of safety.<#>Вы проверяете функциональность дробовика, даже не задумываясь.\#Ваши старые привычки дают о себе знать. Огнестрел создаёт знакомое\#ощущение безопасности.
-GabText \N[1] is tied up!<#>GabText \D1[1] связан!
-GabText \N[1] got decapitated!<#>GabText \D1[1] обезглавлен!
-GabText \N[1]'s head exploded from the pressure!<#>GabText Голова \D1[1] взорвалась от давления!
-GabText \N[1] got split in two.<#>GabText \D1[1] был разделен надвое.
-GabText \N[1] lost a piece of his soul.<#>GabText \D1[1] потерял частичку своей души.
-GabText \N[1] is feeling more hollow.<#>GabText \D1[1] чувствует себя более опустошённым.
-GabText \N[3] lost her left arm! It's bleeding heavily!<#>GabText \D1[3] потеряла левую руку! Она сильно кровоточит!
-GabText \N[3] lost her other arm too!<#>GabText \D1[3] потеряла и вторую руку!
-\N[3] has lost both legs and arms and is useless now.<#>\D1[3] потеряла обе ноги и руки и теперь\#беспомощна.
-GabText \N[3] lost her left leg! It's bleeding heavily!<#>GabText \D1[3] потеряла левую ногу! Она сильно кровоточит!
-GabText \N[3] lost her other leg too!<#>GabText \D1[3] потеряла и вторую ногу!
-\N[3] cannot hold \c[2]Longinus\c[0] with just one arm!<#>\D1[3] не может держать \c[2]Лонгин\c[0] одной рукой!
-GabText \N[3] is tied up!<#>GabText \D1[3] связана!
-GabText \N[3] got decapitated!<#>GabText \D1[3] обезглавлена!
+GabText \N[1] is tied up!<#>GabText \N[1] связан!
+GabText \N[1] got decapitated!<#>GabText \N[1] обезглавлен!
+GabText \N[1]'s head exploded from the pressure!<#>GabText Голова \N[1] взорвалась от давления!
+GabText \N[1] got split in two.<#>GabText \N[1] был разделен надвое.
+GabText \N[1] lost a piece of his soul.<#>GabText \N[1] потерял частичку своей души.
+GabText \N[1] is feeling more hollow.<#>GabText \N[1] чувствует себя более опустошённым.
+GabText \N[3] lost her left arm! It's bleeding heavily!<#>GabText \N[3] потеряла левую руку! Она сильно кровоточит!
+GabText \N[3] lost her other arm too!<#>GabText \N[3] потеряла и вторую руку!
+\N[3] has lost both legs and arms and is useless now.<#>\N[3] потеряла обе ноги и руки и теперь\#беспомощна.
+GabText \N[3] lost her left leg! It's bleeding heavily!<#>GabText \N[3] потеряла левую ногу! Она сильно кровоточит!
+GabText \N[3] lost her other leg too!<#>GabText \N[3] потеряла и вторую ногу!
+\N[3] cannot hold \c[2]Longinus\c[0] with just one arm!<#>\N[3] не может держать \c[2]Лонгин\c[0] одной рукой!
+GabText \N[3] is tied up!<#>GabText \N[3] связана!
+GabText \N[3] got decapitated!<#>GabText \N[3] обезглавлена!
 GabText \N[3]'s head exploded from the pressure!<#>GabText Голова \D2[3] взорвалась от давления!
-GabText \N[6] lost his left arm! It's bleeding heavily!<#>GabText \D1[6] потерял левую руку! Она сильно кровоточит!
-GabText \N[6] lost his another arm too!<#>GabText \D1[6] потерял и вторую руку!
-\N[6] has lost both legs and arms and is useless now.<#>\D1[6] потерял обе ноги и руки и теперь\#беспомощен.
-GabText \N[6] lost his left leg! It's bleeding heavily!<#>GabText \D1[6] потерял левую ногу! Она сильно кровоточит!
-GabText \N[6] lost his another leg too!<#>GabText \D1[6] потерял и вторую ногу!
-\N[6] cannot hold weapons without arms!<#>\D1[6] не может держать оружие без рук!
-\N[6] cannot hold \c[2]Mauler\c[0] with just one arm!<#>\D1[6] не может держать \c[2]истязатель\c[0] одной рукой!
-\N[6] cannot hold \c[2]Reaper's rake\c[0] with just one arm!<#>\D1[6] не может держать \c[2]грабли жнеца\c[0] одной рукой!
-\N[6] cannot hold \c[2]Lantern flail\c[0] with just one arm!<#>\D1[6] не может держать \c[2]цепной фонарь\c[0] одной рукой!
-\N[6] cannot hold \c[2]Meat grinder\c[0] with just one arm!<#>\D1[6] не может держать \c[2]мясорубку\c[0] одной рукой!
-\N[6] cannot hold \c[2]Gaelian greatsword\c[0] with just one arm!<#>\D1[6] не может держать \c[2]гаэлийский двуручный меч\c[0] одной рукой!
-\N[6] cannot hold \c[2]Iron spear\c[0] with just one arm!<#>\D1[6] не может держать \c[2]железное копьё\c[0] одной рукой!
-\N[6] cannot hold \c[2]Sergal spear\c[0] with just one arm!<#>\D1[6] не может держать \c[2]копьё сергала\c[0] одной рукой!
-\N[6] cannot hold \c[2]Longinus\c[0] with just one arm!<#>\D1[6] не может держать \c[2]Лонгин\c[0] одной рукой!
-GabText \N[6] is tied up!<#>GabText \D1[6] связан!
-GabText \N[6] got decapitated!<#>GabText \D1[6] обезглавлен!
-GabText \N[6]'s head exploded from the pressure!<#>GabText Голова \D1[6] взорвалась от давления!
-GabText \N[7] lost a hoof! The stump is bleeding heavily!<#>GabText \D1[7] потерял копыто! Нога сильно кровоточит!
-GabText \N[7] lost another hoof! He is having trouble standing up...<#>GabText \D1[7] потерял ещё одно копыто! Ему трудно стоять\#на ногах...
-GabText \N[7] lost his third hoof already!<#>GabText \D1[7] потерял уже третье копыто!
-\N[7] has lost all 3 of his 4 hoofs. There is no way for him\#to continue living.<#>\D1[7] потерял все 3 из своих 4 копыт. Он не сможет\#жить дальше.
-GabText \N[7] is tied up!<#>GabText \D1[7] связан!
-GabText \N[7] is decapitated!<#>GabText \D1[7] обезглавлен!
+GabText \N[6] lost his left arm! It's bleeding heavily!<#>GabText \N[6] потерял левую руку! Она сильно кровоточит!
+GabText \N[6] lost his another arm too!<#>GabText \N[6] потерял и вторую руку!
+\N[6] has lost both legs and arms and is useless now.<#>\N[6] потерял обе ноги и руки и теперь\#беспомощен.
+GabText \N[6] lost his left leg! It's bleeding heavily!<#>GabText \N[6] потерял левую ногу! Она сильно кровоточит!
+GabText \N[6] lost his another leg too!<#>GabText \N[6] потерял и вторую ногу!
+\N[6] cannot hold weapons without arms!<#>\N[6] не может держать оружие без рук!
+\N[6] cannot hold \c[2]Mauler\c[0] with just one arm!<#>\N[6] не может держать \c[2]истязатель\c[0] одной рукой!
+\N[6] cannot hold \c[2]Reaper's rake\c[0] with just one arm!<#>\N[6] не может держать \c[2]грабли жнеца\c[0] одной рукой!
+\N[6] cannot hold \c[2]Lantern flail\c[0] with just one arm!<#>\N[6] не может держать \c[2]цепной фонарь\c[0] одной рукой!
+\N[6] cannot hold \c[2]Meat grinder\c[0] with just one arm!<#>\N[6] не может держать \c[2]мясорубку\c[0] одной рукой!
+\N[6] cannot hold \c[2]Gaelian greatsword\c[0] with just one arm!<#>\N[6] не может держать \c[2]гаэлийский двуручный меч\c[0] одной рукой!
+\N[6] cannot hold \c[2]Iron spear\c[0] with just one arm!<#>\N[6] не может держать \c[2]железное копьё\c[0] одной рукой!
+\N[6] cannot hold \c[2]Sergal spear\c[0] with just one arm!<#>\N[6] не может держать \c[2]копьё сергала\c[0] одной рукой!
+\N[6] cannot hold \c[2]Longinus\c[0] with just one arm!<#>\N[6] не может держать \c[2]Лонгин\c[0] одной рукой!
+GabText \N[6] is tied up!<#>GabText \N[6] связан!
+GabText \N[6] got decapitated!<#>GabText \N[6] обезглавлен!
+GabText \N[6]'s head exploded from the pressure!<#>GabText Голова \N[6] взорвалась от давления!
+GabText \N[7] lost a hoof! The stump is bleeding heavily!<#>GabText \N[7] потерял копыто! Нога сильно кровоточит!
+GabText \N[7] lost another hoof! He is having trouble standing up...<#>GabText \N[7] потерял ещё одно копыто! Ему трудно стоять\#на ногах...
+GabText \N[7] lost his third hoof already!<#>GabText \N[7] потерял уже третье копыто!
+\N[7] has lost all 3 of his 4 hoofs. There is no way for him\#to continue living.<#>\N[7] потерял все 3 из своих 4 копыт. Он не сможет\#жить дальше.
+GabText \N[7] is tied up!<#>GabText \N[7] связан!
+GabText \N[7] is decapitated!<#>GabText \N[7] обезглавлен!
 GabText \N[7]'s head exploded because of the pressure!<#>GabText Голова \D2[7] взорвалась от давления!
-GabText \N[10] lost it's left arm!<#>GabText \D1[10] потерял левую руку!
-GabText \N[10] lost it's another arm too!<#>GabText \D1[10] потерял и вторую руку!
-GabText \N[10] lost it's left leg!<#>GabText \D1[10] потерял левую ногу!
-GabText \N[10] lost it's another leg too!<#>GabText \D1[10] потерял и вторую ногу!
-GabText \N[16] lost his left arm! It's bleeding heavily!<#>GabText \D1[16] потерял левую руку! Она сильно кровоточит!
-GabText \N[16] lost his another arm too!<#>GabText \D1[16] потерял и вторую руку!
-\N[16] has lost both legs and arms and is\#useless now.<#>\D1[16] потерял обе ноги и руки и теперь\#беспомощен.
-GabText \N[16] lost his left leg! It's bleeding heavily!<#>GabText \D1[16] потерял левую ногу! Она сильно кровоточит!
-GabText \N[16] lost his another leg too!<#>GabText \D1[16] потерял и вторую ногу!
-\N[16] has lost both legs and arms and is useless now.<#>\D1[16] потерял обе ноги и руки и теперь\#беспомощен.
-GabText \N[16] is tied up!<#>GabText \D1[16] связан!
-GabText \N[16] is decapitated!<#>GabText \D1[16] обезглавлен!
+GabText \N[10] lost it's left arm!<#>GabText \N[10] потерял левую руку!
+GabText \N[10] lost it's another arm too!<#>GabText \N[10] потерял и вторую руку!
+GabText \N[10] lost it's left leg!<#>GabText \N[10] потерял левую ногу!
+GabText \N[10] lost it's another leg too!<#>GabText \N[10] потерял и вторую ногу!
+GabText \N[16] lost his left arm! It's bleeding heavily!<#>GabText \N[16] потерял левую руку! Она сильно кровоточит!
+GabText \N[16] lost his another arm too!<#>GabText \N[16] потерял и вторую руку!
+\N[16] has lost both legs and arms and is\#useless now.<#>\N[16] потерял обе ноги и руки и теперь\#беспомощен.
+GabText \N[16] lost his left leg! It's bleeding heavily!<#>GabText \N[16] потерял левую ногу! Она сильно кровоточит!
+GabText \N[16] lost his another leg too!<#>GabText \N[16] потерял и вторую ногу!
+\N[16] has lost both legs and arms and is useless now.<#>\N[16] потерял обе ноги и руки и теперь\#беспомощен.
+GabText \N[16] is tied up!<#>GabText \N[16] связан!
+GabText \N[16] is decapitated!<#>GabText \N[16] обезглавлен!
 GabText \N[16]'s head exploded from the pressure!<#>GabText Голова гуля взорвалась от давления!
-GabText \N[17] lost his left arm! It's bleeding heavily!<#>GabText \D1[17] потерял левую руку! Она сильно кровоточит!
-GabText \N[17] lost his another arm too!<#>GabText \D1[17] потерял и вторую руку!
-\N[17] has lost both legs and arms and is\#useless now.<#>\D1[17] потерял обе ноги и руки и теперь\#беспомощен.
-GabText \N[17] lost his left leg! It's bleeding heavily!<#>GabText \D1[17] потерял левую ногу! Она сильно кровоточит!
-GabText \N[17] lost his another leg too!<#>GabText \D1[17] потерял и вторую ногу!
-\N[17] has lost both legs and arms and is useless now.<#>\D1[17] потерял обе ноги и руки и теперь\#беспомощен.
-GabText \N[17] is tied up!<#>GabText \D1[17] связан!
-GabText \N[17] is decapitated!<#>GabText \D1[17] обезглавлен!
+GabText \N[17] lost his left arm! It's bleeding heavily!<#>GabText \N[17] потерял левую руку! Она сильно кровоточит!
+GabText \N[17] lost his another arm too!<#>GabText \N[17] потерял и вторую руку!
+\N[17] has lost both legs and arms and is\#useless now.<#>\N[17] потерял обе ноги и руки и теперь\#беспомощен.
+GabText \N[17] lost his left leg! It's bleeding heavily!<#>GabText \N[17] потерял левую ногу! Она сильно кровоточит!
+GabText \N[17] lost his another leg too!<#>GabText \N[17] потерял и вторую ногу!
+\N[17] has lost both legs and arms and is useless now.<#>\N[17] потерял обе ноги и руки и теперь\#беспомощен.
+GabText \N[17] is tied up!<#>GabText \N[17] связан!
+GabText \N[17] is decapitated!<#>GabText \N[17] обезглавлен!
 GabText \N[17]'s head exploded from the pressure!<#>GabText Голова гуля взорвалась от давления!
-GabText \N[18] lost his left arm! It's bleeding heavily!<#>GabText \D1[18] потерял левую руку!
-GabText \N[18] lost his another arm too!<#>GabText \D1[18] потерял и вторую руку!
-\N[18] has lost both legs and arms and is\#useless now.<#>\D1[18] потерял обе ноги и руки и теперь\#беспомощен.
-GabText \N[18] lost his left leg! It's bleeding heavily!<#>GabText \D1[18] потерял левую ногу!
-GabText \N[18] lost his another leg too!<#>GabText \D1[18] потерял и вторую ногу!
-GabText \N[18] is tied up!<#>GabText \D1[18] связан!
-GabText \N[22] lost his left arm!<#>GabText \D1[22] потерял левую руку!
-GabText \N[22] lost his another arm too!<#>GabText \D1[22] потерял и вторую руку!
-\N[22] has lost both legs and arms and is useless now.<#>\D1[22] потерял обе ноги и руки и теперь\#беспомощен.
-GabText \N[22] lost his left leg!<#>GabText \D1[22] потерял левую ногу!
-GabText \N[22] lost his another leg too!<#>GabText \D1[22] потерял и вторую ногу!
-GabText \N[22] is decapitated!<#>GabText \D1[22] обезглавлен!
-GabText \N[22] is tied up!<#>GabText \D1[22] связан!
+GabText \N[18] lost his left arm! It's bleeding heavily!<#>GabText \N[18] потерял левую руку!
+GabText \N[18] lost his another arm too!<#>GabText \N[18] потерял и вторую руку!
+\N[18] has lost both legs and arms and is\#useless now.<#>\N[18] потерял обе ноги и руки и теперь\#беспомощен.
+GabText \N[18] lost his left leg! It's bleeding heavily!<#>GabText \N[18] потерял левую ногу!
+GabText \N[18] lost his another leg too!<#>GabText \N[18] потерял и вторую ногу!
+GabText \N[18] is tied up!<#>GabText \N[18] связан!
+GabText \N[22] lost his left arm!<#>GabText \N[22] потерял левую руку!
+GabText \N[22] lost his another arm too!<#>GabText \N[22] потерял и вторую руку!
+\N[22] has lost both legs and arms and is useless now.<#>\N[22] потерял обе ноги и руки и теперь\#беспомощен.
+GabText \N[22] lost his left leg!<#>GabText \N[22] потерял левую ногу!
+GabText \N[22] lost his another leg too!<#>GabText \N[22] потерял и вторую ногу!
+GabText \N[22] is decapitated!<#>GabText \N[22] обезглавлен!
+GabText \N[22] is tied up!<#>GabText \N[22] связан!
 GabText \N[22]'s head exploded from the pressure!<#>GabText Голова жителя взорвалась от давления!
-GabText \N[28] lost his left arm!<#>GabText \D1[28] потерял левую руку!
-GabText \N[28] lost his another arm too!<#>GabText \D1[28] потерял и вторую руку!
-\N[28] has lost both legs and arms and is useless now.<#>\D1[28] потерял обе ноги и руки и теперь\#беспомощен.
-GabText \N[28] lost his left leg!<#>GabText \D1[28] потерял левую ногу!
-GabText \N[28] lost his another leg too!<#>GabText \D1[28] потерял и вторую ногу!
-GabText \N[28] is decapitated!<#>GabText \D1[28] обезглавлен!
-GabText \N[28] is tied up!<#>GabText \D1[28] связан!
+GabText \N[28] lost his left arm!<#>GabText \N[28] потерял левую руку!
+GabText \N[28] lost his another arm too!<#>GabText \N[28] потерял и вторую руку!
+\N[28] has lost both legs and arms and is useless now.<#>\N[28] потерял обе ноги и руки и теперь\#беспомощен.
+GabText \N[28] lost his left leg!<#>GabText \N[28] потерял левую ногу!
+GabText \N[28] lost his another leg too!<#>GabText \N[28] потерял и вторую ногу!
+GabText \N[28] is decapitated!<#>GabText \N[28] обезглавлен!
+GabText \N[28] is tied up!<#>GabText \N[28] связан!
 GabText \N[28]'s head exploded from the pressure!<#>GabText Голова жителя взорвалась от давления!
-GabText \N[29] lost his left arm!<#>GabText \D1[29] потерял левую руку!
-GabText \N[29] lost his another arm too!<#>GabText \D1[29] потерял и вторую руку!
-\N[29] has lost both legs and arms and is useless now.<#>\D1[29] потерял обе ноги и руки и теперь\#беспомощен.
-GabText \N[29] lost his left leg!<#>GabText \D1[29] потерял левую ногу!
-GabText \N[29] lost his another leg too!<#>GabText \D1[29] потерял и вторую ногу!
-GabText \N[29] is decapitated!<#>GabText \D1[29] обезглавлен!
-GabText \N[29] is tied up!<#>GabText \D1[29] связан!
+GabText \N[29] lost his left arm!<#>GabText \N[29] потерял левую руку!
+GabText \N[29] lost his another arm too!<#>GabText \N[29] потерял и вторую руку!
+\N[29] has lost both legs and arms and is useless now.<#>\N[29] потерял обе ноги и руки и теперь\#беспомощен.
+GabText \N[29] lost his left leg!<#>GabText \N[29] потерял левую ногу!
+GabText \N[29] lost his another leg too!<#>GabText \N[29] потерял и вторую ногу!
+GabText \N[29] is decapitated!<#>GabText \N[29] обезглавлен!
+GabText \N[29] is tied up!<#>GabText \N[29] связан!
 GabText \N[29]'s head exploded from the pressure!<#>GabText Голова жителя взорвалась от давления!
-GabText \N[4] lost his left arm! It's bleeding heavily!<#>GabText \D1[4] потерял левую руку! Она сильно кровоточит!
-GabText \N[4] lost his other arm too!<#>GabText \D1[4] потерял и вторую руку!
-\N[4] has lost both legs and arms and is useless now.<#>\D1[4] потерял обе ноги и руки и теперь\#беспомощен.
-GabText \N[4] lost his left leg! It's bleeding heavily!<#>GabText \D1[4] потерял левую ногу! Она сильно кровоточит!
-GabText \N[4] lost his other leg too!<#>GabText \D1[4] потерял и вторую ногу тоже!
-\N[4] cannot hold \c[2]Longinus\c[0] with just one arm!<#>\D1[4] не может держать \c[2]Лонгин\c[0] одной рукой!
-GabText \N[4] is tied up!<#>GabText \D1[4] связан!
-GabText \N[4] got decapitated!<#>GabText \D1[4] обезглавлен!
+GabText \N[4] lost his left arm! It's bleeding heavily!<#>GabText \N[4] потерял левую руку! Она сильно кровоточит!
+GabText \N[4] lost his other arm too!<#>GabText \N[4] потерял и вторую руку!
+\N[4] has lost both legs and arms and is useless now.<#>\N[4] потерял обе ноги и руки и теперь\#беспомощен.
+GabText \N[4] lost his left leg! It's bleeding heavily!<#>GabText \N[4] потерял левую ногу! Она сильно кровоточит!
+GabText \N[4] lost his other leg too!<#>GabText \N[4] потерял и вторую ногу тоже!
+\N[4] cannot hold \c[2]Longinus\c[0] with just one arm!<#>\N[4] не может держать \c[2]Лонгин\c[0] одной рукой!
+GabText \N[4] is tied up!<#>GabText \N[4] связан!
+GabText \N[4] got decapitated!<#>GabText \N[4] обезглавлен!
 GabText \N[4]'s head exploded from the pressure!<#>GabText Голова \D2[4] взорвалась от давления!
-GabText \N[3] got split in two.<#>GabText \D1[3] была разделена надвое.
-GabText \N[4] lost a piece of his soul.<#>GabText \D1[4] потерял частичку своей души.
-GabText \N[4] is feeling more hollow.<#>GabText \D1[4] чувствует себя опустошённым.
-GabText \N[5] lost her left arm! It's bleeding heavily!<#>GabText \D1[5] потеряла левую руку! Она сильно кровоточит!
-GabText \N[5] lost her other arm too!<#>GabText \D1[5] потеряла и вторую руку!
-\N[5] has lost both legs and arms and is useless now.<#>\D1[5] потеряла обе ноги и руки и теперь беспомощна.
-GabText \N[5] lost her left leg! It's bleeding heavily!<#>GabText \D1[5] потеряла левую ногу! Она сильно кровоточит!
-GabText \N[5] lost her other leg too!<#>GabText \D1[5] потеряла и вторую ногу!
-\N[5] cannot hold \c[2]Longinus\c[0] with just one arm!<#>\D1[5] не может держать \c[2]Лонгин\c[0] одной рукой!
-GabText \N[5] is tied up!<#>GabText \D1[5] связана!
-GabText \N[5] got decapitated!<#>GabText \D1[5] обезглавлена!
+GabText \N[3] got split in two.<#>GabText \N[3] была разделена надвое.
+GabText \N[4] lost a piece of his soul.<#>GabText \N[4] потерял частичку своей души.
+GabText \N[4] is feeling more hollow.<#>GabText \N[4] чувствует себя опустошённым.
+GabText \N[5] lost her left arm! It's bleeding heavily!<#>GabText \N[5] потеряла левую руку! Она сильно кровоточит!
+GabText \N[5] lost her other arm too!<#>GabText \N[5] потеряла и вторую руку!
+\N[5] has lost both legs and arms and is useless now.<#>\N[5] потеряла обе ноги и руки и теперь беспомощна.
+GabText \N[5] lost her left leg! It's bleeding heavily!<#>GabText \N[5] потеряла левую ногу! Она сильно кровоточит!
+GabText \N[5] lost her other leg too!<#>GabText \N[5] потеряла и вторую ногу!
+\N[5] cannot hold \c[2]Longinus\c[0] with just one arm!<#>\N[5] не может держать \c[2]Лонгин\c[0] одной рукой!
+GabText \N[5] is tied up!<#>GabText \N[5] связана!
+GabText \N[5] got decapitated!<#>GabText \N[5] обезглавлена!
 GabText \N[5]'s head exploded from the pressure!<#>GabText Голова \D2[5] взорвалась от давления!
-GabText \N[13] lost his left arm! It's bleeding heavily!<#>GabText \D1[13] потерял левую руку! Она сильно кровоточит!
-GabText \N[13] lost his another arm too!<#>GabText \D1[13] потерял и вторую руку!
-\N[13] has lost both legs and arms and is useless now.<#>\D1[13] потерял обе ноги и руки и теперь\#беспомощен.
-GabText \N[13] lost his left leg! It's bleeding heavily!<#>GabText \D1[13] потерял левую ногу! Она сильно кровоточит!
-GabText \N[13] lost his another leg too!<#>GabText \D1[13] потерял и вторую ногу!
-\N[13] cannot hold weapons without arms!<#>\D1[13] не может держать оружие без рук!
+GabText \N[13] lost his left arm! It's bleeding heavily!<#>GabText \N[13] потерял левую руку! Она сильно кровоточит!
+GabText \N[13] lost his another arm too!<#>GabText \N[13] потерял и вторую руку!
+\N[13] has lost both legs and arms and is useless now.<#>\N[13] потерял обе ноги и руки и теперь\#беспомощен.
+GabText \N[13] lost his left leg! It's bleeding heavily!<#>GabText \N[13] потерял левую ногу! Она сильно кровоточит!
+GabText \N[13] lost his another leg too!<#>GabText \N[13] потерял и вторую ногу!
+\N[13] cannot hold weapons without arms!<#>\N[13] не может держать оружие без рук!
 You once made a promise to yourself that you'd never lay a finger\#on firearms ever again...<#>Однажды вы пообещали себе, что больше никогда и пальцем не\#притронетесь к огнестрельному оружию...
 However, the circumstances are what they are. You find it surprising\#how light the pistol feels in your hands after all this time.<#>Однако обстоятельства таковы, каковы есть. Вы удивляетесь,\#каким лёгким пистолет ощущается в ваших руках спустя столько\#времени.
-\N[13] is out of ammo, so he continues unarmed.<#>\D1[13] потратил все боеприпасы и убирает оружие.
-\N[13] cannot hold \c[2]Mauler\c[0] with just one arm!<#>\D1[13] не может держать \c[2]истязатель\c[0] одной рукой!
-\N[13] cannot hold \c[2]Bayonet\c[0] with just one arm!<#>\D1[13] не может держать \c[2]винтовку со штыком\c[0] одной рукой!
-\N[13] cannot hold \c[2]Rifle\c[0] with just one arm!<#>\D1[13] не может держать \c[2]винтовку\c[0] одной рукой!
-\N[13] cannot hold \c[2]Trenchgun\c[0] with just one arm!<#>\D1[13] не может держать \c[2]дробовик\c[0] одной рукой!
-\N[13] cannot hold \c[2]Reaper's rake\c[0] with just one arm!<#>\D1[13] не может держать \c[2]грабли жнеца\c[0] одной рукой!
-\N[13] cannot hold \c[2]Lantern flail\c[0] with just one arm!<#>\D1[13] не может держать \c[2]цепной фонарь\c[0] одной рукой!
-\N[13] cannot hold \c[2]Meat grinder\c[0] with just one arm!<#>\D1[13] не может держать \c[2]мясорубку\c[0] одной рукой!
-\N[13] cannot hold \c[2]Gaelian greatsword\c[0] with just one arm!<#>\D1[13] не может держать \c[2]гаэлийский двуручный меч\c[0] одной рукой!
-\N[13] cannot hold \c[2]Iron spear\c[0] with just one arm!<#>\D1[13] не может держать \c[2]железное копьё\c[0] одной рукой!
-\N[13] cannot hold \c[2]Sergal spear\c[0] with just one arm!<#>\D1[13] не может держать \c[2]копьё сергала\c[0] одной рукой!
-\N[13] cannot hold \c[2]Longinus\c[0] with just one arm!<#>\D1[13] не может держать \c[2]Лонгин\c[0] одной рукой!
+\N[13] is out of ammo, so he continues unarmed.<#>\N[13] потратил все боеприпасы и убирает оружие.
+\N[13] cannot hold \c[2]Mauler\c[0] with just one arm!<#>\N[13] не может держать \c[2]истязатель\c[0] одной рукой!
+\N[13] cannot hold \c[2]Bayonet\c[0] with just one arm!<#>\N[13] не может держать \c[2]винтовку со штыком\c[0] одной рукой!
+\N[13] cannot hold \c[2]Rifle\c[0] with just one arm!<#>\N[13] не может держать \c[2]винтовку\c[0] одной рукой!
+\N[13] cannot hold \c[2]Trenchgun\c[0] with just one arm!<#>\N[13] не может держать \c[2]дробовик\c[0] одной рукой!
+\N[13] cannot hold \c[2]Reaper's rake\c[0] with just one arm!<#>\N[13] не может держать \c[2]грабли жнеца\c[0] одной рукой!
+\N[13] cannot hold \c[2]Lantern flail\c[0] with just one arm!<#>\N[13] не может держать \c[2]цепной фонарь\c[0] одной рукой!
+\N[13] cannot hold \c[2]Meat grinder\c[0] with just one arm!<#>\N[13] не может держать \c[2]мясорубку\c[0] одной рукой!
+\N[13] cannot hold \c[2]Gaelian greatsword\c[0] with just one arm!<#>\N[13] не может держать \c[2]гаэлийский двуручный меч\c[0] одной рукой!
+\N[13] cannot hold \c[2]Iron spear\c[0] with just one arm!<#>\N[13] не может держать \c[2]железное копьё\c[0] одной рукой!
+\N[13] cannot hold \c[2]Sergal spear\c[0] with just one arm!<#>\N[13] не может держать \c[2]копьё сергала\c[0] одной рукой!
+\N[13] cannot hold \c[2]Longinus\c[0] with just one arm!<#>\N[13] не может держать \c[2]Лонгин\c[0] одной рукой!
 You've never really used one of these. But you've seen enough soldiers\#cock their bolt action rifle to know how it's done.<#>Вы никогда не использовали огнестрельное оружие. Но вы видели\#достаточно солдат, обращающихся с затворными винтовками, так\#что знаете принципы.
 The rifle feels pretty natural against your shoulder as you look\#down the iron sights.<#>Винтовка неплохо лежит у вас в руках, пока вы целитесь\#в механический прицел.
 You've never really used one of these. But you've seen movies where\#firearms like these were used. After messing around with the gun a bit,\#you feel comfortable with it.<#>Вы никогда не использовали огнестрельное оружие. Но вы видели\#фильмы, где оно использовалось. Повозившись с хватом оружия,\#теперь вы чувствуете себя с ним комфортно.
-GabText \N[13] is tied up!<#>GabText \D1[13] связан!
-GabText \N[13] got decapitated!<#>GabText \D1[13] обезглавлен!
-GabText \N[13]'s head exploded from the pressure!<#>GabText Голова \D1[13] взорвалась от давления!
-GabText \N[15] lost her left arm! It's bleeding heavily!<#>GabText \D1[15] потеряла левую руку! Она сильно кровоточит!
-GabText \N[15] lost her other arm too!<#>GabText \D1[15] потеряла и вторую руку!
-\N[15] has lost both legs and arms and is useless now.<#>\D1[15] потеряла обе ноги и руки и теперь беспомощна.
-GabText \N[15] lost her left leg! It's bleeding heavily!<#>GabText \D1[15] потеряла левую ногу! Она сильно кровоточит!
-GabText \N[15] lost her other leg too!<#>GabText \D1[15] потеряла и вторую ногу!
-GabText \N[15] is knocked down from her wheelchair!<#>GabText \D1[15] сбита с инвалидного кресла!
-\N[15] cannot hold weapons without arms!<#>\D1[15] не может держать оружие без рук!
+GabText \N[13] is tied up!<#>GabText \N[13] связан!
+GabText \N[13] got decapitated!<#>GabText \N[13] обезглавлен!
+GabText \N[13]'s head exploded from the pressure!<#>GabText Голова \N[13] взорвалась от давления!
+GabText \N[15] lost her left arm! It's bleeding heavily!<#>GabText \N[15] потеряла левую руку! Она сильно кровоточит!
+GabText \N[15] lost her other arm too!<#>GabText \N[15] потеряла и вторую руку!
+\N[15] has lost both legs and arms and is useless now.<#>\N[15] потеряла обе ноги и руки и теперь беспомощна.
+GabText \N[15] lost her left leg! It's bleeding heavily!<#>GabText \N[15] потеряла левую ногу! Она сильно кровоточит!
+GabText \N[15] lost her other leg too!<#>GabText \N[15] потеряла и вторую ногу!
+GabText \N[15] is knocked down from her wheelchair!<#>GabText \N[15] сбита с инвалидного кресла!
+\N[15] cannot hold weapons without arms!<#>\N[15] не может держать оружие без рук!
 The firearm feels oddly heavy in your hands. You didn't think it would\#feel this hefty. The iron against your skin, it creates a rush in your\#head.<#>Огнестрельное оружие ощущается неестественно тяжёлым\#в ваших руках. Вы не думали, что оно будет таким.\#Холод металла вызывает прилив адреналина.
 You are now wielding power to take away life.<#>Теперь вы обладаете силой, способной отнимать жизнь.
-\N[15] is out of ammo, so she continues unarmed.<#>\D1[15] потратила все боеприпасы и убирает оружие.
-\N[15] cannot hold \c[2]Rifle\c[0] with just one arm!<#>\D1[15] не может держать \c[2]винтовку\c[0] одной рукой!
-\N[15] cannot hold \c[2]Trenchgun\c[0] with just one arm!<#>\D1[15] не может держать \c[2]дробовик\c[0] одной рукой!
-\N[15] cannot hold \c[2]Reaper's rake\c[0] with just one arm!<#>\D1[15] не может держать \c[2]грабли жнеца\c[0] одной рукой!
+\N[15] is out of ammo, so she continues unarmed.<#>\N[15] потратила все боеприпасы и убирает оружие.
+\N[15] cannot hold \c[2]Rifle\c[0] with just one arm!<#>\N[15] не может держать \c[2]винтовку\c[0] одной рукой!
+\N[15] cannot hold \c[2]Trenchgun\c[0] with just one arm!<#>\N[15] не может держать \c[2]дробовик\c[0] одной рукой!
+\N[15] cannot hold \c[2]Reaper's rake\c[0] with just one arm!<#>\N[15] не может держать \c[2]грабли жнеца\c[0] одной рукой!
 You gasp as you take the rifle in your arms. The firearm feels heavy\#and sturdy. Slowly you graze its long barrel with your index finger...<#>Вы ахаете, когда берёте винтовку в руки. Она тяжёлая и прочная.\#Вы медленно проводите указательным пальцем по длинному стволу...
 Your body is tingling with adrenaline from just holding the rifle.\#You've never used one before, but oddly it feels just right. Like\#you were always meant to wield one.<#>От одного лишь осознания, что вы держите винтовку, ваше тело\#трепещет. Вы не пользовались такой раньше, но она удивительно\#хорошо лежит в руках. Будто так и должно быть.
 You gasp as you take the trenchgun in your arms. The firearm feels\#heavy and sturdy. Slowly you graze its thick barrel with your index\#finger...<#>Вы ахаете, когда берёте дробовик в руки. Он тяжёлый и прочный.\#Мы медленно проводите указательным пальцем по толстому стволу...
 Your body is tingling with adrenaline from just holding the gun.\#You've never used one before, but oddly it feels just right. Like\#you were always meant to wield one.<#>От одного лишь осознания, что вы держите дробовик, ваше тело\#трепещет. Вы не пользовались таким раньше, но он удивительно\#хорошо лежит в руках. Будто так и должно быть.
-GabText \N[15] is tied up!<#>GabText \D1[15] связана!
-GabText \N[15] got decapitated!<#>GabText \D1[15] обезглавлена!
+GabText \N[15] is tied up!<#>GabText \N[15] связана!
+GabText \N[15] got decapitated!<#>GabText \N[15] обезглавлена!
 GabText \N[15]'s head exploded from the pressure!<#>GabText Голова \D2[15] взорвалась от давления!
-GabText \N[14] lost her left arm! It's bleeding heavily!<#>GabText \D1[14] потеряла левую руку! Она сильно кровоточит!
-GabText \N[14] lost her other arm too!<#>GabText \D1[14] потеряла и вторую руку!
-\N[14] has lost both legs and arms and is useless now.<#>\D1[14] потеряла обе ноги и руки и теперь беспомощна.
-GabText \N[14] lost her left leg! It's bleeding heavily!<#>GabText \D1[14] потеряла левую ногу! Она сильно кровоточит!
-GabText \N[14] lost her other leg too!<#>GabText \D1[14] потеряла и вторую ногу!
-\N[14] cannot hold weapons without arms!<#>\D1[14] не может держать оружие без рук!
+GabText \N[14] lost her left arm! It's bleeding heavily!<#>GabText \N[14] потеряла левую руку! Она сильно кровоточит!
+GabText \N[14] lost her other arm too!<#>GabText \N[14] потеряла и вторую руку!
+\N[14] has lost both legs and arms and is useless now.<#>\N[14] потеряла обе ноги и руки и теперь беспомощна.
+GabText \N[14] lost her left leg! It's bleeding heavily!<#>GabText \N[14] потеряла левую ногу! Она сильно кровоточит!
+GabText \N[14] lost her other leg too!<#>GabText \N[14] потеряла и вторую ногу!
+\N[14] cannot hold weapons without arms!<#>\N[14] не может держать оружие без рук!
 With a firm grip you cock the gun and switch the safety on and off.\#You remember his teachings... He told you how to wield this thing.<#>Крепко схватив пистолет, вы передёргиваете затвор и проверяете\#работу предохранителя. Вы вспоминаете обучение... Вам\#рассказали, как пользоваться этой штукой.
 You used to hate the mere idea behind firearms, but now you see\#them as the simple tools they really are. It is the humans behind\#the guns that disgust you now.<#>Раньше вы ненавидели саму идею огнестрельного оружия, но теперь\#видите в нём простой инструмент, коим оно и является.\#Теперь вам противно не само оружие, а те, кто его направляет.
-\N[14] is out of ammo, so she continues unarmed.<#>\D1[14] потратила все боеприпасы и убирает оружие.
-\N[14] cannot hold \c[2]Mauler\c[0] with just one arm!<#>\D1[14] не может держать \c[2]истязатель\c[0] одной рукой!
-\N[14] cannot hold \c[2]Bayonet\c[0] with just one arm!<#>\D1[14] не может держать \c[2]винтовку со штыком\c[0] одной рукой!
-\N[14] cannot hold \c[2]Rifle\c[0] with just one arm!<#>\D1[14] не может держать \c[2]винтовку\c[0] одной рукой!
-\N[14] cannot hold \c[2]Trenchgun\c[0] with just one arm!<#>\D1[14] не может держать \c[2]дробовик\c[0] одной рукой!
-\N[14] cannot hold \c[2]Reaper's rake\c[0] with just one arm!<#>\D1[14] не может держать \c[2]грабли жнеца\c[0] одной рукой!
-\N[14] cannot hold \c[2]Lantern flail\c[0] with just one arm!<#>\D1[14] не может держать \c[2]цепной фонарь\c[0] одной рукой!
-\N[14] cannot hold \c[2]Meat grinder\c[0] with just one arm!<#>\D1[14] не может держать \c[2]мясорубку\c[0] одной рукой!
-\N[14] cannot hold \c[2]Gaelian greatsword\c[0] with just one arm!<#>\D1[14] не может держать \c[2]гаэлийский двуручный меч\c[0] одной рукой!
-\N[14] cannot hold \c[2]Iron spear\c[0] with just one arm!<#>\D1[14] не может держать \c[2]железное копьё\c[0] одной рукой!
-\N[14] cannot hold \c[2]Sergal spear\c[0] with just one arm!<#>\D1[14] не может держать \c[2]копьё сергала\c[0] одной рукой!
-\N[14] cannot hold \c[2]Longinus\c[0] with just one arm!<#>\D1[14] не может держать \c[2]Лонгин\c[0] одной рукой!
+\N[14] is out of ammo, so she continues unarmed.<#>\N[14] потратила все боеприпасы и убирает оружие.
+\N[14] cannot hold \c[2]Mauler\c[0] with just one arm!<#>\N[14] не может держать \c[2]истязатель\c[0] одной рукой!
+\N[14] cannot hold \c[2]Bayonet\c[0] with just one arm!<#>\N[14] не может держать \c[2]винтовку со штыком\c[0] одной рукой!
+\N[14] cannot hold \c[2]Rifle\c[0] with just one arm!<#>\N[14] не может держать \c[2]винтовку\c[0] одной рукой!
+\N[14] cannot hold \c[2]Trenchgun\c[0] with just one arm!<#>\N[14] не может держать \c[2]дробовик\c[0] одной рукой!
+\N[14] cannot hold \c[2]Reaper's rake\c[0] with just one arm!<#>\N[14] не может держать \c[2]грабли жнеца\c[0] одной рукой!
+\N[14] cannot hold \c[2]Lantern flail\c[0] with just one arm!<#>\N[14] не может держать \c[2]цепной фонарь\c[0] одной рукой!
+\N[14] cannot hold \c[2]Meat grinder\c[0] with just one arm!<#>\N[14] не может держать \c[2]мясорубку\c[0] одной рукой!
+\N[14] cannot hold \c[2]Gaelian greatsword\c[0] with just one arm!<#>\N[14] не может держать \c[2]гаэлийский двуручный меч\c[0] одной рукой!
+\N[14] cannot hold \c[2]Iron spear\c[0] with just one arm!<#>\N[14] не может держать \c[2]железное копьё\c[0] одной рукой!
+\N[14] cannot hold \c[2]Sergal spear\c[0] with just one arm!<#>\N[14] не может держать \c[2]копьё сергала\c[0] одной рукой!
+\N[14] cannot hold \c[2]Longinus\c[0] with just one arm!<#>\N[14] не может держать \c[2]Лонгин\c[0] одной рукой!
 With a firm grip you cock the rifle and check its iron sights. You\#remember his teachings... He told you how to wield this thing.<#>Крепко схватив винтовку, вы передёргиваете затвор и проверяете\#механический прицел. Вы помните обучение... Вам рассказали,\#как пользоваться этой штукой.
-GabText \N[14] is tied up!<#>GabText \D1[14] связана!
-GabText \N[14] got decapitated!<#>GabText \D1[14] обезглавлена!
-GabText \N[14]'s head exploded from the pressure!<#>GabText Голова \D1[14] взорвалась от давления!
+GabText \N[14] is tied up!<#>GabText \N[14] связана!
+GabText \N[14] got decapitated!<#>GabText \N[14] обезглавлена!
+GabText \N[14]'s head exploded from the pressure!<#>GabText Голова \N[14] взорвалась от давления!
 With your dedication your affinity with the Alll-mer is\#growing...<#>С вашей самоотверженностью, ваша близость с Алл-мером растёт...
 You find a \c[2]Meatpie\c[0] and a \c[2]Moldy bread\c[0]!<#>Вы нашли \c[2]мясной пирог\c[0] и \c[2]плесневелый хлеб\c[0]!
 You find a severed \c[2]Arm\c[0] and \c[2]Leg\c[0].<#>Вы нашли отрубленные \c[2]руку\c[0] и \c[2]ногу\c[0].
@@ -846,14 +846,14 @@ You find \c[2]3 Blue herbs\c[0] and \c[2]2 Small seeds\c[0]!<#>Вы нашли 3
 You find a \c[2]Monocle\c[0]!<#>Вы нашли \c[2]монокль\c[0]!
 You find \c[2]2 Opium powders\c[0]!<#>Вы нашли 2 мешочка с \c[2]опиумом\c[0]!
 You find a \c[2]Sorcerer's stone\c[0]!<#>Вы нашли \c[2]волшебный камень\c[0]!
-\N[1] has no arms to use the syringe.<#>\D1[1] не имеет рук для использования шприца.
-\N[3] has no arms to use the syringe.<#>\D1[3] не имеет рук для использования шприца.
-\N[4] has no arms to use the syringe.<#>\D1[4] не имеет рук для использования шприца.
-\N[5] has no arms to use the syringe.<#>\D1[5] не имеет рук для использования шприца.
-\N[6] has no arms to use the syringe.<#>\D1[6] не имеет рук для использования шприца.
-\N[14] has no arms to use the syringe.<#>\D1[14] не имеет рук для использования шприца.
-\N[13] has no arms to use the syringe.<#>\D1[13] не имеет рук для использования шприца.
-\N[15] has no arms to use the syringe.<#>\D1[15] не имеет рук для использования шприца.
+\N[1] has no arms to use the syringe.<#>\N[1] не имеет рук для использования шприца.
+\N[3] has no arms to use the syringe.<#>\N[3] не имеет рук для использования шприца.
+\N[4] has no arms to use the syringe.<#>\N[4] не имеет рук для использования шприца.
+\N[5] has no arms to use the syringe.<#>\N[5] не имеет рук для использования шприца.
+\N[6] has no arms to use the syringe.<#>\N[6] не имеет рук для использования шприца.
+\N[14] has no arms to use the syringe.<#>\N[14] не имеет рук для использования шприца.
+\N[13] has no arms to use the syringe.<#>\N[13] не имеет рук для использования шприца.
+\N[15] has no arms to use the syringe.<#>\N[15] не имеет рук для использования шприца.
 The veins on \N[16]'s arm aren't working.\#There is no blood circulation, so the heroin goes to waste.<#>Вены на руке гуля не функционируют.\#Кровообращение отсутствует, поэтому героин ушёл впустую.
 The veins on \N[17]'s arm aren't working.\#There is no blood circulation, so the heroin goes to waste.<#>Вены на руке гуля не функционируют.\#Кровообращение отсутствует, поэтому героин ушёл впустую.
 The veins on \N[18]'s arm aren't working.\#There is no blood circulation, so the heroin goes to waste.<#>Вены на руке гуля не функционируют.\#Кровообращение отсутствует, поэтому героин ушёл впустую.
@@ -874,7 +874,7 @@ You get \c[2]Sturdy overalls\c[0] and a \c[2]Booby trap\c[0].<#>Вы получ�
 "I don't know what's so special about this miserable place,\#but I even heard that the Kaiser himself will be coming here\#in the upcoming days."<#>«Не знаю, что такого особенного в этом жалком месте, но я даже\#слышал, что Кайзер приедет сюда собственной персоной в ближайшие\#дни.»
 "Maybe after that, I can finally return home. I hope you\#are able to wait for me just a little while longer."<#>«Может быть, после этого я наконец смогу вернуться домой.\#Я надеюсь, ты сможешь подождать меня ещё немного.»
 "Yours forever - Jonni."<#>«Твой навеки - Джонни.»
-\N[3] cannot hold \c[2]Iron spear\c[0] with just one arm!<#>\D1[3] не может держать \c[2]железное копьё\c[0] одной рукой!
+\N[3] cannot hold \c[2]Iron spear\c[0] with just one arm!<#>\N[3] не может держать \c[2]железное копьё\c[0] одной рукой!
 The bonesaw cracked!<#>Пила треснула!
 "The Occult Grimoires - Magick in Theory and Practice.\#Written by Samiri Zimri. Translated by Oscar Renté."<#>«Оккультные гримуары - Магия в теории и на практике.\#Автор: Самири Зимри. Переведено Оскаром Ренте.»
 "So that one doesn't lose his mind along with the soul, one\#must come prepared for all situations."<#>«Чтобы человек не потерял рассудок вместе с душой, он должен\#быть готов к любой ситуации.»
@@ -887,8 +887,8 @@ The bonesaw cracked!<#>Пила треснула!
 "The beauty of these rites is that you cannot change them,\#but they can change you."<#>«Красота ритуалов в том, что вы не можете изменить их, но они\#изменяют вас.»
 You find a \c[2]Basement key\c[0] from the pockets of the\#woodsman! You also take the \c[2]Axe\c[0].<#>Вы нашли \c[2]ключ от подвала\c[0] в кармане дровосека,\#а также забрали \c[2]топор\c[0]!
 With the sacrifice your affinity with the Gro-goroth is\#growing...<#>С жертвоприношением, ваша близость с Гро-горотом растёт...
-Sacrifice \N[1]?<#>Принести в жертву \D1[1]?
-\N[1] seems to disagree with your plans. He gives you a cold\#shoulder.<#>\D1[1] кажется, не согласен с вашими планами. Он с холодом смотрит\#на вас.
+Sacrifice \N[1]?<#>Принести в жертву \N[1]?
+\N[1] seems to disagree with your plans. He gives you a cold\#shoulder.<#>\N[1] кажется, не согласен с вашими планами. Он с холодом смотрит\#на вас.
 Sacrifice \N[3]?<#>Принести в жертву \D4[3]?
 \>\i[76]\}ARINA\{\<\#"W-what?? I was the one instructing you with this circle\#and this is how you repay?"<#>\>\}\i[378]АРИНА\{\<\#«Ч-что?! Это я тебе объяснила как пользоваться этим\#кругом, и вот как ты хочешь мне отплатить?»
 \>\i[76]\}ARINA\{\<\#"I don't think so."<#>\>\}\i[378]АРИНА\{\<\#«Чёрта с два.»
@@ -901,7 +901,7 @@ Sacrifice \N[5]?<#>Пожертвовать \D4[5]?
 "The beast has entered this house. It is not my property any\#longer."<#>«Зверь проник в этот дом. Это больше не моя собственность.»
 "The beast took my wife, it took my dignity, it took my faith."<#>«Зверь забрал мою жену, забрал моё достоинство, забрал мою\#веру.»
 "If it wasn't the full moon, I would let it take my life\#as well, by my own hand."<#>«Если бы не полнолуние, я бы позволил ему забрать и мою жизнь\#тоже, моей же рукой.»
-Which sigil would you like to engrave on \N[1]?<#>Какой символ вы хотели бы выгравировать на \D1[1]?
+Which sigil would you like to engrave on \N[1]?<#>Какой символ вы хотели бы выгравировать на \N[1]?
 Engrave the sigil \i[26]<#>Выгравировать символ \i[26]
 Engrave the sigil \i[10]<#>Выгравировать символ \i[10]
 Engrave the sigil \i[27]<#>Выгравировать символ \i[27]
@@ -909,35 +909,35 @@ The carving is done.<#>Гравировка завершена.
 Engrave the sigil \i[9]<#>Выгравировать символ \i[9]
 Engrave the sigil \i[8]<#>Выгравировать символ \i[8]
 Engrave the sigil \i[25]<#>Выгравировать символ \i[25]
-Unfortunately \N[1] has got a sigil already.<#>К сожалению, \D1[1] уже имеет символ.
-Which sigil would you like to engrave on \N[13]?<#>Какой символ вы хотели бы выгравировать на \D1[13]?
-Unfortunately \N[13] has got a sigil already.<#>К сожалению, \D1[13] уже имеет символ.
-Which sigil would you like to engrave on \N[14]?<#>Какой символ вы хотели бы выгравировать на \D1[14]?
-Unfortunately \N[14] has got a sigil already.<#>К сожалению, \D1[14] уже имеет символ.
-Which sigil would you like to engrave on \N[6]?<#>Какой символ вы хотели бы выгравировать на \D1[6]?
-Unfortunately \N[6] has got a sigil already.<#>К сожалению, \D1[6] уже имеет символ.
+Unfortunately \N[1] has got a sigil already.<#>К сожалению, \N[1] уже имеет символ.
+Which sigil would you like to engrave on \N[13]?<#>Какой символ вы хотели бы выгравировать на \N[13]?
+Unfortunately \N[13] has got a sigil already.<#>К сожалению, \N[13] уже имеет символ.
+Which sigil would you like to engrave on \N[14]?<#>Какой символ вы хотели бы выгравировать на \N[14]?
+Unfortunately \N[14] has got a sigil already.<#>К сожалению, \N[14] уже имеет символ.
+Which sigil would you like to engrave on \N[6]?<#>Какой символ вы хотели бы выгравировать на \N[6]?
+Unfortunately \N[6] has got a sigil already.<#>К сожалению, \N[6] уже имеет символ.
 Which sigil would you like to engrave on \N[15]?<#>Какой символ вы хотели бы выгравировать на \D6[15]?
-Unfortunately \N[15] has got a sigil already.<#>К сожалению, \D1[15] уже имеет символ.
+Unfortunately \N[15] has got a sigil already.<#>К сожалению, \N[15] уже имеет символ.
 Which sigil would you like to engrave on \N[3]?<#>Какой символ вы хотели бы выгравировать на \D6[3]?
-Unfortunately \N[3] has got a sigil already.<#>К сожалению, \D1[3] уже имеет символ.
+Unfortunately \N[3] has got a sigil already.<#>К сожалению, \N[3] уже имеет символ.
 Which sigil would you like to engrave on \N[5]?<#>Какой символ вы хотели бы выгравировать на \D6[5]?
-Unfortunately \N[5] has got a sigil already.<#>К сожалению, \D1[5] уже имеет символ.
+Unfortunately \N[5] has got a sigil already.<#>К сожалению, \N[5] уже имеет символ.
 Which sigil would you like to engrave on \N[4]?<#>Какой символ вы хотели бы выгравировать на \D6[4]?
-Unfortunately \N[4] has got a sigil already.<#>К сожалению, \D1[4] уже имеет символ.
+Unfortunately \N[4] has got a sigil already.<#>К сожалению, \N[4] уже имеет символ.
 Which sigil would you like to engrave on \N[7]?<#>Какой символ вы хотели бы выгравировать на \D6[7]?
-Unfortunately \N[7] has got a sigil already.<#>К сожалению, \D1[7] уже имеет символ.
+Unfortunately \N[7] has got a sigil already.<#>К сожалению, \N[7] уже имеет символ.
 Which sigil would you like to engrave on \N[16]?<#>Какой символ вы хотели бы выгравировать на гуле?
-Unfortunately \N[16] has got a sigil already.<#>К сожалению, \D1[16] уже имеет символ.
+Unfortunately \N[16] has got a sigil already.<#>К сожалению, \N[16] уже имеет символ.
 Which sigil would you like to engrave on \N[17]?<#>Какой символ вы хотели бы выгравировать на гуле?
-Unfortunately \N[17] has got a sigil already.<#>К сожалению, \D1[17] уже имеет символ.
+Unfortunately \N[17] has got a sigil already.<#>К сожалению, \N[17] уже имеет символ.
 Which sigil would you like to engrave on \N[18]?<#>Какой символ вы хотели бы выгравировать на гуле?
-Unfortunately \N[18] has got a sigil already.<#>К сожалению, \D1[18] уже имеет символ.
+Unfortunately \N[18] has got a sigil already.<#>К сожалению, \N[18] уже имеет символ.
 Which sigil would you like to engrave on \N[22]?<#>Какой символ вы хотели бы выгравировать на жителе?
-Unfortunately \N[22] has got a sigil already.<#>К сожалению, \D1[22] уже имеет символ.
+Unfortunately \N[22] has got a sigil already.<#>К сожалению, \N[22] уже имеет символ.
 Which sigil would you like to engrave on \N[28]?<#>Какой символ вы хотели бы выгравировать на жителе?
-Unfortunately \N[28] has got a sigil already.<#>К сожалению, \D1[28] уже имеет символ.
+Unfortunately \N[28] has got a sigil already.<#>К сожалению, \N[28] уже имеет символ.
 Which sigil would you like to engrave on \N[29]?<#>Какой символ вы хотели бы выгравировать на жителе?
-Unfortunately \N[29] has got a sigil already.<#>К сожалению, \D1[29] уже имеет символ.
+Unfortunately \N[29] has got a sigil already.<#>К сожалению, \N[29] уже имеет символ.
 "This manual depicts basics of survival in a close-combat situations,\#as well as on the field. The following teachings can be applied both\#on the battlefield and in your everyday life."<#>«Это руководство описывает основы выживания в ближнем бою, а\#также в открытых пространствах. Следующие советы могут быть\#применены как на поле боя, так и в повседневной жизни.»
 "\c[2]Lesson 1 - Strategic Dismemberment\c[0]\#Sever different limbs of the enemy to best subdue their attacks.\#If the enemy is carrying a weapon, it might be best to deal with\#that particular limb first."<#>«\c[2]Урок 1 - Стратегическое расчленение\c[0]\#Отсекайте различные конечности врагов, чтобы снизить их\#боеспособность. Если у врага есть оружие, возможно, лучше\#всего сначала разобраться с этой конкретной конечностью.»
 "Going straight for the head might seem tempting, but attacking such\#guarded bodypart in the heat of the battle might prove out to be\#difficult."<#>«Удар прямо в голову может показаться заманчивым, но атаковать\#такую защищённую часть тела в пылу битвы может оказаться\#непросто.»
@@ -1196,48 +1196,48 @@ You find 2 \c[2]Cloth fragments\c[0]!<#>Вы нашли 2 \c[2]куска тка
 You find 10 \c[2]Shillings\c[0]!<#>Вы нашли 10 \c[2]шиллингов\c[0]!
 You find 15 \c[2]Shillings\c[0]!<#>Вы нашли 15 \c[2]шиллингов\c[0]!
 You find 2 \c[2]Pep pills\c[0]!<#>Вы нашли 2 \c[2]бодрящие таблетки\c[0]!
-GabText \N[13] is starting to feel hungry...<#>GabText \D1[13] начинает чувствовать голод...
-GabText \N[13] is weak from hunger.<#>GabText \D1[13] слаб от голода.
-GabText \N[13] is ill from hunger.<#>GabText \D1[13] болен от голода.
-GabText Hunger is driving \N[13] mad.<#>GabText \D1[13] сходит с ума от голода.
-GabText Hunger is crippling \N[13].<#>GabText \D1[13] покалечен голодом.
-GabText \N[13] is blind from hunger.<#>GabText \D1[13] ослеп от голода.
-GabText \N[13] feels dizzy...<#>GabText \D1[13] чувствует головокружение...
-GabText \N[14] is starting to feel hungry...<#>GabText \D1[14] начинает чувствовать голод...
-GabText \N[14] is weak from hunger.<#>GabText \D1[14] слаба от голода.
-GabText \N[14] is ill from hunger.<#>GabText \D1[14] больна от голода.
-GabText Hunger is driving \N[14] mad.<#>GabText \D1[14] сходит с ума от голода.
-GabText Hunger is crippling \N[14].<#>GabText \D1[14] покалечена голодом.
-GabText \N[14] is blind from hunger.<#>GabText \D1[14] ослепла от голода.
-GabText \N[14] feels dizzy...<#>GabText \D1[14] чувствует головокружение...
-GabText \N[15] is starting to feel hungry...<#>GabText \D1[15] начинает чувствовать голод...
-GabText \N[15] is weak from hunger.<#>GabText \D1[15] слаба от голода.
-GabText \N[15] is ill from hunger.<#>GabText \D1[15] больна от голода.
-GabText Hunger is driving \N[15] mad.<#>GabText \D1[15] сходит с ума от голода.
+GabText \N[13] is starting to feel hungry...<#>GabText \N[13] начинает чувствовать голод...
+GabText \N[13] is weak from hunger.<#>GabText \N[13] слаб от голода.
+GabText \N[13] is ill from hunger.<#>GabText \N[13] болен от голода.
+GabText Hunger is driving \N[13] mad.<#>GabText \N[13] сходит с ума от голода.
+GabText Hunger is crippling \N[13].<#>GabText \N[13] покалечен голодом.
+GabText \N[13] is blind from hunger.<#>GabText \N[13] ослеп от голода.
+GabText \N[13] feels dizzy...<#>GabText \N[13] чувствует головокружение...
+GabText \N[14] is starting to feel hungry...<#>GabText \N[14] начинает чувствовать голод...
+GabText \N[14] is weak from hunger.<#>GabText \N[14] слаба от голода.
+GabText \N[14] is ill from hunger.<#>GabText \N[14] больна от голода.
+GabText Hunger is driving \N[14] mad.<#>GabText \N[14] сходит с ума от голода.
+GabText Hunger is crippling \N[14].<#>GabText \N[14] покалечена голодом.
+GabText \N[14] is blind from hunger.<#>GabText \N[14] ослепла от голода.
+GabText \N[14] feels dizzy...<#>GabText \N[14] чувствует головокружение...
+GabText \N[15] is starting to feel hungry...<#>GabText \N[15] начинает чувствовать голод...
+GabText \N[15] is weak from hunger.<#>GabText \N[15] слаба от голода.
+GabText \N[15] is ill from hunger.<#>GabText \N[15] больна от голода.
+GabText Hunger is driving \N[15] mad.<#>GabText \N[15] сходит с ума от голода.
 GabText Hunger is crippling \N[15].<#>GabText Голод калечит \D4[15].
-GabText \N[15] is blind from hunger.<#>GabText \D1[15] ослепла от голода.
-GabText \N[15] feels dizzy...<#>GabText \D1[15] чувствует головокружение...
-GabText \N[22] is starting to feel hungry...<#>GabText \D1[22] начинает чувствовать голод...
-GabText \N[22] is weak from hunger.<#>GabText \D1[22] слаб от голода.
-GabText \N[22] is ill from hunger.<#>GabText \D1[22] болен от голода.
-GabText Hunger is driving \N[22] mad.<#>GabText \D1[22] сходит с ума от голода.
+GabText \N[15] is blind from hunger.<#>GabText \N[15] ослепла от голода.
+GabText \N[15] feels dizzy...<#>GabText \N[15] чувствует головокружение...
+GabText \N[22] is starting to feel hungry...<#>GabText \N[22] начинает чувствовать голод...
+GabText \N[22] is weak from hunger.<#>GabText \N[22] слаб от голода.
+GabText \N[22] is ill from hunger.<#>GabText \N[22] болен от голода.
+GabText Hunger is driving \N[22] mad.<#>GabText \N[22] сходит с ума от голода.
 GabText Hunger is crippling \N[22].<#>GabText Голод калечит \D4[22].
-GabText \N[22] is blind from hunger.<#>GabText \D1[22] ослеп от голода.
-GabText \N[22] feels dizzy...<#>GabText \D1[22] чувствует головокружение...
-GabText \N[28] is starting to feel hungry...<#>GabText \D1[28] начинает чувствовать голод...
-GabText \N[28] is weak from hunger.<#>GabText \D1[28] слаб от голода.
-GabText \N[28] is ill from hunger.<#>GabText \D1[28] болен от голода.
-GabText Hunger is driving \N[28] mad.<#>GabText \D1[28] сходит с ума от голода.
+GabText \N[22] is blind from hunger.<#>GabText \N[22] ослеп от голода.
+GabText \N[22] feels dizzy...<#>GabText \N[22] чувствует головокружение...
+GabText \N[28] is starting to feel hungry...<#>GabText \N[28] начинает чувствовать голод...
+GabText \N[28] is weak from hunger.<#>GabText \N[28] слаб от голода.
+GabText \N[28] is ill from hunger.<#>GabText \N[28] болен от голода.
+GabText Hunger is driving \N[28] mad.<#>GabText \N[28] сходит с ума от голода.
 GabText Hunger is crippling \N[28].<#>GabText Голод калечит \D4[28].
-GabText \N[28] is blind from hunger.<#>GabText \D1[28] ослеп от голода.
-GabText \N[28] feels dizzy...<#>GabText \D1[28] чувствует головокружение...
-GabText \N[29] is starting to feel hungry...<#>GabText \D1[29] начинает чувствовать голод...
-GabText \N[29] is weak from hunger.<#>GabText \D1[29] слаб от голода.
-GabText \N[29] is ill from hunger.<#>GabText \D1[29] болен от голода.
-GabText Hunger is driving \N[29] mad.<#>GabText \D1[29] сходит с ума от голода.
+GabText \N[28] is blind from hunger.<#>GabText \N[28] ослеп от голода.
+GabText \N[28] feels dizzy...<#>GabText \N[28] чувствует головокружение...
+GabText \N[29] is starting to feel hungry...<#>GabText \N[29] начинает чувствовать голод...
+GabText \N[29] is weak from hunger.<#>GabText \N[29] слаб от голода.
+GabText \N[29] is ill from hunger.<#>GabText \N[29] болен от голода.
+GabText Hunger is driving \N[29] mad.<#>GabText \N[29] сходит с ума от голода.
 GabText Hunger is crippling \N[29].<#>GabText Голод калечит \D4[29].
-GabText \N[29] is blind from hunger.<#>GabText \D1[29] ослеп от голода.
-GabText \N[29] feels dizzy...<#>GabText \D1[29] чувствует головокружение...
+GabText \N[29] is blind from hunger.<#>GabText \N[29] ослеп от голода.
+GabText \N[29] feels dizzy...<#>GabText \N[29] чувствует головокружение...
 "I tried to fool myself. Deny the inevitable."<#>«Я пытался обмануть самого себя. Отвергнуть неизбежное.»
 "There's no mistaking it anymore. I've felt it inside me for few\#days now. What happened to Marcoh and everyone else in this cursed\#land..."<#>«Я больше не могу ошибиться. Я чувствую это внутри, уже\#несколько дней. То, что произошло с Марко и другими в\#этих проклятых землях...»
 "I know I'm next. The gut wrenching nausea deep within me...\#It's growing... Fast..."<#>«Я знаю, что буду следующим. Выворачивающая внутренности\#тошнота глубоко внутри меня... Она нарастает... Быстро...»
@@ -1371,22 +1371,22 @@ The document page is one of many. You do not have the previous pages,\#so it's d
 \i[238]Mauler [10]<#>\i[238]Истязатель (10)
 You don't have enough pearls.<#>У вас недостаточно жемчуга.
 "WARMER"<#>«ТЕПЛЕЕ»
-GabText \N[1] summons a blood sword.<#>GabText \D1[1] призывает кровавый меч.
-GabText \N[3] summons a blood sword.<#>GabText \D1[3] призывает кровавый меч.
-GabText \N[4] summons a blood sword.<#>GabText \D1[4] призывает кровавый меч.
-GabText \N[5] summons a blood sword.<#>GabText \D1[5] призывает кровавый меч.
-GabText \N[6] summons a blood sword.<#>GabText \D1[6] призывает кровавый меч.
-GabText \N[13] summons a blood sword.<#>GabText \D1[13] призывает кровавый меч.
-GabText \N[14] summons a blood sword.<#>GabText \D1[14] призывает кровавый меч.
-GabText \N[15] summons a blood sword.<#>GabText \D1[15] призывает кровавый меч.
-GabText \N[1] summons the Longinus.<#>GabText \D1[1] призывает Лонгин.
-GabText \N[3] summons the Longinus, but she cannot wield it!<#>GabText \D1[3] призывает Лонгин, но она не может удержать его!
-GabText \N[4] summons the Longinus.<#>GabText \D1[4] призывает Лонгин.
-GabText \N[5] summons the Longinus.<#>GabText \D1[5] призывает Лонгин.
-GabText \N[6] summons the Longinus.<#>GabText \D1[6] призывает Лонгин.
-GabText \N[13] summons the Longinus.<#>GabText \D1[13] призывает Лонгин.
-GabText \N[14] summons the Longinus, but she cannot wield it!<#>GabText \D1[14] призывает Лонгин, но она не может удержать его!
-GabText \N[15] summons the Longinus, but she cannot wield it!<#>GabText \D1[15] призывает Лонгин, но она не может удержать его!
+GabText \N[1] summons a blood sword.<#>GabText \N[1] призывает кровавый меч.
+GabText \N[3] summons a blood sword.<#>GabText \N[3] призывает кровавый меч.
+GabText \N[4] summons a blood sword.<#>GabText \N[4] призывает кровавый меч.
+GabText \N[5] summons a blood sword.<#>GabText \N[5] призывает кровавый меч.
+GabText \N[6] summons a blood sword.<#>GabText \N[6] призывает кровавый меч.
+GabText \N[13] summons a blood sword.<#>GabText \N[13] призывает кровавый меч.
+GabText \N[14] summons a blood sword.<#>GabText \N[14] призывает кровавый меч.
+GabText \N[15] summons a blood sword.<#>GabText \N[15] призывает кровавый меч.
+GabText \N[1] summons the Longinus.<#>GabText \N[1] призывает Лонгин.
+GabText \N[3] summons the Longinus, but she cannot wield it!<#>GabText \N[3] призывает Лонгин, но она не может удержать его!
+GabText \N[4] summons the Longinus.<#>GabText \N[4] призывает Лонгин.
+GabText \N[5] summons the Longinus.<#>GabText \N[5] призывает Лонгин.
+GabText \N[6] summons the Longinus.<#>GabText \N[6] призывает Лонгин.
+GabText \N[13] summons the Longinus.<#>GabText \N[13] призывает Лонгин.
+GabText \N[14] summons the Longinus, but she cannot wield it!<#>GabText \N[14] призывает Лонгин, но она не может удержать его!
+GabText \N[15] summons the Longinus, but she cannot wield it!<#>GabText \N[15] призывает Лонгин, но она не может удержать его!
 \>\i[64]\}BELLA\{\<\#"We shouldn't be fighting each other! There has to be another way."<#>\>\}\i[368]БЕЛЛА\{\<\#«Мы не должны драться друг с другом! Должен быть другой выход.»
 \>\i[78]\}LIVIA\{\<\#"Aaah! Please stop this fight! There is no reason for this!"<#>\>\}\i[380]ЛИВИЯ\{\<\#«Ааа! Пожалуйста, прекратите эту драку! Нам это ни к чему!»
 \>\i[74]\}ARIN\{\<\#"We have a couple of cavepeople here. Violence solves nothing,\#we can always talk this out!"<#>\>\}\i[376]АРИН\{\<\#«Да у нас тут парочка неандертальцев. Насилие ничего не решает,\#мы всегда можем всё обсудить!»
@@ -1406,15 +1406,15 @@ Rhabdophobia<#>Рабдофобия
 GabText IT BURNS!<#>GabText ЖЖЁТ!
 GabText Your skin is burning to a crisp!<#>GabText Ваша кожа сгорает дотла!
 GabText The pain is maddening!<#>GabText Боль ужасающая!
-What do you want to sacrifice to resurrect \N[1]?<#>Чем вы хотите пожертвовать, чтобы воскресить \D1[1]?
+What do you want to sacrifice to resurrect \N[1]?<#>Чем вы хотите пожертвовать, чтобы воскресить \N[1]?
 Sacrifice an arm<#>Пожертвовать рукой
 Sacrifice a leg<#>Пожертвовать ногой
 What do you want to sacrifice to resurrect \N[3]?<#>Чем вы хотите пожертвовать, чтобы воскресить \D4[3]?
 What do you want to sacrifice to resurrect \N[4]?<#>Чем вы хотите пожертвовать, чтобы воскресить \D4[4]?
 What do you want to sacrifice to resurrect \N[5]?<#>Чем вы хотите пожертвовать, чтобы воскресить \D4[5]?
-What do you want to sacrifice to resurrect \N[6]?<#>Чем вы хотите пожертвовать, чтобы воскресить \D1[6]?
-What do you want to sacrifice to resurrect \N[13]?<#>Чем вы хотите пожертвовать, чтобы воскресить \D1[13]?
-What do you want to sacrifice to resurrect \N[14]?<#>Чем вы хотите пожертвовать, чтобы воскресить \D1[14]?
+What do you want to sacrifice to resurrect \N[6]?<#>Чем вы хотите пожертвовать, чтобы воскресить \N[6]?
+What do you want to sacrifice to resurrect \N[13]?<#>Чем вы хотите пожертвовать, чтобы воскресить \N[13]?
+What do you want to sacrifice to resurrect \N[14]?<#>Чем вы хотите пожертвовать, чтобы воскресить \N[14]?
 What do you want to sacrifice to resurrect \N[15]?<#>Чем вы хотите пожертвовать, чтобы воскресить \D4[15]?
 What do you want to sacrifice to resurrect \N[7]?<#>Чем вы хотите пожертвовать, чтобы воскресить \D4[7]?
 GabText You already summoned the blood golem.<#>GabText Вы уже призвали кровавого голема.
@@ -1559,12 +1559,12 @@ You absorbed the \c[2]Endless soul\c[0].<#>Вы поглотили \c[2]беск
 \>\i[78]\}LIVIA\{\<\#"B-but I thought we were in this together!?"<#>\>\}\i[380]ЛИВИЯ\{\<\#«Н-но я думала, мы были заодно?!»
 You absorbed the \c[2]Shadowed soul\c[0].<#>Вы поглотили \c[2]мрачную душу\c[0].
 Black Kalev just looks at you with his blank eyes, chewing a tuft\#of grass, almost mocking you to do this.<#>Чёрный Калев смотрит на вас пустыми глазами, жуя пучок\#травы, практически дразня вас совершить это.
-\n[16] stares at you with sad eyes. Or maybe you're just\#projecting? A ghoul is not supposed to feel sadness. He was merely\#resurrected to serve you after all.<#>\D1[16] смотрит на вас грустными глазами. Или, может быть, вам\#просто так кажется? Гуль не может испытывать печали. В конце\#концов, он был воскрешен просто чтобы служить вам.
-\n[17] seems completely oblivious to your plans for him.\#Maybe it's better this way? So he doesn't know what hit him.<#>\D1[17] кажется, совершенно не замечает ваших планов в отношении\#него. Может быть, так будет лучше? Он не знает, что его убьёт.
-\n[18] is staring at you. For the first time you think you\#see understanding and intelligence in his eyes. Like he knows\#what's coming for him.<#>\D1[18] пристально смотрит на вас. Впервые вам кажется, что вы\#видите понимание и интеллект в его глазах. Как будто он знает,\#что его ждёт.
-\n[29] does not mind this fate. He was resurrected to serve\#you. You're just fulfilling his destiny.<#>\D1[29] не возражает против такой участи. Он был воскрешен, чтобы\#служить вам. Вы просто исполняете его предназначение.
-\n[28] nod in agreement. He's ready to die for you.<#>\D1[28] кивает в знак согласия. Он готов умереть за вас.
-\n[22] is nervously looking around. Does he actually\#understand what is happening? Ghouls should not have that level\#of intelligence.<#>\D1[22] нервно оглядывается по сторонам. Понимает ли он на\#самом деле, что происходит? Гули не должны обладать таким\#уровнем понимания.
+\n[16] stares at you with sad eyes. Or maybe you're just\#projecting? A ghoul is not supposed to feel sadness. He was merely\#resurrected to serve you after all.<#>\N[16] смотрит на вас грустными глазами. Или, может быть, вам\#просто так кажется? Гуль не может испытывать печали. В конце\#концов, он был воскрешен просто чтобы служить вам.
+\n[17] seems completely oblivious to your plans for him.\#Maybe it's better this way? So he doesn't know what hit him.<#>\N[17] кажется, совершенно не замечает ваших планов в отношении\#него. Может быть, так будет лучше? Он не знает, что его убьёт.
+\n[18] is staring at you. For the first time you think you\#see understanding and intelligence in his eyes. Like he knows\#what's coming for him.<#>\N[18] пристально смотрит на вас. Впервые вам кажется, что вы\#видите понимание и интеллект в его глазах. Как будто он знает,\#что его ждёт.
+\n[29] does not mind this fate. He was resurrected to serve\#you. You're just fulfilling his destiny.<#>\N[29] не возражает против такой участи. Он был воскрешен, чтобы\#служить вам. Вы просто исполняете его предназначение.
+\n[28] nod in agreement. He's ready to die for you.<#>\N[28] кивает в знак согласия. Он готов умереть за вас.
+\n[22] is nervously looking around. Does he actually\#understand what is happening? Ghouls should not have that level\#of intelligence.<#>\N[22] нервно оглядывается по сторонам. Понимает ли он на\#самом деле, что происходит? Гули не должны обладать таким\#уровнем понимания.
 It might be risky to to cut yourself with your current state of\#health...<#>При вашем нынешнем состоянии здоровья порезы могут быть\#рискованными...
 Do it regardless<#>Сделать это
 Nevermind then<#>Неважно
