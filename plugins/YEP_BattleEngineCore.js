@@ -4795,12 +4795,11 @@ Window_Help.prototype.drawSpecialSelectionText = function (action) {
     var text = "";
 
     if (action.isForUser()) {
-        text = Yanfly.Param.BECHelpUserTx;
+        text = "На себя";
     } else if (action.isForRandom()) {
         BattleManager.startAllSelection();
 
         // %2 Random %1
-        const fmt = Yanfly.Param.BECHelpRandTx;
         const numberOfTargets = Yanfly.Util.toGroup(action.numTargets());
 
         if (action.isForOpponent() && action.numTargets() !== 1) {
@@ -4811,10 +4810,10 @@ Window_Help.prototype.drawSpecialSelectionText = function (action) {
                 "случайных противника",
                 "случайных противников"
             );
-            text = fmt.format(numeral, numberOfTargets);
+            text = `${numberOfTargets} ${numeral}`;
         } else if (action.isForOpponent() && action.numTargets() === 1) {
             // 1 Random Enemy
-            text = fmt.format("случайный противник", numberOfTargets);
+            text = "1 случайный противник";
         } else if (action.isForFriend() && action.numTargets() !== 1) {
             // n Random Allies
             const numeral = determineNumeral(
@@ -4823,23 +4822,22 @@ Window_Help.prototype.drawSpecialSelectionText = function (action) {
                 "случайных союзника",
                 "случайных союзников"
             );
-            text = fmt.format(numeral, numberOfTargets);
+            text = `${numberOfTargets} ${numeral}`;
         } else {
             // 1 Random Ally
-            text = fmt.format("случайный союзник", numberOfTargets);
+            text = "1 случайный союзник";
         }
     } else if (action.isForAll()) {
         BattleManager.startAllSelection();
 
         // All %1
-        const fmt = Yanfly.Param.BECHelpAllTx;
 
         if (action.isForOpponent()) {
             // All Enemies
-            text = fmt.format("Все противники");
+            text = "Все противники";
         } else {
             // All Allies
-            text = fmt.format("Все союзники");
+            text = "Все союзники";
         }
     }
 
