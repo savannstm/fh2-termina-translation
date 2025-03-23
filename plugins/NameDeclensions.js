@@ -17,7 +17,7 @@
             const grammaticalCase = Number(arguments[1]);
             const actorId = Number(arguments[2]);
             const actor = $gameActors.actor(actorId);
-            const defaultName = $dataActors[actorId].name();
+            const defaultName = $dataActors[actorId].name;
 
             if (actor.name() !== defaultName) {
                 return actor.name();
