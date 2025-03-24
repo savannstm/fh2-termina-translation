@@ -3,11 +3,11 @@ A standard model army jumpsuit. It's made from a durable\#material that withstan
 Collared blouse<#>Блузка с воротником
 A simple blouse with a fancy collar. Offers next to no protection\#but looks formal and nice.\#Otherworldly 93%<#>Простая блузка с модным воротником. Почти не\#защищает, но выглядит красиво и официально.\#Магия 93%
 Army uniform<#>Армейская униформа
-A standard Bremen uniform. The material is somewhat durable against\#knives and other slashing weapons.\#Slash 93%  Pierce 93%  Fire 70%<#>Стандартная бременская униформа. Материал в некоторой степени\#защищает от режущего воздействия.\#Реж. 93% Кол. 93% Огонь 70%
+A standard Bremen uniform. The material is somewhat durable against\#knives and other slashing weapons.\#Slash 93%  Pierce 93%  Fire 70%<#>Стандартная бременская униформа. Материал в некоторой\#степени защищает от режущего воздействия.\#Реж. 93% Кол. 93% Огонь 70%
 Silk vest<#>Шёлковый жилет
 A tailor-made silk vest. It fits you perfectly. It's defensive\#capabilities are mostly otherwordly.\#Otherworldly 92%<#>Сшитый на заказ шёлковый жилет. Идеально сидит на вашем\#теле. Защищает в основном от потустороннего.\#Магия 92%
 Rugged vest<#>Грубый жилет
-A simple yet stylish vest. Offers very little protection,\#but it truly is stylish.\#Otherworldly 92%<#>Простой, но стильный жилет. Обеспечивает очень слабую защиту,\#но воистину стилен.\#Магия 92%
+A simple yet stylish vest. Offers very little protection,\#but it truly is stylish.\#Otherworldly 92%<#>Простой, но стильный жилет. Обеспечивает очень слабую\#защиту, но воистину стилен.\#Магия 92%
 Sturdy overalls<#>Прочная роба
 Sturdy worker's overalls. They offer decent protection and\#are especially efficient against fire.\#Slash 95%  Pierce 95%  Fire 70%<#>Прочная рабочая спецодежда. Обеспечивает достойную защиту,\#особенно от огня.\#Реж. 95% Кол. 95% Огонь 70%
 Turtleneck shirt<#>Свитер
@@ -15,7 +15,7 @@ A simple blouse with a fancy collar. Offers next to no protection\#but looks for
 Stahlhelm<#>Штальхельм
 A Bremen-style helmet made of steel. Feels uncomfortable but\#offers great protection. Protects against concussion.\#Slash 94%  Pierce 94%  Blunt 94%<#>Стальной шлем в бременском стиле. Неудобный, но\#хорошо защищает, в частности от сотрясений.\#Реж. 94% Кол. 94% Дроб. 94%
 Pickelhaube<#>Пикельхаубе
-A decorative helmet made from hardened leather with reinforced\#metal trims. It's an out-of-date model but works just fine.\#Slash 96%  Pierce 96%  Blunt 96%<#>Украшенный шлем из закалённой кожи, укреплённой накладками\#из металла. Устаревшая модель, но всё ещё прекрасно защищает.\#Реж. 96% Кол. 96% Дроб. 96%
+A decorative helmet made from hardened leather with reinforced\#metal trims. It's an out-of-date model but works just fine.\#Slash 96%  Pierce 96%  Blunt 96%<#>Украшенный шлем из закалённой кожи, укреплённой накладками\#из металла. Устаревшая модель, но всё ещё прекрасно\#защищает. Реж. 96% Кол. 96% Дроб. 96%
 Eclipse talisman<#>Талисман затмения
 An eastern style talisman with decorations depicting\#an eclipse of the sun.<#>Талисман в восточном стиле с узорами, изображающими\#солнечное затмение.
 Dragoon helmet<#>Драгунский шлем
@@ -38,7 +38,7 @@ An old medieval breastplate that seems to belong to a larger\#setup. On its own 
 Fluted fauld<#>Рифлёная боевая юбка
 A fauld that clearly belong to a larger setup, most likely\#to an armor set. On its own it already offers decent protection.\#Slash 89%  Pierce 89%  Blunt 89%<#>Латная юбка, ранее бывшая частью доспеха.\#Сама по себе, она уже обеспечивает достойную защиту.\#Реж. 89% Кол. 89% Дроб. 89%
 Fluted armor<#>Рифлёный доспех
-An old medieval armor that is in surprisingly good shape.\#The decoration suggests this armor came from Valland originally.\#Slash 55%  Pierce 65%  Blunt 65%  Fire 93%<#>Старый средневековый доспех в удивительно хорошей форме.\#Орнаменты на нём наводят на мысль, что этот доспех был выкован\#в Валланде. Реж. 55% Кол. 65% Дроб. 65% Огонь 93%
+An old medieval armor that is in surprisingly good shape.\#The decoration suggests this armor came from Valland originally.\#Slash 55%  Pierce 65%  Blunt 65%  Fire 93%<#>Старый средневековый доспех в удивительно хорошей форме.\#Орнаменты на нём наводят на мысль, что этот доспех был\#выкован в Валланде. Реж. 55% Кол. 65% Дроб. 65% Огонь 93%
 Bremen chestplate<#>Бременский нагрудник
 A plate mail armor offers great defence, but is rather clunky\#and uncomfortable to use. The armor has egravings of a Bremen eagle.\#Slash 65%  Pierce 65%  Blunt 70%  Fire 98%<#>Нагрудник обеспечивает отличную защиту, но неудобен\#в использовании. На нём выгравирован бременский орел.\#Реж. 65% Кол. 65% Дроб. 70% Огонь 98%
 Arm guards<#>Наручи
@@ -60,11 +60,11 @@ A cameo carving of a beautiful woman from a bygone era.\#The jewel emits strange
 Hardened heart<#>Затвердевшее сердце
 A crystalized and hardened heart that has seen its share of pain\#and suffering. It now offers a glimpse of the same determination\#its previous owner had to its new master.<#>Затвердевшее сердце, повидавшее боль и страдания.\#Даёт своему новому носителю частицу решимости\#прошлого владельца.
 Small thing's amulet<#>Амулет маленького существа
-A crudely shaped amulet representing a rat deity. The peculiar\#thing is imbued with prayers of the ratkin that grant its wearer\#a small boost in agility to help evade possible dangers.<#>Грубо выделанный амулет, изображающий крысиное божество.\#Эта необычная реликвия впитала в себя молитвы крысолюдов.\#Дарует владельцу скорость, помогая избежать возможные опасности.
+A crudely shaped amulet representing a rat deity. The peculiar\#thing is imbued with prayers of the ratkin that grant its wearer\#a small boost in agility to help evade possible dangers.<#>Грубо выделанный амулет, изображающий крысиное божество.\#Эта необычная реликвия впитала в себя молитвы крысолюдов.\#Дарует владельцу скорость, помогая избежать опасности.
 Salmonsnake rune<#>Руна морского дракона
 An old relic from northern warrior tribes of Oldegård. The rune is said\#to contain a soul of a Salmonsnake that gives its owner a hardened skin\#that prevents limb losses, burns and bleeding.<#>Древняя реликвия северных воинских племен Ольдегарда.\#Содержит душу морского дракона, которая укрепляет кожу,\#предотвращая потерю конечностей, ожоги и кровотечения.
 Ring of wraiths<#>Кольцо духов
-A ring with a blood diamond embedded on it. The diamond has seen\#so much death that life force is leaking from it. The priests of Rondon\#have slaves digging these diamonds no matter the cost.<#>Кольцо с вкрапленным кровавым алмазом. Оно повидало так много\#смертей, что стало испускать жизненную силу. Священники Рондона\#заставляют рабов копать эти алмазы днём и ночью.
+A ring with a blood diamond embedded on it. The diamond has seen\#so much death that life force is leaking from it. The priests of Rondon\#have slaves digging these diamonds no matter the cost.<#>Кольцо с вкрапленным кровавым алмазом. Оно повидало так\#много смертей, что стало испускать жизненную силу. Священники\#Рондона заставляют рабов копать эти алмазы днём и ночью.
 Thorned ring<#>Кольцо с шипами
 A ring with thorns that emit steady flow of poison to its wearer.\#Steady flow makes one immune to more potent toxins.<#>Кольцо с шипами, из которого небольшими дозами сочится\#яд в тело носителя. Эти небольшие дозы вырабатывают\#иммунитет к более мощным ядам.
 Foldable wheelchair<#>Складная инвалидная коляска
@@ -96,7 +96,7 @@ An eastern style amulet that is said to have belonged to the deity\#of the wande
 Molded doll<#>Плесневелая кукла
 Enchanted doll that is covered in a white substance that can\#only be described as mold.\#Otherworldly 87%<#>Заколдованная кукла, покрытая чем-то белым, напоминающим\#лишь плесень.\#Магия 87%
 Smelter key<#>Оплавленный ключ
-A key that has seemingly melt in high temperatures. The key feels\#heavier than it's supposed to as if something is attached to it.\#A spirit protects the wearer from fire and flames.<#>Ключ, который выглядит так, будто расплавился под\#воздействием высоких температур. Ощущается тяжелее, чем\#должен, словно его окутывает магическая сила. Защищает от огня.
+A key that has seemingly melt in high temperatures. The key feels\#heavier than it's supposed to as if something is attached to it.\#A spirit protects the wearer from fire and flames.<#>Ключ, который выглядит так, будто расплавился под\#воздействием высоких температур. Ощущается тяжелее, чем\#должен, словно окутан магической силой. Защищает от огня.
 Epee mask<#>Фехтовальная маска
 A simple mask used in competitive fencing. It isn't particularly\#defensive except against piercing attacks.\#Slash 97%  Pierce 87%  Blunt 97%  Fire 97%<#>Простая маска, используемая в фехтовании.\#Не слишком защищает, разве что от колющих атак.\#Реж. 97% Кол. 87% Дроб. 97% Огонь 97%
 Fencing gambeson<#>Фехтовальный гамбезон
@@ -105,21 +105,21 @@ The darkness<#>Тьма
 A living and seeping darkness that attaches itself to whoever\#dares to touch it and live in symbiosis with it.\#Slash 55%  Pierce 65%  Blunt 65%  Fire 93%  Otherworldly 68%<#>Живая, клубящаяся тьма, которая обволакивает любого, кто\#осмелится к ней прикоснуться, и живёт с ним в симбиозе.\#Реж. 55% Кол. 65% Дроб. 65% Огонь 93% Магия 68%
 A military grade ballistic shield. Used often in riots. If\#you are lucky, it might even stop bullets.\#Slash 80%  Pierce 80%  Blunt 80%  Fire 80%<#>Баллистический щит военного образца. Используется при\#устранении беспорядков. Если звёзды сойдутся, может даже\#остановить пулю. Реж. 80% Кол. 80% Дроб. 80% Огонь 80%
 Artificial soul<#>Искусственная душа
-There are rumours that Bremen experimented with creating artificial\#souls to power their unholy rituals. If this truly is one of those\#it could be used to channel otherwordly more efficiently.<#>Ходят слухи, что Бремен создавал искусственные души для своих\#тёмных ритуалов. Должно быть, это одна из них. Если так, то её\#можно использовать для более эффективной связи с потусторонним.
+There are rumours that Bremen experimented with creating artificial\#souls to power their unholy rituals. If this truly is one of those\#it could be used to channel otherwordly more efficiently.<#>Ходят слухи, что Бремен создавал искусственные души для\#своих тёмных ритуалов. Если это действительно одна из них,\#то она подойдёт для более эффективной связи с потусторонним.
 Eye of Sylvian<#>Око Сильвиан
-Said to be an eye of the older god Sylvian herself. How it could\#have ended up here is a mystery. You have your doubts. It does\#seem to boost the recovery effect of healing items and magic...<#>Говорят, что это - око древней богини Сильвиан. Как оно попало\#сюда - неизвестно. У вас есть сомнения по поводу него. Похоже,\#что оно действительно усиливает эффекты исцеления...
+Said to be an eye of the older god Sylvian herself. How it could\#have ended up here is a mystery. You have your doubts. It does\#seem to boost the recovery effect of healing items and magic...<#>Говорят, что это - око древней богини Сильвиан. Неизвестно,\#откуда оно здесь. У вас есть сомнения по поводу него. Похоже,\#что оно действительно усиливает эффекты исцеления...
 Leather armor<#>Кожаная броня
 Simple armor made from hardened leather. Offers decent protection\#and it's not too heavy.\#Slash 87%  Pierce 75%  Blunt 90%  Fire 93%<#>Простой доспех из выдубленной кожи. Обеспечивает неплохую\#защиту и довольно лёгок.\#Реж. 87% Кол. 75% Дроб. 90% Огонь 93%
 Makeshift armor<#>Самодельная броня
-A makeshift armor made from random kitchenware. The breastplate\#is an old stove lid. Desperate times breed creativity.\#Slash 68%  Pierce 69%  Blunt 79%  Fire 95%<#>Импровизированная броня из кухонного хлама. В качестве\#нагрудника - старый корпус от духовки. Отчаянные времена\#требуют творческих мер. Реж. 68% Кол. 69% Дроб. 79% Огонь 95%
+A makeshift armor made from random kitchenware. The breastplate\#is an old stove lid. Desperate times breed creativity.\#Slash 68%  Pierce 69%  Blunt 79%  Fire 95%<#>Импровизированная броня из кухонного хлама. В качестве\#нагрудника - корпус от духовки. Отчаянные времена требуют\#творческих мер. Реж. 68% Кол. 69% Дроб. 79% Огонь 95%
 99 eyes mask<#>Маска 99-ти глаз
 A mysterious skull mask from a faraway continent of Vinland.\#The mask is said to raise one's perception.\#Slash 89%  Pierce 89%  Blunt 89%<#>Таинственная маска-череп из далекого Винланда.\#Говорят, что она улучшает восприятие владельца.\#Реж. 89% Кол. 89% Дроб. 89%
 Makeshift full armor<#>Полная самодельная броня
-A makeshift armor made from random kitchenware. The breastplate\#is an old stove lid. Desperate times breed creativity.\#Slash 66%  Pierce 67%  Blunt 77%  Fire 80%<#>Импровизированная броня из кухонного хлама. В качестве\#нагрудника - старый корпус от духовки. Отчаянные времена\#требуют творческих мер. Реж. 66% Кол. 67% Дроб. 77% Огонь 80%
+A makeshift armor made from random kitchenware. The breastplate\#is an old stove lid. Desperate times breed creativity.\#Slash 66%  Pierce 67%  Blunt 77%  Fire 80%<#>Импровизированная броня из кухонного хлама. В качестве\#нагрудника - корпус от духовки. Отчаянные времена требуют\#творческих мер. Реж. 66% Кол. 67% Дроб. 77% Огонь 80%
 Death mask<#>Посмертная маска
 A burial mask used in old Bohemia. The mask is designed so that\#the death gurgle of its wearer sounds more like laughter of joy. Because\#of its connection to death, the mask has otherwordly properties.<#>Погребальная маска древней Богемии. Сделана так, что речь и\#звуки носителя начинают походить на радостный смех. Из-за\#связи со смертью, обладает потусторонними свойствами.
 Chainmail dress<#>Кольчужное одеяние
-An armor consisting of small metal rings linked together to form\#a mesh that protects its wearer.\#Slash 65%  Pierce 70%  Blunt 92%  Fire 98%<#>Броня, состоящая из маленьких металлических колец, соединённых\#вместе таким образом, чтобы образовать кольчугу, защищающую\#своего владельца.\#Реж. 65% Кол. 70% Дроб. 92% Огонь 98%
+An armor consisting of small metal rings linked together to form\#a mesh that protects its wearer.\#Slash 65%  Pierce 70%  Blunt 92%  Fire 98%<#>Броня из маленьких металлических колец, соединённых вместе\#и образующих кольчугу, защищающую своего владельца.\#Реж. 65% Кол. 70% Дроб. 92% Огонь 98%
 Pinecone pig<#>Шишкосвин
 Your very own pinecone pig. It's an old traditional children's trinket\#from the northern land of Oldergård. You can craft one by attaching\#4 sticks to a pinecone and adding a hint of love to the mix.<#>Ваш собственный шишкосвин. Традиционная детская безделушка\#северных земель Ольдегарда. Его легко сделать, прикрепив\#4 палочки к сосновой шишке и приправив ноткой любви.
 One-winged necklace<#>Ожерелье-крыло
