@@ -17,13 +17,15 @@
             const grammaticalCase = Number(arguments[1]);
             const actorId = Number(arguments[2]);
             const actor = $gameActors.actor(actorId);
-            const defaultName = $dataActors[actorId].name();
+            const defaultName = $dataActors[actorId].name;
 
             if (actor.name() !== defaultName) {
                 return actor.name();
             }
 
             switch (actor.actorId()) {
+                case 1:
+                    return "Леви";
                 case 3:
                     switch (grammaticalCase) {
                         case 1:
@@ -69,6 +71,8 @@
                         case 6:
                             return "Абелле";
                     }
+                case 6:
+                    return "О'саа";
                 case 7:
                     switch (grammaticalCase) {
                         case 1:
@@ -84,6 +88,25 @@
                         case 6:
                             return "Чёрном Калеве";
                     }
+                case 10:
+                    switch (grammaticalCase) {
+                        case 1:
+                            return "Кровавый голем";
+                        case 2:
+                            return "кровавого голема";
+                        case 3:
+                            return "кровавому голему";
+                        case 4:
+                            return "кровавого голема";
+                        case 5:
+                            return "кровавым големом";
+                        case 6:
+                            return "кровавом големе";
+                    }
+                case 13:
+                    return "Марко";
+                case 14:
+                    return "Карин";
                 case 15:
                     switch (grammaticalCase) {
                         case 1:
@@ -106,15 +129,15 @@
                         case 1:
                             return "Гуль";
                         case 2:
-                            return "Гуля";
+                            return "гуля";
                         case 3:
-                            return "Гулю";
+                            return "гулю";
                         case 4:
-                            return "Гуля";
+                            return "гуля";
                         case 5:
-                            return "Гулём";
+                            return "гулём";
                         case 6:
-                            return "Гуле";
+                            return "гуле";
                     }
                 case 22:
                 case 28:
@@ -123,15 +146,15 @@
                         case 1:
                             return "Житель";
                         case 2:
-                            return "Жителя";
+                            return "жителя";
                         case 3:
-                            return "Жителю";
+                            return "жителю";
                         case 4:
-                            return "Жителя";
+                            return "жителя";
                         case 5:
-                            return "Жителем";
+                            return "жителем";
                         case 6:
-                            return "Жителе";
+                            return "жителе";
                     }
             }
         });

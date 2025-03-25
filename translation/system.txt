@@ -8,7 +8,7 @@ Empty<#>Пусто
 Skills<#>Навыки
 Level<#>Уровень
 Lv<#>Ур.
-Mind<#>Разум
+Mind<#>Рассудок
 Hunger<#>Голод
 Fight<#>Сражаться
 Run!<#>Бежать!
@@ -29,11 +29,11 @@ To Title<#>В меню
 Cancel<#>Отмена
 Buy<#>Купить
 Sell<#>Продать
-Max Body<#>Макс. Тело
-Max Mind<#>Макс. Разум
+Max Body<#>Макс. тело
+Max Mind<#>Макс. рассудок
 Defense<#>Защита
-M.Attack<#>Маг. Атака
-M.Defense<#>Маг. Защита
+M.Attack<#>Маг. атака
+M.Defense<#>Маг. защита
 Agility<#>Скорость
 Luck<#>Удача
 Accuracy<#>Точность
@@ -51,4 +51,4 @@ Possession<#>Имеется
 Save to which file?<#>В какой файл сохранить?
 SE Volume<#>Громкость эффектов
 %1 was victorious!<#>%1 побеждает!
-Fear & Hunger 2: TERMINA<#>Fear & Hunger 2: TERMINA
+Fear & Hunger 2: TERMINA<#>
