@@ -149,7 +149,7 @@ Harvest \c[2]Heart flower\c[0]<#>Собрать \c[2]сердцецвет\c[0]
 You harvest \c[2]Heart flower stigma\c[0].<#>Вы собрали \c[2]рыльце сердцецвета\c[0].
 A pile of flesh remains here...<#>Здесь лежит груда плоти...
 GabText The mist slowly creeps from the deeper woods...<#>GabText Туман медленно выплывает из леса...
-GabText An eerie silence fills the air. Devoid of any life.<#>GabText Жуткая тишина наполняет воздух. Лишённый всякой\#жизни.
+GabText An eerie silence fills the air. Devoid of any life.<#>GabText Жуткая тишина наполняет воздух. Лишённый всякой жизни.
 \>\i[65]\}ROWN JACKET WOMAN\{\<\#"..."<#>\>\}\i[373]ЕНЩИНА В КОРИЧНЕВОЙ КУРТКЕ\{\<\#«...»
 Henryk is down...<#>Генрик повержен...
 You get a \c[2]Knife\c[0], a \c[2]Meatpie\c[0], \c[2]Linen vest\c[0] and a \c[2]Lucky coin\c[0].<#>Вы нашли \c[2]нож\c[0], \c[2]мясной пирог\c[0],\#\c[2]шерстяной жилет\c[0] и \c[2]счастливую монетку\c[0].
@@ -2290,7 +2290,7 @@ You hear faint sounds from the vermin...<#>Вы слышите тихие зву
 "Can you help me?"<#>«Ты можешь мне помочь?»
 "Shoo!"<#>«Кыш!»
 No answer. The vermin is long gone.<#>Нет ответа. Паразит давно ушёл.
-GabText Your body feels like cramping, but the ropes don't give an inch.<#>GabText Ваше тело сводит судорогами, но верёвки не поддаются\#ни на миллиметр.
+GabText Your body feels like cramping, but the ropes don't give an inch.<#>GabText Ваше тело сводит судорогами, но верёвки не поддаются.
 GabText You are feeling miserable and dizzy...<#>GabText Вы чувствуете себя убого, у вас кружится голова...
 You seem to be stuck here...<#>Похоже, вы тут застряли...
 GabText It's getting harder to keep your eyes open...<#>GabText Становится всё труднее держать глаза открытыми...
@@ -2311,9 +2311,9 @@ GabText The world around you starts to dim...<#>GabText Мир вокруг ту
 GabText Your heart beat slows down...<#>GabText Сердцебиение замедляется...
 GabText Your breath gets heavier...<#>GabText Дышать становится тяжелее...
 Your body gave in to the hunger.<#>Ваше тело поглотил голод.
-GabText You are very hungry... But you think you can manage still...<#>GabText Вы безумно голодны... Но вы всё ещё уверены, что\#справитесь...
+GabText You are very hungry... But you think you can manage still...<#>GabText Вы безумно голодны... Но всё ещё уверены, что справитесь...
 GabText Everything starts to blur together. You feel dizzy...<#>GabText Всё вокруг размывается... У вас кружится голова...
-GabText Nothing's changed since you were last awake...<#>GabText Ничего не изменилось с вашего последнего\#пробуждения...
+GabText Nothing's changed since you were last awake...<#>GabText Ничего не изменилось с вашего последнего пробуждения...
 GabText Someone is approaching...<#>GabText Кто-то приближается...
 \>\i[64]\}BELLA\{\<\#"Oj, oj... What do we do with you...?"<#>\>\}\i[368]БЕЛЛА\{\<\#«Ох-ох... Что же нам с тобой делать...?»
 Despite her tone of voice trying to be playful, the dry seriousness\#comes through clearly.<#>Несмотря на то, что её голос пытается быть игривым, сухую\#серьёзность видно невооруженным глазом.
@@ -2520,7 +2520,7 @@ Marcoh eats the bread loaf in front of you. He seems to be savouring\#the bread 
 \>\i[78]\}LIVIA\{\<\#"I don't like it, but... You are a liability."<#>\>\}\i[380]ЛИВИЯ\{\<\#«Мне это не нравится, но... Ты - обуза.»
 \>\i[78]\}LIVIA\{\<\#"I'm sorry about this..."<#>\>\}\i[380]ЛИВИЯ\{\<\#«Прости меня за это...»
 GabText You can't feel your arms because of the rope...<#>GabText Вы не чувствуете собственных рук из-за верёвок...
-GabText If that wasn't enough, you're also starving...<#>GabText Будто бы этого недостаточно, но вам теперь ещё\#хочется есть...
+GabText If that wasn't enough, you're also starving...<#>GabText Будто бы этого недостаточно, но вам теперь ещё хочется есть...
 \>\i[75]\}EVI\{\<\#"It's okay..."<#>\>\}\i[377]ЕВИ\{\<\#«Всё хорошо...»
 You read his mind...\#\c[1]"Is that all I can come up with? How do people small talk?"\c[0]<#>Вы читаете его мысли...\#\c[1]«Это всё, что я могу сказать? Как люди заводят\#разговоры?»\c[0]
 You read his mind...\#\c[1]"No wonder I have no friend. I'm rubbish with people. No getting\#over that."\c[0]<#>Вы читаете его мысли...\#\c[1]«Вот почему у меня нет друзей. Я не умею общаться. И не\#могу перебороть это.»\c[0]
@@ -2890,10 +2890,10 @@ The door is locked...<#>Дверь закрыта...
 The sign says "Closed until tomorrow."<#>Надпись гласит: «Закрыто до завтра.»
 The door won't open. It seems to be locked from the other side.<#>Дверь не открывается. Похоже, она закрыта с другой стороны.
 A smell of mold eminates from the basement...<#>Запах плесени веет из подвала...
-GabText You can't see your legs, but something feels broken down there...<#>GabText Вы не видите своих ног, что-то снизу ощущается не\#так...
+GabText You can't see your legs, but something feels broken down there...<#>GabText Вы не видите своих ног, что-то снизу ощущается не так...
 GabText You feel excruciating pain in your legs...<#>GabText Вы чувствуете мучительную боль в ногах...
 GabText You keep fading in and out of consciousness...<#>GabText Мир перед вами мелькает между потерями сознания...
-GabText You can't shake the idea... Your legs...<#>GabText Вы не можете отделаться от этой мысли... Ваши\#ноги...
+GabText You can't shake the idea... Your legs...<#>GabText Вы не можете отделаться от этой мысли... Ваши ноги...
 GabText You feel dizzy, light-headed and hopeless.<#>GabText Вы чувствуете головокружение, слабость и отчаяние.
 GabText This must be it for you...<#>GabText Похоже, это конец для вас...
 \>\i[64]\}UGUST\{\<\#"Oh my."<#>\>\}\i[368]ВГУСТ\{\<\#«О, боже.»
@@ -3029,7 +3029,7 @@ Lifeless arms reach out from between the boards...<#>Безжизненные р
 <!-- Map --><#>018
 <!-- Map Name: Grand_hall --><#>
 <!-- Order --><#>161
-GabText Your head hurts! You feel like you're losing your mind!<#>GabText Ваша голова раскалывается! Вам кажется, будто вы\#сходите с ума!
+GabText Your head hurts! You feel like you're losing your mind!<#>GabText Ваша голова раскалывается! Вам кажется, будто вы сходите с ума!
 <!-- Map --><#>019
 <!-- Map Name: Intro_Train_cabins --><#>
 <!-- Order --><#>168
@@ -4525,7 +4525,7 @@ Saw off the head<#>Отрезать голову
 The creature has nothing of worth.<#>У существа нет ничего ценного.
 The organs of the creature don't seem to match those of human...<#>Органы существа не слишком напоминают человеческие...
 The creature has no head...<#>У существа нет головы...
-GabText The bright light filtered through the mist blinds you for a second.<#>GabText Яркий свет просачивается через туман, на секунду\#ослепляя вас.
+GabText The bright light filtered through the mist blinds you for a second.<#>GabText Яркий свет просачивается через туман, на секунду ослепляя вас.
 \>\i[65]\}REMEN LIEUTENANT\{\<\#"Oooh~"<#>\>\}\i[369]РЕМЕНСКИЙ ЛЕЙТЕНАНТ\{\<\#«Ооо...»
 \>\i[65]\}REMEN LIEUTENANT\{\<\#"You made it out alive."<#>\>\}\i[369]РЕМЕНСКИЙ ЛЕЙТЕНАНТ\{\<\#«Тебе удалось выбраться оттуда жив\x[ым|ой].»
 \>\i[65]\}REMEN LIEUTENANT\{\<\#"Good boy."<#>\>\}\i[369]РЕМЕНСКИЙ ЛЕЙТЕНАНТ\{\<\#«Хороший мальчик.»
@@ -5104,14 +5104,14 @@ Levi is looking around cautiously.<#>Леви осторожно осматри�
 <!-- Map --><#>028
 <!-- Map Name: A_set --><#>
 <!-- Order --><#>7
-GabText The injection made \N[1] numb from all the pain and horror.<#>GabText Инъекция заставила \N[1] онеметь от всей боли и\#ужаса.
-GabText The injection made \N[3] numb from all the pain and horror.<#>GabText Инъекция заставила \D4[3] онеметь от всей боли и\#ужаса.
-GabText The injection made \N[4] numb from all the pain and horror.<#>GabText Инъекция заставила \D4[4] онеметь от всей боли и\#ужаса.
-GabText The injection made \N[5] numb from all the pain and horror.<#>GabText Инъекция заставила \D4[5] онеметь от всей боли и\#ужаса.
-GabText The injection made \N[6] numb from all the pain and horror.<#>GabText Инъекция заставила \N[6] онеметь от всей боли и\#ужаса.
-GabText The injection made \N[14] numb from all the pain and horror.<#>GabText Инъекция заставила \N[14] онеметь от всей боли и\#ужаса.
-GabText The injection made \N[13] numb from all the pain and horror.<#>GabText Инъекция заставила \N[13] онеметь от всей боли и\#ужаса.
-GabText The injection made \N[15] numb from all the pain and horror.<#>GabText Инъекция заставила \D4[15] онеметь от всей боли и\#ужаса.
+GabText The injection made \N[1] numb from all the pain and horror.<#>GabText Инъекция заставила \N[1] онеметь от всей боли и ужаса.
+GabText The injection made \N[3] numb from all the pain and horror.<#>GabText Инъекция заставила \D4[3] онеметь от всей боли и ужаса.
+GabText The injection made \N[4] numb from all the pain and horror.<#>GabText Инъекция заставила \D4[4] онеметь от всей боли и ужаса.
+GabText The injection made \N[5] numb from all the pain and horror.<#>GabText Инъекция заставила \D4[5] онеметь от всей боли и ужаса.
+GabText The injection made \N[6] numb from all the pain and horror.<#>GabText Инъекция заставила \N[6] онеметь от всей боли и ужаса.
+GabText The injection made \N[14] numb from all the pain and horror.<#>GabText Инъекция заставила \N[14] онеметь от всей боли и ужаса.
+GabText The injection made \N[13] numb from all the pain and horror.<#>GabText Инъекция заставила \N[13] онеметь от всей боли и ужаса.
+GabText The injection made \N[15] numb from all the pain and horror.<#>GabText Инъекция заставила \D4[15] онеметь от всей боли и ужаса.
 \N[15] has too many limbs cut. She's in a state of shock.<#>У \D2[15] отсутствует слишком много конечностей. Она\#в состоянии шока.
 "I'll try to find some help for you!"<#>«Я постараюсь помочь тебе!»
 "I'm so sorry about this..."<#>«Мне так жаль...»
@@ -5169,7 +5169,7 @@ Here lies \N[22]...<#>Здесь лежит \N[22]...
 Here lies \N[28]...<#>Здесь лежит \N[28]...
 \N[29] has taken too much damage. It's struggling to contain his\#soul.<#>\N[29] принял на себя слишком много урона. Он борется с тем,\#чтобы удержать свою душу в теле.
 Here lies \N[29]...<#>Здесь лежит \N[29]...
-GabText It appears the crown of Alll-mer was too heavy for your to carry.<#>GabText Похоже, что корона Алл-мера слишком тяжела для вашей\#головы.
+GabText It appears the crown of Alll-mer was too heavy for your to carry.<#>GabText Похоже, что корона Алл-мера слишком тяжела для вашей головы.
 GabText The blood feels warm pouring down from your throat...<#>GabText Тёплая кровь стекает по вашей шее...
 <!-- Map --><#>029
 <!-- Map Name: Alternate_elevator --><#>
@@ -5713,7 +5713,7 @@ The Bremen lieutenant gives you a smile.<#>Бременский лейтенан
 The menu of the 'Restaurant Bílý Vůl' is laid on the wall.<#>Меню ресторана «Bílý Vůl» висит на стене.
 Today's special is pork chops in murky brown sauce, served\#with asparagus.<#>Особое меню на сегодня - свиные стейки в коричневом\#соусе, подаются со спаржей.
 The prices seem a bit steep...<#>Цены слегка дикие...
-GabText You hear distant laughing. It sounds cold and devoid of life...<#>GabText Вы слышите смех вдалеке. Он звучит холодно и\#безжизненно...
+GabText You hear distant laughing. It sounds cold and devoid of life...<#>GabText Вы слышите смех вдалеке. Он звучит холодно и безжизненно...
 \>\i[67]\}AAN\{\<\#"The creature has a sturdy shell-like exoskeleton that seems to\#protect it from most kinds of attacks. Only piercing and otherwordly\#powers seem to penetrate the surface effectively."<#>\>\}\i[372]ААН\{\<\#«Существо обросло прочной оболочкой, похожей на экзоскелет,\#которая, видимо, защищает его от большинства видов урона.\#Лишь колющее оружие и магия способны пробить эту оболочку.»
 \>\i[67]\}AAN\{\<\#"The skin, or the surface layer feels like hardened leather that\#has burned to crisp. The skin gets thicker towards the head of\#the creature and which is especially well protected."<#>\>\}\i[372]ААН\{\<\#«Кожа, либо же оболочка, выглядит так, будто бы была\#закалена, даже сожжена. Кожа становится всё толще в\#направлении головы, а сама голова особенно защищена.»
 \>\i[67]\}AAN\{\<\#"If this creature was once a human, I suspect it is at the end\#of its metamorphosis by now..."<#>\>\}\i[372]ААН\{\<\#«Если это существо когда-либо было человеком, похоже, что\#теперь оно полностью прошло через свои метаморфозы...»
@@ -5844,7 +5844,7 @@ You notice the yellow mage ahead...<#>Вы замечаете жёлтого м�
 \>\i[78]\}'SAA\{\<\#"I gave you a warning. If you come closer, I consider that hostile\#behaviour and act accordingly."<#>\>\}\i[380]'САА\{\<\#«Я предупредил тебя. Если ты подойдешь ближе, я посчитаю это\#враждебным поведением и буду действовать соответствующе.»
 \>\i[78]\}'SAA\{\<\#"I do not fear you."<#>\>\}\i[380]'САА\{\<\#«Я тебя не боюсь.»
 \>\i[78]\}'SAA\{\<\#"Or you face consequences."<#>\>\}\i[380]'САА\{\<\#«Иначе, ощутишь на себе последствия.»
-GabText The streets feels almost too quiet. Even for an abandoned town...<#>GabText На улице слишком тихо. Даже для заброшенного\#города...
+GabText The streets feels almost too quiet. Even for an abandoned town...<#>GabText На улице слишком тихо. Даже для заброшенного города...
 A chained up coffin. The chains seem reinforced and really difficult\#to open up.<#>Закованный гроб. Цепи выглядят прочными и практически\#неснимаемыми.
 A pale tree pushes through the ground. You could climb down if\#you wanted to.<#>Бледное дерево пробивается сквозь землю. Вы могли бы\#спуститься.
 There is a hole here...<#>Дыра...
@@ -5929,7 +5929,7 @@ A cast-iron coffin. It's sealed shut.<#>Цельнометаллический �
 <!-- Map Name: Central_Prehevil --><#>
 <!-- In-game Displayed Name: Prehevil - Central --><#>Прехевил - Центр
 <!-- Order --><#>40
-GabText The city feels eerily quiet. Only lifeless husks wander its streets.<#>GabText В городе жутко тихо. Лишь бездушные тела бродят по\#улицам.
+GabText The city feels eerily quiet. Only lifeless husks wander its streets.<#>GabText В городе жутко тихо. Лишь бездушные тела бродят по улицам.
 An empty barrel left here to barricade the street.<#>Здесь оставлена пустая бочка для баррикады улицы.
 GabText The rifleman is shot down!<#>GabText Стрелок убит!
 GabText You shoot the leg of the rifleman!<#>GabText Вы отстрелили ногу стрелку!
@@ -5959,7 +5959,7 @@ A cast iron coffin. It's sealed shut.<#>Цельнометаллический �
 <!-- Map Name: Prehevil_West --><#>
 <!-- In-game Displayed Name: Prehevil - West --><#>Прехевил - Запад
 <!-- Order --><#>86
-GabText The ruination of this area seems somewhat recent.<#>GabText Выглядит так, будто разрушения в этой области\#появились недавно.
+GabText The ruination of this area seems somewhat recent.<#>GabText Выглядит так, будто разрушения в этой области появились недавно.
 GabText The half-cocooned is shot down!<#>GabText Полуобращённый убит!
 GabText You shoot the arm of the half-cocooned!<#>GabText Вы отстрелили руку полуобращённому!
 GabText The half-cocooned is hurt!<#>GabText Полуобращённый ранен!
@@ -6516,7 +6516,7 @@ The Fellatio Effigy is set on the pedestal.<#>Статуэтка самоудо�
 There is a body of woman in a wedding dress here. The woman\#seems to still have her wedding ring on...<#>Здесь лежит тело женщины в свадебном платье. Похоже,\#на ней до сих пор надето свадебное кольцо...
 You take the \c[2]Betel's stone\c[0]!<#>Вы взяли \c[2]кольцо Бетеля\c[0]!
 There is a body of woman in a wedding dress here...<#>Здесь лежит тело женщины в свадебном платье.
-GabText Your footsteps echo in the presence of the older gods.<#>GabText Ваши шаги раздаются эхом в присутствии древних\#богов.
+GabText Your footsteps echo in the presence of the older gods.<#>GabText Ваши шаги раздаются эхом в присутствии древних богов.
 A statue of The Mourning One. The Mourning One must be\#considered a saint around these parts.<#>Статуя Скорбящего. Скорбящий, должно быть, считается святым\#в этих землях.
 The statue is broken. It seems to have been so for a long\#time.<#>Статуя сломана. Похоже, уже давно.
 The sarcofagus is sealed shut.<#>Саркофаг запечатан наглухо.
@@ -6891,7 +6891,7 @@ She refuses to say anything. She is just shaking her head.<#>Она отказы
 \>\i[81]\}AMARIE\{\<\#"Marina. I'll see you there."<#>\>\}\i[383]АМАРИ\{\<\#«Марина. Увидимся там.»
 \>\i[76]\}ARINA\{\<\#"... Yup."<#>\>\}\i[378]АРИНА\{\<\#«...Ага.»
 \>\i[81]\}AMARIE\{\<\#"I'll go to the club."<#>\>\}\i[383]АМАРИ\{\<\#«Я пойду в клуб.»
-GabText The boarded walls only emphasize the claustrophobia.<#>GabText Деревянные стены лишь усиливают чувство\#клаустрофобии.
+GabText The boarded walls only emphasize the claustrophobia.<#>GabText Деревянные стены лишь усиливают чувство клаустрофобии.
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"\N[3]! You came!"<#>\>\}\i[385]ЕРНОВОЛОСАЯ ДЕВУШКА\{\<\#«\N[3]! Ты пришла!»
 \>\i[65]\}LACK-HAIRED GIRL\{\<\#"I knew you'd come for me!"<#>\>\}\i[385]ЕРНОВОЛОСАЯ ДЕВУШКА\{\<\#«Я знала, что ты придешь за мной!»
 \>\i[76]\}ARINA\{\<\#"Sorry. Don't know you."<#>\>\}\i[378]АРИНА\{\<\#«Прости. Я тебя даже не знаю.»
@@ -7313,14 +7313,14 @@ The sarcofagus looks hundreds of years old. It must be close to\#as old as this 
 The stone slab cover doesn't seem to budge. Either it's heavier than\#what it looks like or there is a mechanism keeping it in place.<#>Каменная плита не поддаётся. Либо она тяжелее, чем кажется,\#либо внутри есть какой-то механизм, удерживающий её на\#месте.
 \>\i[76]\}ARINA\{\<\#"I guess we need to check up on that girl..."<#>\>\}\i[378]АРИНА\{\<\#«Я думаю, мы должны проверить эту девочку...»
 Karin unlocked the cell door with her lockpicking skills.<#>Карин отперла камеру с помощью своих навыков взлома.
-GabText The air is filled with the absolutely disgusting scent of gore!<#>GabText Воздух заполнен совершенно отвратительным запахом\#крови!
+GabText The air is filled with the absolutely disgusting scent of gore!<#>GabText Воздух заполнен совершенно отвратительным запахом крови!
 It's a crucifix of Alll-mer. The statue's expression is that of\#vengeance and rage.<#>Распятие Алл-мера. Лицо статуи выражает эмоции ярости и\#мести.
 The statue of a winged being seems to be holding something...<#>Статуя крылатого существа, похоже, что-то держит...
 Reach out and grab it<#>Дотянуться и схватить
 You take the \c[2]Martyr effigy\c[0]!<#>Вы взяли \c[2]статуэтку мученика\c[0]!
 You cannot quite explain why, but the small statuette feels to hold\#great importance...<#>Вы не можете объяснить почему, но эта маленькая статуэтка\#ощущается так, будто имеет огромное значение...
 It's a statue of a winged being.<#>Статуя крылатого существа.
-GabText The creature lost few tentacles but seems unhurt otherwise.<#>GabText Существо потеряло пару щупалец, но в остальном\#невредимо.
+GabText The creature lost few tentacles but seems unhurt otherwise.<#>GabText Существо потеряло пару щупалец, но в остальном невредимо.
 You find a \c[2]Rusty key\c[0]!<#>Вы нашли \c[2]ржавый ключ\c[0]!
 You find \c[2]Church keys\c[0] and \c[2]Sewer keys\c[0]!<#>Вы нашли \c[2]ключи от церкви\c[0] и \c[2]ключи от\#канализации\c[0]!
 "The perfection circle. The gods among men. The men among gods."<#>«Круг совершенства. Боги среди людей. Люди среди богов.»
@@ -7662,7 +7662,7 @@ Even if the subject doesn't especially interest you, the tale\#does get your hea
 <!-- Map Name: Prehevil_Back_alleys --><#>
 <!-- In-game Displayed Name: Prehevil - Back alleys --><#>Прехевил - Переулки
 <!-- Order --><#>66
-GabText Only a lone wind howl accompanies you in these empty alleyways.<#>GabText Лишь одинокие завывания ветра слышатся в пустых\#переулках.
+GabText Only a lone wind howl accompanies you in these empty alleyways.<#>GabText Лишь одинокие завывания ветра слышатся в пустых переулках.
 GabText The beekeeper just soldiers through the trap!<#>GabText Пчеловоду наплевать на ловушку!
 GabText The fecal hound is shot down!<#>GabText Фекальная гончая убита!
 GabText The beekeeper is shot down!<#>GabText Пчеловод убит!
@@ -8560,17 +8560,17 @@ He's dead and headless.<#>Он мёртв и обезглавлен.
 Levi looks dead. He has foam coming from his mouth...<#>Леви выглядит мёртвым. Из его рта сочится пена...
 GabText You hear some people talk outside the club...<#>GabText Вы слышите, как кто-то говорит снаружи...
 GabText You hear some talk outside the club...<#>GabText Вы слышите разговоры снаружи...
-GabText You hear someone or something approach from the staircase...<#>GabText Вы слышите, как кто-то или что-то приближается по\#лестнице...
+GabText You hear someone or something approach from the staircase...<#>GabText Вы слышите, как кто-то или что-то приближается по лестнице...
 GabText Seems like whatever it was, it didn't notice you...<#>GabText Кем бы он ни был, он вас не заметил...
-GabText It sounds like something big is moving on the streets...<#>GabText Звучит так, будто что-то большое двигается по\#улицам...
+GabText It sounds like something big is moving on the streets...<#>GabText Звучит так, будто что-то большое двигается по улицам...
 GabText An eerie wind echoes outside...<#>GabText Ветер разносится эхом снаружи...
 GabText The streets outside sound strangely quiet today...<#>GabText Снаружи сегодня загадочно тихо...
 GabText You hear a distant explosion...<#>GabText Вы слышите отдалённый взрыв...
 GabText Pistol shots echo in the streets outside...<#>GabText Пистолетные выстрелы раздаются эхом снаружи...
 GabText You are feeling constantly hungry...<#>GabText Вы ощущаете постоянный голод...
-GabText The idea passes through your mind, what is this is how you die?<#>GabText В ваш разум проскакивает мысль - неужели вы вот так\#умрёте?
+GabText The idea passes through your mind, what is this is how you die?<#>GabText В ваш разум проскакивает мысль - неужели вы вот так умрёте?
 GabText The walls feel to be closing in on you...<#>GabText Стены будто давят на вас...
-GabText The air feels heavy and musky. It's hard to breath...<#>GabText Воздух ощущается тяжёлым и мускусным. Дышать\#тяжело...
+GabText The air feels heavy and musky. It's hard to breath...<#>GabText Воздух ощущается тяжёлым и мускусным. Дышать тяжело...
 \>\i[74]\}ARIN\{\<\#"You don't deserve this, but food?"<#>\>\}\i[376]АРИН\{\<\#«Ты этого не заслуживаешь, но вот еда.»
 Karin spits on the bread before giving it to you.<#>Карин плюёт на хлеб, перед тем как дать его вам.
 Take it anyway<#>Всё равно забрать
@@ -8710,7 +8710,7 @@ The doors are locked from the other side...<#>Двери закрыты с др�
 The books are growing together because of the white crust that is\#covering this entire building.<#>Книги срослись вместе белой коркой, покрывающей всё это\#здание.
 All the spare keys to the apartments appear to be here...<#>Все запасные ключи от квартир, должно быть, находятся\#здесь...
 Among them you find the \c[2]Master key\c[0]!<#>Среди них вы нашли \c[2]мастер-ключ\c[0]!
-GabText Quiet... All the sounds from outside are muffled by the thick walls.<#>GabText Тихо... Все звуки снаружи приглушаются толстыми\#стенами.
+GabText Quiet... All the sounds from outside are muffled by the thick walls.<#>GabText Тихо... Все звуки снаружи приглушаются толстыми стенами.
 A toolbox with random tools for everyday apartment maintenance.<#>Ящик со случайными инструментами для повседневного ухода\#за квартирой.
 A dirty bucket used for cleaning. The mop is sealed inside the bucket.\#You cannot get it out.<#>Грязное ведро, используемое для уборки. Швабра приросла к\#ведру. Вы не можете оторвать её.
 A dirty bucket used for cleaning.<#>Грязное ведро, используемое для уборки.
@@ -8961,7 +8961,7 @@ Push it<#>Сдвинуть её
 The door is locked with a simple lock. There is handwriting on the\#door that says "Please do not disturb."<#>Дверь заперта на простой замок. На дверь приклеена\#рукописная табличка: «Пожалуйста, не беспокойте.»
 There is a moldy bed here... You could sleep and rest if you wanted\#to, although every alarm bell is ringing in your head when it comes\#to this apartment, not to mention the dolls...<#>Здесь стоит заплесневелая кровать... Вы могли бы поспать\#и отдохнуть, но все ваши чувства бьют тревогу, когда речь\#заходит об этой квартире, не говоря уже о куклах...
 Rest with the dolls<#>Отдохнуть с куклами
-GabText It's so quiet. No one could probably hear your scream from here...<#>GabText Здесь так тихо... Вероятно, никто даже не услышит\#ваш крик...
+GabText It's so quiet. No one could probably hear your scream from here...<#>GabText Здесь так тихо... Вероятно, никто даже не услышит ваш крик...
 Tanaka has a blank expression on his face. He doesn't seem to react\#to any of your moves...<#>У Танаки пустое выражение лица. Он, кажется, совершенно\#на вас не реагирует...
 The telescope seems to be carefully positioned here, but you cannot\#tell where it points at because the window is covered in white crust.<#>Тут аккуратно расположен телескоп, но вы не знаете, куда он\#направлен, ведь окно полностью покрыто белой коркой.
 Mold has filled the book pages. You can't make any sense of it.<#>Книжные страницы заполнила плесень. Текст не разглядеть.
@@ -9000,7 +9000,7 @@ There is only a thin layer of dust filling the shelves.<#>Лишь тонкий 
 There is a hole here. You could jump down if you wanted to.<#>Дыра. Вы могли бы спрыгнуть.
 It's dark down there. You can see a sigil of some kind shining\#faintly in the darkness.<#>Там темно. Вы видите лишь какой-то символ, слабо\#светящийся в темноте.
 It's dark down there. You can't see anything else.<#>Там темно. Больше вы ничего не видите.
-GabText All the hot air from the lower floors must've risen up here.<#>GabText Похоже, весь горячий воздух с нижних этажей поднялся\#сюда.
+GabText All the hot air from the lower floors must've risen up here.<#>GabText Похоже, весь горячий воздух с нижних этажей поднялся сюда.
 Liquids are being drained from her.<#>Из неё высасываются жидкости.
 Liquids are being drained from him.<#>Из него высасываются жидкости.
 GabText The giant is shot down!<#>GabText Гигант убит!
@@ -9047,7 +9047,7 @@ You feel nothing.<#>Вы ничего не чувствуете.
 <!-- Order --><#>94
 This globe is a little outdated. The Second Great War demolished\#many country borders as well as gave a new identy to some nations.<#>Глобус немного устарел. Вторая мировая война уже уничтожила\#много стран, переместила мировые границы и даже создала\#некоторые новые государства.
 The shelves are stacked with utility items and miscellaneous school\#supplies.<#>Полки забиты бытовыми предметами и различным школьным\#оборудованием.
-GabText Dust specks float quietly in the air. The air is foreboding.<#>GabText Пылинки медленно плавают по воздуху. Витает дурное\#чувство.
+GabText Dust specks float quietly in the air. The air is foreboding.<#>GabText Пылинки медленно плавают по воздуху. Витает дурное чувство.
 There're only random school papers here. Nothing useful.<#>Здесь только случайные школьные бумаги. Ничего полезного.
 GabText The fallen cherub is shot down!<#>GabText Падший херувим убит!
 The door seems to be locked from the other side.<#>Дверь, похоже, заперта с другой стороны.
@@ -9511,7 +9511,7 @@ Something is slowly approaching from the upstairs...<#>Кто-то медлен�
 <!-- Map --><#>082
 <!-- Map Name: Otherside --><#>
 <!-- Order --><#>138
-GabText The blinking lights accompany you on this lone alley.<#>GabText Мигающие огни сопровождают вас в этом уединённом\#переулке.
+GabText The blinking lights accompany you on this lone alley.<#>GabText Мигающие огни сопровождают вас в этом уединённом переулке.
 \>\i[74]\}ARIN\{\<\#"Now what? This is like a fever dream!"<#>\>\}\i[376]АРИН\{\<\#«Что теперь? Это какой-то лихорадочный сон!»
 \>\i[74]\}ARIN\{\<\#"I hope you know what you're doing... Because I frankly I have no\#idea what's going on anymore."<#>\>\}\i[376]АРИН\{\<\#«Я надеюсь, ты знаешь, что делаешь... Потому что я, честно,\#не имею понятия, что тут происходит.»
 \>\i[76]\}ARINA\{\<\#"Woaah... This is incredible!"<#>\>\}\i[378]АРИНА\{\<\#«Воооу... Это невероятно!»
@@ -9620,7 +9620,7 @@ The masked person seems to be in a trance of some kind, just repeating\#the same
 \>\i[73]\}EEVES\{\<\#"I would have liked to introduce you to some of my closest\#acquaintances..."<#>\>\}\i[372]ЖИВС\{\<\#«Я бы хотел представить вас некоторым моим\#ближайшим знакомым...»
 \>\i[73]\}EEVES\{\<\#"But I cannot seem to remember where they could have gone... They\#must still be at the ball, somewhere."<#>\>\}\i[372]ЖИВС\{\<\#«Но я не могу вспомнить, куда они ушли...\#Они должны быть где-то тут, на балу.»
 \>\i[73]\}EEVES\{\<\#"Well in case you run into them, tell them I sent you. The ones I\#talk about are 'The Red Devil', "The Sun Priestess' and "The Happy\#Mask Salesman' of course."<#>\>\}\i[372]ЖИВС\{\<\#«Ну, в случае, если вы их встретите, скажите им, что я послал\#вас. Люди, о которых я говорю - „Красный дьявол“, „Жрица\#Солнца“ и, конечно же, „Счастливый продавец в маске“.»
-GabText The museum has an infectiously festive feel inside.<#>GabText Внутри музея царит заразительно праздничная\#атмосфера.
+GabText The museum has an infectiously festive feel inside.<#>GabText Внутри музея царит заразительно праздничная атмосфера.
 \>\i[76]\}ASKED PERSON\{\<\#"35 minutes... 25 until the next hour..."<#>\>\}\i[385]ЕЛОВЕК В МАСКЕ\{\<\#«35 минут... 25 до следующего часа...»
 \>\i[76]\}ASKED PERSON\{\<\#"Thirty-five...<#>\>\}\i[385]ЕЛОВЕК В МАСКЕ\{\<\#«Тридцать-пять...»
 \>\i[76]\}ASKED PERSON\{\<\#"thirty-five...<#>\>\}\i[385]ЕЛОВЕК В МАСКЕ\{\<\#«тридцать-пять...»
@@ -9855,21 +9855,21 @@ The yellow mage looks weirdly nonchallant and not disturbed by the\#screams.<#>�
 The dried man is holding something tightly in his fist...<#>Иссушенный человек что-то крепко сжимает в руке...
 You find a \c[2]Leechmonger ring\c[0]!<#>Вы нашли \c[2]кольцо Пиявочника\c[0]!
 The dried man looks dead. He's not breathing and looks almost\#mummified for whatever reason.<#>Кажется, иссушенный человек мёртв. Он не дышит и, по\#какой-то причине, выглядит почти мумифицированным.
-GabText Vertigo distorts the view of the lower rooms. You feel dizzy.<#>GabText Завороты искажают вид нижних помещений. У вас\#кружится голова.
+GabText Vertigo distorts the view of the lower rooms. You feel dizzy.<#>GabText Завороты искажают вид нижних помещений. У вас кружится голова.
 <!-- Map --><#>086
 <!-- Map Name: Department_store_3 --><#>
 <!-- In-game Displayed Name: Department store --><#>Универмаг
 <!-- Order --><#>85
 Levi is looking behind nervously.<#>Леви нервно оглядывается.
 You take the \c[2]Chainmail dress\c[0]!<#>Вы взяли \c[2]кольчужное одеяние\c[0]!
-GabText The stores offer at least some sense of normalcy that once was.<#>GabText Магазины предлагают какую-то нормальность, некогда\#бывшую здесь.
+GabText The stores offer at least some sense of normalcy that once was.<#>GabText Магазины предлагают какую-то нормальность, некогда бывшую здесь.
 <!-- Map --><#>087
 <!-- Map Name: School2 --><#>
 <!-- In-game Displayed Name: School - Level 1 --><#>Школа - Уровень 1
 <!-- Order --><#>95
 There's blood everywhere...<#>Здесь везде кровь...
 GabText A dull odor lingers the hallways...<#>GabText Неприятный запах витает в коридорах...
-GabText Despite being a place for children, you sense no joy.<#>GabText Несмотря на то, что это место для детей, вы не\#чувствуете радости.
+GabText Despite being a place for children, you sense no joy.<#>GabText Несмотря на то, что это место для детей, вы не чувствуете радости.
 The paintings seem to depict the past teachers and headmasters\#that worked in the building.<#>На картинах, похоже, изображены бывшие учителя и директора\#этого здания.
 Everyone has the same stoic and cold expression on their face.<#>У всех одинаково мужественное и холодное выражение лица.
 The books show detailed schedules of everyone living in the\#orphanage.<#>В книгах в деталях описан распорядок дня каждого\#проживающего в приюте.
@@ -10071,7 +10071,7 @@ There is a lit candle here.<#>Здесь стоит зажжённая свеч�
 \>\i[67]\}R. KEFER\{\<\#"You didn't go downstairs, did you!?"<#>\>\}\i[372]Р. КЕФЕР\{\<\#«Ты же не спускал\x[ся|ась] вниз, да?!»
 \>\i[67]\}R. KEFER\{\<\#"There are things there that would best be forgotten. Touching and\#groping things you don't understand never ends well."<#>\>\}\i[372]Р. КЕФЕР\{\<\#«Там лежат вещи, о которых лучше забыть. Если ты\#будешь трогать и щупать вещи, о которых ничего не знаешь,\#это не кончится ничем хорошим.»
 \>\i[67]\}R. KEFER\{\<\#"You didn't do any purloin' back there did you?"<#>\>\}\i[372]Р. КЕФЕР\{\<\#«Ты же там ничего не стащил\x[|а], да?!»
-GabText A smell of old spices and incense fills the dusty air.<#>GabText Запах старинных специй и ладана наполняет пыльный\#воздух.
+GabText A smell of old spices and incense fills the dusty air.<#>GabText Запах старинных специй и ладана наполняет пыльный воздух.
 GabText The atmosphere became heavy all of a sudden...<#>GabText Атмосфера внезапно стала тяжёлой...
 The downstairs sound quiet...<#>Снизу тихо...
 <!-- Map --><#>090
@@ -10187,7 +10187,7 @@ The sword shaped object on the back is stuck on the beast. No matter\#how much y
 You try to bite in, but your mouth gets full of fur. You don't like\#the feeling, so you decide not to continue.<#>Вы пытаетесь сделать укус, но ваш рот забивается\#шерстью. Вам это не нравится, так что вы решаете\#не продолжать.
 You can't move the torso to a proper position to harvest any organs.\#The beast is too heavy.<#>Вы не можете подвинуть тело в подходящую позицию\#для сбора органов. Зверь слишком тяжёлый.
 You pick up a \c[2]Eye of Sylvian\c[0].<#>Вы подобрали \c[2]око Сильвиан\c[0].
-GabText You hear something large approaching you...<#>GabText Вы слышите, как что-то огромное приближается к\#вам...
+GabText You hear something large approaching you...<#>GabText Вы слышите, как что-то огромное приближается к вам...
 GabText You managed to wound the beast...<#>GabText Вам удалось ранить зверя...
 \>\i[64]\}UGUST\{\<\#"Hold it.\. I'll take care of her."<#>\>\}\i[368]ВГУСТ\{\<\#«Отойдите.\. Я позабочусь о ней.»
 \>\i[64]\}UGUST\{\<\#"Easy girl. \{Easy.\}"<#>\>\}\i[368]ВГУСТ\{\<\#«Хорошая девочка. \{Тише.\}»
@@ -10305,7 +10305,7 @@ A pile of suitcases left here. They must belong to hotel residents.<#>Здесь
 \>\i[75]\}EVI\{\<\#"Apparently they found seven skeletons from his basement. They\#were all children he had murdered."<#>\>\}\i[377]ЕВИ\{\<\#«Вроде как, в его подвале нашли семь человеческих скелетов.\#Они все принадлежали детям, которых он убил.»
 \>\i[76]\}ARCOH\{\<\#"I guess this place is better than nothing, but I'd really prefer\#not to stay here for the night."<#>\>\}\i[378]АРКО\{\<\#«Я думаю, что это место лучше, чем ничего, но я точно не\#хотел бы остаться здесь на ночь.»
 GabText A stench of mold hits you the moment you step inside.<#>GabText Запах плесени поражает вас сразу на входе.
-GabText This hotel must have had severe water damage over the years...<#>GabText Этот отель, должно быть, сильно пострадал от влаги\#за эти годы...
+GabText This hotel must have had severe water damage over the years...<#>GabText Этот отель, должно быть, сильно пострадал от влаги за эти годы...
 <!-- Map --><#>095
 <!-- Map Name: Apartments_small --><#>
 <!-- In-game Displayed Name: Old apartments 1F --><#>Старые апартаменты 1Э
@@ -10323,7 +10323,7 @@ Some useless junk. The person living here must be too lazy to\#carry their trash
 \>\i[76]\}ARCOH\{\<\#"...Don't worry. I can help."<#>\>\}\i[378]АРКО\{\<\#«...Не волнуйся. Я могу помочь.»
 \>\i[78]\}LIVIA\{\<\#"Oh thank you... You really don't have to..."<#>\>\}\i[380]ЛИВИЯ\{\<\#«О, спасибо тебе... Но не стоит, правда...»
 \>\i[76]\}ARCOH\{\<\#"Nothing. What do you mean?"<#>\>\}\i[378]АРКО\{\<\#«Всё хорошо. Что ты имеешь в виду?»
-GabText Cobwebs slowly wave in the corner as you enter the building...<#>GabText Паутина по углам медленно колышется, когда вы\#входите...
+GabText Cobwebs slowly wave in the corner as you enter the building...<#>GabText Паутина по углам медленно колышется, когда вы входите...
 <!-- Map --><#>096
 <!-- Map Name: Sewage_treatment_plant --><#>
 <!-- In-game Displayed Name: Sewage treatment plant --><#>Станция очистки сточных вод
@@ -11197,7 +11197,7 @@ Osaa's body...<#>Тело О'саа...
 <!-- Map Name: devils_island --><#>
 <!-- In-game Displayed Name: D'ábel's island --><#>Остров Дабль
 <!-- Order --><#>107
-GabText A cold wind sweeps the barren island...<#>GabText Холодный ветер проносится по безжизненному\#острову...
+GabText A cold wind sweeps the barren island...<#>GabText Холодный ветер проносится по безжизненному острову...
 Step on board and return to the mainland<#>Лодка в довольно хорошей форме. Больше нечего сказать о ней.
 GabText Something seems to be approaching...<#>GabText Кажется, что-то приближается к вам...
 \>\i[76]\}ARINA\{\<\#"Never been here before... The grown ups always told us not to\#play near the water, not to mention taking a boat and rowing to\#the unkwnown."<#>\>\}\i[378]АРИНА\{\<\#«Никогда не была здесь раньше... Взрослые говорили нам не\#играть рядом с озером, не говоря уже о том, чтобы взять\#лодку и сплавать в неизвестность.»
@@ -11219,7 +11219,7 @@ GabText Something seems to be approaching...<#>GabText Кажется, что-т
 <!-- Map Name: Deepest_woods --><#>
 <!-- In-game Displayed Name: Deepest woods --><#>Глубочайший лес
 <!-- Order --><#>130
-GabText The air feels damp and heavy in this part of the forest...<#>GabText В этой части леса воздух ощущается влажным и\#тяжёлым.
+GabText The air feels damp and heavy in this part of the forest...<#>GabText В этой части леса воздух ощущается влажным и тяжёлым.
 GabText The centaur is shot down!<#>GabText Кентавр убит!
 GabText You shoot a leg of the centaur!<#>GabText Вы отстрелили ногу кентавру!
 GabText The centaur tanks your shots!<#>GabText Кентавр впитывает ваши выстрелы!
@@ -11544,7 +11544,7 @@ You find a \c[2]Coded letter #2\c[0]!<#>Вы нашли \c[2]зашифрова�
 <!-- Map Name: hollow_tower --><#>
 <!-- In-game Displayed Name: The hollow tower --><#>Полая башня
 <!-- Order --><#>50
-GabText The hollow tower rises up to dizzying heights...<#>GabText Полая башня возвышается на головокружительные\#высоты...
+GabText The hollow tower rises up to dizzying heights...<#>GabText Полая башня возвышается на головокружительные высоты...
 <!-- Map --><#>120
 <!-- Map Name: hollow_tower2 --><#>
 <!-- Order --><#>51
@@ -11787,7 +11787,7 @@ Miscellaneous tools laid on the floor. Nothing looks useful to you\#right now.<#
 \i[326] Logic<#>\i[326] Логика
 \i[325] Old site<#>\i[325] Старый узел
 The path here has caved in, or it has been demolished on purpose.<#>Путь здесь обвалился, либо же был снесён намеренно.
-GabText Dust is floating in the air. This old site seems abandoned.<#>GabText Пыль парит в воздухе. Это старое место выглядит\#заброшенным.
+GabText Dust is floating in the air. This old site seems abandoned.<#>GabText Пыль парит в воздухе. Это старое место выглядит заброшенным.
 <!-- Map --><#>128
 <!-- Map Name: tunnels_0_cables1 --><#>
 <!-- In-game Displayed Name: White bunker - Connecting bridge --><#>Белый бункер - Соединяющий мост
@@ -12168,14 +12168,14 @@ GabText Warmth surrounds your body...<#>GabText Тепло окружает ва
 GabText It feels like you're floating in nothingness...<#>GabText Такое ощущение, что вы парите в небытие...
 GabText Empathy and hope fill you from inside out...<#>GabText Сопереживание и надежда наполняют вас изнутри...
 GabText You've gone through enough. Now you can rest...<#>GabText Вы прошли достаточно. Теперь вы можете отдохнуть...
-GabText Just close your eyes and let the warm waves wash you away...<#>GabText Просто закройте глаза и позвольте тёплым волнам\#смыть вас...
+GabText Just close your eyes and let the warm waves wash you away...<#>GabText Просто закройте глаза и позвольте тёплым волнам смыть вас...
 <!-- Map --><#>144
 <!-- Map Name: Alternate_path --><#>
 <!-- In-game Displayed Name: Outskirts of Prehevil --><#>Окраины Прехевила
 <!-- Order --><#>13
 \>\i[67]\}AAN\{\<\#"One second we were at the burned building and now we're here."<#>\>\}\i[372]ААН\{\<\#«Секунду назад мы были в сожжённом здании, а теперь мы\#здесь.»
 \>\i[67]\}AAN\{\<\#"We are not in the normal world anymore I presume..."<#>\>\}\i[372]ААН\{\<\#«Мы больше не в обычном мире, я так полагаю...»
-GabText A cold wind blows in the dark empty before you.<#>GabText Холодный ветерок устремляется в тёмную пустоту перед\#вами.
+GabText A cold wind blows in the dark empty before you.<#>GabText Холодный ветерок устремляется в тёмную пустоту перед вами.
 <!-- Map --><#>145
 <!-- Map Name: Hidden_woods --><#>
 <!-- In-game Displayed Name: Hidden spot --><#>Скрытое местечко
@@ -12364,7 +12364,7 @@ A pile of cubes with mysterious sigils carved across it. You do\#not understand 
 \>\i[76]\}ARINA\{\<\#"In any other circumstance this would be kind of cute... But it's\#uncanny seeing stuff like this here."<#>\>\}\i[378]АРИНА\{\<\#«При любых других обстоятельствах, всё было бы даже\#немного мило... Но сейчас, жутко видеть подобное.»
 \>\i[64]\}BELLA\{\<\#"Is this a children's room...?"<#>\>\}\i[368]БЕЛЛА\{\<\#«Это детская комната...?»
 \>\i[78]\}LIVIA\{\<\#"Does someone live here?"<#>\>\}\i[380]ЛИВИЯ\{\<\#«Здесь вообще кто-нибудь живёт?»
-GabText The room has an eerie atmosphere. Something is very wrong about this place.<#>GabText Комната окутана жутью. С этим местом явно что-то не\#так.
+GabText The room has an eerie atmosphere. Something is very wrong about this place.<#>GabText Комната окутана жутью. С этим местом явно что-то не так.
 <!-- Map --><#>151
 <!-- Map Name: endings --><#>
 <!-- Order --><#>176
@@ -12520,7 +12520,7 @@ Nothing interesting here.<#>Здесь ничего интересного.
 The table is scorched...<#>Стол обгорел...
 GabText Father Hugo is shot down.<#>GabText Отец Хьюго убит.
 GabText Father Hugo is shot down!<#>GabText Отец Хьюго убит!
-GabText As if mocking firearms, the priest embraces your shots with joy.<#>GabText Насмехаясь над выстрелами, священник радостно\#приветствует вас.
+GabText As if mocking firearms, the priest embraces your shots with joy.<#>GabText Насмехаясь над выстрелами, священник радостно приветствует вас.
 A broken Tes'tich table stands before you. It's no use to you like\#this...<#>Сломанный стол Тес'тич стоит перед вами. Он не в форме\#для использования...
 A Tes'tich table stands before you...<#>Стол Тес'тич стоит перед вами...
 Use hexen<#>Воспользоваться хексеном

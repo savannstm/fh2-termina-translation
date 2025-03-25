@@ -171,8 +171,8 @@ Your plead have absolutely no effect. It feels like the creature's\#mind works o
 Your threats have absolutely no effect. It feels like the creature's\#mind works on another plane entirely.<#>Ваши угрозы не оказывают абсолютно никакого эффекта. Такое\#ощущение, что разум этого существа находится на совершенно\#другом уровне.
 GabText Ronteal's skin begins to rot...<#>GabText Кожа Ронтила начинает гнить...
 GabText You've exposed the weaknesses of the ronteal!<#>GabText Вы выявили слабости Ронтила!
-GabText A ronteal wobbles towards you. Its mouths are dripping saliva.<#>GabText Ронтил, пошатываясь, приближается к вам. Из его ртов\#капает слюна.
-GabText Ronteal keeps closing in on you despite losing its head.<#>GabText Ронтил продолжает приближаться, несмотря на то, что\#обезглавлен.
+GabText A ronteal wobbles towards you. Its mouths are dripping saliva.<#>GabText Ронтил, пошатываясь, приближается к вам. Из его ртов капает слюна.
+GabText Ronteal keeps closing in on you despite losing its head.<#>GabText Ронтил продолжает приближаться, несмотря на то, что обезглавлен.
 GabText You dodge the pendulum!<#>GabText Вы уклоняетесь от маятника!
 <!-- Event Name: Villager2 --><#>
 choice_text 1 \}[PERSUADE]\{ "Something terrible has obviously happened. Let me help!"<#>choice_text 1 \}[УБЕДИТЬ]\{ «Очевидно, здесь произошло что-то ужасное. Позволь мне помочь!»
@@ -227,7 +227,7 @@ GabText You can't figure out the weaknesses of the vile...<#>GabText Вы не �
 GabText You stole 2 \c[2]White vials\c[0]!<#>GabText Вы украли 2 \c[2]белых флакона\c[0]!
 GabText You stole \c[2]Pep pills\c[0]!<#>GabText Вы украли \c[2]бодрящие таблетки\c[0]!
 GabText The Vile is blinded! His eye socket is filling up with blood.<#>GabText Мерзость ослеплён! Его глазницы наполняются кровью.
-GabText Vile charges at you with a blank expression on his gas mask!<#>GabText Мерзость бежит на вас с пустым выражением лица в\#противогазе!
+GabText Vile charges at you with a blank expression on his gas mask!<#>GabText Мерзость бежит на вас с пустым выражением лица в противогазе!
 GabText Vile loses his balance.<#>GabText Мерзость теряет равновесие.
 A man with a pigskin gas mask is pursuing you furiously!<#>Человек в противогазе из свиной кожи яростно преследует вас!
 Your words are in vain. The man is clearly out for blood.<#>Ваши слова напрасны. Этот человек явно жаждет крови.
@@ -284,7 +284,7 @@ Despite his words, the gentleman seems a bit nervous.<#>Несмотря на с
 \>\i[70]\}ENTLEMAN\{\<\#"Perhaps with the right wine... I will be able to wash away the\#bad taste you left."<#>\>\}\i[372]ЖЕНТЛЬМЕН\{\<\#«Возможно, с хорошо подобранным вином... Я смогу смыть\#неприятный привкус, который останется от тебя.»
 GabText The gentleman's skin begins to rot beneath his shirt...<#>GabText Кожа джентльмена начинает гнить под рубашкой...
 GabText You can't figure out the weaknesses of the gentleman...<#>GabText Вы не можете выявить слабости джентльмена...
-GabText You stole a \c[2]Meatpie+\c[0] and a \c[2]Vegetable pie+\c[0]!<#>GabText Вы украли \c[2]мясной пирог+\c[0] и \c[2]овощной\#пирог+\c[0]!
+GabText You stole a \c[2]Meatpie+\c[0] and a \c[2]Vegetable pie+\c[0]!<#>GabText Вы украли \c[2]мясной пирог+\c[0] и \c[2]овощной пирог+\c[0]!
 The party tries to escape... .\\#However, the creature blocks your path!<#>Группа пытается сбежать...\.\#Однако, существо преграждает вам путь!
 GabText The gentleman rises from the dinner table to confront you!<#>GabText Джентльмен встаёт из-за стола, чтобы напасть!
 GabText The gentleman loses his balance.<#>GabText Джентльмен теряет равновесие.
@@ -322,7 +322,7 @@ GabText The priest is blinded! His eyes are bleeding!<#>GabText Священни
 GabText You are assaulted by the priest!<#>GabText На вас напал священник!
 GabText An eerie silence preceeds the dark priest before you.<#>GabText Жуткая тишина сопровождает появление тёмного жреца.
 GabText Father Oscar loses his balance.<#>GabText Отец Оскар теряет равновесие.
-GabText The decrepit priest gives a sadistic wide grin...<#>GabText Губы священника расплываются в широкой садистской\#улыбке...
+GabText The decrepit priest gives a sadistic wide grin...<#>GabText Губы священника расплываются в широкой садистской улыбке...
 GabText You dodge the priest's grasp just barely!<#>GabText Вы едва уклоняетесь от хватки священника!
 The priest grabs you violently by the throat.<#>Священник яростно хватает вас за горло.
 The priest's grip is incredibly strong. Your throat is being crushed\#under his intense grip.<#>Хватка священника невероятно сильна. Ваше горло сдавливается\#под этой мощной хваткой.
@@ -439,7 +439,7 @@ GabText You stole 2 \c[2]Shillings\c[0]!<#>GabText Вы украли 2 \c[2]ши
 GabText You stole a \c[2]Turnip\c[0]!<#>GabText Вы украли \c[2]репу\c[0]!
 GabText The moonscorched loses his balance!<#>GabText Опалённый луной теряет равновесие!
 GabText The moonscorched is blinded! His eyes are bleeding!<#>GabText Опалённый луной ослеплён! Его глаза кровоточат!
-GabText A crazed villager runs straight at you in a blind fury!<#>GabText Обезумевший житель бежит прямо на вас в слепой\#ярости!
+GabText A crazed villager runs straight at you in a blind fury!<#>GabText Обезумевший житель бежит прямо на вас в слепой ярости!
 GabText The moonscorched loses his balance.<#>GabText Опалённый луной теряет равновесие.
 A man runs straight at you with an obvious killing intent.\#Even the flayed skin hanging on his waist doesn't seem to\#slow him down...<#>Человек бежит прямо на вас с явным намерением убить.\#Даже содранная кожа, свисающая с талии,\#не сдерживает его...
 "Stay back! I don't want to fight!"<#>«Отойди! Я не хочу драться!»
@@ -456,7 +456,7 @@ GabText You stole \c[2]Rotten meat\c[0]!<#>GabText Вы украли \c[2]тух
 \>\i[76]\}OONSCORCHED\{\<\#"Please... Just end this..."<#>\>\}\i[380]ПАЛЁННЫЙ ЛУНОЙ\{\<\#«Пожалуйста... Просто покончи со мной...»
 \>\i[76]\}OONSCORCHED\{\<\#"MY SKIN... My self... I'm changing..."<#>\>\}\i[380]ПАЛЁННЫЙ ЛУНОЙ\{\<\#«МОЯ КОЖА... Моё „я”... Я меняюсь...»
 GabText You stole an \c[2]Egg\c[0]!<#>GabText Вы украли \c[2]яйцо\c[0]!
-GabText The crazed villager is too busy to even pay attention to you.<#>GabText Обезумевший житель занят, он не обращает на вас\#внимание.
+GabText The crazed villager is too busy to even pay attention to you.<#>GabText Обезумевший житель занят, он не обращает на вас внимание.
 GabText The crazed villager is in frenzy peeling his face off.<#>GabText Обезумевший житель безумно обдирает своё лицо.
 GabText The crazed villager sinks his nails into his skin.<#>GabText Обезумевший житель вонзает ногти в свою кожу.
 \>\i[76]\}OONSCORCHED\{\<\#"T-take it off! TAKE IT OFF PLEASE!"<#>\>\}\i[380]ПАЛЁННЫЙ ЛУНОЙ\{\<\#«С-сними её! СНИМИ ЕЁ, ПОЖАЛУЙСТА!»
@@ -506,7 +506,7 @@ GabText You can't figure out the weaknesses of the creature...<#>GabText Вы н
 GabText You stole a \c[2]Soul stone shard\c[0]!<#>GabText Вы украли \c[2]осколок камня душ\c[0]!
 GabText The crimson father loses his balance!<#>GabText Багровый отец теряет равновесие!
 GabText The crimson father is blinded!<#>GabText Багровый отец ослеп!
-GabText The crimson father slowly advances with its eyes fixated on you.<#>GabText Багровый отец медленно приближается, не сводя с вас\#глаз.
+GabText The crimson father slowly advances with its eyes fixated on you.<#>GabText Багровый отец медленно приближается, не сводя с вас глаз.
 \>\i[66]\}RIMSON FATHER\{\<\#"...Your father..."<#>\>\}\i[369]АГРОВЫЙ ОТЕЦ\{\<\#«...Твой отец...»
 \>\i[66]\}RIMSON FATHER\{\<\#"I'm your father..."<#>\>\}\i[369]АГРОВЫЙ ОТЕЦ\{\<\#«Я твой отец...»
 GabText The crimson father loses his balance.<#>GabText Багровый отец теряет равновесие.
@@ -600,7 +600,7 @@ GabText The flesh of the tormented one begins to rot...<#>GabText Плоть и�
 GabText The tormented one doesn't have weaknesses!<#>GabText У измученного нет слабостей!
 GabText The tormented one loses his balance!<#>GabText Измученный теряет равновесие!
 GabText Without a word, the tormented one walks towards you...<#>GabText Не говоря ни слова, измученный приближается к вам...
-GabText Relentlessly the tormented one keeps on pursuing you...<#>GabText Безжалостно, измученный продолжает преследовать\#вас...
+GabText Relentlessly the tormented one keeps on pursuing you...<#>GabText Безжалостно, измученный продолжает преследовать вас...
 GabText Something is happening to the tormented one!<#>GabText Что-то происходит с измученным!
 <!-- Event Name: Rifleman3 --><#>
 GabText A lone rifleman saw you...<#>GabText Одинокий стрелок заметил вас...
@@ -688,7 +688,7 @@ GabText You stole a \c[2]Condensed green\c[0]!<#>GabText Вы украли \c[2]
 GabText You stole a \c[2]Condensed blue\c[0]!<#>GabText Вы украли \c[2]синий концентрат\c[0]!
 GabText The owl cultist loses his balance!<#>GabText Культист совы теряет равновесие!
 GabText The cultist is blinded! His eyes are bleeding!<#>GabText Культист ослеп! Его глаза кровоточат!
-GabText An owl cultist follows your every move curiously.<#>GabText Культист совы с любопытством следит за вашими\#движениями.
+GabText An owl cultist follows your every move curiously.<#>GabText Культист совы с любопытством следит за вашими движениями.
 GabText The owl cultist loses his balance.<#>GabText Культист совы теряет равновесие.
 The owl cultist is following your every move curiously. Quickly he\#tilts his head from left to right... There is an ominous aura of\#danger in the air.<#>Культист совы с любопытством следит за каждым вашим шагом.\#Он быстро наклоняет голову слева направо... В воздухе витает\#зловещая аура опасности.
 "Stay back, I'm just passing through."<#>«Не подходи, я просто прохожу мимо.»
@@ -712,11 +712,11 @@ GabText The Neighbour's skin begins to rot...<#>GabText Кожа соседа н
 GabText You've exposed the weaknesses of the neighbour!<#>GabText Вы выявили слабости соседа!
 GabText You stole a bottle of \c[2]Beer\c[0]!<#>GabText Вы украли бутылку \c[2]пива\c[0]!
 GabText The neighbour loses his balance!<#>GabText Сосед теряет равновесие!
-GabText The neighbour crouches to your level. You smell its bad breath.<#>GabText Сосед приседает до вашего уровня. Вы чувствуете\#дурной запах из его рта.
+GabText The neighbour crouches to your level. You smell its bad breath.<#>GabText Сосед приседает до вашего уровня. Вы чувствуете дурной запах из его рта.
 GabText The neighbour snorts and a dirty cloud is emitted from its nostril.<#>GabText Сосед фыркает, его ноздри выпускают грязное облачко.
 GabText The neighbour loses its balance.<#>GabText Сосед теряет равновесие.
 The Neighbour whips its tongue out. It seems to be smelling the\#air with it.<#>Сосед высовывает язык. Кажется, что он щупает им воздух.
-GabText The neighbour charges, but you manage evading its floppy arms!<#>GabText Сосед нападает, но вам удаётся уклониться от его\#неуклюжих рук!
+GabText The neighbour charges, but you manage evading its floppy arms!<#>GabText Сосед нападает, но вам удаётся уклониться от его неуклюжих рук!
 GabText The neighbour charges with its floppy arms flailing!<#>GabText Сосед нападает на вас, размахивая огромными руками!
 <!-- Event Name: Pillarman1_new --><#>
 The pillarman tirelessly charges at you! You don't even get a chance\#to talk to him properly.<#>Столпник неустанно бросается на вас! У вас нет даже\#возможности нормально поговорить с ним.
@@ -829,7 +829,7 @@ GabText You've exposed the weaknesses of the beasts!<#>GabText Вы выявил
 GabText The beast is blinded! Its eyes are bleeding!<#>GabText Зверь ослеплён! Его глаза кровоточат!
 GabText The hound hisses at you with its saliva splattering around!<#>GabText Гончая шипит на вас, разбрызгивая вокруг слюну!
 GabText You feel nauseous just being this close to the creature...<#>GabText Вас тошнит от одного лишь присутствия существа...
-GabText A striking stench follows the hound as it approaches you...<#>GabText От приближающейся гончей веет поразительным\#зловонием...
+GabText A striking stench follows the hound as it approaches you...<#>GabText От приближающейся гончей веет поразительным зловонием...
 GabText You are starting to feel severe nausea because of the foul stench.<#>GabText Вас сильно тошнит из-за отвратительного зловония.
 <!-- Event Name: Sew job1 --><#>
 The creature has no heads or mouths to speak to. It doesn't seem\#to react to speech in any way.<#>У этого существа нет ни голов, ни ртов, с которыми можно\#было бы разговаривать. Похоже, оно никак не реагирует на\#речь.
@@ -891,7 +891,7 @@ GabText You've exposed the weaknesses of the half-cocooned!<#>GabText Вы вы�
 GabText You stole 7 \c[2]Shillings\c[0]!<#>GabText Вы украли 7 \c[2]шиллингов\c[0]!
 GabText You stole a \c[2]12-gauge shells\c[0]!<#>GabText Вы украли \c[2]патрон 12-го калибра\c[0]!
 GabText The half-cocooned loses his balance!<#>GabText Полуобращённый теряет равновесие!
-GabText The half-cocooned is blinded! His sole eye is bleeding!<#>GabText Полуобращённый ослеплён! Его единственный глаз\#кровоточит!
+GabText The half-cocooned is blinded! His sole eye is bleeding!<#>GabText Полуобращённый ослеплён! Его единственный глаз кровоточит!
 GabText A half-cocooned man swings his mallets furiously!<#>GabText Полуобращённый яростно размахивает молотками!
 The man raises his meat mallet is clear fury. He clearly has intentions\#of violence...<#>Мужчина яростно замахивается отбивным молотком. Он явно\#хочет насилия...
 GabText You dodge the swing of the half-cocooned!<#>GabText Вы уворачиваетесь от удара полуобращённого!
@@ -910,7 +910,7 @@ GabText The skin of the decrepit priest begins to rot...<#>GabText Кожа др
 GabText The decrepit priest loses his balance!<#>GabText Дряхлый священник теряет равновесие!
 GabText The decrepit priest loses his balance.<#>GabText Дряхлый священник теряет равновесие.
 <!-- Event Name: Moonscorched5 --><#>
-GabText A crazed madman runs straight at you in a blind fury!<#>GabText Сумасшедший безумец бежит прямо на вас в слепой\#ярости!
+GabText A crazed madman runs straight at you in a blind fury!<#>GabText Сумасшедший безумец бежит прямо на вас в слепой ярости!
 <!-- Event Name: Neighbour4 --><#>
 <!-- Event Name: Neighbour5 --><#>
 <!-- Event Name: Neighbour6 --><#>
@@ -987,7 +987,7 @@ GabText You stole 2 \c[2]Scrap metal\c[0]!<#>GabText Вы украли 2 кус�
 GabText You stole a \c[2]Lucky coin\c[0]!<#>GabText Вы украли \c[2]счастливую монету\c[0]!
 GabText The rat hag loses her balance!<#>GabText Крысиная карга теряет равновесие!
 GabText The rat hag is blinded! Her eyes are bleeding!<#>GabText Крысиная карга ослепла! Её глаза кровоточат!
-GabText A crazed old hag slowly rises up from the rags...<#>GabText Обезумевшая старая карга медленно поднимается из\#лохмотьев...
+GabText A crazed old hag slowly rises up from the rags...<#>GabText Обезумевшая старая карга медленно поднимается из лохмотьев...
 GabText The rat hag loses her balance.<#>GabText Крысиная карга теряет равновесие.
 GabText No new rats came for the hag's aid.<#>GabText Крысы не пришли на помощь карге.
 <!-- Event Name: Rat_lady2 --><#>
@@ -1018,7 +1018,7 @@ You managed to intimidate Henryk. His attack is wavering despite\#putting on a s
 \>\i[71]\}ENRYK\{\<\#"Hopefully it's not an issue to you."<#>\>\}\i[371]ЕНРИК\{\<\#«Надеюсь, для тебя это не проблема.»
 GabText Henryk's skin begins to rot...<#>GabText Кожа Генрика начинает гнить...
 GabText You've exposed the weaknesses of Henryk!<#>GabText Вы выявили слабости Генрика!
-GabText You stole a \c[2]Meatpie+\c[0] and a \c[2]Goulash+\c[0]!<#>GabText Вы украли \c[2]мясной пирог+\c[0] и\#\c[2]гуляш+\c[0]!
+GabText You stole a \c[2]Meatpie+\c[0] and a \c[2]Goulash+\c[0]!<#>GabText Вы украли \c[2]мясной пирог+\c[0] и \c[2]гуляш+\c[0]!
 \>\i[71]\}ENRYK\{\<\#"H-hey! I spent an eternity cooking those up!"<#>\>\}\i[371]ЕНРИК\{\<\#«Э-эй! Я потратил целую вечность, готовя их!»
 \>\i[71]\}ENRYK\{\<\#"You are not going anywhere!"<#>\>\}\i[371]ЕНРИК\{\<\#«Ты никуда не уйдёшь!»
 \>\i[71]\}ENRYK\{\<\#"Aaargh! My chopping arm! MY CHOPPING ARM!"<#>\>\}\i[371]ЕНРИК\{\<\#«Ааааа! Моя рука! МОЯ РАБОЧАЯ РУКА!»
@@ -1042,11 +1042,11 @@ choice_text 2 \}[INTIMIDATE]\{ "What do you think you'll achieve with that wrenc
 Abella became just more furious with your intimidation tactics.<#>Абелла лишь сильнее разозлилась из-за вашей тактики\#запугивания.
 GabText The skin of Abella begins to rot...<#>GabText Кожа Абеллы начинает гнить...
 GabText You've exposed Abella's weaknesses!<#>GabText Вы выявили слабости Абеллы!
-GabText You stole 4 \c[2]Bolts\c[0], 2 \c[2]Duct tapes\c[0] and a \c[2]Bench grinder\c[0]!<#>GabText Вы украли 4 \c[2]болта\c[0], 2 \c[2]изоленты\c[0] и\#\c[2]шлифовальный станок\c[0]!
+GabText You stole 4 \c[2]Bolts\c[0], 2 \c[2]Duct tapes\c[0] and a \c[2]Bench grinder\c[0]!<#>GabText Вы украли 4 \c[2]болта\c[0], 2 \c[2]изоленты\c[0] и \c[2]шлифовальный станок\c[0]!
 \>\i[64]\}BELLA\{\<\#"I don't think so!"<#>\>\}\i[368]БЕЛЛА\{\<\#«Ну уж нет!»
 GabText Abella loses her balance!<#>GabText Абелла теряет равновесие!
 GabText Abella is blinded! Her eyes are bleeding!<#>GabText Абелла ослепла! Её глаза кровоточат!
-GabText Abella whips out her wrench with a serious expression on her face.<#>GabText Абелла с серьёзным лицом выхватывает свой гаечный\#ключ.
+GabText Abella whips out her wrench with a serious expression on her face.<#>GabText Абелла с серьёзным лицом выхватывает свой гаечный ключ.
 GabText Abella loses her balance.<#>GabText Абелла теряет равновесие.
 <!-- Event Name: Marcoh --><#>
 choice_text 2 \}[PERSUADE]\{ "Why did it come down to this? I don't want to fight you."<#>choice_text 2 \}[УБЕДИТЬ]\{ «Почему всё пришло к этому? Я не хочу с тобой драться.»
@@ -1098,7 +1098,7 @@ Olivia seems very unsure about what to do.<#>Оливия выглядит оч�
 \>\i[78]\}LIVIA\{\<\#"N-no! It really doesn't! We can work together too!"<#>\>\}\i[380]ЛИВИЯ\{\<\#«Н-нет! Это не так! Мы можем работать вместе!»
 GabText Olivia's skin begins to rot...<#>GabText Кожа Оливии начинает гнить...
 GabText You've exposed the weaknesses of Olivia!<#>GabText Вы выявили слабости Оливии!
-GabText You stole a \c[2]Condensed green\c[0] and a \c[2]Condensed blue\c[0]!<#>GabText Вы украли \c[2]зелёный концентрат\c[0] и \c[2]синий\#концентрат\c[0]!
+GabText You stole a \c[2]Condensed green\c[0] and a \c[2]Condensed blue\c[0]!<#>GabText Вы украли \c[2]зелёный концентрат\c[0] и \c[2]синий концентрат\c[0]!
 \>\i[78]\}LIVIA\{\<\#"Where do you think you're going!?"<#>\>\}\i[380]ЛИВИЯ\{\<\#«Куда, по-твоему, ты направляешься?!»
 \>\i[78]\}LIVIA\{\<\#"Aaah! W-why are you doing this!?"<#>\>\}\i[380]ЛИВИЯ\{\<\#«Ааа! З-зачем ты это делаешь?!»
 \>\i[78]\}LIVIA\{\<\#"Ah!!"<#>\>\}\i[380]ЛИВИЯ\{\<\#«А!»
@@ -1169,7 +1169,7 @@ GabText You stole 10 \c[2]9mm Bullets\c[0]!<#>GabText Вы украли 10 \c[2]
 \>\i[144]\}AV\{\<\#"Sorry, you're not going anywhere."<#>\>\}\i[381]АВ\{\<\#«Извини, ты никуда не пойдёшь.»
 GabText Pav loses his balance!<#>GabText Пав теряет равновесие!
 GabText Pav is blinded! His eyes are bleeding!<#>GabText Пав ослеплён! Его глаза кровоточат!
-GabText Pav whips out his pistol faster than you're able to react!<#>GabText Пав выхватывает пистолет быстрее, чем вы успеваете\#среагировать!
+GabText Pav whips out his pistol faster than you're able to react!<#>GabText Пав выхватывает пистолет быстрее, чем вы успеваете среагировать!
 \>\i[144]\}AV\{\<\#"Too slow! Too slow!"<#>\>\}\i[381]АВ\{\<\#«Слишком медленно! Слишком медленно!»
 GabText Pav loses his balance.<#>GabText Пав теряет равновесие.
 <!-- Event Name: Daan --><#>
@@ -1183,7 +1183,7 @@ Daan looks irritated by you. You managed to anger him with your\#persuasion effo
 \>\i[67]\}AAN\{\<\#"Good talk."<#>\>\}\i[372]ААН\{\<\#«Хорошо поговорили.»
 GabText Daan's skin begins to rot...<#>GabText Кожа Даана начинает гнить...
 GabText You've exposed the weaknesses of Daan!<#>GabText Вы выявили слабости Даана!
-GabText You stole 3 \c[2]Cloth fragments\c[0], a \c[2]White vial\c[0] and a \c[2]Light blue vial\c[0]!<#>GabText Вы украли 3 \c[2]куска ткани\c[0], \c[2]белый\#флакон\c[0] и \c[2]голубой флакон\c[0]!
+GabText You stole 3 \c[2]Cloth fragments\c[0], a \c[2]White vial\c[0] and a \c[2]Light blue vial\c[0]!<#>GabText Вы украли 3 \c[2]куска ткани\c[0], \c[2]белый флакон\c[0] и \c[2]голубой флакон\c[0]!
 \>\i[67]\}AAN\{\<\#"Were you going somewhere?"<#>\>\}\i[372]ААН\{\<\#«Куда-то собираешься?»
 GabText Daan loses his balance!<#>GabText Даан теряет равновесие!
 GabText Daan is blinded! His eyes are bleeding!<#>GabText Даан ослеп! Его глаза кровоточат!
@@ -1230,7 +1230,7 @@ GabText You stole 8 \c[2]9mm Bullets\c[0]!<#>GabText Вы украли 8 \c[2]9 
 \>\i[74]\}ARIN\{\<\#"You had your chance! Now we fight!"<#>\>\}\i[376]АРИН\{\<\#«У тебя был шанс. Теперь он пропал.»
 GabText Karin loses her balance!<#>GabText Карин теряет равновесие!
 GabText Karin is blinded! Her eyes are bleeding!<#>GabText Карин ослепла! Её глаза кровоточат!
-GabText Karin cocks the gun and takes it in a firm grip.<#>GabText Карин передёргивает затвор и крепко сжимает\#пистолет.
+GabText Karin cocks the gun and takes it in a firm grip.<#>GabText Карин передёргивает затвор и крепко сжимает пистолет.
 \>\i[74]\}ARIN\{\<\#"I've killed before too. Don't think for a second that I wouldn't\#have guts to use this pistol."<#>\>\}\i[376]АРИН\{\<\#«Я тоже убивала раньше. И не думай, что у меня не хватило бы\#духу воспользоваться этим пистолетом.»
 GabText Karin loses her balance.<#>GabText Карин теряет равновесие.
 <!-- Event Name: Marina --><#>
@@ -1270,7 +1270,7 @@ GabText Marina loses her balance.<#>GabText Марина теряет равно
 "We don't have to fight!"<#>«Мы не должны драться!»
 "You'll regret attacking me!"<#>«Ты пожалеешь, что напал на меня!»
 Tanaka doesn't react to your words in any way. He look almost\#possessed, or crazed, or hellbent in killing you.<#>Танака никак не реагирует на ваши слова. Он словно\#обезумел, словно одержим желанием убивать.
-GabText Without a word, Tanaka keep on marching towards you.<#>GabText Не говоря ни слова, Танака уверенно приближается к\#вам.
+GabText Without a word, Tanaka keep on marching towards you.<#>GabText Не говоря ни слова, Танака уверенно приближается к вам.
 <!-- Event Name: Levi --><#>
 choice_text 1 \}[PERSUADE]\{ "The war is over, we don't need to do this!"<#>choice_text 1 \}[УБЕДИТЬ]\{ «Война окончена, нам не нужно этого делать!»
 choice_text 2 \}[INTIMIDATE]\{ "You survived the war just to die here and now?"<#>choice_text 2 \}[ЗАПУГАТЬ]\{ «Ты пережил войну только затем, чтобы умереть в этом месте?»
@@ -1331,7 +1331,7 @@ GabText You've exposed the weaknesses of O'saa!<#>GabText Вы выявили с
 \>\i[78]\}'SAA\{\<\#"No use. My hurting will reach you even if you ran away."<#>\>\}\i[380]'САА\{\<\#«Бесполезно. Заклятие ран настигнет тебя, даже если ты\#убежишь.»
 GabText O'saa loses his balance!<#>GabText О'саа теряет равновесие!
 GabText O'saa is blinded! His eyes are bleeding!<#>GabText О'саа ослеп! Его глаза кровоточат!
-GabText O'saa begins his ritual dance. An ominous aura fills the air.<#>GabText О'саа начинает ритуальный танец. Зловещая аура\#наполняет воздух.
+GabText O'saa begins his ritual dance. An ominous aura fills the air.<#>GabText О'саа начинает ритуальный танец. Зловещая аура наполняет воздух.
 GabText O'saa loses his balance.<#>GabText О'саа теряет равновесие.
 <!-- Event Name: August --><#>
 choice_text 1 \}[PERSUADE]\{ "This was all just a misunderstanding! I'm so sorry!"<#>choice_text 1 \}[УБЕДИТЬ]\{ «Это всё просто недоразумение! Мне так жаль!»
@@ -1364,7 +1364,7 @@ GabText You stole 3 \c[2]Bear traps\c[0]!<#>GabText Вы украли 3 \c[2]м�
 \>\i[64]\}UGUST\{\<\#"You think you can outrun my arrows?"<#>\>\}\i[368]ВГУСТ\{\<\#«Вы думаете, что сможете сбежать от моих стрел?»
 GabText August loses his balance!<#>GabText Август теряет равновесие!
 GabText August is blinded! His eyes are bleeding!<#>GabText Август ослеплён! Его глаза кровоточат!
-GabText August takes an arrow and slowly but firmly loads his bow.<#>GabText Август берёт стрелу и медленно, но туго натягивает\#свой лук.
+GabText August takes an arrow and slowly but firmly loads his bow.<#>GabText Август берёт стрелу и медленно, но туго натягивает свой лук.
 \>\i[64]\}UGUST\{\<\#"Only one arrow. That is all I need."<#>\>\}\i[368]ВГУСТ\{\<\#«Лишь одна стрела. Это всё, что мне нужно.»
 GabText August loses his balance.<#>GabText Август теряет равновесие.
 \>\i[64]\}UGUST\{\<\#"You're still adamant about this? So be it."<#>\>\}\i[368]ВГУСТ\{\<\#«Вы всё ещё непреклонны? Да будет так.»
@@ -1399,7 +1399,7 @@ You just managed to anger Samarie with your intimidation efforts.<#>Вам то�
 Your intimidation efforts don't seem to work on her.<#>Ваши попытки запугать, похоже, на неё не действуют.
 GabText Samarie's skin begins to rot...<#>GabText Кожа Самари начинает гнить...
 GabText You've exposed the weaknesses of Samarie!<#>GabText Самари ослепла! Её глаза кровоточат!
-GabText You stole a \c[2]Soul stone shard\c[0] and a \c[2]Fly amanita\c[0]!<#>GabText Вы украли \c[2]осколок камня душ\c[0] и\#\c[2]мухомор\c[0]!
+GabText You stole a \c[2]Soul stone shard\c[0] and a \c[2]Fly amanita\c[0]!<#>GabText Вы украли \c[2]осколок камня душ\c[0] и \c[2]мухомор\c[0]!
 \>\i[81]\}AMARIE\{\<\#"... Don't..."<#>\>\}\i[383]АМАРИ\{\<\#«...Нельзя...»
 \>\i[81]\}AMARIE\{\<\#"\N[3]! P-please! I... I... love you..."<#>\>\}\i[383]АМАРИ\{\<\#«\N[3]! П-пожалуйста! Я... я... люблю тебя...»
 GabText Samarie loses her balance!<#>GabText Самари теряет равновесие!
@@ -1443,7 +1443,7 @@ The mechanical dance seems shaken by your words...<#>Механический т
 \>\i[76]\}ECHANICAL DANCE\{\<\#"I'VE BEEN THIS WAY FOREVER!"<#>\>\}\i[378]ЕХАНИЧЕСКИЙ ТАНЕЦ\{\<\#«Я БЫЛА ТАКОЙ ВСЕГДА!»
 GabText The rot doesn't seem to affect the Mechanical dance.<#>GabText Гниение, похоже, не влияет на Механический танец.
 GabText You can't figure out the weakness of the Mechanical dance...<#>GabText Вы не можете выявить слабости Механического танца...
-GabText You stole \c[2]Condensed green\c[0], \c[2]Condensed blue\c[0]...<#>GabText Вы украли \c[2]зелёный концентрат\c[0], \c[2]синий\#концентрат\c[0]...
+GabText You stole \c[2]Condensed green\c[0], \c[2]Condensed blue\c[0]...<#>GabText Вы украли \c[2]зелёный концентрат\c[0], \c[2]синий концентрат\c[0]...
 GabText And \c[2]Condensed lavender\c[0]!<#>GabText И \c[2]концентрат лаванды\c[0]!
 GabText The thing is blinded! Her eyes are bleeding!<#>GabText Создание ослепло! Её глаза кровоточат!
 GabText The Mechanical dance slowly approaches you...<#>GabText Механический танец медленно приближается к вам...
@@ -1580,7 +1580,7 @@ Pocketcat is whispering his secrets to \n[18]...\.\#\n[18] is looking shocked an
 Pocketcat is whispering his secrets to \n[22]...\.\#\n[22] is looking shocked and paralyzed over every minute\#detail.<#>Покеткэт нашёптывает свои секреты \D3[22]...\.\#\N[22] выглядит потрясённым и парализованным каждой\#мельчайшей деталью.
 Pocketcat is whispering his secrets to \n[28]...\.\#\n[28] is looking shocked and paralyzed over every minute\#detail.<#>Покеткэт нашёптывает свои секреты \D3[28]...\.\#\N[28] выглядит потрясённым и парализованным каждой\#мельчайшей деталью.
 Pocketcat is whispering his secrets to \n[29]...\.\#\n[29] is looking shocked and paralyzed over every minute\#detail.<#>Покеткэт нашёптывает свои секреты \D3[29]...\.\#\N[29] выглядит потрясённым и парализованным каждой\#мельчайшей деталью.
-GabText The Pocketcat is sizing you up... You feel dirty.<#>GabText Покеткэт смеряет вас... Вы чувствуете себя\#некомфортно.
+GabText The Pocketcat is sizing you up... You feel dirty.<#>GabText Покеткэт смеряет вас... Вы чувствуете себя некомфортно.
 <!-- Event Name: Pocketcat2 --><#>
 <!-- Event Name: Weeping_scope --><#>
 \>\i[85]\}EEPING SCOPE\{\<\#*Sob* *Sob*<#>\>\}\i[381]ЛАЧУЩИЙ ПРИЦЕЛ\{\<\#*Всхлип* *Всхлип*
@@ -1595,7 +1595,7 @@ The crying of the weeping scope seems to cease...<#>Рыдания плачущ�
 The weeping scope bursts into tears.<#>Плачущий прицел заливается слезами.
 No reaction.<#>Никакой реакции.
 GabText The skin of the Weeping scope begins to rot...<#>GabText Кожа плачущего прицела начинает гнить...
-GabText The Weeping scope doesn't seem to have apparent weaknesses.<#>GabText У плачущего прицела, похоже, нет очевидных\#слабостей.
+GabText The Weeping scope doesn't seem to have apparent weaknesses.<#>GabText У плачущего прицела, похоже, нет очевидных слабостей.
 GabText You stole 15 \c[2].303 Ammo\c[0]!<#>GabText Вы украли 15 \c[2]патронов .303\c[0]!
 GabText The Weeping scope scans its surroundings with the scope...<#>GabText Плачущий прицел сканирует окружение...
 <!-- Event Name: Mastermind --><#>
@@ -1661,7 +1661,7 @@ GabText The cocoon dies, but the host body keeps on going!<#>GabText Кокон 
 GabText A cocoon slowly drags itself towards you...<#>GabText Кокон медленно подтягивается к вам...
 GabText The host body engraved sigils of Gro-goroth on the cocoon.<#>GabText Носитель выгравировал на коконе символы Гро-горота.
 GabText The host body engraved sigils of Vinushka on the cocoon.<#>GabText Носитель выгравировал на коконе символы Винушки.
-GabText The host body engraved sigils of Fear and Hunger on the cocoon.<#>GabText Носитель выгравировал на коконе символы страха и\#голода.
+GabText The host body engraved sigils of Fear and Hunger on the cocoon.<#>GabText Носитель выгравировал на коконе символы страха и голода.
 <!-- Event Name: Valkyrie --><#>
 \>\i[84]\}ALKYRIE\{\<\#"Kaaaa... Join... The flight of the valkyrie..."<#>\>\}\i[370]АЛЬКИРИЯ\{\<\#«Каааа... Присоединяйтесь... К полету валькирии...»
 "You can actually talk?"<#>«Ты можешь говорить по-человечески?»
@@ -1766,7 +1766,7 @@ GabText Stitches is blinded! Her eyes are bleeding!<#>GabText Ститчес о�
 GabText Stitches approaches you with a degenerate cackle...<#>GabText Ститчес приближается к вам, слабоумно хихикая...
 Stitches is trying to gesture something, but you make sense of\#her...<#>Ститчес пытается жестикулировать, но вы её не понимаете...
 Something about her feels strange...<#>Что-то в ней кажется вам странным...
-GabText Living flesh slowly drags itself to join the battle!<#>GabText Живая плоть медленно подтягивается, чтобы\#присоединиться к битве!
+GabText Living flesh slowly drags itself to join the battle!<#>GabText Живая плоть медленно подтягивается, чтобы присоединиться к битве!
 <!-- Event Name: living_flesh --><#>
 GabText The skin of the living flesh begins to rot...<#>GabText Кожа живой плоти начинает гнить...
 GabText Living flesh slowly drags itself towards you!<#>GabText Живая плоть медленно подтягивается к вам!
@@ -2054,7 +2054,7 @@ The creature is too far away to initiate a conversation...<#>Существо с
 GabText The skin of the Moonless begins to rot...<#>GabText Шкура Безлунницы начинает гнить...
 GabText The skin of the beast begins to rot...<#>GabText Шкура зверя начинает гнить...
 GabText The beast has no obvious weaknesses!<#>GabText У зверя нет очевидных слабостей!
-GabText The creature is too far for you to analyze it properly...<#>GabText Существо находится слишком далеко, чтобы\#проанализировать его...
+GabText The creature is too far for you to analyze it properly...<#>GabText Существо находится слишком далеко, чтобы проанализировать его...
 GabText The beast has nothing of value.<#>GabText У зверя нет ничего ценного.
 GabText The moonless beast loses her balance!<#>GabText Безлунный зверь теряет равновесие!
 GabText The moonless beast is blinded! Her eyes are bleeding!<#>GabText Безлунный зверь ослеп! Её глаза кровоточат!
@@ -2150,7 +2150,7 @@ The rifleman just keeps on aiming at you, not paying attention\#to your words.<#
 \>\i[76]\}EAT GRINDER\{\<\#"HRGRAAAAHHH!"<#>\>\}\i[378]ЯСНИК\{\<\#«ХРГРААААХХХ!»
 The mob seems to be unwilling to negotiate...<#>Шайка, похоже, не хочет вести переговоры...
 GabText The skin of the mob begins to rot...<#>GabText Кожа членов шайки начинает гнить...
-GabText You are having trouble focusing your analyzing skills...<#>GabText У вас возникли проблемы с концентрацией на\#анализе...
+GabText You are having trouble focusing your analyzing skills...<#>GabText У вас возникли проблемы с концентрацией на анализе...
 GabText You're assaulted by a mob!<#>GabText На вас напала шайка!
 <!-- Event Name: Centaur1 --><#>
 The centaur gives you a loud and distorted neigh.<#>Кентавр громко рычит и ржёт.
@@ -2188,7 +2188,7 @@ Intimidation doesn't seem to have effect any longer. The gull brother\#is seriou
 The creature is tilting its head and taunting at you.<#>Существо наклоняет голову и насмехается над вами.
 GabText The gull bros are rotting before your eyes...<#>GabText Братья-чайки гниют у вас на глазах...
 GabText You've exposed the weaknesses of the brothers!<#>GabText Вы выявили слабости братьев!
-GabText You have an advantage over one of the gull bros!<#>GabText У вас есть появилось преимущество над одним из\#братьев!
+GabText You have an advantage over one of the gull bros!<#>GabText У вас есть появилось преимущество над одним из братьев!
 GabText The gull brother taunts you.<#>GabText Брат-чайка насмехается над вами.
 GabText His cackling is ear piercing!<#>GabText Его смех пронзает уши!
 GabText The two brothers taunt you.<#>GabText Два брата насмехаются над вами.
@@ -2214,7 +2214,7 @@ GabText A reinforced door stands sturdy before you...<#>GabText Укреплён
 It's a washing machine. There are no conversations to be had here.<#>Это стиральная машинка. С ней особо не поболтаешь.
 GabText The rot doesn't seem to affect the machine.<#>GabText Гниение, похоже, не влияет на работу машины.
 GabText The washing machine has no obvious weaknesses.<#>GabText У стиральной машины нет очевидных слабостей.
-GabText A washing machine is rocking violently before you...<#>GabText Стиральная машина безумно раскачивается перед\#вами...
+GabText A washing machine is rocking violently before you...<#>GabText Стиральная машина безумно раскачивается перед вами...
 The washing machine is too strong for you.<#>Стиральная машина слишком прочна для вас.
 <!-- Event Name: iron_bars1 --><#>
 <!-- Event Name: metal_door --><#>
