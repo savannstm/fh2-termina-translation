@@ -1471,10 +1471,10 @@ You put the offering on the center of the circle...<#>Вы кладете под
 The air cools down and becomes thicker. It feels heavy just to\#breath.<#>Воздух холодеет и становится гуще. Становится тяжело дышать.
 Offer the \c[2]Portrait of a young man\c[0]?<#>Предложить \c[2]портрет юноши\c[0]?
 Offer the \c[2]Dead crow\c[0]?<#>Предложить \c[2]мёртвого ворона\c[0]?
-You have \c[2]\v[396] severed heads\c[0] in your possession. \c[2]\v[1830]\c[0] of which\#are non-contestant heads. Do you want to sacrifice them all?<#>В вашем распоряжении есть \c[2]\v[396]\#\d396[отрубленная голова|отрубленных головы|отрубленных голов]\c[0].\#\c[2]\v[1830]\c[0] из которых не\#\d1830[принадлежит|принадлежат|принадлежат] участникам фестиваля. Вы хотите пожертвовать ими всеми?
+You have \c[2]\v[396] severed heads\c[0] in your possession. \c[2]\v[1830]\c[0] of which\#are non-contestant heads. Do you want to sacrifice them all?<#>В вашем распоряжении есть \c[2]\v[396] \d396[отрубленная голова|отрубленных головы|отрубленных голов]\c[0].\#\c[2]\v[1830]\c[0] из которых не \d1830[принадлежит|принадлежат|принадлежат] участникам фестиваля.\#Вы хотите пожертвовать всё?
 Sacrifice all<#>Пожертвовать всеми
 Sacrifice all non-contestant heads<#>Пожертвовать только головами не участвующих
-You have \c[2]\v[396] severed heads\c[0] in your possession.\#Do you want to sacrifice them all?<#>В вашем распоряжении есть \c[2]\v[396]\#\d396[отрубленная голова|отрубленных головы|отрубленных голов]\c[0]. Вы хотите\#пожертвовать ими всеми?
+You have \c[2]\v[396] severed heads\c[0] in your possession.\#Do you want to sacrifice them all?<#>В вашем распоряжении есть \c[2]\v[396] \d396[отрубленная голова|отрубленных головы|отрубленных голов]\c[0].\#Вы хотите пожертвовать всё?
 You have nothing worthy to offer to the new gods.<#>У вас нет ничего ценного для пожертвования новым богам.
 "The altar of the new gods. To appease the ones sitting at\#the grand hall, you must put forth a worthy offering."<#>«Алтарь новых богов. Чтобы утолить жажду заседающих в\#большом зале, вы должны предложить достойное пожертвование.»
 GabText The air down here is heavy, moist and musky...<#>GabText Воздух здесь тяжёлый и влажный...
