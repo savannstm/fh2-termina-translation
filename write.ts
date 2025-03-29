@@ -231,7 +231,7 @@ async function processDirectory(inputPath: string, outputPath: string, decrypter
             } else {
                 const psdFile = await psd.open(inputFilePath);
 
-                if (file.name === "icon.psd") {
+                if (file.name === "icon.psd" || file.name === "Loading.psd") {
                     await psdFile.image.saveAsPng(join(outputFilePath.replace(".psd", ".png")));
                 } else {
                     await psdFile.image.saveAsPng(join(outputFilePath.replace(".psd", ".png")));
