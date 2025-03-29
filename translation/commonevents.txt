@@ -516,10 +516,10 @@ You notice that Marina is not in the party anymore. She must have\#wandered off 
 <!-- Event Name: HUNGER LEVELS_Mercenary --><#>
 <!-- Event Name: Small_PARANOIA --><#>
 GabText Distant noises echo from somewhere...<#>GabText Звуки отдаются эхом издалека...
-GabText You can feel someone or something following you...<#>GabText Вы чувствуете, что кто-то или что-то следит за\#вами...
+GabText You can feel someone or something following you...<#>GabText Вы чувствуете, что кто-то или что-то следит за вами...
 GabText It's as if someone is staring at you from distance...<#>GabText Как будто на вас кто-то смотрит издалека...
 GabText Did something just move in the corner of your eye?<#>GabText Что-то только что шевельнулось в периферии?
-GabText You have an ominous feeling about this place...<#>GabText У вас зловещее предчувствие относительно этого\#места...
+GabText You have an ominous feeling about this place...<#>GabText У вас зловещее предчувствие относительно этого места...
 <!-- Event Name: BLINDNESS --><#>
 <!-- Event Name: BLINDNESS? --><#>
 <!-- Event Name: Crippled? --><#>
@@ -882,11 +882,7 @@ GabText \N[6] is tied up!<#>GabText \N[6] связан!
 GabText \N[6] got decapitated!<#>GabText \N[6] обезглавлен!
 GabText \N[6]'s head exploded from the pressure!<#>GabText Голова \N[6] взорвалась от давления!
 GabText \N[7] lost a hoof! The stump is bleeding heavily!<#>GabText \N[7] потерял копыто! Нога сильно кровоточит!
-<<<<<<< Updated upstream
-GabText \N[7] lost another hoof! He is having trouble standing up...<#>GabText \N[7] потерял ещё одно копыто! Ему трудно стоять\#на ногах...
-=======
 GabText \N[7] lost another hoof! He is having trouble standing up...<#>GabText \N[7] потерял ещё копыто! Ему трудно стоять...
->>>>>>> Stashed changes
 GabText \N[7] lost his third hoof already!<#>GabText \N[7] потерял уже третье копыто!
 \N[7] has lost all 3 of his 4 hoofs. There is no way for him\#to continue living.<#>\N[7] потерял все 3 из своих 4 копыт. Он не сможет\#жить дальше.
 GabText \N[7] is tied up!<#>GabText \N[7] связан!
@@ -1782,13 +1778,13 @@ GabText \N[13] summons a blood sword.<#>GabText \N[13] призывает кро
 GabText \N[14] summons a blood sword.<#>GabText \N[14] призывает кровавый меч.
 GabText \N[15] summons a blood sword.<#>GabText \N[15] призывает кровавый меч.
 GabText \N[1] summons the Longinus.<#>GabText \N[1] призывает Лонгин.
-GabText \N[3] summons the Longinus, but she cannot wield it!<#>GabText \N[3] призывает Лонгин, но она не может удержать\#его!
+GabText \N[3] summons the Longinus, but she cannot wield it!<#>GabText \N[3] призывает Лонгин, но она не может удержать его!
 GabText \N[4] summons the Longinus.<#>GabText \N[4] призывает Лонгин.
 GabText \N[5] summons the Longinus.<#>GabText \N[5] призывает Лонгин.
 GabText \N[6] summons the Longinus.<#>GabText \N[6] призывает Лонгин.
 GabText \N[13] summons the Longinus.<#>GabText \N[13] призывает Лонгин.
-GabText \N[14] summons the Longinus, but she cannot wield it!<#>GabText \N[14] призывает Лонгин, но она не может удержать\#его!
-GabText \N[15] summons the Longinus, but she cannot wield it!<#>GabText \N[15] призывает Лонгин, но она не может удержать\#его!
+GabText \N[14] summons the Longinus, but she cannot wield it!<#>GabText \N[14] призывает Лонгин, но она не может удержать его!
+GabText \N[15] summons the Longinus, but she cannot wield it!<#>GabText \N[15] призывает Лонгин, но она не может удержать его!
 <!-- Event Name: beekeeper_loot --><#>
 <!-- Event Name: Hesitation_battle --><#>
 \>\i[64]\}BELLA\{\<\#"We shouldn't be fighting each other! There has to be another way."<#>\>\}\i[368]БЕЛЛА\{\<\#«Мы не должны драться друг с другом! Должен быть другой\#выход.»
