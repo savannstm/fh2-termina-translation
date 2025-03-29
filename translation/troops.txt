@@ -171,8 +171,8 @@ Your plead have absolutely no effect. It feels like the creature's\#mind works o
 Your threats have absolutely no effect. It feels like the creature's\#mind works on another plane entirely.<#>Ваши угрозы не оказывают абсолютно никакого эффекта. Такое\#ощущение, что разум этого существа находится на совершенно\#другом уровне.
 GabText Ronteal's skin begins to rot...<#>GabText Кожа Ронтила начинает гнить...
 GabText You've exposed the weaknesses of the ronteal!<#>GabText Вы выявили слабости Ронтила!
-GabText A ronteal wobbles towards you. Its mouths are dripping saliva.<#>GabText Ронтил, пошатываясь, приближается к вам. Из его ртов капает слюна.
-GabText Ronteal keeps closing in on you despite losing its head.<#>GabText Ронтил продолжает приближаться, несмотря на то, что обезглавлен.
+GabText A ronteal wobbles towards you. Its mouths are dripping saliva.<#>GabText Ронтил, шатаясь, приближается к вам. Из ртов капает слюна.
+GabText Ronteal keeps closing in on you despite losing its head.<#>GabText Ронтил продолжает приближаться, хоть и был обезглавлен.
 GabText You dodge the pendulum!<#>GabText Вы уклоняетесь от маятника!
 <!-- Event Name: Villager2 --><#>
 choice_text 1 \}[PERSUADE]\{ "Something terrible has obviously happened. Let me help!"<#>choice_text 1 \}[УБЕДИТЬ]\{ «Очевидно, здесь произошло что-то ужасное. Позволь мне помочь!»
@@ -227,7 +227,7 @@ GabText You can't figure out the weaknesses of the vile...<#>GabText Вы не �
 GabText You stole 2 \c[2]White vials\c[0]!<#>GabText Вы украли 2 \c[2]белых флакона\c[0]!
 GabText You stole \c[2]Pep pills\c[0]!<#>GabText Вы украли \c[2]бодрящие таблетки\c[0]!
 GabText The Vile is blinded! His eye socket is filling up with blood.<#>GabText Мерзость ослеплён! Его глазницы наполняются кровью.
-GabText Vile charges at you with a blank expression on his gas mask!<#>GabText Мерзость бежит на вас с пустым выражением лица в противогазе!
+GabText Vile charges at you with a blank expression on his gas mask!<#>GabText Мерзость бежит на вас с пустым взглядом в противогазе!
 GabText Vile loses his balance.<#>GabText Мерзость теряет равновесие.
 A man with a pigskin gas mask is pursuing you furiously!<#>Человек в противогазе из свиной кожи яростно преследует вас!
 Your words are in vain. The man is clearly out for blood.<#>Ваши слова напрасны. Этот человек явно жаждет крови.
@@ -712,11 +712,11 @@ GabText The Neighbour's skin begins to rot...<#>GabText Кожа соседа н
 GabText You've exposed the weaknesses of the neighbour!<#>GabText Вы выявили слабости соседа!
 GabText You stole a bottle of \c[2]Beer\c[0]!<#>GabText Вы украли бутылку \c[2]пива\c[0]!
 GabText The neighbour loses his balance!<#>GabText Сосед теряет равновесие!
-GabText The neighbour crouches to your level. You smell its bad breath.<#>GabText Сосед приседает до вашего уровня. Вы чувствуете дурной запах из его рта.
+GabText The neighbour crouches to your level. You smell its bad breath.<#>GabText Сосед приседает до вашего уровня. Из его рта дурно пахнет.
 GabText The neighbour snorts and a dirty cloud is emitted from its nostril.<#>GabText Сосед фыркает, его ноздри выпускают грязное облачко.
 GabText The neighbour loses its balance.<#>GabText Сосед теряет равновесие.
 The Neighbour whips its tongue out. It seems to be smelling the\#air with it.<#>Сосед высовывает язык. Кажется, что он щупает им воздух.
-GabText The neighbour charges, but you manage evading its floppy arms!<#>GabText Сосед нападает, но вам удаётся уклониться от его неуклюжих рук!
+GabText The neighbour charges, but you manage evading its floppy arms!<#>GabText Сосед нападает, но вы уклоняетесь от его неуклюжих рук!
 GabText The neighbour charges with its floppy arms flailing!<#>GabText Сосед нападает на вас, размахивая огромными руками!
 <!-- Event Name: Pillarman1_new --><#>
 The pillarman tirelessly charges at you! You don't even get a chance\#to talk to him properly.<#>Столпник неустанно бросается на вас! У вас нет даже\#возможности нормально поговорить с ним.
@@ -987,7 +987,7 @@ GabText You stole 2 \c[2]Scrap metal\c[0]!<#>GabText Вы украли 2 кус�
 GabText You stole a \c[2]Lucky coin\c[0]!<#>GabText Вы украли \c[2]счастливую монету\c[0]!
 GabText The rat hag loses her balance!<#>GabText Крысиная карга теряет равновесие!
 GabText The rat hag is blinded! Her eyes are bleeding!<#>GabText Крысиная карга ослепла! Её глаза кровоточат!
-GabText A crazed old hag slowly rises up from the rags...<#>GabText Обезумевшая старая карга медленно поднимается из лохмотьев...
+GabText A crazed old hag slowly rises up from the rags...<#>GabText Обезумевшая карга медленно поднимается из лохмотьев...
 GabText The rat hag loses her balance.<#>GabText Крысиная карга теряет равновесие.
 GabText No new rats came for the hag's aid.<#>GabText Крысы не пришли на помощь карге.
 <!-- Event Name: Rat_lady2 --><#>

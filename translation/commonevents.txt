@@ -882,7 +882,7 @@ GabText \N[6] is tied up!<#>GabText \N[6] связан!
 GabText \N[6] got decapitated!<#>GabText \N[6] обезглавлен!
 GabText \N[6]'s head exploded from the pressure!<#>GabText Голова \N[6] взорвалась от давления!
 GabText \N[7] lost a hoof! The stump is bleeding heavily!<#>GabText \N[7] потерял копыто! Нога сильно кровоточит!
-GabText \N[7] lost another hoof! He is having trouble standing up...<#>GabText \N[7] потерял ещё одно копыто! Ему трудно стоять на ногах...
+GabText \N[7] lost another hoof! He is having trouble standing up...<#>GabText \N[7] потерял ещё копыто! Ему трудно стоять...
 GabText \N[7] lost his third hoof already!<#>GabText \N[7] потерял уже третье копыто!
 \N[7] has lost all 3 of his 4 hoofs. There is no way for him\#to continue living.<#>\N[7] потерял все 3 из своих 4 копыт. Он не сможет\#жить дальше.
 GabText \N[7] is tied up!<#>GabText \N[7] связан!

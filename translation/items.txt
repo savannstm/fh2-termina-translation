@@ -228,7 +228,7 @@ Bolt cutters<#>Болторез
 A tool used for cutting chains, padlocks, bolts and wire.\#The handles are positioned with the best leverage in mind.<#>Инструмент, используемый для перекусывания цепей, замков,\#болтов и проводов. Рукояти расположены так, чтобы создавать\#максимальный нажимной эффект.
 Bolt<#>Болт
 Bolts are typically used in assembling different components\#together.<#>Болты широко используются при сборке различных вещей.
-Duct tape<#>Клейкая лента
+Duct tape<#>Изолента
 A special water resistant tape created recently in the second\#great war to seal ammunition cases in a durable manner.<#>Специальная водостойкая лента, изобретённая совсем недавно,\#в период Второй мировой войны, чтобы надёжно запечатывать\#ящики с боеприпасами.
 Scrap metal<#>Металлолом
 Pieces of scrap metal left seemingly with no purpose.<#>Куски металлолома, на первый взгляд не имеющие практического\#применения.
