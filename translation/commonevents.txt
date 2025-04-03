@@ -1323,6 +1323,7 @@ You find an \c[2]Gun powder\c[0]!<#>Вы нашли \c[2]порох\c[0]!
 "It is beyond me how the masses fail to see through these\#plans. Instead they give credence to Kaiser's madness and\#place more trust in his perversions than logic."<#>«Мне не понятно, как массы не видят этих планов. Вместо\#этого, они винят во всем безумие Кайзера и склонны объяснять\#его действия сумасшествием, нежели логикой.»
 "There are no rational answers to the irrational ideologies\#which Kaiser brings to the table. - An article written by\#Karin Sauer."<#>«Нет рациональных ответов для иррациональных идеологий,\#которые за собой несёт Кайзер. - Статья за авторством Карин\#Зауэр.»
 <!-- Event Name: BLOOD_PORTAL --><#>
+Where do you want to travel?<#>Куда вы хотите отправиться?
 Train cabin<#>Вагон поезда
 Old town<#>Старый город
 Book store<#>Книжный магазин
