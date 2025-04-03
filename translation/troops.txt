@@ -1169,7 +1169,7 @@ GabText You stole 10 \c[2]9mm Bullets\c[0]!<#>GabText Вы украли 10 \c[2]
 \>\i[144]\}AV\{\<\#"Sorry, you're not going anywhere."<#>\>\}\i[381]АВ\{\<\#«Извини, ты никуда не пойдёшь.»
 GabText Pav loses his balance!<#>GabText Пав теряет равновесие!
 GabText Pav is blinded! His eyes are bleeding!<#>GabText Пав ослеплён! Его глаза кровоточат!
-GabText Pav whips out his pistol faster than you're able to react!<#>GabText Пав выхватывает пистолет быстрее, чем вы успеваете среагировать!
+GabText Pav whips out his pistol faster than you're able to react!<#>GabText Пав достаёт пистолет быстрее, чем вы можете среагировать!
 \>\i[144]\}AV\{\<\#"Too slow! Too slow!"<#>\>\}\i[381]АВ\{\<\#«Слишком медленно! Слишком медленно!»
 GabText Pav loses his balance.<#>GabText Пав теряет равновесие.
 <!-- Event Name: Daan --><#>
