@@ -1,557 +1,2257 @@
+<!-- Event ID --><#>1
+<!-- Event Name --><#>Attack
 Attack<#>Атака
+<!-- Event ID --><#>2
+<!-- Event Name --><#>Guard
 Guard<#>Защита
+<!-- Event ID --><#>3
+<!-- Event Name --><#>Hatchet
 Hatchet<#>Разрубание
+<!-- Event ID --><#>4
+<!-- Event Name --><#>The appendage skitters away...
 The appendage skitters away...<#>Отросток отлетает...
+<!-- Event ID --><#>5
+<!-- Event Name --><#>The appendage is pulsating...
 The appendage is pulsating...<#>Отросток пульсирует...
+<!-- Event ID --><#>6
+<!-- Event Name --><#>Tackle
 Tackle<#>Толчок
+<!-- Event ID --><#>7
+<!-- Event Name --><#>Face grab
 Face grab<#>Захват лица
+<!-- Event ID --><#>8
+<!-- Event Name --><#>Party talk
 Party talk<#>Поговорить с группой
 Check up on your party.<#>Проверьте свою группу.
+<!-- Event ID --><#>9
+<!-- Event Name --><#>Hack
 Hack<#>Разрубание
+<!-- Event ID --><#>10
+<!-- Event Name --><#>Pinecone pig
 Pinecone pig<#>Шишкосвин
 Animated figure of a pinecone pig. A loyal companion\#until it's very end.<#>Фигурка свиньи из шишки. Верный компаньон до самого конца.
+<!-- Event ID --><#>11
+<!-- Event Name --><#>Talk
 Talk<#>Поговорить
 Talking can sometimes get you out of uncomfortable situations.<#>Разговор иногда может вывести вас из неловкой ситуации.
+<!-- Event ID --><#>12
+<!-- Event Name --><#>Hurting
 Hurting<#>Раны
 Create a devastating vortex out of your concentrated feelings\#of hurting and hatred. Requires 1 Rev Point.<#>Создайте разрушительный вихрь из ваших концентрированных\#чувств боли и ненависти. Требуется 1 очко концентрации.
+<!-- Event ID --><#>13
+<!-- Event Name --><#>Scratch
 Scratch<#>Раздирание
+<!-- Event ID --><#>14
+<!-- Event Name --><#>Stump arm
 Stump arm<#>Удар рукой
+<!-- Event ID --><#>15
+<!-- Event Name --><#>Slam
 Slam<#>Удар
+<!-- Event ID --><#>16
+<!-- Event Name --><#>Tackle
+<!-- Event ID --><#>17
+<!-- Event Name --><#>Pesticide
 Pesticide<#>Пестицид
+<!-- Event ID --><#>18
+<!-- Event Name --><#>Lantern
 Lantern<#>Лампа
 Small fire attack with lantern.<#>Небольшая огненная атака лампой.
+<!-- Event ID --><#>19
+<!-- Event Name --><#>Sickle
 Sickle<#>Серп
+<!-- Event ID --><#>20
+<!-- Event Name --><#>Manic stab
 Manic stab<#>Маниакальный удар
+<!-- Event ID --><#>21
+<!-- Event Name --><#>Necromancy
 Necromancy<#>Некромантия
 Bring back life to where it once lingered. The bond between\#the body and the soul must still be relatively fresh for the\#necromancy to work.<#>Верните жизнь туда, где она когда-то была. Связь между телом\#и душой должна быть относительной свежей для удачной\#некромантии.
+<!-- Event ID --><#>22
+<!-- Event Name --><#>
+<!-- Event ID --><#>23
+<!-- Event Name --><#>Hack
+<!-- Event ID --><#>24
+<!-- Event Name --><#>Pipe smash
 Pipe smash<#>Удар трубой
+<!-- Event ID --><#>25
+<!-- Event Name --><#>The moonscorched is tearing his face apart...
 The moonscorched is tearing his face apart...<#>Опалённый луной рвёт своё лицо на части...
+<!-- Event ID --><#>26
+<!-- Event Name --><#>The moonscorched is shaking uncontrollably.
 The moonscorched is shaking uncontrollably.<#>Опалённый луной неудержимо трясётся.
+<!-- Event ID --><#>27
+<!-- Event Name --><#>The moonscorched is tearing her face apart...
 The moonscorched is tearing her face apart...<#>Опалённая луной рвёт своё лицо на части...
+<!-- Event ID --><#>28
+<!-- Event Name --><#>
+<!-- Event ID --><#>29
+<!-- Event Name --><#>
+<!-- Event ID --><#>30
+<!-- Event Name --><#>
+<!-- Event ID --><#>31
+<!-- Event Name --><#>Steal
 Steal<#>Воровство
+<!-- Event ID --><#>32
+<!-- Event Name --><#>Explosion
 Explosion<#>Взрыв
+<!-- Event ID --><#>33
+<!-- Event Name --><#>Poison tongue
 Poison tongue<#>Ядовитый язык
+<!-- Event ID --><#>34
+<!-- Event Name --><#>Suicide
 Suicide<#>Самоубийство
 There are worse fates than death. Sometimes it's\#good to go on your own terms...<#>Есть судьбы хуже смерти. Иногда лучше уйти на собственных\#условиях...
+<!-- Event ID --><#>35
+<!-- Event Name --><#>
+<!-- Event ID --><#>36
+<!-- Event Name --><#>Low sweep
+<!-- Event ID --><#>37
+<!-- Event Name --><#>
+<!-- Event ID --><#>38
+<!-- Event Name --><#>
+<!-- Event ID --><#>39
+<!-- Event Name --><#>
+<!-- Event ID --><#>40
+<!-- Event Name --><#>Run
 Run<#>Убежать
 There is no shame in running away from battles. Live to see\#another day.<#>Нет ничего постыдного в том, чтобы убегать из сражений.\#Жить, чтобы увидеть другой день.
+<!-- Event ID --><#>41
+<!-- Event Name --><#>Critical slash
 Critical slash<#>Критический удар
+<!-- Event ID --><#>42
+<!-- Event Name --><#>Pyromancy trick
 Pyromancy trick<#>Трюк пироманта
 A simple pyromancy trick to cause burns to your opponent.<#>Простой трюк пиромантии, оставляющий ожоги на теле.
+<!-- Event ID --><#>43
+<!-- Event Name --><#>Hurting
+<!-- Event ID --><#>44
+<!-- Event Name --><#>Hurting
+<!-- Event ID --><#>45
+<!-- Event Name --><#>The priest grins widely...
 The priest grins widely...<#>Священник широко улыбается...
+<!-- Event ID --><#>46
+<!-- Event Name --><#>Vertical sweep
 Vertical sweep<#>Вертикальный взмах
+<!-- Event ID --><#>47
+<!-- Event Name --><#>Vertical sweep
+<!-- Event ID --><#>48
+<!-- Event Name --><#>Locust swarm
 Locust swarm<#>Рой саранчи
 Summon a swarm of crickets to disrupt the enemy.<#>Призовите рой саранчи, чтобы дезорганизовать врага.
+<!-- Event ID --><#>49
+<!-- Event Name --><#>Mischief of rats
 Mischief of rats<#>Крысиные проказы
 Summon a swarm of rats to disrupt the enemy.<#>Призовите рой крыс, чтобы дезорганизовать врага.
+<!-- Event ID --><#>50
+<!-- Event Name --><#>Guard break
 Guard break<#>Пробить защиту
 Break through the defence of the opponent.<#>Прорвите оборону соперника.
+<!-- Event ID --><#>51
+<!-- Event Name --><#>Blood golem
 Blood golem<#>Кровавый голем
 Sacrifice blood to summon a golem that fights by your side\#temporarily. The golem only takes orders from the one that\#gave birth to it. Requires 1 Rev Point.<#>Пожертвуйте кровью, чтобы призвать голема, который будет\#временно сражаться на вашей стороне. Голем слушается\#только своего создателя. Необходимо 1 очко концентрации.
+<!-- Event ID --><#>52
+<!-- Event Name --><#>Shivering touch
+<!-- Event ID --><#>53
+<!-- Event Name --><#>Mumbler's head explodes on you!
+<!-- Event ID --><#>54
+<!-- Event Name --><#>Demon seed
+<!-- Event ID --><#>55
+<!-- Event Name --><#>Pheromones
 Pheromones<#>Феромоны
 Release of pheromones that makes the opponent divert all\#attention to the target.<#>Выброс феромонов, отвлекающий всё внимание противника\#на цель.
+<!-- Event ID --><#>56
+<!-- Event Name --><#>Mastery over insects
+<!-- Event ID --><#>57
+<!-- Event Name --><#>Rock smash
 Rock smash<#>Удар камнем
+<!-- Event ID --><#>58
+<!-- Event Name --><#>The guard loads an arrow to ballista...
+<!-- Event ID --><#>59
+<!-- Event Name --><#>
+<!-- Event ID --><#>60
+<!-- Event Name --><#>Smash
 Smash<#>Разгромить
+<!-- Event ID --><#>61
+<!-- Event Name --><#>
+<!-- Event ID --><#>62
+<!-- Event Name --><#>Snatch
 Snatch<#>Украсть
+<!-- Event ID --><#>63
+<!-- Event Name --><#>Stump arm
+<!-- Event ID --><#>64
+<!-- Event Name --><#>Salmonsnake is uncertain of your position...
+<!-- Event ID --><#>65
+<!-- Event Name --><#>---
+<!-- Event ID --><#>66
+<!-- Event Name --><#>Fast attack
+<!-- Event ID --><#>67
+<!-- Event Name --><#>Counter
+<!-- Event ID --><#>68
+<!-- Event Name --><#>Defence stance
+<!-- Event ID --><#>69
+<!-- Event Name --><#>---
+<!-- Event ID --><#>70
+<!-- Event Name --><#>Steal
+<!-- Event ID --><#>71
+<!-- Event Name --><#>Dash
+<!-- Event ID --><#>72
+<!-- Event Name --><#>Lockpicking
 Lockpicking<#>Взлом
+<!-- Event ID --><#>73
+<!-- Event Name --><#>---
+<!-- Event ID --><#>74
+<!-- Event Name --><#>Greater blood magic
+<!-- Event ID --><#>75
+<!-- Event Name --><#>Blood sacrifice
 Blood sacrifice<#>Пожертвование кровью
+<!-- Event ID --><#>76
+<!-- Event Name --><#>Pray
+<!-- Event ID --><#>77
+<!-- Event Name --><#>---
+<!-- Event ID --><#>78
+<!-- Event Name --><#>Devour
 Devour<#>Пожирание
+<!-- Event ID --><#>79
+<!-- Event Name --><#>Marksmanship
 Marksmanship<#>Снайпер
+<!-- Event ID --><#>80
+<!-- Event Name --><#>Bloodlust
 Bloodlust<#>Жажда крови
+<!-- Event ID --><#>81
+<!-- Event Name --><#>---
+<!-- Event ID --><#>82
+<!-- Event Name --><#>Salmonsnake is uncertain of your position...
+<!-- Event ID --><#>83
+<!-- Event Name --><#>Soul binding
+<!-- Event ID --><#>84
+<!-- Event Name --><#>Mumblers head is pulsating...
+<!-- Event ID --><#>85
+<!-- Event Name --><#>Peck
 Peck<#>Клевок
+<!-- Event ID --><#>86
+<!-- Event Name --><#>Tackle
+<!-- Event ID --><#>87
+<!-- Event Name --><#>Talk(old)
+<!-- Event ID --><#>88
+<!-- Event Name --><#>Bite
 Bite<#>Укус
+<!-- Event ID --><#>89
+<!-- Event Name --><#>Howl
+<!-- Event ID --><#>90
+<!-- Event Name --><#>Bite
+<!-- Event ID --><#>91
+<!-- Event Name --><#>Jagged jaw
+<!-- Event ID --><#>92
+<!-- Event Name --><#>Grim jaw
+<!-- Event ID --><#>93
+<!-- Event Name --><#>Maul
 Maul<#>Истязание
+<!-- Event ID --><#>94
+<!-- Event Name --><#>Crow Mauler is staring you with it's empty eyes...
+<!-- Event ID --><#>95
+<!-- Event Name --><#>Harvestman gently pets you.
+<!-- Event ID --><#>96
+<!-- Event Name --><#>Harvestman whistles...
+<!-- Event ID --><#>97
+<!-- Event Name --><#>Harvestman whistles...
+<!-- Event ID --><#>98
+<!-- Event Name --><#>Harvestman smiles at you.
+<!-- Event ID --><#>99
+<!-- Event Name --><#>Harvestman wraps you gently with his arms.
+<!-- Event ID --><#>100
+<!-- Event Name --><#>Attack
+<!-- Event ID --><#>101
+<!-- Event Name --><#>--Greater magic---
+<!-- Event ID --><#>102
+<!-- Event Name --><#>Greater Hurting
+<!-- Event ID --><#>103
+<!-- Event Name --><#>Greater Blood golem
+<!-- Event ID --><#>104
+<!-- Event Name --><#>Greater Necromancy
+<!-- Event ID --><#>105
+<!-- Event Name --><#>
+<!-- Event ID --><#>106
+<!-- Event Name --><#>
+<!-- Event ID --><#>107
+<!-- Event Name --><#>
+<!-- Event ID --><#>108
+<!-- Event Name --><#>
+<!-- Event ID --><#>109
+<!-- Event Name --><#>The spectre tilts it's sword sideways...
+<!-- Event ID --><#>110
+<!-- Event Name --><#>Lantern smash
+<!-- Event ID --><#>111
+<!-- Event Name --><#>Skeleton kick
+<!-- Event ID --><#>112
+<!-- Event Name --><#>Skeleton hatchet
+<!-- Event ID --><#>113
+<!-- Event Name --><#>Whip
 Whip<#>Хлыст
+<!-- Event ID --><#>114
+<!-- Event Name --><#>Manebas tentacle is swinging around.
+<!-- Event ID --><#>115
+<!-- Event Name --><#>Counter-magic
+<!-- Event ID --><#>116
+<!-- Event Name --><#>Nasty bite
 Nasty bite<#>Мерзкий укус
+<!-- Event ID --><#>117
+<!-- Event Name --><#>Nasty bite
+<!-- Event ID --><#>118
+<!-- Event Name --><#>The ghoul stares at you with it's dead fish eyes...
 The ghoul stares at you with it's dead fish eyes...<#>Гуль смотрит на вас мёртвыми глазами...
+<!-- Event ID --><#>119
+<!-- Event Name --><#>Cinder
 Cinder<#>Зола
+<!-- Event ID --><#>120
+<!-- Event Name --><#>
+<!-- Event ID --><#>121
+<!-- Event Name --><#>Attack
+<!-- Event ID --><#>122
+<!-- Event Name --><#>Needle worms
 Needle worms<#>Игольчатые черви
 Harness the strength of a hundred leeches. The price is\#that you have to carry them inside you as parasites...<#>Обуздайте силу сотен пиявок. Вам придётся заплатить\#цену - носить их в собственном теле...
+<!-- Event ID --><#>123
+<!-- Event Name --><#>Needle worm
 Needle worm<#>Игольчатый червь
+<!-- Event ID --><#>124
+<!-- Event Name --><#>Necromancy
+<!-- Event ID --><#>125
+<!-- Event Name --><#>The yellow mage forms magical hand signs...
 The yellow mage forms magical hand signs...<#>Жёлтый маг рисует магические символы руками...
+<!-- Event ID --><#>126
+<!-- Event Name --><#>Attack
+<!-- Event ID --><#>127
+<!-- Event Name --><#>Hurting
+<!-- Event ID --><#>128
+<!-- Event Name --><#>Hurting
+<!-- Event ID --><#>129
+<!-- Event Name --><#>Revolution tear
+<!-- Event ID --><#>130
+<!-- Event Name --><#>3rd circle swings around it's axis.
+<!-- Event ID --><#>131
+<!-- Event Name --><#>2nd circle swings around it's axis.
+<!-- Event ID --><#>132
+<!-- Event Name --><#>1st circle swings around it's axis.
+<!-- Event ID --><#>133
+<!-- Event Name --><#>
+<!-- Event ID --><#>134
+<!-- Event Name --><#>The red man reaches for you...
+<!-- Event ID --><#>135
+<!-- Event Name --><#>Shivering scream
+<!-- Event ID --><#>136
+<!-- Event Name --><#>Leg sweep
 Leg sweep<#>Подсечка
+<!-- Event ID --><#>137
+<!-- Event Name --><#>Check
+<!-- Event ID --><#>138
+<!-- Event Name --><#>Red grasp
+<!-- Event ID --><#>139
+<!-- Event Name --><#>Red man breathes heavily...
+<!-- Event ID --><#>140
+<!-- Event Name --><#>Red man is tapping its fingers.
+<!-- Event ID --><#>141
+<!-- Event Name --><#>
+<!-- Event ID --><#>142
+<!-- Event Name --><#>
+<!-- Event ID --><#>143
+<!-- Event Name --><#>Pummel
 Pummel<#>Избивание
+<!-- Event ID --><#>144
+<!-- Event Name --><#>Chains of torment
 Chains of torment<#>Цепи истязаний
+<!-- Event ID --><#>145
+<!-- Event Name --><#>
+<!-- Event ID --><#>146
+<!-- Event Name --><#>En garde
 En garde<#>Ан гард
 Long combat experience has prepared you for fights.\#Prepare for an attack to gain advantage by pressing [E].<#>Многолетний боевой опыт подготовил вас к битвам.\#Приготовьтесь к атаке, чтобы нанести первый удар, нажав E\#(У).
+<!-- Event ID --><#>147
+<!-- Event Name --><#>Ritual spear
 Ritual spear<#>Ритуальное копьё
+<!-- Event ID --><#>148
+<!-- Event Name --><#>Blood portal
+<!-- Event ID --><#>149
+<!-- Event Name --><#>Flock of crows
 Flock of crows<#>Стая ворон
+<!-- Event ID --><#>150
+<!-- Event Name --><#>Black orb
 Black orb<#>Сфера тьмы
 A concentrated negative energy that can be hurled at your\#opponent multiple times. The orb maintains its form only\#temporarily before the ill will disperses.<#>Сконцентрированная негативная энергия, которую можно\#многократно направить в противника. Сфера сохраняет свою\#форму определённое время, пока негативная энергия не рассеется.
+<!-- Event ID --><#>151
+<!-- Event Name --><#>Healing whispers
 Healing whispers<#>Шёпот исцеления
 Whispers carried by the older god Sylvian heal wounds\#and mend injuries.<#>Шёпот древней богини Сильвиан исцеляет раны\#и затягивает плоть.
+<!-- Event ID --><#>152
+<!-- Event Name --><#>Marriage of flesh
+<!-- Event ID --><#>153
+<!-- Event Name --><#>Insect armor
+<!-- Event ID --><#>154
+<!-- Event Name --><#>Hairy palm
+<!-- Event ID --><#>155
+<!-- Event Name --><#>Bad breath
+<!-- Event ID --><#>156
+<!-- Event Name --><#>The snatcher tilts it heads curiously...
+<!-- Event ID --><#>157
+<!-- Event Name --><#>The fur of the creature attracts flies.
+<!-- Event ID --><#>158
+<!-- Event Name --><#>The creature reaches out for you...
+<!-- Event ID --><#>159
+<!-- Event Name --><#>Inject
 Inject<#>Укол
+<!-- Event ID --><#>160
+<!-- Event Name --><#>Maneba stares at you without expression...
+<!-- Event ID --><#>161
+<!-- Event Name --><#>Flock of crows
+<!-- Event ID --><#>162
+<!-- Event Name --><#>
+<!-- Event ID --><#>163
+<!-- Event Name --><#>Poke
+<!-- Event ID --><#>164
+<!-- Event Name --><#>Scarab's shell bursts open!
+<!-- Event ID --><#>165
+<!-- Event Name --><#>Acid spills out
+<!-- Event ID --><#>166
+<!-- Event Name --><#>Ritual knife
 Ritual knife<#>Ритуальный нож
+<!-- Event ID --><#>167
+<!-- Event Name --><#>The beast wants to manhandle you...
+<!-- Event ID --><#>168
+<!-- Event Name --><#>Arm of the beast twitches...
+<!-- Event ID --><#>169
+<!-- Event Name --><#>Helmbreaker
+<!-- Event ID --><#>170
+<!-- Event Name --><#>The monster takes a step closer...
+<!-- Event ID --><#>171
+<!-- Event Name --><#>The heart is beating slowly...
+<!-- Event ID --><#>172
+<!-- Event Name --><#>Blade dance
 Blade dance<#>Танец клинков
+<!-- Event ID --><#>173
+<!-- Event Name --><#>Single blade
+<!-- Event ID --><#>174
+<!-- Event Name --><#>The arm is twitching restlessly...
+<!-- Event ID --><#>175
+<!-- Event Name --><#>Black orb
+<!-- Event ID --><#>176
+<!-- Event Name --><#>Smash
+<!-- Event ID --><#>177
+<!-- Event Name --><#>Axe kick
 Axe kick<#>Удар топором
+<!-- Event ID --><#>178
+<!-- Event Name --><#>Rusty claw
 Rusty claw<#>Ржавый коготь
+<!-- Event ID --><#>179
+<!-- Event Name --><#>The embryo tries to grab onto you!
+<!-- Event ID --><#>180
+<!-- Event Name --><#>Dislocating joints
+<!-- Event ID --><#>181
+<!-- Event Name --><#>The embryo is gnawing your feet!
+<!-- Event ID --><#>182
+<!-- Event Name --><#>Headbutt
+<!-- Event ID --><#>183
+<!-- Event Name --><#>Left-brain is calculating the situation...
+<!-- Event ID --><#>184
+<!-- Event Name --><#>Right-brain tries to come up with creative ways to combat...
+<!-- Event ID --><#>185
+<!-- Event Name --><#>Whispers of Gro-goroth
 Whispers of Gro-goroth<#>Шёпот Гро-горота
+<!-- Event ID --><#>186
+<!-- Event Name --><#>
+<!-- Event ID --><#>187
+<!-- Event Name --><#>
+<!-- Event ID --><#>188
+<!-- Event Name --><#>
+<!-- Event ID --><#>189
+<!-- Event Name --><#>
+<!-- Event ID --><#>190
+<!-- Event Name --><#>Combustion
 Combustion<#>Возгорание
 A talented wizard can control the heat in the atmosphere\#and create a large combustion of fire and flames to devour\#their opponents. Requires 1 Rev Point.<#>Талантливый маг способен контролировать окружающий воздух\#и создать сильное возгорание. Требуется 1 очко концентрации.
+<!-- Event ID --><#>191
+<!-- Event Name --><#>Dodge roll
 Dodge roll<#>Уворот
+<!-- Event ID --><#>192
+<!-- Event Name --><#>Kick
 Kick<#>Пинок
+<!-- Event ID --><#>193
+<!-- Event Name --><#>Face rip
 Face rip<#>Разрывание лица
+<!-- Event ID --><#>194
+<!-- Event Name --><#>Sking granny slowly stumbles forward......
 Sking granny slowly stumbles forward......<#>Тощая бабуля медленно приближается, спотыкаясь...
+<!-- Event ID --><#>195
+<!-- Event Name --><#>The leg is hanging loose.
 The leg is hanging loose.<#>Нога свободно свисает.
+<!-- Event ID --><#>196
+<!-- Event Name --><#>Cutlass
 Cutlass<#>Сабля
+<!-- Event ID --><#>197
+<!-- Event Name --><#>
+<!-- Event ID --><#>198
+<!-- Event Name --><#>Molten gold
 Molten gold<#>Расплавленное золото
+<!-- Event ID --><#>199
+<!-- Event Name --><#>Pyromancy trick
 A simple pyromancy trick to burn your opponents.<#>Простой трюк пиромантии, позволяющий поджечь ваших\#противников.
+<!-- Event ID --><#>200
+<!-- Event Name --><#>Combustion
 A large combustion of fire and flames. Requires 1 Rev\#Point.<#>Сильный взрыв из огня и пламени. Требуется 1 очко\#концентрации.
+<!-- Event ID --><#>201
+<!-- Event Name --><#>
+<!-- Event ID --><#>202
+<!-- Event Name --><#>Lantern
+<!-- Event ID --><#>203
+<!-- Event Name --><#>The golden body of Francóis is shining bright.
+<!-- Event ID --><#>204
+<!-- Event Name --><#>Francóis takes a step forward...
+<!-- Event ID --><#>205
+<!-- Event Name --><#>Suckerpunch
 Suckerpunch<#>Запрещённый прием
+<!-- Event ID --><#>206
+<!-- Event Name --><#>Leg sweep
+<!-- Event ID --><#>207
+<!-- Event Name --><#>Attack
+<!-- Event ID --><#>208
+<!-- Event Name --><#>Shield bash
 Shield bash<#>Удар щитом
+<!-- Event ID --><#>209
+<!-- Event Name --><#>Light blue vial
 Light blue vial<#>Голубой флакон
+<!-- Event ID --><#>210
+<!-- Event Name --><#>Steal
+<!-- Event ID --><#>211
+<!-- Event Name --><#>Attack
+<!-- Event ID --><#>212
+<!-- Event Name --><#>The outlander aims carefully...
 The outlander aims carefully...<#>Чужеземец тщательно целится...
+<!-- Event ID --><#>213
+<!-- Event Name --><#>Marksmanship
+<!-- Event ID --><#>214
+<!-- Event Name --><#>Gaping mouth
 Gaping mouth<#>Разинутый рот
+<!-- Event ID --><#>215
+<!-- Event Name --><#>Summon Asterisk
 Summon Asterisk<#>Призыв Астериска
+<!-- Event ID --><#>216
+<!-- Event Name --><#>Salvation
 Salvation<#>Спасение
+<!-- Event ID --><#>217
+<!-- Event Name --><#>Poison tongue
+<!-- Event ID --><#>218
+<!-- Event Name --><#>Healing whispers
 Concentrated whispers carried by the older god Sylvian. Heals\#a considerable amount of health of all the party members.<#>Сосредоточенный шёпот древней богини Сильвиан. Исцеляет\#значительное количество здоровья всех членов группы.
+<!-- Event ID --><#>219
+<!-- Event Name --><#>
+<!-- Event ID --><#>220
+<!-- Event Name --><#>Purifying ember
 Purifying ember<#>Очищающий уголь
+<!-- Event ID --><#>221
+<!-- Event Name --><#>Purifying black flames
 Purifying black flames<#>Очищающее чёрное пламя
+<!-- Event ID --><#>222
+<!-- Event Name --><#>Stampede of arms
+<!-- Event ID --><#>223
+<!-- Event Name --><#>The creature is wriggling in pain...
 The creature is wriggling in pain...<#>Существо корчится от боли...
+<!-- Event ID --><#>224
+<!-- Event Name --><#>Toxic mist
 Toxic mist<#>Токсичный туман
+<!-- Event ID --><#>225
+<!-- Event Name --><#>Body needles
 Body needles<#>Иглы для тела
+<!-- Event ID --><#>226
+<!-- Event Name --><#>Blank stare
 Blank stare<#>Пустой взгляд
+<!-- Event ID --><#>227
+<!-- Event Name --><#>Double-arm smash
 Double-arm smash<#>Двуручный удар
+<!-- Event ID --><#>228
+<!-- Event Name --><#>
+<!-- Event ID --><#>229
+<!-- Event Name --><#>Disable necromancy
+<!-- Event ID --><#>230
+<!-- Event Name --><#>Disable necromancy
+<!-- Event ID --><#>231
+<!-- Event Name --><#>Disable necromancy
+<!-- Event ID --><#>232
+<!-- Event Name --><#>Disable necromancy
+<!-- Event ID --><#>233
+<!-- Event Name --><#>Disable necromancy
+<!-- Event ID --><#>234
+<!-- Event Name --><#>Disable necromancy
+<!-- Event ID --><#>235
+<!-- Event Name --><#>Plague touch
 Plague touch<#>Чумное прикосновение
+<!-- Event ID --><#>236
+<!-- Event Name --><#>Punch
 Punch<#>Удар
+<!-- Event ID --><#>237
+<!-- Event Name --><#>
+<!-- Event ID --><#>238
+<!-- Event Name --><#>Loving whispers
 Loving whispers<#>Шёпот любви
 Concentrated whispers carried out by the older god Sylvian.\#Heals a considerable amount of health. Precariously the whisper's\#effects are solely based on Sylvian's whims.<#>Сосредоточенный шёпот древней богини Сильвиан.\#Восстанавливает значительное количество здоровья.\#Эффект шёпота зависит лишь от прихоти Сильвиан.
+<!-- Event ID --><#>239
+<!-- Event Name --><#>Pinecone pig
 Summon the deity of the good luck. The pinecone pig.<#>Призовите божество удачи. Шишкосвина.
+<!-- Event ID --><#>240
+<!-- Event Name --><#>Chains of torment
+<!-- Event ID --><#>241
+<!-- Event Name --><#>
+<!-- Event ID --><#>242
+<!-- Event Name --><#>You cause headache to the enlightened one.
+<!-- Event ID --><#>243
+<!-- Event Name --><#>
+<!-- Event ID --><#>244
+<!-- Event Name --><#>Gauntlet punch
 Gauntlet punch<#>Удар рукавицей
+<!-- Event ID --><#>245
+<!-- Event Name --><#>Pyromancy trick
+<!-- Event ID --><#>246
+<!-- Event Name --><#>
+<!-- Event ID --><#>247
+<!-- Event Name --><#>Chains of torment
+<!-- Event ID --><#>248
+<!-- Event Name --><#>Spider bite
 Spider bite<#>Укус паука
+<!-- Event ID --><#>249
+<!-- Event Name --><#>The asterisk is floating idle in the air...
 The asterisk is floating idle in the air...<#>Астериск витает в воздухе...
+<!-- Event ID --><#>250
+<!-- Event Name --><#>The newborn god is trembling in pain...
 The newborn god is trembling in pain...<#>Новорожденный бог дрожит от боли...
+<!-- Event ID --><#>251
+<!-- Event Name --><#>Pure fear
 Pure fear<#>Чистый страх
+<!-- Event ID --><#>252
+<!-- Event Name --><#>Pure hunger
 Pure hunger<#>Чистый голод
+<!-- Event ID --><#>253
+<!-- Event Name --><#>The newborn god glances at you...
 The newborn god glances at you...<#>Новорожденный бог смотрит на вас...
+<!-- Event ID --><#>254
+<!-- Event Name --><#>Self-mutilation
 Self-mutilation<#>Членовредительство
+<!-- Event ID --><#>255
+<!-- Event Name --><#>Claw of a god
 Claw of a god<#>Коготь бога
+<!-- Event ID --><#>256
+<!-- Event Name --><#>
+<!-- Event ID --><#>257
+<!-- Event Name --><#>5
+<!-- Event ID --><#>258
+<!-- Event Name --><#>4
+<!-- Event ID --><#>259
+<!-- Event Name --><#>3
+<!-- Event ID --><#>260
+<!-- Event Name --><#>2
+<!-- Event ID --><#>261
+<!-- Event Name --><#>1
+<!-- Event ID --><#>262
+<!-- Event Name --><#>Death
 Death<#>Смерть
+<!-- Event ID --><#>263
+<!-- Event Name --><#>Burning gaze
 Burning gaze<#>Прожигающий взгляд
+<!-- Event ID --><#>264
+<!-- Event Name --><#>Gro-goroth is breathing heavily...
 Gro-goroth is breathing heavily...<#>Гро-горот тяжело дышит...
+<!-- Event ID --><#>265
+<!-- Event Name --><#>
+<!-- Event ID --><#>266
+<!-- Event Name --><#>Poisoned dart
 Poisoned dart<#>Отравленный дротик
+<!-- Event ID --><#>267
+<!-- Event Name --><#>Paralysis dart
 Paralysis dart<#>Парализующий дротик
+<!-- Event ID --><#>268
+<!-- Event Name --><#>Critical slash
+<!-- Event ID --><#>269
+<!-- Event Name --><#>Mad rush_test
+<!-- Event ID --><#>270
+<!-- Event Name --><#>Mad rush
 Mad rush<#>Порыв безумия
+<!-- Event ID --><#>271
+<!-- Event Name --><#>Cross-slash
 Cross-slash<#>Поперечный разрез
+<!-- Event ID --><#>272
+<!-- Event Name --><#>The guardian hurls a boulder at you!
 The guardian hurls a boulder at you!<#>Страж швыряет в вас валун!
+<!-- Event ID --><#>273
+<!-- Event Name --><#>Francóis spits a molten from his mouth!
+<!-- Event ID --><#>274
+<!-- Event Name --><#>The golden god smirks at you.
+<!-- Event ID --><#>275
+<!-- Event Name --><#>The god squirts molten from its eye!
+<!-- Event ID --><#>276
+<!-- Event Name --><#>
+<!-- Event ID --><#>277
+<!-- Event Name --><#>Ruin
 Ruin<#>Разрушить
+<!-- Event ID --><#>278
+<!-- Event Name --><#>The molded squirms in pain...
 The molded squirms in pain...<#>Плесневелый корчится от боли...
+<!-- Event ID --><#>279
+<!-- Event Name --><#>Ejaculation
 Ejaculation<#>Эякуляция
+<!-- Event ID --><#>280
+<!-- Event Name --><#>----GUN ATTACKS-----
+<!-- Event ID --><#>281
+<!-- Event Name --><#>Attack
+<!-- Event ID --><#>282
+<!-- Event Name --><#>Attack
+<!-- Event ID --><#>283
+<!-- Event Name --><#>Attack
+<!-- Event ID --><#>284
+<!-- Event Name --><#>----GUN ATTACKS-----
+<!-- Event ID --><#>285
+<!-- Event Name --><#>War cry
 War cry<#>Боевой клич
 Provoke the enemy into attacking you.<#>Спровоцируйте врага напасть на вас.
+<!-- Event ID --><#>286
+<!-- Event Name --><#>Peck
+<!-- Event ID --><#>287
+<!-- Event Name --><#>Poke
+<!-- Event ID --><#>288
+<!-- Event Name --><#>Bite
+<!-- Event ID --><#>289
+<!-- Event Name --><#>Chomp
 Chomp<#>Чавканье
+<!-- Event ID --><#>290
+<!-- Event Name --><#>Rebirth of the beloved
 Rebirth of the beloved<#>Возрождение возлюбленного
 A hidden love magic that is said to bring back the one\#you loved the most.<#>Скрытая любовная магия, которая, как говорят, возвращает\#того, кого вы любили больше всего.
+<!-- Event ID --><#>291
+<!-- Event Name --><#>Escape plan
 Escape plan<#>План побега
 A skill that greatly enhances your chances of running away\#from fights. Planning for an escape in advance pays off.\#A passive skill.<#>Навык, значительно повышающий шансы убежать из боя.\#Планирование побега заранее приносит свои плоды.\#Пассивный навык.
+<!-- Event ID --><#>292
+<!-- Event Name --><#>Stomp
 Stomp<#>Растаптывание
+<!-- Event ID --><#>293
+<!-- Event Name --><#>Attack
+<!-- Event ID --><#>294
+<!-- Event Name --><#>Rot
 Rot<#>Гниение
 Rot the victim from inside out to make them vulnerable to\#attacks. Requires 1 Rev Point.<#>Разложите врага изнутри, чтобы сделать его уязвимым для\#атак. Требуется 1 очко концентрации.
+<!-- Event ID --><#>295
+<!-- Event Name --><#>Hack
+<!-- Event ID --><#>296
+<!-- Event Name --><#>The villager sets up a bear trap
 The villager sets up a bear trap<#>Житель устанавливает медвежий капкан
+<!-- Event ID --><#>297
+<!-- Event Name --><#>Bear trap
 Bear trap<#>Медвежий капкан
+<!-- Event ID --><#>298
+<!-- Event Name --><#>Pesticide spray
 Pesticide spray<#>Распыление пестицида
+<!-- Event ID --><#>299
+<!-- Event Name --><#>
+<!-- Event ID --><#>300
+<!-- Event Name --><#>Hurting
+<!-- Event ID --><#>301
+<!-- Event Name --><#>Toothless bite
 Toothless bite<#>Беззубый укус
+<!-- Event ID --><#>302
+<!-- Event Name --><#>Black vomit
 Black vomit<#>Чёрная рвота
+<!-- Event ID --><#>303
+<!-- Event Name --><#>The headless is panting...
 The headless is panting...<#>Безголовая гончая тяжело дышит...
+<!-- Event ID --><#>304
+<!-- Event Name --><#>The left pendulum picks up momentum...
 The left pendulum picks up momentum...<#>Левый маятник набирает обороты...
+<!-- Event ID --><#>305
+<!-- Event Name --><#>The right pendulum picks up momentum...
 The right pendulum picks up momentum...<#>Правый маятник набирает обороты...
+<!-- Event ID --><#>306
+<!-- Event Name --><#>The pedulum swings in a great arc...
 The pedulum swings in a great arc...<#>Маятник описывает длинную дугу...
+<!-- Event ID --><#>307
+<!-- Event Name --><#>Guillotine swing
 Guillotine swing<#>Взмах гильотины
+<!-- Event ID --><#>308
+<!-- Event Name --><#>Pendulum swing
 Pendulum swing<#>Взмах маятника
+<!-- Event ID --><#>309
+<!-- Event Name --><#>Pendulum swing
+<!-- Event ID --><#>310
+<!-- Event Name --><#>Idle swing...
 Idle swing...<#>Неспешное покачивание...
+<!-- Event ID --><#>311
+<!-- Event Name --><#>Bite
+<!-- Event ID --><#>312
+<!-- Event Name --><#>Pummel
+<!-- Event ID --><#>313
+<!-- Event Name --><#>Mastery over vermin
 Mastery over vermin<#>Господство над паразитами
 Gain the ability to talk to those who are often left unseen.<#>Получите возможность разговаривать с теми, кто скрыт\#природой.
+<!-- Event ID --><#>314
+<!-- Event Name --><#>Flesh puppetry
 Flesh puppetry<#>Марионетка из плоти
 Puppeteer severed limbs at your disposal to attack the enemy.\#You need sawed off limbs to do this.<#>Дёргайте за ниточки отрубленные конечности, чтобы атаковать\#врага. Для этого вам нужны отрубленные конечности в\#инвентаре.
+<!-- Event ID --><#>315
+<!-- Event Name --><#>Mind read
 Mind read<#>Чтение мыслей
 A moon magic that reveal the inner thoughts of your\#fellow humans.<#>Лунная магия, раскрывающая сокровенные мысли людского бытия.
+<!-- Event ID --><#>316
+<!-- Event Name --><#>Grasp of a giant
 Grasp of a giant<#>Хватка гиганта
+<!-- Event ID --><#>317
+<!-- Event Name --><#>The monster grabs you by the face!
 The monster grabs you by the face!<#>Монстр хватает вас за лицо!
+<!-- Event ID --><#>318
+<!-- Event Name --><#>Flesh puppetry
+<!-- Event ID --><#>319
+<!-- Event Name --><#>Flesh puppetry
+<!-- Event ID --><#>320
+<!-- Event Name --><#>Flesh puppetry
+<!-- Event ID --><#>321
+<!-- Event Name --><#>Flesh puppetry
+<!-- Event ID --><#>322
+<!-- Event Name --><#>
+<!-- Event ID --><#>323
+<!-- Event Name --><#>Gun proficiency
 Gun proficiency<#>Владение оружием
 Proficiency with firearms gives you greater accuracy while\#shooting. A passive skill.<#>Владение огнестрельным оружием даёт вам большую точность при\#стрельбе. Пассивный навык.
+<!-- Event ID --><#>324
+<!-- Event Name --><#>Gunslinger
 Gunslinger<#>Опытный стрелок
 Advanced use of pistols. Precise shots can occasionally\#dismember opponents. Used on field.<#>Продвинутое обращение с пистолетами. У вас появляется\#возможность иногда отстреливать конечности. Используется\#вне боя.
+<!-- Event ID --><#>325
+<!-- Event Name --><#>Executioner
 Executioner<#>Палач
 Advanced use of trenchguns. You are able to execute a stunned\#enemy by shooting it again on the field.<#>Продвинутое обращение с дробовиками. Вы можете мгновенно\#убить оглушенного противника, выстрелив в него вне боя.
+<!-- Event ID --><#>326
+<!-- Event Name --><#>Marksmanship
 Advanced use of rifles. You are able to one-shot enemies\#with the rifle every now and then. Used on field.<#>Продвинутое обращение с винтовками. Иногда, стреляя из\#винтовки, вы можете мгновенно убить противника вне боя.
+<!-- Event ID --><#>327
+<!-- Event Name --><#>
+<!-- Event ID --><#>328
+<!-- Event Name --><#>Giant fork
 Giant fork<#>Гигантская вилка
+<!-- Event ID --><#>329
+<!-- Event Name --><#>Giant knife
 Giant knife<#>Гигантский нож
+<!-- Event ID --><#>330
+<!-- Event Name --><#>The gentleman makes gurggling sounds...
 The gentleman makes gurggling sounds...<#>Джентльмен издаёт булькающие звуки...
+<!-- Event ID --><#>331
+<!-- Event Name --><#>The vomit burns!
 The vomit burns!<#>Рвота жжётся!
+<!-- Event ID --><#>332
+<!-- Event Name --><#>Canister smash
 Canister smash<#>Удар канистрой
+<!-- Event ID --><#>333
+<!-- Event Name --><#>Gas is leaking from Vile's canister...
 Gas is leaking from Vile's canister...<#>Из баллона Мерзости сочится газ...
+<!-- Event ID --><#>334
+<!-- Event Name --><#>Doomsday trumpet
 Doomsday trumpet<#>Труба судного дня
+<!-- Event ID --><#>335
+<!-- Event Name --><#>Engrave
 Engrave<#>Выгравировать
 Engrave a sigil on a party member. The benefit of the sigil varies\#depeding on the god it belongs to. Historically sigils were carved\#on the body, but modern practition prefers face sigils.<#>Выгравируйте символ на коже одного из членов группы. Польза\#символа варьируется в зависимости от бога, которому он\#принадлежит. Современники обычно вырезают символы на лице.
+<!-- Event ID --><#>336
+<!-- Event Name --><#>Rampage
 Rampage<#>Буйство
 A vicious ramming attack.<#>Жестокая таранная атака.
+<!-- Event ID --><#>337
+<!-- Event Name --><#>Advanced occultism
 Advanced occultism<#>Продвинутый оккультизм
 Your advanced knowledge in occult arts enables you to start\#a battle with an extra Rev point. A passive skill.<#>Ваши продвинутые знания в оккультизме позволяют начать\#битву с дополнительным очком концентрации. Пассивный навык.
+<!-- Event ID --><#>338
+<!-- Event Name --><#>Meditation
 Meditation<#>Медитация
 Reach a higher state of awareness. Meditate while guarding to gain\#extra Rev points on that turn.<#>Достигните просветления. Медитируйте во время защиты,\#чтобы получить дополнительные очки концентрации в\#следующем ходу.
+<!-- Event ID --><#>339
+<!-- Event Name --><#>Mucus and slime drips from the trout...
 Mucus and slime drips from the trout...<#>С хобота стекают мускус и слизь...
+<!-- Event ID --><#>340
+<!-- Event Name --><#>
+<!-- Event ID --><#>341
+<!-- Event Name --><#>Combustion
+<!-- Event ID --><#>342
+<!-- Event Name --><#>Shoot
 Shoot<#>Выстрел
+<!-- Event ID --><#>343
+<!-- Event Name --><#>Critical shot
 Critical shot<#>Критический выстрел
+<!-- Event ID --><#>344
+<!-- Event Name --><#>The rifleman is aiming wildly...
 The rifleman is aiming wildly...<#>Стрелок небрежно целится...
+<!-- Event ID --><#>345
+<!-- Event Name --><#>Hammerhead
 Hammerhead<#>Молоток
+<!-- Event ID --><#>346
+<!-- Event Name --><#>Scratch
+<!-- Event ID --><#>347
+<!-- Event Name --><#>Clawing
 Clawing<#>Разрывание
+<!-- Event ID --><#>348
+<!-- Event Name --><#>Nasty bite
+<!-- Event ID --><#>349
+<!-- Event Name --><#>Nasty bite
+<!-- Event ID --><#>350
+<!-- Event Name --><#>
+<!-- Event ID --><#>351
+<!-- Event Name --><#>The crimson father is focusing its attention...
 The crimson father is focusing its attention...<#>Багровый отец сосредотачивает внимание...
+<!-- Event ID --><#>352
+<!-- Event Name --><#>Mind control
 Mind control<#>Контроль разума
+<!-- Event ID --><#>353
+<!-- Event Name --><#>The crimson father began trembling furiously...
 The crimson father began trembling furiously...<#>Багровый отец яростно дрожит...
+<!-- Event ID --><#>354
+<!-- Event Name --><#>Tentacles
 Tentacles<#>Щупальца
+<!-- Event ID --><#>355
+<!-- Event Name --><#>Occult dagger
 Occult dagger<#>Оккультный кинжал
+<!-- Event ID --><#>356
+<!-- Event Name --><#>Gaping bite
 Gaping bite<#>Широкий укус
+<!-- Event ID --><#>357
+<!-- Event Name --><#>Point blank
 Point blank<#>В упор
+<!-- Event ID --><#>358
+<!-- Event Name --><#>Shoot
+<!-- Event ID --><#>359
+<!-- Event Name --><#>Needle whip
 Needle whip<#>Хлыст с иглами
+<!-- Event ID --><#>360
+<!-- Event Name --><#>Needle whip
+<!-- Event ID --><#>361
+<!-- Event Name --><#>Mystery injection
 Mystery injection<#>Таинственная инъекция
+<!-- Event ID --><#>362
+<!-- Event Name --><#>Mystery injection
+<!-- Event ID --><#>363
+<!-- Event Name --><#>Mystery injection
+<!-- Event ID --><#>364
+<!-- Event Name --><#>Baton
 Baton<#>Дубинка
+<!-- Event ID --><#>365
+<!-- Event Name --><#>---
+<!-- Event ID --><#>366
+<!-- Event Name --><#>Organ harvest
 Organ harvest<#>Сбор органов
 Harvest organs from fallen foes to sacrifice them with your\#medicinal skills. The desecration of bodies used to be a taboo\#subject, but it is now widely used among medical practitioners.<#>Вырезайте органы убитых существ, чтобы принести их в жертву.\#Осквернение тел раньше запрещалось, но теперь оно широко\#используется среди практикующих врачей.
+<!-- Event ID --><#>367
+<!-- Event Name --><#>Medicinal
 Medicinal<#>Исцеление
 Sacrifice harvested organs to Vitruvia, the architect of the human\#body. A sacrifice will cure a corresponding status ailment. Medicinal\#is based on the law where every action has an equal reaction.<#>Пожертвуйте органы Витрувии, архитектору человеческого тела.\#Жертва излечит болезнь, соответствующую статусу.\#Каждый орган противодействует своей болезни.
+<!-- Event ID --><#>368
+<!-- Event Name --><#>Magna-medicinal
 Magna-medicinal<#>Высшее исцеление
 A greater form of medicinal where the surgeon will sacrifice\#their own limbs in exhange for human life. The procedure must be\#performed on the spot during an encounter to work properly.<#>Высшая форма исцеления. Хирург жертвует своими собственными\#конечностями в обмен на человеческую жизнь. Процедура должна\#выполнятся незамедлительно, чтобы пройти успешно.
+<!-- Event ID --><#>369
+<!-- Event Name --><#>Analyze
 Analyze<#>Анализ
 Study the anatomy of your opponent to quickly find the biggest\#weaknesses it their physique.<#>Изучите анатомию своего противника, чтобы быстро найти самые\#уязвимые места в его теле.
+<!-- Event ID --><#>370
+<!-- Event Name --><#>---
+<!-- Event ID --><#>371
+<!-- Event Name --><#>Trapcraft
 Trapcraft<#>Изготовление ловушек
 Craft bear traps and booby traps from different utility items.\#Used in the Crafting menu.<#>Создавайте медвежьи капканы и мины-ловушки из различного\#хлама. Используется в меню изготовления.
+<!-- Event ID --><#>372
+<!-- Event Name --><#>Weaponcraft
 Weaponcraft<#>Изготовление оружия
 Use your imagination to craft unique weapons from different\#utility items. Used in the Crafting menu.<#>Используйте своё воображение, чтобы создавать уникальное\#оружие из различного хлама. Используется в меню\#изготовления.
+<!-- Event ID --><#>373
+<!-- Event Name --><#>Short circuit
 Short circuit<#>Короткое замыкание
 Short circuit an electric lock to open locked doors.\#Relatively simple in practice, but short circuiting the wrong\#conductors might lock the door for good.<#>Короткое замыкание электронных замков для открытия запертых\#дверей. На деле это довольно просто, но короткое замыкание\#не тех проводов может запереть дверь навсегда.
+<!-- Event ID --><#>374
+<!-- Event Name --><#>
+<!-- Event ID --><#>375
+<!-- Event Name --><#>
+<!-- Event ID --><#>376
+<!-- Event Name --><#>---
+<!-- Event ID --><#>377
+<!-- Event Name --><#>Remedial poison
 Remedial poison<#>Исцеление яда
 Sacrifice a kidney to Vitruvia to cure poison.<#>Пожертвуйте Витрувии печень, чтобы излечить отравление ядом.
+<!-- Event ID --><#>378
+<!-- Event Name --><#>Remedial toxic
 Remedial toxic<#>Исцеление токсинов
 Sacrifice a liver to Vitruvia to cure toxic.<#>Пожертвуйте Витрувии печень, чтобы излечить отравление\#токсинами.
+<!-- Event ID --><#>379
+<!-- Event Name --><#>Remedial infection
 Remedial infection<#>Исцеление инфекции
 Sacrifice a thymus to Vitruvia to cure infections.<#>Пожертвуйте Витрувии тимус, чтобы излечить инфекцию.
+<!-- Event ID --><#>380
+<!-- Event Name --><#>Remedial bleeding
 Remedial bleeding<#>Исцеление кровотечения
 Sacrifice a heart to Vitruvia to cure bleeding.<#>Пожертвуйте Витрувии сердце, чтобы излечить кровотечение.
+<!-- Event ID --><#>381
+<!-- Event Name --><#>Remedial fracture
 Remedial fracture<#>Исцеление перелома
 Sacrifice parathyroid glands to Vitruvia to cure fractures.<#>Пожертвуйте Витрувии паращитовидные железы, чтобы излечить\#перелом.
+<!-- Event ID --><#>382
+<!-- Event Name --><#>Remedial blindness
 Remedial blindness<#>Исцеление слепоты
 Sacrifice an eye to Vitruvia to cure blindness.<#>Пожертвуйте Витрувии глаз, чтобы излечить слепоту.
+<!-- Event ID --><#>383
+<!-- Event Name --><#>---
+<!-- Event ID --><#>384
+<!-- Event Name --><#>Greater analyze
 Greater analyze<#>Высший анализ
 Analyze the enemy behaviour and find the weak points. You can\#use the acquired information against similar type enemies.<#>Проанализируйте поведение противника и найдите слабые места.\#Вы можете использовать полученную информацию против подобных\#врагов.
+<!-- Event ID --><#>385
+<!-- Event Name --><#>---
+<!-- Event ID --><#>386
+<!-- Event Name --><#>Wrench toss
 Wrench toss<#>Бросок разводного ключа
 Throw your pipe wrench at the enemy with devastating force.\#A chance of stun. Requires pipe wrench to be equipped first.<#>Бросьте разводной ключ во врага с огромной силой.\#Может вызвать оглушение. Разводной ключ должен быть\#экипирован.
+<!-- Event ID --><#>387
+<!-- Event Name --><#>Wrench toss
+<!-- Event ID --><#>388
+<!-- Event Name --><#>Wrench toss
+<!-- Event ID --><#>389
+<!-- Event Name --><#>Wrench toss
+<!-- Event ID --><#>390
+<!-- Event Name --><#>Wrench toss
+<!-- Event ID --><#>391
+<!-- Event Name --><#>
+<!-- Event ID --><#>392
+<!-- Event Name --><#>
+<!-- Event ID --><#>393
+<!-- Event Name --><#>
+<!-- Event ID --><#>394
+<!-- Event Name --><#>Bulldozer
 Bulldozer<#>Сбивание с ног
+<!-- Event ID --><#>395
+<!-- Event Name --><#>The pillarman starts to jog...
 The pillarman starts to jog...<#>Столпник пускается в бег...
+<!-- Event ID --><#>396
+<!-- Event Name --><#>Necromancy
+<!-- Event ID --><#>397
+<!-- Event Name --><#>The dysmorphia's arm is spasming violently...
 The dysmorphia's arm is spasming violently...<#>Рука Дисморфии сильно дёргается...
+<!-- Event ID --><#>398
+<!-- Event Name --><#>The dysmorphia is radiating!
 The dysmorphia is radiating!<#>Дисморфия сияет!
+<!-- Event ID --><#>399
+<!-- Event Name --><#>
+<!-- Event ID --><#>400
+<!-- Event Name --><#>Flesh puppetry
+<!-- Event ID --><#>401
+<!-- Event Name --><#>Flesh puppetry
+<!-- Event ID --><#>402
+<!-- Event Name --><#>Flesh puppetry
+<!-- Event ID --><#>403
+<!-- Event Name --><#>Flesh puppetry
+<!-- Event ID --><#>404
+<!-- Event Name --><#>
+<!-- Event ID --><#>405
+<!-- Event Name --><#>
+<!-- Event ID --><#>406
+<!-- Event Name --><#>Needles readies his syringe...
 Needles readies his syringe...<#>Нидлз готовит шприц...
+<!-- Event ID --><#>407
+<!-- Event Name --><#>
+<!-- Event ID --><#>408
+<!-- Event Name --><#>Mischief of rats
+<!-- Event ID --><#>409
+<!-- Event Name --><#>The platoon is aiming its canon...
 The platoon is aiming its canon...<#>Взвод наводит пушку...
+<!-- Event ID --><#>410
+<!-- Event Name --><#>
+<!-- Event ID --><#>411
+<!-- Event Name --><#>Distraught melody
 Distraught melody<#>Мелодия безумия
+<!-- Event ID --><#>412
+<!-- Event Name --><#>The Neighbour whips its tongue out
 The Neighbour whips its tongue out<#>Сосед высовывает язык
+<!-- Event ID --><#>413
+<!-- Event Name --><#>The Neighbour is smelling the air with its tongue...
 The Neighbour is smelling the air with its tongue...<#>Сосед пробует воздух языком...
+<!-- Event ID --><#>414
+<!-- Event Name --><#>Suction tongue
 Suction tongue<#>Всасывающий язык
+<!-- Event ID --><#>415
+<!-- Event Name --><#>Spear poke
 Spear poke<#>Удар копьём
+<!-- Event ID --><#>416
+<!-- Event Name --><#>Javelin
 Javelin<#>Метание копья
+<!-- Event ID --><#>417
+<!-- Event Name --><#>Choke
 Choke<#>Удушение
+<!-- Event ID --><#>418
+<!-- Event Name --><#>Harden
 Harden<#>Затвердевание
+<!-- Event ID --><#>419
+<!-- Event Name --><#>Shoot
+<!-- Event ID --><#>420
+<!-- Event Name --><#>Point blank
+<!-- Event ID --><#>421
+<!-- Event Name --><#>The soldier is swinging his pistol wildly
 The soldier is swinging his pistol wildly<#>Солдат безумно размахивает пистолетом
+<!-- Event ID --><#>422
+<!-- Event Name --><#>Judgement bell
 Judgement bell<#>Судный колокол
+<!-- Event ID --><#>423
+<!-- Event Name --><#>The inquisitor is chanting blood magic...
 The inquisitor is chanting blood magic...<#>Инквизитор напевает магию крови...
+<!-- Event ID --><#>424
+<!-- Event Name --><#>Hurting
+<!-- Event ID --><#>425
+<!-- Event Name --><#>Revel in feces
 Revel in feces<#>Упивание фекалиями
+<!-- Event ID --><#>426
+<!-- Event Name --><#>Infected bite
 Infected bite<#>Инфицированный укус
+<!-- Event ID --><#>427
+<!-- Event Name --><#>Infected bite
+<!-- Event ID --><#>428
+<!-- Event Name --><#>
+<!-- Event ID --><#>429
+<!-- Event Name --><#>Stinger top
 Stinger top<#>Жало
+<!-- Event ID --><#>430
+<!-- Event Name --><#>Carousel of claws
 Carousel of claws<#>Карусель когтей
+<!-- Event ID --><#>431
+<!-- Event Name --><#>Tender bite
 Tender bite<#>Нежный укус
+<!-- Event ID --><#>432
+<!-- Event Name --><#>Tender bite 2x
 Tender bite 2x<#>Нежный укус x2
+<!-- Event ID --><#>433
+<!-- Event Name --><#>Tender bite 3x
 Tender bite 3x<#>Нежный укус x3
+<!-- Event ID --><#>434
+<!-- Event Name --><#>
+<!-- Event ID --><#>435
+<!-- Event Name --><#>Crescent claw
 Crescent claw<#>Коготь-полумесяц
+<!-- Event ID --><#>436
+<!-- Event Name --><#>Body throw
 Body throw<#>Бросок тела
+<!-- Event ID --><#>437
+<!-- Event Name --><#>Bribe
 Bribe<#>Подкуп
+<!-- Event ID --><#>438
+<!-- Event Name --><#>The mallet is hanging loose...
 The mallet is hanging loose...<#>Молоток болтается...
+<!-- Event ID --><#>439
+<!-- Event Name --><#>----Occultist----
+<!-- Event ID --><#>440
+<!-- Event Name --><#>Greater occultism
 Greater occultism<#>Высший оккультизм
 Your greater knowledge in occult arts enables you to start\#a battle with 2 extra Rev points. A passive skill.<#>Ваши глубокие познания в оккультизме позволяют\#начать битву с двумя дополнительными очками концентрации.\#Пассивный навык.
+<!-- Event ID --><#>441
+<!-- Event Name --><#>Warding sigil
 Warding sigil<#>Защитный круг
 Draw a warding sigil on the ground to fend off malice and\#creatures with ill intent. Originally created by the Virgin\#Mages of the Eastern Sanctuaries.<#>Нарисуйте на земле защитный круг, чтобы отогнать зло и\#существ со злыми намерениями. Изначально создан\#непорочными магами Восточных Святилищ.
+<!-- Event ID --><#>442
+<!-- Event Name --><#>Advanced occultism
+<!-- Event ID --><#>443
+<!-- Event Name --><#>----Yellow Mage----
+<!-- Event ID --><#>444
+<!-- Event Name --><#>La Danse Macabre
 La Danse Macabre<#>Танец смерти
 A ritual dance used to channel otherwordly powers to be used\#by the performer. Raises otherwordly powers gradually over the\#course of a fight. A passive skill.<#>Ритуальный танец, используемый для связи с потусторонними\#силами. Постепенно усиливает магические силы танцующего в\#ходе боя. Пассивный навык.
+<!-- Event ID --><#>445
+<!-- Event Name --><#>Premonitions
 Premonitions<#>Предчувствие
+<!-- Event ID --><#>446
+<!-- Event Name --><#>Greater meditation
 Greater meditation<#>Высшая медитация
 Reach a greater state of awareness. Meditate while guarding to gain\#even more Rev points on that turn.<#>Достигните высшего просветления. Медитируйте во время\#защиты, чтобы получить два очка концентрации в следующем\#ходу.
+<!-- Event ID --><#>447
+<!-- Event Name --><#>Spice forge
 Spice forge<#>Кузница специй
 Spice forges were widely used by magick practitioners of the\#Middle East back in the day. Spices make it possible to customize\#the properties of your otherwordly skills.<#>Кузницы специй широко использовались практикующими магию на\#Ближнем Востоке в былые времена. Специи позволяют\#улучшить ваши магические способности.
+<!-- Event ID --><#>448
+<!-- Event Name --><#>----Dark Mage Apprentice----
+<!-- Event ID --><#>449
+<!-- Event Name --><#>Greater blood magic
+<!-- Event ID --><#>450
+<!-- Event Name --><#>Blood sacrifice
 Sacrifice your own blood for Gro-goroth, the god of destruction.\#A blood sacrifice will enhance your affinity with the said god.\#Sacrifices like these were everyday occurences back in the day.<#>Пожертвуйте собственной кровью ради Гро-горота,\#бога разрушения. Жертвоприношение усилит вашу близость\#с этим богом.
+<!-- Event ID --><#>451
+<!-- Event Name --><#>Masturbation
 Masturbation<#>Мастурбация
 An act of self-love enhances your affinity with Sylvian when\#performed on a ritual circle. This act is widely popular among\#the priests of Vatican when mixed with blood sacrifice.<#>Акт самоудовлетворения в ритуальном круге приблизит вас к\#Сильвиан. Этот акт широко популярен среди священников\#Ватикана в сочетании с пожертвованием кровью.
+<!-- Event ID --><#>452
+<!-- Event Name --><#>
+<!-- Event ID --><#>453
+<!-- Event Name --><#>----Chef----
+<!-- Event ID --><#>454
+<!-- Event Name --><#>Slow metabolism
 Slow metabolism<#>Замедление метаболизма
 Slowing down your breath and concentrating on the matters at\#hand. You don't need to eat quite as often. You only need few\#good meals a day.<#>Сконцентрируйтесь на насущных делах и замедлите метаболизм.\#Используя эту технику вам не захочется есть слишком много.
+<!-- Event ID --><#>455
+<!-- Event Name --><#>Masterchef
 Masterchef<#>Шеф-повар
 Greater culinary skills enable you to cook meals that have\#special nutritional properties. These include various stat boosts.<#>Навыки высокой кухни позволяют вам готовить блюда,\#обладающие особыми питательными свойствами. Они\#включают в себя в том числе обострение рефлексов.
+<!-- Event ID --><#>456
+<!-- Event Name --><#>Melee proficiency
 Melee proficiency<#>Владение холодным оружием
 Proficiency with melee weapons gives you greater accuracy when\#fighting with a weapon you can swing. A passive skill.<#>Владение холодным оружием позволяет вам более точно поражать\#слабые точки противников при помощи холодного оружия.\#Пассивный навык.
+<!-- Event ID --><#>457
+<!-- Event Name --><#>
+<!-- Event ID --><#>458
+<!-- Event Name --><#>----Botanist----
+<!-- Event ID --><#>459
+<!-- Event Name --><#>Toxicology
 Toxicology<#>Токсикология
 The skill to condense the effective properties of different\#poisonous plants to maximize their potential. Teaches you the\#recipes for condensed nettle and condensed hemlock.<#>Умение выжимать концентрат из растений, чтобы улучшать их\#свойства. Даёт доступ к рецептам концентрата крапивы и\#концентрата болиголова.
+<!-- Event ID --><#>460
+<!-- Event Name --><#>Undergrowth awareness
 Undergrowth awareness<#>Знания о природе
 You can harvest irritable and poisonous plants safely and also\#tell apart the plants that have potential use in your situation.\#A passive skill useful on the field.<#>Вы можете безопасно собирать вредные и ядовитые растения, а\#также разбираться, какие растения могут быть потенциально\#полезными. Полезный пассивный навык.
+<!-- Event ID --><#>461
+<!-- Event Name --><#>Advanced botanism
 Advanced botanism<#>Продвинутая ботаника
 The skill to condense the effective properties of herbs and\#plants to maximize their potential. Teaches you the recipes for\#condensed blue and green herbs as well as lavender.<#>Умение выжимать концентрат из растений, чтобы улучшать их\#свойства. Даёт доступ к концентратам синих/зелёных трав и\#концентрату лаванды.
+<!-- Event ID --><#>462
+<!-- Event Name --><#>Poison tip
 Poison tip<#>Покрытие ядом
 Coat your weapon in poison extracted from the local plantlife.\#The poison tip takes a small toll on your sanity because of the\#constant stress of handling a poison coated weapon.<#>Покройте своё оружие ядом, добытым из местных растений.\#Покрытое ядом оружие слегка воздействует на рассудок, всё\#из-за стресса при обращении с подобным оружием.
+<!-- Event ID --><#>463
+<!-- Event Name --><#>----Fighter----
+<!-- Event ID --><#>464
+<!-- Event Name --><#>Fast stance
 Fast stance<#>Быстрая стойка
 Raise your speed with swift footwork. In most cases you get\#and extra turn between enemy attacks.<#>Работайте ногами и двигайтесь быстрее. В большинстве\#случаев, вы получите дополнительный ход между вражескими\#атаками.
+<!-- Event ID --><#>465
+<!-- Event Name --><#>Bob and weave
 Bob and weave<#>Крен и проскальзывание
 A defensive technique where one bobs their head laterally to an\#incoming attack while shifting balance to either left or right.\#Raises evasion greatly.<#>Техника уклонения в бок и вперёд-назад, используемая в боксе\#для уклонения от ударов. Значительно повышает ваш шанс\#уклонения.
+<!-- Event ID --><#>466
+<!-- Event Name --><#>Counter stance
 Counter stance<#>Стойка контратаки
 Stay alert for enemy attacks and counter when possible.<#>Следите за вражескими атаками и контратакуйте в подходящий\#момент.
+<!-- Event ID --><#>467
+<!-- Event Name --><#>Adrenaline rush
 Adrenaline rush<#>Прилив адреналина
 The longer the combat goes on, the stronger you get as your\#blood boils ever hotter.<#>Чем дольше продолжается бой, тем сильнее вы становитесь,\#и тем сильнее вскипает ваша кровь.
+<!-- Event ID --><#>468
+<!-- Event Name --><#>Bare-fisted proficiency
 Bare-fisted proficiency<#>Мастерство кулачного боя
 Proficiency with your bare fists gives you greater accuracy when\#fighting without a weapon. A passive skill.<#>Знания в бою на кулаках позволят вам очень метко поражать\#слабые точки противника даже без оружия. Пассивный навык.
+<!-- Event ID --><#>469
+<!-- Event Name --><#>----Mobster----
+<!-- Event ID --><#>470
+<!-- Event Name --><#>Intimidate
 Intimidate<#>Запугивание
 Intimidation tactics in battle work on those mentally weak.\#The effects vary case by case. Used while initiating Talk\#during combat.<#>Тактика запугивания может подействовать в бою на психически\#слабого врага. Эффекты варьируются от человека к человеку.\#Используется пассивно с навыком разговора.
+<!-- Event ID --><#>471
+<!-- Event Name --><#>Killing intent
 Killing intent<#>Желание убивать
 You killing intent eminates strong. This will scare away the\#weaker opponent so you don't need to bother with them.<#>От вас исходит острое желание убивать. Оно будет пугать\#слабых врагов, заставляя их убегать от вас.
+<!-- Event ID --><#>472
+<!-- Event Name --><#>Explosives
 Explosives<#>Взрывчатка
 Getting creative in a wartorn times is a must. Craft explosives\#to be used in combat from simple everyday ingredients.<#>Творческий подход необходим в военном деле. Создавайте\#взрывчатку из обычного хлама для использования в бою.
+<!-- Event ID --><#>473
+<!-- Event Name --><#>Steal
 Try to pickpocket goods from your opponents. You never know\#what you might find.<#>Попробуйте украсть что-нибудь у противника.\#Никогда не знаешь, что можно получить.
+<!-- Event ID --><#>474
+<!-- Event Name --><#>----Lieutenant----
+<!-- Event ID --><#>475
+<!-- Event Name --><#>Bury the trauma
 Bury the trauma<#>Заглушение боли
 Bury your trauma and fears. This reduces your sanity decline while\#exploring. You can deal with the psychiatric collapse and the combat\#fatigue once you're in a safer place. After all this...<#>Заглушите свои боль и страхи. Поможет сохранить рассудок по\#мере путешествия. Вы можете разобраться со сломанной\#психикой и боевыми травмами позже, после всего этого...
+<!-- Event ID --><#>476
+<!-- Event Name --><#>Order, Charge!
 Order, Charge!<#>Приказ, в атаку!
 Give orders to your team to charge and attack the enemy without\#wasting their turns.<#>Отдавайте приказы участникам своего отряда, не используя их\#ходы.
+<!-- Event ID --><#>477
+<!-- Event Name --><#>Order, Defend!
 Order, Defend!<#>Приказ, в защиту!
+<!-- Event ID --><#>478
+<!-- Event Name --><#>
+<!-- Event ID --><#>479
+<!-- Event Name --><#>----Journalist----
+<!-- Event ID --><#>480
+<!-- Event Name --><#>Lockpicking
 An ability to open any simple lock with your trusty lockpick.<#>Возможность открыть любой простой замок своей верной\#отмычкой.
+<!-- Event ID --><#>481
+<!-- Event Name --><#>Escape plan::291
+<!-- Event ID --><#>482
+<!-- Event Name --><#>Persuade
 Persuade<#>Убеждение
 Persuade your opponents with greater intellect and wit. The effects\#vary between enemy to enemy depending on their persona. Used with\#Talk skill.<#>Убеждайте своих оппонентов превосходящим интеллектом и\#остроумием. Эффекты варьируются от врага к врагу.\#Применяется пассивно с навыком разговора.
+<!-- Event ID --><#>483
+<!-- Event Name --><#>Diplomacy
 Diplomacy<#>Дипломатия
 Start the fight by talking to the opponent without wasting a\#turn. Maybe you can find a diplomatic resolution before any\#violence takes place?<#>Начните бой сразу с разговора, без потери хода. Может быть,\#вы сможете найти дипломатическое решение до того, как\#прибегнете к насилию?
+<!-- Event ID --><#>484
+<!-- Event Name --><#>----Doctor----
+<!-- Event ID --><#>485
+<!-- Event Name --><#>Reverse-healing
 Reverse-healing<#>Обратное исцеление
 remove own organs to cause serious damage<#>Удалите собственные органы, чтобы нанести серьёзный ущерб\#врагу.
+<!-- Event ID --><#>486
+<!-- Event Name --><#>Precision stance
 Precision stance<#>Стойка точности
 A special stance to raise your accuracy greatly. Often used\#during medical surgeries to prevent one's arm from shaking.<#>Специальная стойка, значительно повышающая вашу точность.\#Часто используется во время медицинских операций, чтобы\#предотвратить дрожание руки.
+<!-- Event ID --><#>487
+<!-- Event Name --><#>Diagnosis
 Diagnosis<#>Диагноз
 Study fallen enemies and their anatomy to gain knowledge of\#them. Diagnosis also reveals what strategies might work the\#best when facing similar foes in the future.<#>Изучайте поверженных врагов и их анатомию, чтобы получить\#представление о них. Диагноз также показывает, чем\#лучше атаковать врага.
+<!-- Event ID --><#>488
+<!-- Event Name --><#>----Salaryman----
+<!-- Event ID --><#>489
+<!-- Event Name --><#>Rugged handsome looks
 Rugged handsome looks<#>Суровый внешний вид
 The skill doesn't necessarily translate to everyone. Beauty is in\#the eye of beholder after all.<#>Этот навык не обязательно применим ко всем. В конце концов,\#красота - в глазах смотрящего.
+<!-- Event ID --><#>490
+<!-- Event Name --><#>stat increases
+<!-- Event ID --><#>491
+<!-- Event Name --><#>
+<!-- Event ID --><#>492
+<!-- Event Name --><#>
+<!-- Event ID --><#>493
+<!-- Event Name --><#>----Hunter----
+<!-- Event ID --><#>494
+<!-- Event Name --><#>Devour
 A barbaric trait of devouring the carcass of your opponents\#to ease hunger.<#>Варварская черта пожирания трупов противников для облегчения\#голода.
+<!-- Event ID --><#>495
+<!-- Event Name --><#>Bloodlust
 Hype yourself into a state of aggression and trance. An old\#traditional Oldegårdian folk skill.<#>Введите себя в состояние агрессии и транса. Старинный\#народный ольдегардский навык.
+<!-- Event ID --><#>496
+<!-- Event Name --><#>War cry
 Provoke the enemy into attacking you only, leaving others\#alone.<#>Спровоцируйте врага на себя, чтобы остальные были\#невредимы.
+<!-- Event ID --><#>497
+<!-- Event Name --><#>En garde:146
+<!-- Event ID --><#>498
+<!-- Event Name --><#>Sisu
 Sisu<#>Сису
 Your will to live. You just grind your teeth together instead\#of dying. You're not ready just yet.<#>Ваша северная воля к жизни.\#Вы стискиваете зубы, вместо того, чтобы сдаться и умереть.\#Вы просто не готовы умирать.
+<!-- Event ID --><#>499
+<!-- Event Name --><#>----gro-goroth----
+<!-- Event ID --><#>500
+<!-- Event Name --><#>Black smog
 Black smog<#>Чёрный смог
 Crystallize manmade darkness born from the industrial age\#to blind and suffocate your opponents. Requires 1 Rev Point.<#>Кристаллизуйте искусственную тьму, рождённую индустриальной\#эпохой, чтобы ослеплять и душить своих противников.\#Требуется 1 очко концентрации.
+<!-- Event ID --><#>501
+<!-- Event Name --><#>Mark of Gro-goroth
 Mark of Gro-goroth<#>Метка Гро-горота
+<!-- Event ID --><#>502
+<!-- Event Name --><#>
+<!-- Event ID --><#>503
+<!-- Event Name --><#>----vinushka----
+<!-- Event ID --><#>504
+<!-- Event Name --><#>Scorched earth
 Scorched earth<#>Выжженная земля
 Scorch your surroundings completely to create an environment\#that greatly enhances fire attacks. Requires 1 Rev Point.<#>Подожгите землю вокруг себя, чтобы создать обстановку,\#усиливающую огненные атаки. Требуется 1 очко концентрации.
+<!-- Event ID --><#>505
+<!-- Event Name --><#>Roots that reap
 Roots that reap<#>Пожинающие корни
 A talented wizard can generate a shockwave that travels\#underground and forces sharp roots to push through the ground.\#Attacks all enemies. Requires 2 Rev Points.<#>Талантливый маг может создать ударную волну, которая\#распространится по земле и вытолкнет острые корни. Наносит\#урон всем врагам. Требуется 2 очка концентрации.
+<!-- Event ID --><#>506
+<!-- Event Name --><#>Spontaneous combustion
 Spontaneous combustion<#>Спонтанное самовозгорание
 THe highest form of pyromancy. Becomes the flame itself.<#>Высшая форма пиромантии. Вы становитесь самим пламенем.
+<!-- Event ID --><#>507
+<!-- Event Name --><#>Photosynthesis
 Photosynthesis<#>Фотосинтез
 The process in which you use sunlight to create oxygen and\#energy to replenish your health gradually over time. Requires\#sunlight obviously. A passive skill.<#>Процесс, при котором ваше тело может использовать солнечный\#свет для восстановления жизненных сил. Очевидно, требует\#солнечного света. Пассивный навык.
+<!-- Event ID --><#>508
+<!-- Event Name --><#>Greater photosynthesis
 Greater photosynthesis<#>Высший фотосинтез
+<!-- Event ID --><#>509
+<!-- Event Name --><#>
+<!-- Event ID --><#>510
+<!-- Event Name --><#>----sylvian----
+<!-- Event ID --><#>511
+<!-- Event Name --><#>Brain flower
 Brain flower<#>Мозгоцвет
 Plant your personal seeds of brain flower to a fertile ground.\#Freshly deceased corpses being the most fertile of grounds. A brain\#flower replenishes sanity and mind.<#>Посадите семена мозгоцвета в плодородную среду.\#Свежеиспеченные трупы - самая плодородная почва.\#Мозгоцвет восстанавливает рассудок.
+<!-- Event ID --><#>512
+<!-- Event Name --><#>Heart flower
 Heart flower<#>Сердцецвет
 Plant your personal seeds of heart flower to a fertile ground.\#Freshly deceased corpses being the most fertile of grounds. A heart\#flower replenishes body and wounds.<#>Посадите семена сердцецвета в плодородную среду.\#Свежеиспеченные трупы - самая плодородная почва.\#Сердцецвет восстанавливает тело и залечивает раны.
+<!-- Event ID --><#>513
+<!-- Event Name --><#>
+<!-- Event ID --><#>514
+<!-- Event Name --><#>----rher----
+<!-- Event ID --><#>515
+<!-- Event Name --><#>Golden gates
 Golden gates<#>Золотые врата
 A gift from the Moon God himself. Gain access to golden gates\#that lead you out from madness and world of deceit. A passive ability.<#>Дар самого Лунного бога. Получите доступ к золотым вратам,\#ведущим прочь от безумств измерения обмана. Пассивный навык.
+<!-- Event ID --><#>516
+<!-- Event Name --><#>Reveal aura
 Reveal aura<#>Поиск ауры
 Reveal positions of the other contestants through examining a\#map. To sense these positions, a spike of energy is required.\#You can't sense a person without this.<#>Показывает позиции участников фестиваля на карте.\#Чтобы найти чью-то ауру, нужен сильный всплеск энергии.\#Без неё вы не учуете человека.
+<!-- Event ID --><#>517
+<!-- Event Name --><#>
+<!-- Event ID --><#>518
+<!-- Event Name --><#>----alllmer----
+<!-- Event ID --><#>519
+<!-- Event Name --><#>Blood sword
 Blood sword<#>Кровавый меч
 The blood of Alll-mer boils and rages even ages after his death.\#Just a drop sends swords to the heart of his enemies. Summon a\#blood sword to wield in battle.<#>Кровь Алл-мера кипит даже спустя века после его смерти. Лишь\#капли вашей крови достаточно, чтобы направить меч в ваших\#противников. Даёт возможность призвать кровавый меч в бою.
+<!-- Event ID --><#>520
+<!-- Event Name --><#>Resurrection
 Resurrection<#>Воскрешение
+<!-- Event ID --><#>521
+<!-- Event Name --><#>Longinus
 Longinus<#>Лонгин
 The blood of Alll-mer boils and rages even ages after his death.\#Just a drop thrusts spears to the torso of his enemies. Summon a\#blood spear to wield in battle.<#>Кровь Алл-мера кипит даже спустя века после его смерти. Лишь\#капли вашей крови достаточно, чтобы направить Лонгин в ваших\#противников. Даёт возможность призвать кровавое копьё в бою.
+<!-- Event ID --><#>522
+<!-- Event Name --><#>Inverse crown of thorns
 Inverse crown of thorns<#>Развёрнутый терновый венец
 A glimpse of the pain and suffering Alll-mer the ascended one\#endured on the cross. Can you feel closer to the god this way?<#>Венец боли и страданий, которые стерпел мученик Алл-мер при\#распятии. Вознесётесь ли вы так к богам?
+<!-- Event ID --><#>523
+<!-- Event Name --><#>
+<!-- Event ID --><#>524
+<!-- Event Name --><#>----fear----
+<!-- Event ID --><#>525
+<!-- Event Name --><#>Mischief of rats
 Summon a mischief of rats to disrupt the enemy. Rats spread\#confusion and disease where ever they go.<#>Призовите толпу крыс, которые загрызут врага. Крысы\#оставляют за собой путаницу и болезни, где бы они не\#проходили.
+<!-- Event ID --><#>526
+<!-- Event Name --><#>
+<!-- Event ID --><#>527
+<!-- Event Name --><#>
+<!-- Event ID --><#>528
+<!-- Event Name --><#>
+<!-- Event ID --><#>529
+<!-- Event Name --><#>Mad sack smash
 Mad sack smash<#>Безумный удар мешком
+<!-- Event ID --><#>530
+<!-- Event Name --><#>Sack smash
 Sack smash<#>Удар мешком
+<!-- Event ID --><#>531
+<!-- Event Name --><#>Double sack smash
 Double sack smash<#>Двойной удар мешком
+<!-- Event ID --><#>532
+<!-- Event Name --><#>Cane smash
 Cane smash<#>Удар тростью
+<!-- Event ID --><#>533
+<!-- Event Name --><#>Infected bite
+<!-- Event ID --><#>534
+<!-- Event Name --><#>Infected bite
+<!-- Event ID --><#>535
+<!-- Event Name --><#>Scratch
+<!-- Event ID --><#>536
+<!-- Event Name --><#>The ratkin is scratching itself
 The ratkin is scratching itself<#>Крысолюд чешется
+<!-- Event ID --><#>537
+<!-- Event Name --><#>Rat bite
 Rat bite<#>Укус крысы
+<!-- Event ID --><#>538
+<!-- Event Name --><#>Summon a rat
 Summon a rat<#>Призыв крысы
+<!-- Event ID --><#>539
+<!-- Event Name --><#>
+<!-- Event ID --><#>540
+<!-- Event Name --><#>Knife stab
 Knife stab<#>Удар ножом
+<!-- Event ID --><#>541
+<!-- Event Name --><#>Knife slash
 Knife slash<#>Взмах ножом
+<!-- Event ID --><#>542
+<!-- Event Name --><#>Gut kick
 Gut kick<#>Пинок в живот
+<!-- Event ID --><#>543
+<!-- Event Name --><#>Abella sets up a bear trap
 Abella sets up a bear trap<#>Абелла устанавливает медвежий капкан
+<!-- Event ID --><#>544
+<!-- Event Name --><#>Wrench toss
+<!-- Event ID --><#>545
+<!-- Event Name --><#>Wrench toss
+<!-- Event ID --><#>546
+<!-- Event Name --><#>Wrench toss
+<!-- Event ID --><#>547
+<!-- Event Name --><#>Wrench toss
+<!-- Event ID --><#>548
+<!-- Event Name --><#>Wrench toss
+<!-- Event ID --><#>549
+<!-- Event Name --><#>Wrench toss
+<!-- Event ID --><#>550
+<!-- Event Name --><#>Wrench toss
+<!-- Event ID --><#>551
+<!-- Event Name --><#>Wrench toss
+<!-- Event ID --><#>552
+<!-- Event Name --><#>Wrench toss
+<!-- Event ID --><#>553
+<!-- Event Name --><#>Wrench toss
+<!-- Event ID --><#>554
+<!-- Event Name --><#>Wrench toss
+<!-- Event ID --><#>555
+<!-- Event Name --><#>Wrench toss
+<!-- Event ID --><#>556
+<!-- Event Name --><#>
+<!-- Event ID --><#>557
+<!-- Event Name --><#>Quick jabs
 Quick jabs<#>Быстрые джебы
+<!-- Event ID --><#>558
+<!-- Event Name --><#>Right straight
 Right straight<#>Правый прямой
+<!-- Event ID --><#>559
+<!-- Event Name --><#>
+<!-- Event ID --><#>560
+<!-- Event Name --><#>Black smog
+<!-- Event ID --><#>561
+<!-- Event Name --><#>
+<!-- Event ID --><#>562
+<!-- Event Name --><#>Toxic mist
+<!-- Event ID --><#>563
+<!-- Event Name --><#>Nettle mist
 Nettle mist<#>Крапивный туман
+<!-- Event ID --><#>564
+<!-- Event Name --><#>Drift tackle
 Drift tackle<#>Удар с наезда
+<!-- Event ID --><#>565
+<!-- Event Name --><#>
+<!-- Event ID --><#>566
+<!-- Event Name --><#>Suitcase smash
 Suitcase smash<#>Удар чемоданом
+<!-- Event ID --><#>567
+<!-- Event Name --><#>Rev up
 Rev up<#>Поднажать
+<!-- Event ID --><#>568
+<!-- Event Name --><#>Rev up
+<!-- Event ID --><#>569
+<!-- Event Name --><#>
+<!-- Event ID --><#>570
+<!-- Event Name --><#>Flimsy kick
 Flimsy kick<#>Вялый пинок
+<!-- Event ID --><#>571
+<!-- Event Name --><#>Vent out
 Vent out<#>Выпускание пара
+<!-- Event ID --><#>572
+<!-- Event Name --><#>The stage is engulfed with gas
 The stage is engulfed with gas<#>Воздух заполняется газом...
+<!-- Event ID --><#>573
+<!-- Event Name --><#>Whip
+<!-- Event ID --><#>574
+<!-- Event Name --><#>A nice rubbing
 A nice rubbing<#>Приятное поглаживание
+<!-- Event ID --><#>575
+<!-- Event Name --><#>Gentle dismember
 Gentle dismember<#>Аккуратное расчленение
+<!-- Event ID --><#>576
+<!-- Event Name --><#>Scalpel balette
 Scalpel balette<#>Балет со скальпелем
+<!-- Event ID --><#>577
+<!-- Event Name --><#>Precision cut
 Precision cut<#>Точный надрез
+<!-- Event ID --><#>578
+<!-- Event Name --><#>Point blank
+<!-- Event ID --><#>579
+<!-- Event Name --><#>O'saa makes magical sigils with his hand...
 O'saa makes magical sigils with his hand...<#>О'саа формирует магические знаки рукой...
+<!-- Event ID --><#>580
+<!-- Event Name --><#>O'saa continues his ritual dance...
 O'saa continues his ritual dance...<#>О'саа продолжает ритуальный танец...
+<!-- Event ID --><#>581
+<!-- Event Name --><#>Mastermind makes magical sigils with his hand...
 Mastermind makes magical sigils with his hand...<#>Высший разум формирует магические знаки рукой...
+<!-- Event ID --><#>582
+<!-- Event Name --><#>
+<!-- Event ID --><#>583
+<!-- Event Name --><#>Rapid fire
 Rapid fire<#>Беглый огонь
+<!-- Event ID --><#>584
+<!-- Event Name --><#>The weeping scope is weeping...
 The weeping scope is weeping...<#>Плачущий прицел рыдает...
+<!-- Event ID --><#>585
+<!-- Event Name --><#>Wire trap
 Wire trap<#>Проволочная ловушка
+<!-- Event ID --><#>586
+<!-- Event Name --><#>Cross stiching
 Cross stiching<#>Вышивание крестиком
+<!-- Event ID --><#>587
+<!-- Event Name --><#>Loving whispers
+<!-- Event ID --><#>588
+<!-- Event Name --><#>The floppy arm stays idle.
 The floppy arm stays idle.<#>Громоздкая рука бездействует.
+<!-- Event ID --><#>589
+<!-- Event Name --><#>The neighbour is preparing for a devastating attack!
 The neighbour is preparing for a devastating attack!<#>Сосед готовится к разрушительной атаке!
+<!-- Event ID --><#>590
+<!-- Event Name --><#>The floppy arm is tensing up...
 The floppy arm is tensing up...<#>Его громоздкая рука напрягается...
+<!-- Event ID --><#>591
+<!-- Event Name --><#>Meat mallet
 Meat mallet<#>Отбивной молоток
+<!-- Event ID --><#>592
+<!-- Event Name --><#>
+<!-- Event ID --><#>593
+<!-- Event Name --><#>Vomit
 Vomit<#>Рвота
+<!-- Event ID --><#>594
+<!-- Event Name --><#>Glass shards
 Glass shards<#>Осколки стекла
+<!-- Event ID --><#>595
+<!-- Event Name --><#>Blade dance
+<!-- Event ID --><#>596
+<!-- Event Name --><#>Glass ceiling
 Glass ceiling<#>Стеклянный потолок
+<!-- Event ID --><#>597
+<!-- Event Name --><#>Rage smash
 Rage smash<#>Яростный удар
+<!-- Event ID --><#>598
+<!-- Event Name --><#>The giant takes a step forward...
 The giant takes a step forward...<#>Великан делает шаг вперёд...
+<!-- Event ID --><#>599
+<!-- Event Name --><#>The muscles on the arm are contracting...
 The muscles on the arm are contracting...<#>Мышцы на его руке сокращаются...
+<!-- Event ID --><#>600
+<!-- Event Name --><#>Mechanical dance shrieks out of pain
 Mechanical dance shrieks out of pain<#>Механический танец кричит от боли!
+<!-- Event ID --><#>601
+<!-- Event Name --><#>The giant is engulfed by rage!
 The giant is engulfed by rage!<#>Гигант охвачен яростью!
+<!-- Event ID --><#>602
+<!-- Event Name --><#>Black orb
+<!-- Event ID --><#>603
+<!-- Event Name --><#>Loving whispers
+<!-- Event ID --><#>604
+<!-- Event Name --><#>
+<!-- Event ID --><#>605
+<!-- Event Name --><#>Flesh puppetry
+<!-- Event ID --><#>606
+<!-- Event Name --><#>Flesh puppetry
+<!-- Event ID --><#>607
+<!-- Event Name --><#>Engrave
+<!-- Event ID --><#>608
+<!-- Event Name --><#>Roots that reap
+<!-- Event ID --><#>609
+<!-- Event Name --><#>Hanky-panky
 Hanky-panky<#>Лапание
+<!-- Event ID --><#>610
+<!-- Event Name --><#>Hanky-panky
+<!-- Event ID --><#>611
+<!-- Event Name --><#>Hanky-panky
+<!-- Event ID --><#>612
+<!-- Event Name --><#>Hanky-panky
+<!-- Event ID --><#>613
+<!-- Event Name --><#>Hanky-panky
+<!-- Event ID --><#>614
+<!-- Event Name --><#>Hanky-panky
+<!-- Event ID --><#>615
+<!-- Event Name --><#>Claws
 Claws<#>Когти
+<!-- Event ID --><#>616
+<!-- Event Name --><#>Claws 2x
 Claws 2x<#>Когти x2
+<!-- Event ID --><#>617
+<!-- Event Name --><#>The bellend is aiming towards you...
 The bellend is aiming towards you...<#>Головастый целится в вас...
+<!-- Event ID --><#>618
+<!-- Event Name --><#>Helm splitter
 Helm splitter<#>Рассечение головы
+<!-- Event ID --><#>619
+<!-- Event Name --><#>Arrow
 Arrow<#>Стрела
+<!-- Event ID --><#>620
+<!-- Event Name --><#>August takes a careful aim...
 August takes a careful aim...<#>Август тщательно прицеливается...
+<!-- Event ID --><#>621
+<!-- Event Name --><#>
+<!-- Event ID --><#>622
+<!-- Event Name --><#>Bayonet
 Bayonet<#>Штык
+<!-- Event ID --><#>623
+<!-- Event Name --><#>
+<!-- Event ID --><#>624
+<!-- Event Name --><#>The elite trooper raises his shield for defence
 The elite trooper raises his shield for defence<#>Элитный солдат поднимает щит.
+<!-- Event ID --><#>625
+<!-- Event Name --><#>Rapid fire
+<!-- Event ID --><#>626
+<!-- Event Name --><#>The trooper's arm twitches...
 The trooper's arm twitches...<#>Рука солдата дёргается...
+<!-- Event ID --><#>627
+<!-- Event Name --><#>The elite trooper lifts his rifle with a steady hand...
 The elite trooper lifts his rifle with a steady hand...<#>Элитный солдат уверенным движением поднимает винтовку...
+<!-- Event ID --><#>628
+<!-- Event Name --><#>
+<!-- Event ID --><#>629
+<!-- Event Name --><#>Flamethrower
 Flamethrower<#>Огнемёт
+<!-- Event ID --><#>630
+<!-- Event Name --><#>The flame trooper readies his flamethrower...
 The flame trooper readies his flamethrower...<#>Огнемётчик готовит огнемёт...
+<!-- Event ID --><#>631
+<!-- Event Name --><#>Shield bash
+<!-- Event ID --><#>632
+<!-- Event Name --><#>Low bayonet
 Low bayonet<#>Удар штыком
+<!-- Event ID --><#>633
+<!-- Event Name --><#>Quick jabs
+<!-- Event ID --><#>634
+<!-- Event Name --><#>Guard+
 Guard+<#>Защита+
+<!-- Event ID --><#>635
+<!-- Event Name --><#>Guard+
+<!-- Event ID --><#>636
+<!-- Event Name --><#>Guard+
+<!-- Event ID --><#>637
+<!-- Event Name --><#>Perfect guard
 Perfect guard<#>Идеальная защита
 While guarding your damage is reduced even further and you\#can evade the most drastic physical trauma.<#>Во время защиты, вы будете получать ещё меньше урона, а\#также сможете избежать любой физической травмы.
+<!-- Event ID --><#>638
+<!-- Event Name --><#>Red arc
 Red arc<#>Красная дуга
+<!-- Event ID --><#>639
+<!-- Event Name --><#>Red arc
+<!-- Event ID --><#>640
+<!-- Event Name --><#>Overheat
 Overheat<#>Перегрев
+<!-- Event ID --><#>641
+<!-- Event Name --><#>Lunar meteorite
 Lunar meteorite<#>Лунный метеорит
+<!-- Event ID --><#>642
+<!-- Event Name --><#>Lunar meteorite
 Summon a small piece of the moon. Requires 1 Rev Point.<#>Призовите небольшой кусочек луны. Требуется 1 очко\#концентрации.
+<!-- Event ID --><#>643
+<!-- Event Name --><#>Wing guard
 Wing guard<#>Защита крылом
+<!-- Event ID --><#>644
+<!-- Event Name --><#>Combustion
+<!-- Event ID --><#>645
+<!-- Event Name --><#>Phantom hands
 Phantom hands<#>Призрачные руки
+<!-- Event ID --><#>646
+<!-- Event Name --><#>Asterisk
 Asterisk<#>Астериск
+<!-- Event ID --><#>647
+<!-- Event Name --><#>Butterfly edge
 Butterfly edge<#>Край бабочки
+<!-- Event ID --><#>648
+<!-- Event Name --><#>Leg sweep
+<!-- Event ID --><#>649
+<!-- Event Name --><#>You stir up the hornet's nest!
 You stir up the hornet's nest!<#>Вы разворошили осиное гнездо!
+<!-- Event ID --><#>650
+<!-- Event Name --><#>You stir up the hornet's nest!
+<!-- Event ID --><#>651
+<!-- Event Name --><#>You stir up the hornet's nest!
+<!-- Event ID --><#>652
+<!-- Event Name --><#>status
+<!-- Event ID --><#>653
+<!-- Event Name --><#>
+<!-- Event ID --><#>654
+<!-- Event Name --><#>Hornet sting
 Hornet sting<#>Укус шершня
+<!-- Event ID --><#>655
+<!-- Event Name --><#>Slap
 Slap<#>Удар
+<!-- Event ID --><#>656
+<!-- Event Name --><#>Double slap
 Double slap<#>Двойной удар
+<!-- Event ID --><#>657
+<!-- Event Name --><#>Slap
+<!-- Event ID --><#>658
+<!-- Event Name --><#>Curse of Light
 Curse of Light<#>Проклятие света
+<!-- Event ID --><#>659
+<!-- Event Name --><#>Pillar of Light
 Pillar of Light<#>Столп света
+<!-- Event ID --><#>660
+<!-- Event Name --><#>Soul strike
 Soul strike<#>Удар души
+<!-- Event ID --><#>661
+<!-- Event Name --><#>Spear swing
 Spear swing<#>Взмах копьём
+<!-- Event ID --><#>662
+<!-- Event Name --><#>Spear swing
+<!-- Event ID --><#>663
+<!-- Event Name --><#>Throwing spear
 Throwing spear<#>Бросок копья
+<!-- Event ID --><#>664
+<!-- Event Name --><#>Feather rain
 Feather rain<#>Дождь из перьев
+<!-- Event ID --><#>665
+<!-- Event Name --><#>Feather rain
+<!-- Event ID --><#>666
+<!-- Event Name --><#>Heavy Mortar
 Heavy Mortar<#>Тяжёлая пушка
+<!-- Event ID --><#>667
+<!-- Event Name --><#>Whip
+<!-- Event ID --><#>668
+<!-- Event Name --><#>Order, Charge!
+<!-- Event ID --><#>669
+<!-- Event Name --><#>"Move you fat fuck!"
 "Move you fat fuck!"<#>«Двигайся, жирный ублюдок!»
+<!-- Event ID --><#>670
+<!-- Event Name --><#>Platoon charge
 Platoon charge<#>Рывок взвода
+<!-- Event ID --><#>671
+<!-- Event Name --><#>"Do your thing you idiot!"
 "Do your thing you idiot!"<#>«Делай своё дело, идиот!»
+<!-- Event ID --><#>672
+<!-- Event Name --><#>The platoon is taking an aim...
 The platoon is taking an aim...<#>Взвод прицеливается...
+<!-- Event ID --><#>673
+<!-- Event Name --><#>Order, Charge!
+<!-- Event ID --><#>674
+<!-- Event Name --><#>The platoon is confused...
 The platoon is confused...<#>Взвод в замешательстве...
+<!-- Event ID --><#>675
+<!-- Event Name --><#>The monster grabs you by the neck!
 The monster grabs you by the neck!<#>Монстр хватает вас за шею!
+<!-- Event ID --><#>676
+<!-- Event Name --><#>Grasp of a genie
 Grasp of a genie<#>Хватка джина
+<!-- Event ID --><#>677
+<!-- Event Name --><#>Magna-medicinal
+<!-- Event ID --><#>678
+<!-- Event Name --><#>The platoon is taking an aim...
+<!-- Event ID --><#>679
+<!-- Event Name --><#>The hand of destruction appears...
 The hand of destruction appears...<#>Появляется рука разрушения...
+<!-- Event ID --><#>680
+<!-- Event Name --><#>The hand of creation appears...
 The hand of creation appears...<#>Появляется рука сотворения...
+<!-- Event ID --><#>681
+<!-- Event Name --><#>---FIRST ATTACKS---
+<!-- Event ID --><#>682
+<!-- Event Name --><#>First hurting
 First hurting<#>Начальные раны
+<!-- Event ID --><#>683
+<!-- Event Name --><#>First black smog
 First black smog<#>Начальный чёрный смог
+<!-- Event ID --><#>684
+<!-- Event Name --><#>First blood golem
 First blood golem<#>Начальный кровавый голем
 Sacrifice blood to summon a golem that fights by your side\#temporarily. The golem only takes orders from the one that\#gave birth to it.<#>Пожертвуйте кровью, чтобы призвать голема, который будет\#временно сражаться на вашей стороне. Голем слушается\#только своего создателя.
+<!-- Event ID --><#>685
+<!-- Event Name --><#>First black orb
 First black orb<#>Начальная сфера тьмы
+<!-- Event ID --><#>686
+<!-- Event Name --><#>First scorched earth
 First scorched earth<#>Начальная выжженная земля
+<!-- Event ID --><#>687
+<!-- Event Name --><#>First roots that reap
 First roots that reap<#>Начальные пожинающие корни
+<!-- Event ID --><#>688
+<!-- Event Name --><#>First pyromancy trick
 First pyromancy trick<#>Начальный трюк пироманта
+<!-- Event ID --><#>689
+<!-- Event Name --><#>First combustion
 First combustion<#>Начальное возгорание
 A talented wizard can control the heat in the atmosphere\#and create a large combustion of fire and flames to devour\#their opponents.<#>Талантливый маг способен контролировать окружающий воздух\#и создать сильное возгорание.
+<!-- Event ID --><#>690
+<!-- Event Name --><#>First blood sword
 First blood sword<#>Начальный кровавый меч
+<!-- Event ID --><#>691
+<!-- Event Name --><#>First Longinus
 First Longinus<#>Начальный Лонгин
+<!-- Event ID --><#>692
+<!-- Event Name --><#>First rot
 First rot<#>Начальное гниение
+<!-- Event ID --><#>693
+<!-- Event Name --><#>First flesh puppetry
 First flesh puppetry<#>Начальная марионетка из плоти
+<!-- Event ID --><#>694
+<!-- Event Name --><#>First flesh puppetry
+<!-- Event ID --><#>695
+<!-- Event Name --><#>First flesh puppetry
+<!-- Event ID --><#>696
+<!-- Event Name --><#>First flesh puppetry
+<!-- Event ID --><#>697
+<!-- Event Name --><#>First flesh puppetry
+<!-- Event ID --><#>698
+<!-- Event Name --><#>First mischief of rats
 First mischief of rats<#>Начальные крысиные проказы
+<!-- Event ID --><#>699
+<!-- Event Name --><#>First pheromones
 First pheromones<#>Начальные феромоны
+<!-- Event ID --><#>700
+<!-- Event Name --><#>First loving whispers
 First loving whispers<#>Начальный шёпот любви
+<!-- Event ID --><#>701
+<!-- Event Name --><#>First healing whispers
 First healing whispers<#>Начальный шёпот исцеления
+<!-- Event ID --><#>702
+<!-- Event Name --><#>
+<!-- Event ID --><#>703
+<!-- Event Name --><#>---DOUBLE ATTACKS---
+<!-- Event ID --><#>704
+<!-- Event Name --><#>Double hurting
 Double hurting<#>Двойные раны
+<!-- Event ID --><#>705
+<!-- Event Name --><#>Double black smog
 Double black smog<#>Двойной чёрный смог
+<!-- Event ID --><#>706
+<!-- Event Name --><#>Double blood golem
 Double blood golem<#>Двойной кровавый голем
+<!-- Event ID --><#>707
+<!-- Event Name --><#>Double black orb
 Double black orb<#>Двойная сфера тьмы
+<!-- Event ID --><#>708
+<!-- Event Name --><#>Double scorched earth
 Double scorched earth<#>Двойная выжженная земля
+<!-- Event ID --><#>709
+<!-- Event Name --><#>Double roots that reap
 Double roots that reap<#>Двойные пожинающие корни
+<!-- Event ID --><#>710
+<!-- Event Name --><#>Double pyromancy trick
 Double pyromancy trick<#>Двойной трюк пироманта
+<!-- Event ID --><#>711
+<!-- Event Name --><#>Double combustion
 Double combustion<#>Двойное возгорание
 A talented wizard can control the heat in the atmosphere\#and create a large combustion of fire and flames to devour<#>Талантливый маг способен контролировать окружающий воздух\#и создать сильное возгорание.
+<!-- Event ID --><#>712
+<!-- Event Name --><#>Double blood sword
 Double blood sword<#>Двойной кровавый меч
+<!-- Event ID --><#>713
+<!-- Event Name --><#>Double Longinus
 Double Longinus<#>Двойной Лонгин
+<!-- Event ID --><#>714
+<!-- Event Name --><#>Double rot
 Double rot<#>Двойное гниение
+<!-- Event ID --><#>715
+<!-- Event Name --><#>Double flesh puppetry
 Double flesh puppetry<#>Двойная марионетка из плоти
+<!-- Event ID --><#>716
+<!-- Event Name --><#>Double mischief of rats
 Double mischief of rats<#>Двойные крысиные проказы
+<!-- Event ID --><#>717
+<!-- Event Name --><#>Double pheromones
 Double pheromones<#>Двойные феромоны
+<!-- Event ID --><#>718
+<!-- Event Name --><#>Double loving whispers
 Double loving whispers<#>Двойной шёпот любви
+<!-- Event ID --><#>719
+<!-- Event Name --><#>Double healing whispers
 Double healing whispers<#>Двойной шёпот исцеления
+<!-- Event ID --><#>720
+<!-- Event Name --><#>
+<!-- Event ID --><#>721
+<!-- Event Name --><#>---GREATER ATTACKS---
+<!-- Event ID --><#>722
+<!-- Event Name --><#>Greater hurting
 Greater hurting<#>Высшие раны
 Create a devastating vortex out of your concentrated feelings\#of hurting and hatred.<#>Создайте разрушительный вихрь из своей боли и ненависти.
+<!-- Event ID --><#>723
+<!-- Event Name --><#>Greater black smog
 Greater black smog<#>Высший чёрный смог
 Crystallize manmade darkness born from the industrial age\#to blind and suffocate your opponents.<#>Кристаллизуйте рукотворную тьму, рождённую индустриальной\#эпохой, чтобы ослепить и задушить ваших противников.
+<!-- Event ID --><#>724
+<!-- Event Name --><#>Greater blood golem
 Greater blood golem<#>Высший кровавый голем
+<!-- Event ID --><#>725
+<!-- Event Name --><#>Greater black orb
 Greater black orb<#>Высшая сфера тьмы
+<!-- Event ID --><#>726
+<!-- Event Name --><#>Greater scorched earth
 Greater scorched earth<#>Высшая выжженная земля
 Scorch your surroundings completely to create an environment\#that greatly enhances fire attacks.<#>Полностью выжгите своё окружение, чтобы создать среду,\#усиливающую огненные атаки.
+<!-- Event ID --><#>727
+<!-- Event Name --><#>Greater roots that reap
 Greater roots that reap<#>Высшие пожинающие корни
 A talented wizard can generate a shockwave that travels\#underground and forces sharp roots to push through the ground.\#Attacks all enemies.<#>Талантливый маг может создать ударную волну, которая\#распространяется под землёй и заставляет острые корни\#пробиваться сквозь землю.
+<!-- Event ID --><#>728
+<!-- Event Name --><#>Greater pyromancy trick
 Greater pyromancy trick<#>Высший трюк пироманта
+<!-- Event ID --><#>729
+<!-- Event Name --><#>Greater combustion
 Greater combustion<#>Высшее возгорание
+<!-- Event ID --><#>730
+<!-- Event Name --><#>Greater blood sword
 Greater blood sword<#>Высший кровавый меч
+<!-- Event ID --><#>731
+<!-- Event Name --><#>Greater Longinus
 Greater Longinus<#>Высший Лонгин
+<!-- Event ID --><#>732
+<!-- Event Name --><#>Greater rot
 Greater rot<#>Высшее гниение
 Rot the victim from inside out to make them vulnerable to\#attacks.<#>Разложите жертву изнутри, чтобы сделать её уязвимой для\#атак.
+<!-- Event ID --><#>733
+<!-- Event Name --><#>Greater flesh puppetry
 Greater flesh puppetry<#>Высшая марионетка из плоти
+<!-- Event ID --><#>734
+<!-- Event Name --><#>Greater flesh puppetry
+<!-- Event ID --><#>735
+<!-- Event Name --><#>Greater flesh puppetry
+<!-- Event ID --><#>736
+<!-- Event Name --><#>Greater flesh puppetry
+<!-- Event ID --><#>737
+<!-- Event Name --><#>Greater flesh puppetry
+<!-- Event ID --><#>738
+<!-- Event Name --><#>Greater mischief of rats
 Greater mischief of rats<#>Высшие крысиные проказы
+<!-- Event ID --><#>739
+<!-- Event Name --><#>Greater pheromones
 Greater pheromones<#>Высшие феромоны
+<!-- Event ID --><#>740
+<!-- Event Name --><#>Greater loving whispers
 Greater loving whispers<#>Высший шёпот любви
+<!-- Event ID --><#>741
+<!-- Event Name --><#>Greater healing whispers
 Greater healing whispers<#>Высший шёпот исцеления
+<!-- Event ID --><#>742
+<!-- Event Name --><#>Poison tip
 Coat your weapon in poison extracted from the local plantlife.\#Gives you 50% chance of inflicting the poison on your enemies when\#attacking. A passive skill initiated at the start of an encounter.<#>Нанесите на своё оружие яд, добытый из местных растений.\#Даёт возможность отравить врага ядом с 50%-ым шансом.
+<!-- Event ID --><#>743
+<!-- Event Name --><#>Peck
+<!-- Event ID --><#>744
+<!-- Event Name --><#>The owl sprite takes a step forward...
 The owl sprite takes a step forward...<#>Дух совы делает шаг вперёд...
+<!-- Event ID --><#>745
+<!-- Event Name --><#>Poison dart
 Poison dart<#>Ядовитый дротик
+<!-- Event ID --><#>746
+<!-- Event Name --><#>The owl cultist is tilting its head...
 The owl cultist is tilting its head...<#>Культист совы наклоняет голову...
+<!-- Event ID --><#>747
+<!-- Event Name --><#>The owl sprite is tilting its head...
 The owl sprite is tilting its head...<#>Дух совы наклоняет голову...
+<!-- Event ID --><#>748
+<!-- Event Name --><#>A nice rubbing
+<!-- Event ID --><#>749
+<!-- Event Name --><#>Double scratch
 Double scratch<#>Двойное царапание
+<!-- Event ID --><#>750
+<!-- Event Name --><#>Bone pike
 Bone pike<#>Костное копьё
+<!-- Event ID --><#>751
+<!-- Event Name --><#>Rat scratch fever
 Rat scratch fever<#>Лихорадка от крысиных царапин
+<!-- Event ID --><#>752
+<!-- Event Name --><#>Moonscorch
 Moonscorch<#>Опаление луной
+<!-- Event ID --><#>753
+<!-- Event Name --><#>Dreamscape
 Dreamscape<#>Пейзаж мечты
+<!-- Event ID --><#>754
+<!-- Event Name --><#>Dreamscape
+<!-- Event ID --><#>755
+<!-- Event Name --><#>Moonscorch
+<!-- Event ID --><#>756
+<!-- Event Name --><#>Lunar storm
 Lunar storm<#>Лунный шторм
+<!-- Event ID --><#>757
+<!-- Event Name --><#>
+<!-- Event ID --><#>758
+<!-- Event Name --><#>Gentle dismember
+<!-- Event ID --><#>759
+<!-- Event Name --><#>Gentle beheading
 Gentle beheading<#>Аккуратное обезглавливание
+<!-- Event ID --><#>760
+<!-- Event Name --><#>Bloodrose assault
 Bloodrose assault<#>Нападение кровавой розы
+<!-- Event ID --><#>761
+<!-- Event Name --><#>Soul strike
+<!-- Event ID --><#>762
+<!-- Event Name --><#>All seeing eye
 All seeing eye<#>Всевидящее око
+<!-- Event ID --><#>763
+<!-- Event Name --><#>The spilled blood attract the bloodrose vines...
 The spilled blood attract the bloodrose vines...<#>Пролитая кровь привлекает лозу кровавой розы...
+<!-- Event ID --><#>764
+<!-- Event Name --><#>Miasma cloud
 Miasma cloud<#>Облако миазмов
+<!-- Event ID --><#>765
+<!-- Event Name --><#>Gaping bite
+<!-- Event ID --><#>766
+<!-- Event Name --><#>Piercing howl
 Piercing howl<#>Пронзительный вой
+<!-- Event ID --><#>767
+<!-- Event Name --><#>Gaping bite
+<!-- Event ID --><#>768
+<!-- Event Name --><#>Left paw
 Left paw<#>Левая лапа
+<!-- Event ID --><#>769
+<!-- Event Name --><#>Right paw
 Right paw<#>Правая лапа
+<!-- Event ID --><#>770
+<!-- Event Name --><#>Rotten meat
 Rotten meat<#>Тухлое мясо
+<!-- Event ID --><#>771
+<!-- Event Name --><#>Shivers 1
 Shivers 1<#>Дрожь 1
+<!-- Event ID --><#>772
+<!-- Event Name --><#>Shivers 2
 Shivers 2<#>Дрожь 2
+<!-- Event ID --><#>773
+<!-- Event Name --><#>High priest's fingers are twitching...
 High priest's fingers are twitching...<#>Пальцы верховного жреца подёргиваются...
+<!-- Event ID --><#>774
+<!-- Event Name --><#>Killing frenzy
 Killing frenzy<#>Убийственное безумие
+<!-- Event ID --><#>775
+<!-- Event Name --><#>The sergal lowers his stance...
 The sergal lowers his stance...<#>Сергал встаёт наизготовку...
+<!-- Event ID --><#>776
+<!-- Event Name --><#>Soul strike
+<!-- Event ID --><#>777
+<!-- Event Name --><#>
+<!-- Event ID --><#>778
+<!-- Event Name --><#>test_attack
+<!-- Event ID --><#>779
+<!-- Event Name --><#>Slasher
 Slasher<#>Разрубание
+<!-- Event ID --><#>780
+<!-- Event Name --><#>Slasher
+<!-- Event ID --><#>781
+<!-- Event Name --><#>Slasher
+<!-- Event ID --><#>782
+<!-- Event Name --><#>Death gurgle
 Death gurgle<#>Насмешка
+<!-- Event ID --><#>783
+<!-- Event Name --><#>Death gurgle
+<!-- Event ID --><#>784
+<!-- Event Name --><#>Death gurgle
+<!-- Event ID --><#>785
+<!-- Event Name --><#>Blank stare
+<!-- Event ID --><#>786
+<!-- Event Name --><#>
+<!-- Event ID --><#>787
+<!-- Event Name --><#>Meat grinder
 Meat grinder<#>Мясорубка
+<!-- Event ID --><#>788
+<!-- Event Name --><#>Hind legs
 Hind legs<#>Задние лапы
+<!-- Event ID --><#>789
+<!-- Event Name --><#>Front legs
 Front legs<#>Передние лапы
+<!-- Event ID --><#>790
+<!-- Event Name --><#>Hind leg
 Hind leg<#>Задняя лапа
+<!-- Event ID --><#>791
+<!-- Event Name --><#>Front leg
 Front leg<#>Передняя лапа
+<!-- Event ID --><#>792
+<!-- Event Name --><#>Stampede
 Stampede<#>Растаптывание
+<!-- Event ID --><#>793
+<!-- Event Name --><#>Ejaculate
 Ejaculate<#>Эякуляция
+<!-- Event ID --><#>794
+<!-- Event Name --><#>The ejaculation burns!
 The ejaculation burns!<#>Эякуляция жжёт!
+<!-- Event ID --><#>795
+<!-- Event Name --><#>Ejaculate
+<!-- Event ID --><#>796
+<!-- Event Name --><#>The priest reaches out for you...
 The priest reaches out for you...<#>Священник тянется к вам...
+<!-- Event ID --><#>797
+<!-- Event Name --><#>Pocketcat's eyes light up...
 Pocketcat's eyes light up...<#>Глаза Покеткэта загораются...
+<!-- Event ID --><#>798
+<!-- Event Name --><#>Red arc
 Strike your enemy with a concentrated bolt of electricity\#that will stun weaker foes.<#>Поразите своего врага концентрированным разрядом\#электричества, который оглушает слабых противников.
+<!-- Event ID --><#>799
+<!-- Event Name --><#>Chains of torment
 Summon the chains that tormented Chambara the Tormented One\#for hundreds of years. Requires 2 Rev Points.<#>Призовите цепи, которые мучили Чамбару Измученного, сотни\#лет. Требуется 2 очка концентрации.
+<!-- Event ID --><#>800
+<!-- Event Name --><#>Hurting
+<!-- Event ID --><#>801
+<!-- Event Name --><#>Moth swarm
 Moth swarm<#>Рой мотыльков
+<!-- Event ID --><#>802
+<!-- Event Name --><#>Moth swarm
 Summon a swarm of moths to aid you in combat. The moths are the\#very same that leaked from the paradise, the artificial green, when\#the door between the two worlds opened. Requires 1 Rev Point.<#>Призовите рой мотыльков, которые помогут вам в бою. Мотыльки\#просочились из рая, из зелёного света, когда была\#открыта дверь между мирами. Требуется 1 очко концентрации.
+<!-- Event ID --><#>803
+<!-- Event Name --><#>
+<!-- Event ID --><#>804
+<!-- Event Name --><#>Healing Link
 Healing Link<#>Исцеляющая связь
+<!-- Event ID --><#>805
+<!-- Event Name --><#>Lunar storm
 Requires 2 Rev Points.<#>Требуется 2 очка концентрации.
+<!-- Event ID --><#>806
+<!-- Event Name --><#>Attack
+<!-- Event ID --><#>807
+<!-- Event Name --><#>
+<!-- Event ID --><#>808
+<!-- Event Name --><#>Left slam
 Left slam<#>Левый удар
+<!-- Event ID --><#>809
+<!-- Event Name --><#>Right slam
 Right slam<#>Правый удар
+<!-- Event ID --><#>810
+<!-- Event Name --><#>
+<!-- Event ID --><#>811
+<!-- Event Name --><#>
+<!-- Event ID --><#>812
+<!-- Event Name --><#>The platoon is taking an aim...
+<!-- Event ID --><#>813
+<!-- Event Name --><#>
+<!-- Event ID --><#>814
+<!-- Event Name --><#>Peck
+<!-- Event ID --><#>815
+<!-- Event Name --><#>Mauler
 Mauler<#>Истязание
+<!-- Event ID --><#>816
+<!-- Event Name --><#>The gull brother is cackling and laughing...
 The gull brother is cackling and laughing...<#>Брат-чайка кричит и смеётся...
+<!-- Event ID --><#>817
+<!-- Event Name --><#>Mauler
+<!-- Event ID --><#>818
+<!-- Event Name --><#>Red arc X2
 Red arc X2<#>Красная дуга x2
+<!-- Event ID --><#>819
+<!-- Event Name --><#>
+<!-- Event ID --><#>820
+<!-- Event Name --><#>First flesh puppetry
+<!-- Event ID --><#>821
+<!-- Event Name --><#>
+<!-- Event ID --><#>822
+<!-- Event Name --><#>Psycho stab
 Psycho stab<#>Безумный удар
+<!-- Event ID --><#>823
+<!-- Event Name --><#>The villager lunges at you!
 The villager lunges at you!<#>Житель бросается на вас!
+<!-- Event ID --><#>824
+<!-- Event Name --><#>Meat tenderizer
 Meat tenderizer<#>Размягчитель мяса
+<!-- Event ID --><#>825
+<!-- Event Name --><#>The half-cocooned lunges at you!
 The half-cocooned lunges at you!<#>Полуобращённый бросается на вас!
+<!-- Event ID --><#>826
+<!-- Event Name --><#>
+<!-- Event ID --><#>827
+<!-- Event Name --><#>
+<!-- Event ID --><#>828
+<!-- Event Name --><#>
+<!-- Event ID --><#>829
+<!-- Event Name --><#>
+<!-- Event ID --><#>830
+<!-- Event Name --><#>
+<!-- Event ID --><#>831
+<!-- Event Name --><#>
+<!-- Event ID --><#>832
+<!-- Event Name --><#>
+<!-- Event ID --><#>833
+<!-- Event Name --><#>
+<!-- Event ID --><#>834
+<!-- Event Name --><#>
+<!-- Event ID --><#>835
+<!-- Event Name --><#>
+<!-- Event ID --><#>836
+<!-- Event Name --><#>
+<!-- Event ID --><#>837
+<!-- Event Name --><#>
+<!-- Event ID --><#>838
+<!-- Event Name --><#>
+<!-- Event ID --><#>839
+<!-- Event Name --><#>
+<!-- Event ID --><#>840
+<!-- Event Name --><#>
+<!-- Event ID --><#>841
+<!-- Event Name --><#>
+<!-- Event ID --><#>842
+<!-- Event Name --><#>
+<!-- Event ID --><#>843
+<!-- Event Name --><#>
+<!-- Event ID --><#>844
+<!-- Event Name --><#>
+<!-- Event ID --><#>845
+<!-- Event Name --><#>
+<!-- Event ID --><#>846
+<!-- Event Name --><#>
+<!-- Event ID --><#>847
+<!-- Event Name --><#>
+<!-- Event ID --><#>848
+<!-- Event Name --><#>
+<!-- Event ID --><#>849
+<!-- Event Name --><#>
+<!-- Event ID --><#>850
+<!-- Event Name --><#>

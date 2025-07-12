@@ -1,18 +1,98 @@
+<!-- Event ID --><#>1
+<!-- Event Name --><#>Levi
 Levi<#>Леви
+<!-- Event ID --><#>2
+<!-- Event Name --><#>
+<!-- Event ID --><#>3
+<!-- Event Name --><#>Marina
 Marina<#>Марина
+<!-- Event ID --><#>4
+<!-- Event Name --><#>Daan
 Daan<#>Даан
+<!-- Event ID --><#>5
+<!-- Event Name --><#>Abella
 Abella<#>Абелла
+<!-- Event ID --><#>6
+<!-- Event Name --><#>O'saa
 O'saa<#>О'саа
+<!-- Event ID --><#>7
+<!-- Event Name --><#>Black Kalev
 Black Kalev<#>Чёрный Калев
+<!-- Event ID --><#>8
+<!-- Event Name --><#>Kid Demon
+<!-- Event ID --><#>9
+<!-- Event Name --><#>Marriage
+<!-- Event ID --><#>10
+<!-- Event Name --><#>Blood golem
 Blood golem<#>Кровавый голем
+<!-- Event ID --><#>11
+<!-- Event Name --><#>Marriage
+<!-- Event ID --><#>12
+<!-- Event Name --><#>Baby Demon
+<!-- Event ID --><#>13
+<!-- Event Name --><#>Marcoh
 Marcoh<#>Марко
+<!-- Event ID --><#>14
+<!-- Event Name --><#>Karin
 Karin<#>Карин
+<!-- Event ID --><#>15
+<!-- Event Name --><#>Olivia
 Olivia<#>Оливия
+<!-- Event ID --><#>16
+<!-- Event Name --><#>Ghoul
 Ghoul<#>Гуль
+<!-- Event ID --><#>17
+<!-- Event Name --><#>Ghoul
+<!-- Event ID --><#>18
+<!-- Event Name --><#>Ghoul
+<!-- Event ID --><#>19
+<!-- Event Name --><#>Skeleton
+<!-- Event ID --><#>20
+<!-- Event Name --><#>Skeleton
+<!-- Event ID --><#>21
+<!-- Event Name --><#>Skeleton
+<!-- Event ID --><#>22
+<!-- Event Name --><#>Villager
 Villager<#>Житель
+<!-- Event ID --><#>23
+<!-- Event Name --><#>character
+<!-- Event ID --><#>24
+<!-- Event Name --><#>
+<!-- Event ID --><#>25
+<!-- Event Name --><#>First verse
+<!-- Event ID --><#>26
+<!-- Event Name --><#>Second verse
+<!-- Event ID --><#>27
+<!-- Event Name --><#>Third verse
+<!-- Event ID --><#>28
+<!-- Event Name --><#>Villager
+<!-- Event ID --><#>29
+<!-- Event Name --><#>Villager
+<!-- Event ID --><#>30
+<!-- Event Name --><#>
+<!-- Event ID --><#>31
+<!-- Event Name --><#>August
 August<#>Август
+<!-- Event ID --><#>32
+<!-- Event Name --><#>Caligura
 Caligura<#>Калигура
+<!-- Event ID --><#>33
+<!-- Event Name --><#>Henryk
 Henryk<#>Генрик
+<!-- Event ID --><#>34
+<!-- Event Name --><#>Pav
 Pav<#>Пав
+<!-- Event ID --><#>35
+<!-- Event Name --><#>Tanaka
 Tanaka<#>Танака
+<!-- Event ID --><#>36
+<!-- Event Name --><#>Samarie
 Samarie<#>Самари
+<!-- Event ID --><#>37
+<!-- Event Name --><#>White key
+<!-- Event ID --><#>38
+<!-- Event Name --><#>
+<!-- Event ID --><#>39
+<!-- Event Name --><#>hero
+<!-- Event ID --><#>40
+<!-- Event Name --><#>test

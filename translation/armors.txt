@@ -1,131 +1,371 @@
+<!-- Event ID --><#>1
+<!-- Event Name --><#>Army jumpsuit
 Army jumpsuit<#>Армейский комбинезон
 A standard model army jumpsuit. It's made from a durable\#material that withstands fire well.\#Slash 90%  Pierce 93%  Fire 70%<#>Армейский комбинезон стандартной модели. Изготовлен из\#прочного материала, который неплохо защищает от огня.\#Реж. 90% Кол. 93% Огонь 70%
+<!-- Event ID --><#>2
+<!-- Event Name --><#>Collared blouse
 Collared blouse<#>Блузка с воротником
 A simple blouse with a fancy collar. Offers next to no protection\#but looks formal and nice.\#Otherworldly 93%<#>Простая блузка с модным воротником. Почти не\#защищает, но выглядит красиво и официально.\#Магия 93%
+<!-- Event ID --><#>3
+<!-- Event Name --><#>Army uniform
 Army uniform<#>Армейская униформа
 A standard Bremen uniform. The material is somewhat durable against\#knives and other slashing weapons.\#Slash 93%  Pierce 93%  Fire 70%<#>Стандартная бременская униформа. Материал в некоторой\#степени защищает от режущего воздействия.\#Реж. 93% Кол. 93% Огонь 70%
+<!-- Event ID --><#>4
+<!-- Event Name --><#>Silk vest
 Silk vest<#>Шёлковый жилет
 A tailor-made silk vest. It fits you perfectly. It's defensive\#capabilities are mostly otherwordly.\#Otherworldly 92%<#>Сшитый на заказ шёлковый жилет. Идеально сидит на вашем\#теле. Защищает в основном от потустороннего.\#Магия 92%
+<!-- Event ID --><#>5
+<!-- Event Name --><#>Rugged vest
 Rugged vest<#>Грубый жилет
 A simple yet stylish vest. Offers very little protection,\#but it truly is stylish.\#Otherworldly 92%<#>Простой, но стильный жилет. Обеспечивает очень слабую\#защиту, но воистину стилен.\#Магия 92%
+<!-- Event ID --><#>6
+<!-- Event Name --><#>Sturdy overalls
 Sturdy overalls<#>Прочная роба
 Sturdy worker's overalls. They offer decent protection and\#are especially efficient against fire.\#Slash 95%  Pierce 95%  Fire 70%<#>Прочная рабочая спецодежда. Обеспечивает достойную защиту,\#особенно от огня.\#Реж. 95% Кол. 95% Огонь 70%
+<!-- Event ID --><#>7
+<!-- Event Name --><#>Turtleneck shirt
 Turtleneck shirt<#>Свитер
 A simple blouse with a fancy collar. Offers next to no protection\#but looks formal and nice.\#Otherworldly 95%<#>Простой свитер с высокой горловиной. Почти не защищает,\#но выглядит красиво и официально.\#Магия 95%
+<!-- Event ID --><#>8
+<!-- Event Name --><#>Stahlhelm
 Stahlhelm<#>Штальхельм
 A Bremen-style helmet made of steel. Feels uncomfortable but\#offers great protection. Protects against concussion.\#Slash 94%  Pierce 94%  Blunt 94%<#>Стальной шлем в бременском стиле. Неудобный, но\#хорошо защищает, в частности от сотрясений.\#Реж. 94% Кол. 94% Дроб. 94%
+<!-- Event ID --><#>9
+<!-- Event Name --><#>Pickelhaube
 Pickelhaube<#>Пикельхаубе
 A decorative helmet made from hardened leather with reinforced\#metal trims. It's an out-of-date model but works just fine.\#Slash 96%  Pierce 96%  Blunt 96%<#>Украшенный шлем из закалённой кожи, укреплённой накладками\#из металла. Устаревшая модель, но всё ещё прекрасно\#защищает. Реж. 96% Кол. 96% Дроб. 96%
+<!-- Event ID --><#>10
+<!-- Event Name --><#>Eclipse talisman
 Eclipse talisman<#>Талисман затмения
 An eastern style talisman with decorations depicting\#an eclipse of the sun.<#>Талисман в восточном стиле с узорами, изображающими\#солнечное затмение.
+<!-- Event ID --><#>11
+<!-- Event Name --><#>Dragoon helmet
 Dragoon helmet<#>Драгунский шлем
 A 18th century cavalry metal helmet. It doesn't stay on very\#well and feels clumsy, but offer great protection.\#Slash 92%  Pierce 92%  Blunt 92%<#>Кавалерийский металлический шлем 18-го века. Неудобен,\#громоздок, но предлагает отличную защиту.\#Реж. 92% Кол. 92% Дроб. 92%
+<!-- Event ID --><#>12
+<!-- Event Name --><#>
+<!-- Event ID --><#>13
+<!-- Event Name --><#>
+<!-- Event ID --><#>14
+<!-- Event Name --><#>///Plate mail
+<!-- Event ID --><#>15
+<!-- Event Name --><#>Ballistic shield
 Ballistic shield<#>Баллистический щит
 A military grade ballistic shield.\#Slash 80%  Pierce 80%  Blunt 80%  Fire 80%<#>Баллистический щит военного образца.\#Реж. 80% Кол. 80% Дроб. 80% Огонь 80%
+<!-- Event ID --><#>16
+<!-- Event Name --><#>Plank shield
 Plank shield<#>Деревянный щит
 A simple makeshift shield. This particular one seems to be\#broken beyond repair...\#Slash 94%  Pierce 94%  Blunt 94%  Fire 105%<#>Простой самодельный щит. Похоже, он уже не подлежит\#восстановлению...\#Реж. 94% Кол. 94% Дроб. 94% Огонь 105%
+<!-- Event ID --><#>17
+<!-- Event Name --><#>Shield of the Four
 Shield of the Four<#>Щит Четырёх
 An enchanted shield with severed hands placed to ward off\#otherwordly powers.\#Slash 94%  Pierce 94%  Blunt 94%  Fire 105%  Otherworldly 87%<#>Зачарованный щит с прибитыми отрубленными руками,\#служащими защитой от магии.\#Реж. 94% Кол. 94% Дроб. 94% Огонь 105% Магия 87%
+<!-- Event ID --><#>18
+<!-- Event Name --><#>Plank shield
 A simple makeshift shield. Offers a little bit protection.\#Slash 94%  Pierce 94%  Blunt 94%  Fire 105%<#>Простой самодельный щит. Обеспечивает невысокую защиту.\#Реж. 94% Кол. 94% Дроб. 94% Огонь 105%
+<!-- Event ID --><#>19
+<!-- Event Name --><#>
+<!-- Event ID --><#>20
+<!-- Event Name --><#>///Everwatching talisman
+<!-- Event ID --><#>21
+<!-- Event Name --><#>
+<!-- Event ID --><#>22
+<!-- Event Name --><#>///Leg guards
+<!-- Event ID --><#>23
+<!-- Event Name --><#>///Chainmail hood
+<!-- Event ID --><#>24
+<!-- Event Name --><#>///Plate helmet
+<!-- Event ID --><#>25
+<!-- Event Name --><#>///Iron cuirass
+<!-- Event ID --><#>26
+<!-- Event Name --><#>///Cavewolf paw
+<!-- Event ID --><#>27
+<!-- Event Name --><#>Betel's stone
 Betel's stone<#>Кольцо Бетеля
 The ring of a long gone new god Betel. The ring has magic\#imbued in it that is constantly leaking from the crystal.<#>Кольцо давно погибшего нового бога Бетеля. В кольце\#заключена магия, что постоянно сочится из его кристалла.
+<!-- Event ID --><#>28
+<!-- Event Name --><#>Ring of the still-blood
 Ring of the still-blood<#>Кольцо стылой крови
 A ring that is said to make blood still and thus prevent\#bleeding. There's no way to explain this but magic.<#>Кольцо, способное останавливать кровь в жилах владельца и\#прекращать кровотечение. Кроме как магией - это не\#объяснить.
+<!-- Event ID --><#>29
+<!-- Event Name --><#>
+<!-- Event ID --><#>30
+<!-- Event Name --><#>
+<!-- Event ID --><#>31
+<!-- Event Name --><#>///Iron mask
+<!-- Event ID --><#>32
+<!-- Event Name --><#>///Pinecone pig
+<!-- Event ID --><#>33
+<!-- Event Name --><#>///Gaunt plate armor
+<!-- Event ID --><#>34
+<!-- Event Name --><#>///Gaunt bascinet
+<!-- Event ID --><#>35
+<!-- Event Name --><#>///Cavemother soul
+<!-- Event ID --><#>36
+<!-- Event Name --><#>///Crow Mauler soul
+<!-- Event ID --><#>37
+<!-- Event Name --><#>///Iron shakespeare soul
+<!-- Event ID --><#>38
+<!-- Event Name --><#>///Butterfly soul
+<!-- Event ID --><#>39
+<!-- Event Name --><#>///Black witch soul
+<!-- Event ID --><#>40
+<!-- Event Name --><#>
+<!-- Event ID --><#>41
+<!-- Event Name --><#>Fluted armpieces
 Fluted armpieces<#>Рифлёные наручи
 Armpieces that clearly belong to a larger setup. On their own\#they already offer decent protection and prevent arm loss.\#Slash 85%  Pierce 85%  Blunt 85%<#>Наручи, ранее бывшие частью доспеха. Сами по себе, они\#уже достойно защищают, предотвращая потерю\#конечностей. Реж. 85% Кол. 85% Дроб. 85%
+<!-- Event ID --><#>42
+<!-- Event Name --><#>Fluted breastplate
 Fluted breastplate<#>Рифлёный нагрудник
 An old medieval breastplate that seems to belong to a larger\#setup. On its own it already offers great protection.\#Slash 68%  Pierce 70%  Blunt 80%<#>Старый средневековый нагрудник, ранее бывший частью доспеха.\#Сам по себе, он уже обеспечивает отличную защиту.\#Реж. 68% Кол. 70% Дроб. 80%
+<!-- Event ID --><#>43
+<!-- Event Name --><#>Fluted fauld
 Fluted fauld<#>Рифлёная боевая юбка
 A fauld that clearly belong to a larger setup, most likely\#to an armor set. On its own it already offers decent protection.\#Slash 89%  Pierce 89%  Blunt 89%<#>Латная юбка, ранее бывшая частью доспеха.\#Сама по себе, она уже обеспечивает достойную защиту.\#Реж. 89% Кол. 89% Дроб. 89%
+<!-- Event ID --><#>44
+<!-- Event Name --><#>Fluted armor
 Fluted armor<#>Рифлёный доспех
 An old medieval armor that is in surprisingly good shape.\#The decoration suggests this armor came from Valland originally.\#Slash 55%  Pierce 65%  Blunt 65%  Fire 93%<#>Старый средневековый доспех в удивительно хорошей форме.\#Орнаменты на нём наводят на мысль, что этот доспех был\#выкован в Валланде. Реж. 55% Кол. 65% Дроб. 65% Огонь 93%
+<!-- Event ID --><#>45
+<!-- Event Name --><#>Bremen chestplate
 Bremen chestplate<#>Бременский нагрудник
 A plate mail armor offers great defence, but is rather clunky\#and uncomfortable to use. The armor has egravings of a Bremen eagle.\#Slash 65%  Pierce 65%  Blunt 70%  Fire 98%<#>Нагрудник обеспечивает отличную защиту, но неудобен\#в использовании. На нём выгравирован бременский орел.\#Реж. 65% Кол. 65% Дроб. 70% Огонь 98%
+<!-- Event ID --><#>46
+<!-- Event Name --><#>Arm guards
 Arm guards<#>Наручи
 A pair of arm guards that prevent serious injuries.\#Slash 88%  Pierce 88%  Blunt 88%<#>Пара наручей, предотвращающих тяжёлые травмы.\#Реж. 88% Кол. 88% Дроб. 88%
+<!-- Event ID --><#>47
+<!-- Event Name --><#>Soul devour necklace
 Soul devour necklace<#>Ожерелье поглощения душ
 A silver necklace with a soul stone embedded on it. The stone\#protects against otherwordly powers.\#Otherworldly 82%<#>Серебряное ожерелье с вкрапленным камнем душ.\#Защищает от потусторонних сил.\#Магия 82%
+<!-- Event ID --><#>48
+<!-- Event Name --><#>Cameo
 Cameo<#>Камео
 A cameo carving of a beautiful woman from a bygone era. The\#jewel emits strange aura...<#>Камео с изображением красивой женщины из ушедшей эпохи.\#Излучает странную ауру...
+<!-- Event ID --><#>49
+<!-- Event Name --><#>
+<!-- Event ID --><#>50
+<!-- Event Name --><#>///Monocle
+<!-- Event ID --><#>51
+<!-- Event Name --><#>Eyeglasses
 Eyeglasses<#>Очки
 You can see the world clearer with these. Improves the\#accuracy of its wearer greatly.<#>С ними вы видите мир намного чётче. Значительно\#увеличивают меткость владельца.
+<!-- Event ID --><#>52
+<!-- Event Name --><#>///Eastern perfume
+<!-- Event ID --><#>53
+<!-- Event Name --><#>Broken eyeglasses
 Broken eyeglasses<#>Разбитые очки
 You can see the world clearer with these. Or you could if\#they weren't broken...<#>С ними вы видите мир намного чётче. Ну или могли бы\#видеть, если бы они не были сломаны...
+<!-- Event ID --><#>54
+<!-- Event Name --><#>
+<!-- Event ID --><#>55
+<!-- Event Name --><#>Beheaded wizard
 Beheaded wizard<#>Обезглавленный маг
 A dried and burned severed head. The face is forever left\#in a spiteful grimace. The head is not without purpose though,\#somekind of power in it reflects otherwordly attacks occasionally.<#>Иссушенная и выжженная отрубленная голова. Лицо\#навсегда застыло в злобной гримасе. В ней присутствует\#какая-то сила, отражающая магические атаки.
+<!-- Event ID --><#>56
+<!-- Event Name --><#>Leechmonger ring
 Leechmonger ring<#>Кольцо Пиявочника
 A hefty ring forged by the Hermit Mages of South who dedicated\#their lives to the God of the Depths hundreds of years ago.\#The mages were able to infuse the ring with life draining magic.<#>Массивное кольцо, выкованное магами-отшельниками Юга,\#посвятившими свои жизни Богу Глубин сотни лет назад.\#Кольцо наделено магией, высасывающей жизненные силы.
+<!-- Event ID --><#>57
+<!-- Event Name --><#>Counter
+<!-- Event ID --><#>58
+<!-- Event Name --><#>
+<!-- Event ID --><#>59
+<!-- Event Name --><#>Guardian cameo
 Guardian cameo<#>Камео Хранителя
 A cameo carving of a beautiful woman from a bygone era.\#The jewel emits strange aura... It is now possessed and grants\#protection to those in low health.<#>Камео с изображением красивой женщины из ушедшей эпохи.\#Излучает странную ауру... Даёт владельцу защиту на исходе\#жизненных сил.
+<!-- Event ID --><#>60
+<!-- Event Name --><#>Hardened heart
 Hardened heart<#>Затвердевшее сердце
 A crystalized and hardened heart that has seen its share of pain\#and suffering. It now offers a glimpse of the same determination\#its previous owner had to its new master.<#>Затвердевшее сердце, повидавшее боль и страдания.\#Даёт своему новому носителю частицу решимости\#прошлого владельца.
+<!-- Event ID --><#>61
+<!-- Event Name --><#>Small thing's amulet
 Small thing's amulet<#>Амулет маленького существа
 A crudely shaped amulet representing a rat deity. The peculiar\#thing is imbued with prayers of the ratkin that grant its wearer\#a small boost in agility to help evade possible dangers.<#>Грубо выделанный амулет, изображающий крысиное божество.\#Эта необычная реликвия впитала в себя молитвы крысолюдов.\#Дарует владельцу скорость, помогая избежать опасности.
+<!-- Event ID --><#>62
+<!-- Event Name --><#>Salmonsnake rune
 Salmonsnake rune<#>Руна морского дракона
 An old relic from northern warrior tribes of Oldegård. The rune is said\#to contain a soul of a Salmonsnake that gives its owner a hardened skin\#that prevents limb losses, burns and bleeding.<#>Древняя реликвия северных воинских племен Ольдегарда.\#Содержит душу морского дракона, которая укрепляет кожу,\#предотвращая потерю конечностей, ожоги и кровотечения.
+<!-- Event ID --><#>63
+<!-- Event Name --><#>Ring of wraiths
 Ring of wraiths<#>Кольцо духов
 A ring with a blood diamond embedded on it. The diamond has seen\#so much death that life force is leaking from it. The priests of Rondon\#have slaves digging these diamonds no matter the cost.<#>Кольцо с вкрапленным кровавым алмазом. Оно повидало так\#много смертей, что стало испускать жизненную силу. Священники\#Рондона заставляют рабов копать эти алмазы днём и ночью.
+<!-- Event ID --><#>64
+<!-- Event Name --><#>Thorned ring
 Thorned ring<#>Кольцо с шипами
 A ring with thorns that emit steady flow of poison to its wearer.\#Steady flow makes one immune to more potent toxins.<#>Кольцо с шипами, из которого небольшими дозами сочится\#яд в тело носителя. Эти небольшие дозы вырабатывают\#иммунитет к более мощным ядам.
+<!-- Event ID --><#>65
+<!-- Event Name --><#>Foldable wheelchair
 Foldable wheelchair<#>Складная инвалидная коляска
 A special lightweight foldable wheelchair. It is easy and fast\#to set up and feels surprisingly durable despite its size.<#>Специальная, лёгкая складная коляска. Просто и быстро\#раскладывается, при этом довольно прочна.
+<!-- Event ID --><#>66
+<!-- Event Name --><#>
+<!-- Event ID --><#>67
+<!-- Event Name --><#>Linen vest
 Linen vest<#>Шерстяной жилет
 A rather nonchalant linen vest. It's defensive capabilities are\#mostly otherwordly.\#Otherworldly 95%<#>Неприметный шерстяной жилет. Защищает в основном от\#потустороннего.\#Магия 95%
+<!-- Event ID --><#>68
+<!-- Event Name --><#>Combat jacket
 Combat jacket<#>Военная куртка
 A military-issue combat jacket that has become popular with\#civilians as well.\#Slash 91%  Pierce 91%  Fire 80%<#>Куртка в стиле «милитари», сейчас популярном и среди\#гражданских лиц.\#Реж. 91% Кол. 91% Огонь 80%
+<!-- Event ID --><#>69
+<!-- Event Name --><#>Gentleman's hat
 Gentleman's hat<#>Шляпа джентльмена
 A fine looking gentleman's hat. It's a little bit old fashioned\#but some things are timeless.\#Otherworldly 99%<#>Симпатичная джентльменская шляпа. Немного старомодна, но\#некоторые вещи неподвластны времени.\#Магия 99%
+<!-- Event ID --><#>70
+<!-- Event Name --><#>Kashmir suit
 Kashmir suit<#>Костюм из кашемира
 A natural white kashmir suit.\#You feel especially confident in such a fine suit and thus your\#hit, evasion and critical rates are all boosted.<#>Костюм из натурального белого кашемира. Вы чувствуете себя\#в нём особенно уверенно и получаете бонус к шансу попадания,\#уклонению и шансу крит. удара.
+<!-- Event ID --><#>71
+<!-- Event Name --><#>Pilot jacket
 Pilot jacket<#>Куртка-авиатор
 A pilot jacket.\#Slash 93%  Pierce 93%  Fire 85%  Otherworldly 93%<#>Куртка в стиле «авиатор».\#Реж. 93% Кол. 93% Огонь 85% Магия 93%
+<!-- Event ID --><#>72
+<!-- Event Name --><#>Yellow mage robes
 Yellow mage robes<#>Мантия жёлтого мага
 Traditional wear of a yellow mage. The robes have multiple\#different patterns from multiple different cultures. Different\#dangly bits and talismans protect its user from otherwordly powers.<#>Традиционная одежда жёлтого мага. Расшита множеством\#разных узоров множества разных культур. Они защищают\#владельца от потусторонних сил.
+<!-- Event ID --><#>73
+<!-- Event Name --><#>Suede jacket
 Suede jacket<#>Замшевый пиджак
 A fine suede jacket with button closure on front. It is a little\#bit worn at places but overall in great condition.\#Wearing such nice jacket boosts your confidence and critical rate.<#>Однобортный пиджак из утончённой замши. Местами\#потёрт, но в целом в отличном состоянии. Ношение такого\#изысканного жилета повышает шанс крит. удара.
+<!-- Event ID --><#>74
+<!-- Event Name --><#>
+<!-- Event ID --><#>75
+<!-- Event Name --><#>Pigskin gas mask
 Pigskin gas mask<#>Противогаз из свиной кожи
 A crude gas mask made out of pigskin. It's not the most reliable\#protection against toxic gasses, but better than nothing.\#Slash 97%<#>Грубый противогаз, сделанный из свиной кожи. Определённо\#не самая надёжная защита от газов, но лучше, чем ничего.\#Реж. 97%
+<!-- Event ID --><#>76
+<!-- Event Name --><#>Bremen gas mask
 Bremen gas mask<#>Бременский противогаз
 Gas mask of the Bremen flame troopers. Flame troopers were often\#used in city warfare where they would scorch everything in sight.\#Slash 91%  Pierce 91%  Blunt 91%  Fire 91%<#>Противогаз бременских огнемётчиков. Огнемётчики часто\#использовались в городских боях, где выжигали всё, что\#попадалось на глаза. Реж. 91% Кол. 91% Дроб. 91% Огонь 91%
+<!-- Event ID --><#>77
+<!-- Event Name --><#>Bremen elite helmet
 Bremen elite helmet<#>Бременский элитный шлем
 The helmet clearly takes inspiration from ancient Lombardia\#where fighters clad in armor would duel for people's entertainment.\#Slash 85%  Pierce 85%  Blunt 85%  Fire 85%<#>Шлем явно вдохновлён стилем древней Ломбардии, где бойцы,\#облаченные в доспехи, устраивали дуэли на потеху людям.\#Реж. 85% Кол. 85% Дроб. 85% Огонь 85%
+<!-- Event ID --><#>78
+<!-- Event Name --><#>
+<!-- Event ID --><#>79
+<!-- Event Name --><#>Chac chac
 Chac chac<#>Чак-чак
 A seemingly simple shaker instrument. The combination of the\#pebbles inside and the various pearls tied onto it create a\#hypnotic rhytm that helps one to focus on the otherwordly.<#>Простые маракасы. Встряхивание камешков внутри создаёт\#гипнотический ритм, помогающий сосредоточиться на\#потустороннем.
+<!-- Event ID --><#>80
+<!-- Event Name --><#>Yggaegetsu amulet
 Yggaegetsu amulet<#>Амулет Иггаэгецу
 An eastern style amulet that is said to have belonged to the deity\#of the wandering warriors, Yggaegetsu. The amulet boosts confidence\#in your own prowess and increases the chance of critical hits.<#>Амулет в восточном стиле, который, как говорят, принадлежал\#богу странствующих воинов Иггаэгецу. Амулет пробуждает в\#вас уверенность и повышает шанс крит. удара.
+<!-- Event ID --><#>81
+<!-- Event Name --><#>Molded doll
 Molded doll<#>Плесневелая кукла
 Enchanted doll that is covered in a white substance that can\#only be described as mold.\#Otherworldly 87%<#>Заколдованная кукла, покрытая чем-то белым, напоминающим\#лишь плесень.\#Магия 87%
+<!-- Event ID --><#>82
+<!-- Event Name --><#>Smelter key
 Smelter key<#>Оплавленный ключ
 A key that has seemingly melt in high temperatures. The key feels\#heavier than it's supposed to as if something is attached to it.\#A spirit protects the wearer from fire and flames.<#>Ключ, который выглядит так, будто расплавился под\#воздействием высоких температур. Ощущается тяжелее, чем\#должен, словно окутан магической силой. Защищает от огня.
+<!-- Event ID --><#>83
+<!-- Event Name --><#>
+<!-- Event ID --><#>84
+<!-- Event Name --><#>Epee mask
 Epee mask<#>Фехтовальная маска
 A simple mask used in competitive fencing. It isn't particularly\#defensive except against piercing attacks.\#Slash 97%  Pierce 87%  Blunt 97%  Fire 97%<#>Простая маска, используемая в фехтовании.\#Не слишком защищает, разве что от колющих атак.\#Реж. 97% Кол. 87% Дроб. 97% Огонь 97%
+<!-- Event ID --><#>85
+<!-- Event Name --><#>Fencing gambeson
 Fencing gambeson<#>Фехтовальный гамбезон
 A traditional armor used in fencing. The armor offers decent\#protection, but it is vulnerable against fire.\#Slash 90%  Pierce 77%  Blunt 93%  Fire 110%<#>Традиционная фехтовальная броня.\#Хорошо защищает, но также хорошо горит.\#Реж. 90% Кол. 77% Дроб. 93% Огонь 110%
+<!-- Event ID --><#>86
+<!-- Event Name --><#>The darkness
 The darkness<#>Тьма
 A living and seeping darkness that attaches itself to whoever\#dares to touch it and live in symbiosis with it.\#Slash 55%  Pierce 65%  Blunt 65%  Fire 93%  Otherworldly 68%<#>Живая, клубящаяся тьма, которая обволакивает любого, кто\#осмелится к ней прикоснуться, и живёт с ним в симбиозе.\#Реж. 55% Кол. 65% Дроб. 65% Огонь 93% Магия 68%
+<!-- Event ID --><#>87
+<!-- Event Name --><#>Ballistic shield
 A military grade ballistic shield. Used often in riots. If\#you are lucky, it might even stop bullets.\#Slash 80%  Pierce 80%  Blunt 80%  Fire 80%<#>Баллистический щит военного образца. Используется при\#устранении беспорядков. Если звёзды сойдутся, может даже\#остановить пулю. Реж. 80% Кол. 80% Дроб. 80% Огонь 80%
+<!-- Event ID --><#>88
+<!-- Event Name --><#>Artificial soul
 Artificial soul<#>Искусственная душа
 There are rumours that Bremen experimented with creating artificial\#souls to power their unholy rituals. If this truly is one of those\#it could be used to channel otherwordly more efficiently.<#>Ходят слухи, что Бремен создавал искусственные души для\#своих тёмных ритуалов. Если это действительно одна из них,\#то она подойдёт для более эффективной связи с потусторонним.
+<!-- Event ID --><#>89
+<!-- Event Name --><#>Eye of Sylvian
 Eye of Sylvian<#>Око Сильвиан
 Said to be an eye of the older god Sylvian herself. How it could\#have ended up here is a mystery. You have your doubts. It does\#seem to boost the recovery effect of healing items and magic...<#>Говорят, что это - око древней богини Сильвиан. Неизвестно,\#откуда оно здесь. У вас есть сомнения по поводу него. Похоже,\#что оно действительно усиливает эффекты исцеления...
+<!-- Event ID --><#>90
+<!-- Event Name --><#>Leather armor
 Leather armor<#>Кожаная броня
 Simple armor made from hardened leather. Offers decent protection\#and it's not too heavy.\#Slash 87%  Pierce 75%  Blunt 90%  Fire 93%<#>Простой доспех из выдубленной кожи. Обеспечивает неплохую\#защиту и довольно лёгок.\#Реж. 87% Кол. 75% Дроб. 90% Огонь 93%
+<!-- Event ID --><#>91
+<!-- Event Name --><#>Makeshift armor
 Makeshift armor<#>Самодельная броня
 A makeshift armor made from random kitchenware. The breastplate\#is an old stove lid. Desperate times breed creativity.\#Slash 68%  Pierce 69%  Blunt 79%  Fire 95%<#>Импровизированная броня из кухонного хлама. В качестве\#нагрудника - корпус от духовки. Отчаянные времена требуют\#творческих мер. Реж. 68% Кол. 69% Дроб. 79% Огонь 95%
+<!-- Event ID --><#>92
+<!-- Event Name --><#>99 eyes mask
 99 eyes mask<#>Маска 99-ти глаз
 A mysterious skull mask from a faraway continent of Vinland.\#The mask is said to raise one's perception.\#Slash 89%  Pierce 89%  Blunt 89%<#>Таинственная маска-череп из далекого Винланда.\#Говорят, что она улучшает восприятие владельца.\#Реж. 89% Кол. 89% Дроб. 89%
+<!-- Event ID --><#>93
+<!-- Event Name --><#>Makeshift full armor
 Makeshift full armor<#>Полная самодельная броня
 A makeshift armor made from random kitchenware. The breastplate\#is an old stove lid. Desperate times breed creativity.\#Slash 66%  Pierce 67%  Blunt 77%  Fire 80%<#>Импровизированная броня из кухонного хлама. В качестве\#нагрудника - корпус от духовки. Отчаянные времена требуют\#творческих мер. Реж. 66% Кол. 67% Дроб. 77% Огонь 80%
+<!-- Event ID --><#>94
+<!-- Event Name --><#>
+<!-- Event ID --><#>95
+<!-- Event Name --><#>test_armor
+<!-- Event ID --><#>96
+<!-- Event Name --><#>test_armor2
+<!-- Event ID --><#>97
+<!-- Event Name --><#>Death mask
 Death mask<#>Посмертная маска
 A burial mask used in old Bohemia. The mask is designed so that\#the death gurgle of its wearer sounds more like laughter of joy. Because\#of its connection to death, the mask has otherwordly properties.<#>Погребальная маска древней Богемии. Сделана так, что речь и\#звуки носителя начинают походить на радостный смех. Из-за\#связи со смертью, обладает потусторонними свойствами.
+<!-- Event ID --><#>98
+<!-- Event Name --><#>Chainmail dress
 Chainmail dress<#>Кольчужное одеяние
 An armor consisting of small metal rings linked together to form\#a mesh that protects its wearer.\#Slash 65%  Pierce 70%  Blunt 92%  Fire 98%<#>Броня из маленьких металлических колец, соединённых вместе\#и образующих кольчугу, защищающую своего владельца.\#Реж. 65% Кол. 70% Дроб. 92% Огонь 98%
+<!-- Event ID --><#>99
+<!-- Event Name --><#>Pinecone pig
 Pinecone pig<#>Шишкосвин
 Your very own pinecone pig. It's an old traditional children's trinket\#from the northern land of Oldergård. You can craft one by attaching\#4 sticks to a pinecone and adding a hint of love to the mix.<#>Ваш собственный шишкосвин. Традиционная детская безделушка\#северных земель Ольдегарда. Его легко сделать, прикрепив\#4 палочки к сосновой шишке и приправив ноткой любви.
+<!-- Event ID --><#>100
+<!-- Event Name --><#>One-winged necklace
 One-winged necklace<#>Ожерелье-крыло
 A necklace in the shape of a wing of a butterfly. There is a carving\#on the other side: "You cannot have something new before you rip a\#wing of a butterfly and sacrifice something in return."<#>Ожерелье в форме крыла бабочки. На обратной стороне\#выгравировано: «Нельзя достичь перемен, не принеся никому\#вред и не пожертвовав чем-либо.»
+<!-- Event ID --><#>101
+<!-- Event Name --><#>One-winged necklace
 It's an old vintage necklace. You and your sister both have one of\#of the wings. It has always been a bit too flashy and big for your\#taste. You prefer more modest jewelry.<#>Старое винтажное ожерелье. У вас и вашей сестры есть по\#одному из крыльев. Оно всегда казалось вам чересчур\#вычурным. Вы предпочитаете более скромные украшения.
+<!-- Event ID --><#>102
+<!-- Event Name --><#>Blue noctuid necklace
 Blue noctuid necklace<#>Ожерелье в форме мотылька
 Combining the two wings into one makes it a complete moth necklace.\#The necklace eminates special aura that protects from the otherwordly.\#Aura that only manifest when one is low on health.<#>После объединения двух крыльев, получилось полноценное\#ожерелье в виде голубого мотылька. Излучает ауру, защищающую\#от магии, но лишь на исходе ваших жизненных сил.
+<!-- Event ID --><#>103
+<!-- Event Name --><#>Joy mask
 Joy mask<#>Маска радости
 A leathery mask from ancient times. It is trying to mimic human face\#with mixed results. The mask does bring joy to whoever wears it.\#Slash 87%  Pierce 97%  Blunt 97%  Fire 97% Otherworldly 97%<#>Кожаная маска древних времён. Она с трудом имитирует\#человеческое лицо. Приносит радость тому, кто её носит.\#Реж. 87% Кол. 97% Дроб. 97% Огонь 97% Магия 97%
+<!-- Event ID --><#>104
+<!-- Event Name --><#>
+<!-- Event ID --><#>105
+<!-- Event Name --><#>
+<!-- Event ID --><#>106
+<!-- Event Name --><#>
+<!-- Event ID --><#>107
+<!-- Event Name --><#>
+<!-- Event ID --><#>108
+<!-- Event Name --><#>
+<!-- Event ID --><#>109
+<!-- Event Name --><#>
+<!-- Event ID --><#>110
+<!-- Event Name --><#>
+<!-- Event ID --><#>111
+<!-- Event Name --><#>
+<!-- Event ID --><#>112
+<!-- Event Name --><#>
+<!-- Event ID --><#>113
+<!-- Event Name --><#>
+<!-- Event ID --><#>114
+<!-- Event Name --><#>
+<!-- Event ID --><#>115
+<!-- Event Name --><#>
+<!-- Event ID --><#>116
+<!-- Event Name --><#>
+<!-- Event ID --><#>117
+<!-- Event Name --><#>
+<!-- Event ID --><#>118
+<!-- Event Name --><#>
+<!-- Event ID --><#>119
+<!-- Event Name --><#>
+<!-- Event ID --><#>120
+<!-- Event Name --><#>

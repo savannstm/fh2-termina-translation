@@ -1,3 +1,13 @@
+<!-- System Entry --><#>Armor Types
+Wheelchair<#>
+<!-- System Entry --><#>Elements
+Otherwordly<#>
+<!-- System Entry --><#>Skill Types
+Skills<#>Навыки
+Special<#>
+<!-- System Entry --><#>Weapon Types
+Meat mallet<#>
+<!-- System Entry --><#>Equip Types
 Weapon<#>Оружие
 Shield<#>Щит
 Head<#>Голова
@@ -5,9 +15,10 @@ Body<#>Тело
 Accessory<#>Аксессуар
 Wheels<#>Колёса
 Empty<#>Пусто
-Skills<#>Навыки
+<!-- System Entry --><#>Terms
 Level<#>Уровень
 Lv<#>Ур.
+Body<#>Тело
 Mind<#>Рассудок
 Hunger<#>Голод
 Fight<#>Сражаться
@@ -19,6 +30,7 @@ Equip<#>Экипировка
 Formation<#>Построение
 Save<#>Сохранить
 Options<#>Настройки
+Weapon<#>Оружие
 Armor<#>Броня
 Books<#>Книги
 Optimize<#>Оптимизировать
@@ -51,4 +63,6 @@ Possession<#>Имеется
 Save to which file?<#>В какой файл сохранить?
 SE Volume<#>Громкость эффектов
 %1 was victorious!<#>%1 побеждает!
+<!-- System Entry --><#>Currency Unit
+<!-- System Entry --><#>Game Title
 Fear & Hunger 2: TERMINA<#>
